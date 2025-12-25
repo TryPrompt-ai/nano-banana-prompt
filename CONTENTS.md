@@ -3,7 +3,7 @@
 **Total Prompts:** 979
 
 
-## U
+## U 
 
 1. [Ultra-realistic, professional nighttime fireworks display](README.md#1-ultra-realistic,-professional-nighttime-fireworks-display)
 
