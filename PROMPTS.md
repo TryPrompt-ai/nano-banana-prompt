@@ -1,5 +1,5 @@
 # Prompt Gallery
-*Total prompts: 965*
+*Total prompts: 954*
 
 ## All Prompts
 
@@ -7,12 +7,6 @@
 ![custom balloons](images/22.jpeg)
 - Tags: 3d, minimalist, toy, typography
 - Prompt: A highly realistic 3D installation art: the letter Z is designed in the shape of an inflatable balloon. The overall shape is like a smooth and curved "Z" path, consisting of two oblique lines and a...
-
-### 1756. Simulated embroidery Su embroidery expression pack
-![Simulated embroidery Su embroidery expression pack](images/548.jpeg)
-- Tags: character, emoji, fashion, minimalist, portrait, ui
-- Model: Nano banana pro
-- Prompt: Generate a 16:9, 4K resolution simulated Suzhou embroidery emoticon picture:  - The screen is a 4×6 grid, with a total of 24 1:1 square cells. Each cell is a classical Chinese beauty bust emoticon ...
 
 ### 1755. I won’t sleep if the moon doesn’t sleep
 ![I won’t sleep if the moon doesn’t sleep](images/559.jpeg)
@@ -25,18 +19,6 @@
 - Tags: character, fashion, minimalist, nature, product, typography
 - Model: Nano banana pro
 - Prompt: Roles and tasks: Create a professional OOTD (Outfit of the Day) fashion collage in magazine editorial style. The design needs to reflect the following on the left and right sides.  Left side: ・Comp...
-
-### 1753. clothes suspended in the air
-![clothes suspended in the air](images/951.jpeg)
-- Tags: creative
-- Model: Nano banana pro
-- Prompt: A shape is an illusion created by placing clothes floating in the air.
-
-### 1752. Stickers for different clothing styles
-![Stickers for different clothing styles](images/952.jpeg)
-- Tags: fantasy, fashion, paper-craft, portrait
-- Model: Nano banana pro
-- Prompt: A 3*3 sticker pack based on uploaded photos, with characters wearing different clothes and fashion styles. The edges are cleanly cropped with thick outlines, the pose is expressive, and the overall...
 
 ### 1751. Ordinary objects transformed into giant monuments
 ![Ordinary objects transformed into giant monuments](images/953.jpeg)
@@ -79,18 +61,6 @@
 - Tags: landscape, nature, photography, portrait, ui, vehicle
 - Model: Nano banana pro
 - Prompt: A dreamlike, movie-quality augmented reality visual where numerous hovering Spotify player interface cards orbit the central figure (the person shown) in a complete 3D spatial composition, with eac...
-
-### 1744. Christmas Special-Christmas Skin Care Set Promotional Card
-![Christmas Special-Christmas Skin Care Set Promotional Card](images/960.jpeg)
-- Tags: branding, logo, nature, photography, product, typography
-- Model: Nano banana pro
-- Prompt: Create a professional Christmas skin care product set promotional card, using a vertical composition design with a simple and high-end overall style. The background uses soft gradient colors, trans...
-
-### 1743. Christmas Special-Christmas Event Invitation Card
-![Christmas Special-Christmas Event Invitation Card](images/961.jpeg)
-- Tags: cartoon
-- Model: Nano banana pro
-- Prompt: Design a joyful Christmas event invitation card, cartoon style, colorful balloons and gift patterns, large characters on the top "Christmas Carnival Party", Chinese "Time: December 25, 7 pm", "Loca...
 
 ### 1742. Christmas Special-Christmas Elf
 ![Christmas Special-Christmas Elf](images/962.jpeg)
@@ -152,12 +122,6 @@
 - Model: Nano banana pro
 - Prompt: {   "subject": {     "description": "First-person shooter (FPS) perspective of a cybernetic mercenary holding a dual-barreled smart pistol in a dystopian mega-city.",     "mirror_rules": "HUD eleme...
 
-### 1732. Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface
-![Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface](images/972.jpeg)
-- Tags: photography, portrait, product, typography, ui
-- Model: Nano banana pro
-- Prompt: Vertical social media story design (9:16 aspect ratio), Christmas makeup tutorial interface for beauty bloggers. The background is a soft, high-end pink gradient, creating a sweet and dreamy atmosp...
-
 ### 1731. Christmas special - Christmas limited photo stickers, 9 levels of sweetness
 ![Christmas special - Christmas limited photo stickers, 9 levels of sweetness](images/973.jpeg)
 - Tags: character, nature, paper-craft, photography, vehicle
@@ -200,12 +164,6 @@
 - Model: Nano banana pro
 - Prompt: An ultra-realistic, professional nighttime fireworks display, clearly featuring the shape "{Subject}" formed entirely from fireworks at the center of the sky. The "{Subject}" seamlessly emerges fro...
 
-### 1724. Graffiti lines dry brush color blocks
-![Graffiti lines dry brush color blocks](images/980.jpeg)
-- Tags: paper-craft
-- Model: Nano banana pro
-- Prompt: Mainly based on graffiti sketches, the lines are exaggerated casually, the colors are rough dry brushed on the surface, the background is mainly left blank, and transparent watercolor smudges and p...
-
 ### 1723. Childlike style illustration
 ![Childlike style illustration](images/981.jpeg)
 - Tags: illustration, paper-craft
@@ -247,11 +205,6 @@
 - Tags: 3d, character, landscape, nature, photography, portrait, sculpture, vehicle
 - Model: Nano banana pro
 - Prompt: [Key: Maintain accurate facial features, retain the original facial structure, and the character is exactly the same throughout the puzzle] The makeup is high-end fashion, with metallic makeup, the...
-
-### 1715. Hand drawn style infographic card
-![Hand drawn style infographic card](images/hand-drawn-style-infographic-card.png)
-- Tags: illustration, infographic, paper-craft, portrait, typography
-- Prompt: Create a hand-drawn style infographic card with a 9:16 vertical aspect ratio. The card has a distinct theme, and the background is beige or off-white with a paper texture. The overall design embodi...
 
 ### 1714. Four-panel comics (Relativity)
 ![Four-panel comics (Relativity)](images/the-theory-of-relativity.png)
@@ -667,11 +620,6 @@
 ![Gradient extrusion Google I/O 2025 conference visual effects](images/84.jpeg)
 - Tags: creative
 - Prompt: Retexture this image in the following JSON style aesthetic: {   "styleAesthetic": {     "title": "Isometric Multicolor Extrusion with Grid Control",     "overallVibe": "Playful modern 3D iconograph...
-
-### 1631. MBTI personality type cards of famous opera clips
-![MBTI personality type cards of famous opera clips](images/85.jpeg)
-- Tags: illustration, landscape, minimalist, portrait, typography
-- Prompt: # Mission goal Please generate an MBTI personality type card picture based on a well-known ancient Chinese opera fragment, so that the emotional connotation of the flat illustration of the opera sc...
 
 ### 1630. OpenAI wearables of the future
 ![OpenAI wearables of the future](images/86.png)
@@ -2503,12 +2451,6 @@
 - Model: Nano banana pro
 - Prompt: Draw a 3-frame comic, Hong Kong martial arts comic style, with the following storyline: Monk: "Master Tai, please obey the monk!" Taoist Priest: "Bald donkey, how dare you compete with a poor Taois...
 
-### 1268. Hand drawn style infographic card
-![Hand drawn style infographic card](images/453.jpeg)
-- Tags: illustration, infographic, paper-craft, portrait, typography
-- Model: Nano banana pro
-- Prompt: Create a hand-drawn style infographic card with a 9:16 vertical aspect ratio. The card has a distinct theme, and the background is beige or off-white with a paper texture. The overall design embodi...
-
 ### 1267. Street murals with strong photographic quality
 ![Street murals with strong photographic quality](images/454.jpeg)
 - Tags: cartoon, landscape, nature, photography
@@ -3030,12 +2972,6 @@
 - Tags: character, data-viz, fashion, illustration, logo, minimalist, portrait, typography, vehicle
 - Model: Nano banana pro
 - Prompt: Please create a cute, stylish calendar illustration in a vertical (9:16) layout featuring a fresh, bright, hand-drawn style:  Illustration Requirements:  - The main character is a young, fashionabl...
-
-### 1176. Simulated embroidery Su embroidery expression pack
-![Simulated embroidery Su embroidery expression pack](images/548.jpeg)
-- Tags: character, emoji, fashion, minimalist, portrait, ui
-- Model: Nano banana pro
-- Prompt: Generate a 16:9, 4K resolution simulated Suzhou embroidery emoticon package image:  - The screen is a 4×6 grid, with a total of 24 1:1 square cells. Each cell is a classical Chinese beauty bust emo...
 
 ### 1175. LINE style half-length Q version emoticon pack
 ![LINE style half-length Q version emoticon pack](images/549.jpeg)
@@ -5578,9 +5514,8 @@
 - [804] Blonde woman kneeling on yacht deck
 - [795] Collage posters from the Y2K era
 
-### branding (117)
+### branding (116)
 - [1750] A complete high-end product promotional photo
-- [1744] Christmas Special-Christmas Skin Care Set Promotional Card
 - [1735] Woman extends index finger forward towards camera lens
 - [1707] Blue and white porcelain style
 - [1705] Brand Love Talk
@@ -5697,9 +5632,8 @@
 - [791] Editorial photo for concept art magazine
 - [786] Ultra-realistic Macbook screen video conferencing diagram
 
-### cartoon (109)
+### cartoon (108)
 - [1746] cartoon style keychain
-- [1743] Christmas Special-Christmas Event Invitation Card
 - [1742] Christmas Special-Christmas Elf
 - [1735] Woman extends index finger forward towards camera lens
 - [1717] Nine-square grid collage
@@ -5808,8 +5742,7 @@
 - [794] Cartoons turned into Funko Pop vinyl figures
 - [792] Woman is stepping out of her mobile phone screen
 
-### character (227)
-- [1756] Simulated embroidery Su embroidery expression pack
+### character (225)
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1749] 3D rubber hose character design
 - [1746] cartoon style keychain
@@ -5927,7 +5860,6 @@
 - [1194] Literacy tabloid meta prompt words
 - [1182] Highly detailed 3D infographic poster
 - [1177] Hand drawn calendar illustration
-- [1176] Simulated embroidery Su embroidery expression pack
 - [1175] LINE style half-length Q version emoticon pack
 - [1174] Fashion style concept exploded illustration in hand drawn style
 - [1169] Take a photo with Deadpool at Avengers Tower
@@ -6055,8 +5987,7 @@
 - [901] Healing fairy tale clay poster
 - [789] There is a Q-version model similar to mine.
 
-### creative (62)
-- [1753] clothes suspended in the air
+### creative (61)
 - [1714] Four-panel comics (Relativity)
 - [1680] mosaic mural
 - [1672] Enchant Particle Omnilight
@@ -6131,8 +6062,7 @@
 - [933] A set of cyberpunk style fashion blockbusters
 - [891] Take realistic selfies in front of the mirror in your bedroom
 
-### emoji (16)
-- [1756] Simulated embroidery Su embroidery expression pack
+### emoji (14)
 - [1697] Emoji turns into a flower pot
 - [1642] 3D cute pastel clay icon
 - [1638] Plush form emoticon
@@ -6146,11 +6076,9 @@
 - [1431] I know you're in a hurry, but don't be anxious yet
 - [1236] Colorful hand-drawn style emoticon pack
 - [1192] Make people make Emoji expressions
-- [1176] Simulated embroidery Su embroidery expression pack
 - [1175] LINE style half-length Q version emoticon pack
 
-### fantasy (38)
-- [1752] Stickers for different clothing styles
+### fantasy (37)
 - [1726] A hyper-realistic movie poster
 - [1666] See the world through a keyhole
 - [1663] small house made of flowers
@@ -6189,10 +6117,8 @@
 - [790] iron man coca cola
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 
-### fashion (207)
-- [1756] Simulated embroidery Su embroidery expression pack
+### fashion (204)
 - [1754] Make professional OOTD fashion collages in magazine editorial style
-- [1752] Stickers for different clothing styles
 - [1742] Christmas Special-Christmas Elf
 - [1740] Stylish Asian Fashion Blogger
 - [1736] Young beautiful woman with twin tails
@@ -6273,7 +6199,6 @@
 - [1195] Large oil painting portrait
 - [1181] Fashion design manuscript
 - [1177] Hand drawn calendar illustration
-- [1176] Simulated embroidery Su embroidery expression pack
 - [1174] Fashion style concept exploded illustration in hand drawn style
 - [1155] Yellowed old newspaper account
 - [1152] Cream watercolor diary
@@ -6573,14 +6498,13 @@
 - [920] A 3D game level map poster
 - [887] Tokyo Tower is occupied by a super giant cat
 
-### illustration (126)
+### illustration (123)
 - [1738] Display board for residential building created by architectural illustrator
 - [1737] triptych collage depicts three consecutive moments of women
 - [1735] Woman extends index finger forward towards camera lens
 - [1728] museum specimen photography
 - [1723] Childlike style illustration
 - [1717] Nine-square grid collage
-- [1715] Hand drawn style infographic card
 - [1708] Embroidery illustration style
 - [1702] creative advertising
 - [1693] Flat design equilateral style
@@ -6591,7 +6515,6 @@
 - [1640] Black and white comic style illustration
 - [1639] 3D snack cartoon world
 - [1634] Neon floral harmony illustration
-- [1631] MBTI personality type cards of famous opera clips
 - [1604] Outline key lines
 - [1600] Nintendo style 3D cartoon illustration
 - [1599] Anime mecha stylized mechanical design drawing
@@ -6636,7 +6559,6 @@
 - [1318] Digital comics of a middle-aged man
 - [1276] Incorporate comic characters into your real-life photos
 - [1273] Add sketched people to your real photos
-- [1268] Hand drawn style infographic card
 - [1246] Three heroes racing against Lu Bu
 - [1245] Recipe - Tomato Scrambled Eggs
 - [1243] Panoramic character depth concept exploded view
@@ -6701,15 +6623,13 @@
 - [802] Woman holding a wooden picture frame of herself
 - [792] Woman is stepping out of her mobile phone screen
 
-### infographic (26)
+### infographic (24)
 - [1722] Technical drawing display board
-- [1715] Hand drawn style infographic card
 - [1693] Flat design equilateral style
 - [1430] Recipe infographic production
 - [1288] landmark infographic
 - [1284] Aircraft three-dimensional section infographic
 - [1281] Beauty detector
-- [1268] Hand drawn style infographic card
 - [1245] Recipe - Tomato Scrambled Eggs
 - [1228] PS5 technical blueprint
 - [1214] Timeline of Chinese dynasties
@@ -6849,7 +6769,7 @@
 - [786] Ultra-realistic Macbook screen video conferencing diagram
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 
-### landscape (313)
+### landscape (312)
 - [1750] A complete high-end product promotional photo
 - [1746] cartoon style keychain
 - [1745] Cinematic augmented reality visual effects
@@ -6875,7 +6795,6 @@
 - [1645] Landscape cave entrance shape
 - [1639] 3D snack cartoon world
 - [1635] Branded musical instruments
-- [1631] MBTI personality type cards of famous opera clips
 - [1627] Three different fantasy sailing ships in the ocean
 - [1617] History in the toy box
 - [1615] Turn your logo into a mascot
@@ -7164,9 +7083,8 @@
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 - [782] Christmas Special - Christmas Sweet Girl
 
-### logo (140)
+### logo (139)
 - [1750] A complete high-end product promotional photo
-- [1744] Christmas Special-Christmas Skin Care Set Promotional Card
 - [1722] Technical drawing display board
 - [1704] creative advertising
 - [1684] Cartoon style text sign
@@ -7306,9 +7224,8 @@
 - [787] Five-part wide-format film collage
 - [785] Turn your favorite characters into collectibles
 
-### minimalist (211)
+### minimalist (208)
 - [1757] custom balloons
-- [1756] Simulated embroidery Su embroidery expression pack
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1750] A complete high-end product promotional photo
 - [1736] Young beautiful woman with twin tails
@@ -7328,7 +7245,6 @@
 - [1647] Branded folding paper
 - [1643] Funny furry letters
 - [1637] Alloy icon
-- [1631] MBTI personality type cards of famous opera clips
 - [1630] OpenAI wearables of the future
 - [1628] AirBnB anything
 - [1623] Thought bubbles of different emotional states
@@ -7440,7 +7356,6 @@
 - [1180] City dynamic weather card
 - [1179] Turn articles into blackboard newspapers
 - [1177] Hand drawn calendar illustration
-- [1176] Simulated embroidery Su embroidery expression pack
 - [1150] Beautiful 3D renderings of the handheld game console
 - [1143] Professional suit style diary
 - [1137] iPhone 16 Pro Max teardown
@@ -7519,11 +7434,10 @@
 - [785] Turn your favorite characters into collectibles
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### nature (352)
+### nature (351)
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1750] A complete high-end product promotional photo
 - [1745] Cinematic augmented reality visual effects
-- [1744] Christmas Special-Christmas Skin Care Set Promotional Card
 - [1742] Christmas Special-Christmas Elf
 - [1741] Christmas Special - Christmas Gingerbread Cross-Frame Feeding
 - [1739] Gallery grid view for Apple’s iOS Photos app
@@ -7943,17 +7857,14 @@
 - [858] 3x3 grid Pixar style storyboard
 - [830] Urban streetwear editorial collage
 
-### paper-craft (122)
-- [1752] Stickers for different clothing styles
+### paper-craft (118)
 - [1748] Displayed on mobile phone screens in Japan in the early 2000s
 - [1738] Display board for residential building created by architectural illustrator
 - [1731] Christmas special - Christmas limited photo stickers, 9 levels of sweetness
 - [1730] Christmas Special - Little Thoughts of a Christmas Girl on a Peach Background
 - [1728] museum specimen photography
-- [1724] Graffiti lines dry brush color blocks
 - [1723] Childlike style illustration
 - [1722] Technical drawing display board
-- [1715] Hand drawn style infographic card
 - [1695] Product becomes paper glass
 - [1651] crumpled paper
 - [1649] Cute miniature scene
@@ -7989,7 +7900,6 @@
 - [1330] Girls with rainbow hair styles
 - [1307] Pencil style big head cartoon
 - [1305] Nine Q-version stickers with different clothing poses and expressions
-- [1268] Hand drawn style infographic card
 - [1266] Interesting ink painting of family relationship
 - [1245] Recipe - Tomato Scrambled Eggs
 - [1243] Panoramic character depth concept exploded view
@@ -8067,20 +7977,18 @@
 - [784] Visualization of gadgets and inventions from a given year
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### photography (407)
+### photography (405)
 - [1750] A complete high-end product promotional photo
 - [1748] Displayed on mobile phone screens in Japan in the early 2000s
 - [1747] High-end professional tiled product photography
 - [1746] cartoon style keychain
 - [1745] Cinematic augmented reality visual effects
-- [1744] Christmas Special-Christmas Skin Care Set Promotional Card
 - [1741] Christmas Special - Christmas Gingerbread Cross-Frame Feeding
 - [1740] Stylish Asian Fashion Blogger
 - [1738] Display board for residential building created by architectural illustrator
 - [1737] triptych collage depicts three consecutive moments of women
 - [1735] Woman extends index finger forward towards camera lens
 - [1733] First person shooter perspective
-- [1732] Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface
 - [1731] Christmas special - Christmas limited photo stickers, 9 levels of sweetness
 - [1728] museum specimen photography
 - [1727] Sports girl photos
@@ -8512,9 +8420,7 @@
 - [845] minimalist food photography
 - [792] Woman is stepping out of her mobile phone screen
 
-### portrait (319)
-- [1756] Simulated embroidery Su embroidery expression pack
-- [1752] Stickers for different clothing styles
+### portrait (312)
 - [1751] Ordinary objects transformed into giant monuments
 - [1745] Cinematic augmented reality visual effects
 - [1741] Christmas Special - Christmas Gingerbread Cross-Frame Feeding
@@ -8522,19 +8428,16 @@
 - [1737] triptych collage depicts three consecutive moments of women
 - [1735] Woman extends index finger forward towards camera lens
 - [1734] A miniature scene model
-- [1732] Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface
 - [1729] Anime style digital poster
 - [1718] Fantastic, cinematic augmented reality visuals
 - [1717] Nine-square grid collage
 - [1716] Christmas Special - A cool Christmas, sweet and cool all in a small space
-- [1715] Hand drawn style infographic card
 - [1712] Musk draws in the park
 - [1709] embroidery portrait
 - [1685] Hyperrealistic puzzle portrait
 - [1681] character drama exaggerated style
 - [1675] Cartoon characters transformed into hyper-realistic humans
 - [1664] Little person cleaning piano keys
-- [1631] MBTI personality type cards of famous opera clips
 - [1623] Thought bubbles of different emotional states
 - [1609] super animal hero
 - [1592] Frosted blur silhouette
@@ -8633,7 +8536,6 @@
 - [1281] Beauty detector
 - [1276] Incorporate comic characters into your real-life photos
 - [1273] Add sketched people to your real photos
-- [1268] Hand drawn style infographic card
 - [1266] Interesting ink painting of family relationship
 - [1259] Generate press conference site pictures based on text
 - [1258] Famous Quote Cards
@@ -8656,7 +8558,6 @@
 - [1179] Turn articles into blackboard newspapers
 - [1178] Turn articles into cartoon infographics
 - [1177] Hand drawn calendar illustration
-- [1176] Simulated embroidery Su embroidery expression pack
 - [1175] LINE style half-length Q version emoticon pack
 - [1151] Sunny girl wearing white knitted top
 - [1148] Pixar style 3D animated scenes
@@ -8902,13 +8803,11 @@
 - [790] iron man coca cola
 - [785] Turn your favorite characters into collectibles
 
-### product (112)
+### product (110)
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1750] A complete high-end product promotional photo
 - [1747] High-end professional tiled product photography
 - [1746] cartoon style keychain
-- [1744] Christmas Special-Christmas Skin Care Set Promotional Card
-- [1732] Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface
 - [1719] Sand and Wind Product Photography
 - [1707] Blue and white porcelain style
 - [1705] Brand Love Talk
@@ -9219,20 +9118,16 @@
 - [807] Winter solstice poster
 - [785] Turn your favorite characters into collectibles
 
-### typography (121)
+### typography (116)
 - [1757] custom balloons
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1750] A complete high-end product promotional photo
 - [1747] High-end professional tiled product photography
-- [1744] Christmas Special-Christmas Skin Care Set Promotional Card
-- [1732] Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface
-- [1715] Hand drawn style infographic card
 - [1694] custom balloons
 - [1681] character drama exaggerated style
 - [1654] Brand Design Guidelines Poster
 - [1653] Choose your side
 - [1633] Glitch vector logo style
-- [1631] MBTI personality type cards of famous opera clips
 - [1602] Monochrome LCD effect
 - [1582] Generate real movie posters
 - [1575] Surveillance-level fashion insights
@@ -9256,7 +9151,6 @@
 - [1281] Beauty detector
 - [1278] Mars surveillance video
 - [1274] SPaceX engineering schematics and blueprint lines
-- [1268] Hand drawn style infographic card
 - [1263] Text generates beautiful magazine article photos
 - [1245] Recipe - Tomato Scrambled Eggs
 - [1242] One-click OOTD
@@ -9342,13 +9236,11 @@
 - [787] Five-part wide-format film collage
 - [784] Visualization of gadgets and inventions from a given year
 
-### ui (42)
-- [1756] Simulated embroidery Su embroidery expression pack
+### ui (39)
 - [1750] A complete high-end product promotional photo
 - [1745] Cinematic augmented reality visual effects
 - [1735] Woman extends index finger forward towards camera lens
 - [1733] First person shooter perspective
-- [1732] Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface
 - [1718] Fantastic, cinematic augmented reality visuals
 - [1693] Flat design equilateral style
 - [1683] Retro Pixel UI Icons
@@ -9366,7 +9258,6 @@
 - [1219] Aerial photography of old Beijing
 - [1203] High end studio photos
 - [1202] dragon ball cards
-- [1176] Simulated embroidery Su embroidery expression pack
 - [1156] Golden Retriever Live
 - [1023] Cyberpunk aesthetic style card
 - [1022] Mascot sitting on operating system window border
