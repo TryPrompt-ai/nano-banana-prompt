@@ -2,8 +2,8 @@
 
 > A curated collection of prompts for Nano Banana and other AI models
 
-**Total Prompts:** 954
-**Last Updated:** 2025-12-26T20:12:47.719460
+**Total Prompts:** 952
+**Last Updated:** 2025-12-26T20:23:23.195238
 
 ## 📚 Navigation
 
@@ -45,23 +45,7 @@ The overall concept combines the letter structure and the material language of i
 
 ---
 
-### 2. I won’t sleep if the moon doesn’t sleep
-
-![I won’t sleep if the moon doesn’t sleep](https://opennana.com/awesome-prompt-gallery/images/559.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@songguoxiansen](https://x.com/songguoxiansen/status/1991871219600400445)
-- **Tags:** neon
-
-**Prompt:**
-
-```
-A panda wears sunglasses and holds a thermos cup (with wolfberry soaked in it). The background is a late night neon city. The neon sign next to the panda reads: "I won't sleep until the moon sleeps. I'm a bald baby."
-```
-
----
-
-### 3. Make professional OOTD fashion collages in magazine editorial style
+### 2. Make professional OOTD fashion collages in magazine editorial style
 
 ![Make professional OOTD fashion collages in magazine editorial style](https://opennana.com/awesome-prompt-gallery/images/759.jpeg)
 
@@ -115,7 +99,7 @@ Overall style:
 
 ---
 
-### 4. Ordinary objects transformed into giant monuments
+### 3. Ordinary objects transformed into giant monuments
 
 ![Ordinary objects transformed into giant monuments](https://opennana.com/awesome-prompt-gallery/images/953.jpeg)
 
@@ -131,7 +115,7 @@ Transform [EVERYDAY OBJECT] into a massive real-world monument. Surface material
 
 ---
 
-### 5. A complete high-end product promotional photo
+### 4. A complete high-end product promotional photo
 
 ![A complete high-end product promotional photo](https://opennana.com/awesome-prompt-gallery/images/954.jpeg)
 
@@ -160,7 +144,7 @@ Bottom Right Corner: A small, minimalist dark gray logomark for [BRAND NAME].
 
 ---
 
-### 6. 3D rubber hose character design
+### 5. 3D rubber hose character design
 
 ![3D rubber hose character design](https://opennana.com/awesome-prompt-gallery/images/955.jpeg)
 
@@ -176,7 +160,7 @@ Bottom Right Corner: A small, minimalist dark gray logomark for [BRAND NAME].
 
 ---
 
-### 7. Displayed on mobile phone screens in Japan in the early 2000s
+### 6. Displayed on mobile phone screens in Japan in the early 2000s
 
 ![Displayed on mobile phone screens in Japan in the early 2000s](https://opennana.com/awesome-prompt-gallery/images/956.jpeg)
 
@@ -192,7 +176,7 @@ Display the subject from the attached image on a flip phone (garakei) LCD screen
 
 ---
 
-### 8. High-end professional tiled product photography
+### 7. High-end professional tiled product photography
 
 ![High-end professional tiled product photography](https://opennana.com/awesome-prompt-gallery/images/957.jpeg)
 
@@ -220,7 +204,7 @@ Renderizado: Fotorealismo 8k, texturas de plástico y metal detalladas.
 
 ---
 
-### 9. cartoon style keychain
+### 8. cartoon style keychain
 
 ![cartoon style keychain](https://opennana.com/awesome-prompt-gallery/images/958.jpeg)
 
@@ -254,7 +238,7 @@ detail finish"
 
 ---
 
-### 10. Cinematic augmented reality visual effects
+### 9. Cinematic augmented reality visual effects
 
 ![Cinematic augmented reality visual effects](https://opennana.com/awesome-prompt-gallery/images/959.jpeg)
 
@@ -270,7 +254,7 @@ A dreamlike, movie-quality augmented reality visual where numerous hovering Spot
 
 ---
 
-### 11. Christmas Special-Christmas Elf
+### 10. Christmas Special-Christmas Elf
 
 ![Christmas Special-Christmas Elf](https://opennana.com/awesome-prompt-gallery/images/962.jpeg)
 
@@ -286,7 +270,7 @@ A dreamlike, movie-quality augmented reality visual where numerous hovering Spot
 
 ---
 
-### 12. Christmas Special - Christmas Gingerbread Cross-Frame Feeding
+### 11. Christmas Special - Christmas Gingerbread Cross-Frame Feeding
 
 ![Christmas Special - Christmas Gingerbread Cross-Frame Feeding](https://opennana.com/awesome-prompt-gallery/images/963.jpeg)
 
@@ -302,7 +286,7 @@ A dreamlike, movie-quality augmented reality visual where numerous hovering Spot
 
 ---
 
-### 13. Stylish Asian Fashion Blogger
+### 12. Stylish Asian Fashion Blogger
 
 ![Stylish Asian Fashion Blogger](https://opennana.com/awesome-prompt-gallery/images/964.jpeg)
 
@@ -395,7 +379,7 @@ A dreamlike, movie-quality augmented reality visual where numerous hovering Spot
 
 ---
 
-### 14. Gallery grid view for Apple’s iOS Photos app
+### 13. Gallery grid view for Apple’s iOS Photos app
 
 ![Gallery grid view for Apple’s iOS Photos app](https://opennana.com/awesome-prompt-gallery/images/965.jpeg)
 
@@ -411,7 +395,7 @@ Based on [reference photo person]. An incredibly realistic close-up photo of a h
 
 ---
 
-### 15. Display board for residential building created by architectural illustrator
+### 14. Display board for residential building created by architectural illustrator
 
 ![Display board for residential building created by architectural illustrator](https://opennana.com/awesome-prompt-gallery/images/966.jpeg)
 
@@ -429,7 +413,7 @@ Unified aesthetic blending [LINEWORK STYLE] with [TEXTURE/MATERIAL]. [TECHNICAL 
 
 ---
 
-### 16. triptych collage depicts three consecutive moments of women
+### 15. triptych collage depicts three consecutive moments of women
 
 ![triptych collage depicts three consecutive moments of women](https://opennana.com/awesome-prompt-gallery/images/967.jpeg)
 
@@ -458,7 +442,7 @@ The image maintains a 2:3 aspect ratio and a photorealistic live-action style, e
 
 ---
 
-### 17. Young beautiful woman with twin tails
+### 16. Young beautiful woman with twin tails
 
 ![Young beautiful woman with twin tails](https://opennana.com/awesome-prompt-gallery/images/968.jpeg)
 
@@ -509,7 +493,7 @@ The image maintains a 2:3 aspect ratio and a photorealistic live-action style, e
 
 ---
 
-### 18. Woman extends index finger forward towards camera lens
+### 17. Woman extends index finger forward towards camera lens
 
 ![Woman extends index finger forward towards camera lens](https://opennana.com/awesome-prompt-gallery/images/969.jpeg)
 
@@ -615,7 +599,7 @@ The image maintains a 2:3 aspect ratio and a photorealistic live-action style, e
 
 ---
 
-### 19. A miniature scene model
+### 18. A miniature scene model
 
 ![A miniature scene model](https://opennana.com/awesome-prompt-gallery/images/970.jpeg)
 
@@ -631,7 +615,7 @@ A miniature diorama showing tiny [PEOPLE / CHARACTERS] struggling with an oversi
 
 ---
 
-### 20. First person shooter perspective
+### 19. First person shooter perspective
 
 ![First person shooter perspective](https://opennana.com/awesome-prompt-gallery/images/971.jpeg)
 
@@ -749,7 +733,7 @@ A miniature diorama showing tiny [PEOPLE / CHARACTERS] struggling with an oversi
 
 ---
 
-### 21. Christmas special - Christmas limited photo stickers, 9 levels of sweetness
+### 20. Christmas special - Christmas limited photo stickers, 9 levels of sweetness
 
 ![Christmas special - Christmas limited photo stickers, 9 levels of sweetness](https://opennana.com/awesome-prompt-gallery/images/973.jpeg)
 
@@ -767,7 +751,7 @@ Styling: She is wearing a soft white mohair sweater. Accessories change slightly
 
 ---
 
-### 22. Christmas Special - Little Thoughts of a Christmas Girl on a Peach Background
+### 21. Christmas Special - Little Thoughts of a Christmas Girl on a Peach Background
 
 ![Christmas Special - Little Thoughts of a Christmas Girl on a Peach Background](https://opennana.com/awesome-prompt-gallery/images/974.jpeg)
 
@@ -786,7 +770,7 @@ Bottom right picture: The character is arranging her bangs in front of the camer
 
 ---
 
-### 23. Anime style digital poster
+### 22. Anime style digital poster
 
 ![Anime style digital poster](https://opennana.com/awesome-prompt-gallery/images/975.jpeg)
 
@@ -878,7 +862,7 @@ Bottom right picture: The character is arranging her bangs in front of the camer
 
 ---
 
-### 24. museum specimen photography
+### 23. museum specimen photography
 
 ![museum specimen photography](https://opennana.com/awesome-prompt-gallery/images/976.jpeg)
 
@@ -914,7 +898,7 @@ Output: ONE image, 4:5 aspect ratio.
 
 ---
 
-### 25. Sports girl photos
+### 24. Sports girl photos
 
 ![Sports girl photos](https://opennana.com/awesome-prompt-gallery/images/977.jpeg)
 
@@ -994,7 +978,7 @@ Output: ONE image, 4:5 aspect ratio.
 
 ---
 
-### 26. A hyper-realistic movie poster
+### 25. A hyper-realistic movie poster
 
 ![A hyper-realistic movie poster](https://opennana.com/awesome-prompt-gallery/images/978.jpeg)
 
@@ -1015,7 +999,7 @@ Photorealistic face, epic fantasy realism, movie poster composition, high contra
 
 ---
 
-### 27. Ultra-realistic and professional nighttime fireworks show
+### 26. Ultra-realistic and professional nighttime fireworks show
 
 ![Ultra-realistic and professional nighttime fireworks show](https://opennana.com/awesome-prompt-gallery/images/979.jpeg)
 
@@ -1037,7 +1021,7 @@ Subject: I 💗 U
 
 ---
 
-### 28. Childlike style illustration
+### 27. Childlike style illustration
 
 ![Childlike style illustration](https://opennana.com/awesome-prompt-gallery/images/981.jpeg)
 
@@ -1053,7 +1037,7 @@ Please generate an illustration of [theme/subject]. The overall style is whimsic
 
 ---
 
-### 29. Technical drawing display board
+### 28. Technical drawing display board
 
 ![Technical drawing display board](https://opennana.com/awesome-prompt-gallery/images/982.jpeg)
 
@@ -1069,7 +1053,7 @@ An expert [DISCIPLINE] designer’s presentation board for [SUBJECT] — [ICONIC
 
 ---
 
-### 30. Miniature artist paints on giant human nails
+### 29. Miniature artist paints on giant human nails
 
 ![Miniature artist paints on giant human nails](https://opennana.com/awesome-prompt-gallery/images/983.jpeg)
 
@@ -1085,7 +1069,7 @@ A close-up, hyper-realistic photograph of a tiny artist sitting on a stool and p
 
 ---
 
-### 31. Sand and Wind Product Photography
+### 30. Sand and Wind Product Photography
 
 ![Sand and Wind Product Photography](https://opennana.com/awesome-prompt-gallery/images/985.jpeg)
 
@@ -1101,7 +1085,7 @@ A close-up, hyper-realistic photograph of a tiny artist sitting on a stool and p
 
 ---
 
-### 32. Fantastic, cinematic augmented reality visuals
+### 31. Fantastic, cinematic augmented reality visuals
 
 ![Fantastic, cinematic augmented reality visuals](https://opennana.com/awesome-prompt-gallery/images/986.jpeg)
 
@@ -1117,7 +1101,7 @@ A Subject: me (use uploaded face — 100% facial accuracy, no changes). with no 
 
 ---
 
-### 33. Nine-square grid collage
+### 32. Nine-square grid collage
 
 ![Nine-square grid collage](https://opennana.com/awesome-prompt-gallery/images/987.jpeg)
 
@@ -1161,7 +1145,7 @@ A Subject: me (use uploaded face — 100% facial accuracy, no changes). with no 
 
 ---
 
-### 34. Christmas Special - A cool Christmas, sweet and cool all in a small space
+### 33. Christmas Special - A cool Christmas, sweet and cool all in a small space
 
 ![Christmas Special - A cool Christmas, sweet and cool all in a small space](https://opennana.com/awesome-prompt-gallery/images/988.jpeg)
 
@@ -1178,7 +1162,7 @@ The makeup is high-end fashion, with metallic makeup, the eyeshadow is from cham
 
 ---
 
-### 35. Four-panel comics (Relativity)
+### 34. Four-panel comics (Relativity)
 
 ![Four-panel comics (Relativity)](https://opennana.com/awesome-prompt-gallery/images/the-theory-of-relativity.png)
 
@@ -1194,7 +1178,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 
 ---
 
-### 36. Bee Science City
+### 35. Bee Science City
 
 ![Bee Science City](https://opennana.com/awesome-prompt-gallery/images/bee-science-city.png)
 
@@ -1210,7 +1194,7 @@ Create image 3D Q version mini style, a sweet scientific research base with a ho
 
 ---
 
-### 37. Musk draws in the park
+### 36. Musk draws in the park
 
 ![Musk draws in the park](https://opennana.com/awesome-prompt-gallery/images/musk-in-the-park.jpg)
 
@@ -1226,7 +1210,7 @@ Create a realistic outdoor scene in which a Japanese artist is painting Musk. Th
 
 ---
 
-### 38. Create your own GTA character
+### 37. Create your own GTA character
 
 ![Create your own GTA character](https://opennana.com/awesome-prompt-gallery/images/5.png)
 
@@ -1277,7 +1261,7 @@ Format the final result like a finished in-game asset reveal. The vibe should be
 
 ---
 
-### 39. Golden abstract integrated style
+### 38. Golden abstract integrated style
 
 ![Golden abstract integrated style](https://opennana.com/awesome-prompt-gallery/images/6.png)
 
@@ -1318,7 +1302,7 @@ Format the final result like a finished in-game asset reveal. The vibe should be
 
 ---
 
-### 40. embroidery portrait
+### 39. embroidery portrait
 
 ![embroidery portrait](https://opennana.com/awesome-prompt-gallery/images/7.png)
 
@@ -1334,7 +1318,7 @@ An embroidered portrait of [subject], [colors] thread on deep linen fabric. Visi
 
 ---
 
-### 41. Embroidery illustration style
+### 40. Embroidery illustration style
 
 ![Embroidery illustration style](https://opennana.com/awesome-prompt-gallery/images/8.png)
 
@@ -1350,7 +1334,7 @@ A handcrafted illustration that simulates traditional embroidery using colorful 
 
 ---
 
-### 42. Blue and white porcelain style
+### 41. Blue and white porcelain style
 
 ![Blue and white porcelain style](https://opennana.com/awesome-prompt-gallery/images/9.png)
 
@@ -1366,7 +1350,7 @@ Using the uploaded image as the exact visual base, transform it into a hyper-rea
 
 ---
 
-### 43. Melt variant text
+### 42. Melt variant text
 
 ![Melt variant text](https://opennana.com/awesome-prompt-gallery/images/10.png)
 
@@ -1382,7 +1366,7 @@ Create a psychedelic, grotesque cartoon-style text design that says “GNARLY”
 
 ---
 
-### 44. Brand Love Talk
+### 43. Brand Love Talk
 
 ![Brand Love Talk](https://opennana.com/awesome-prompt-gallery/images/11.jpeg)
 
@@ -1398,7 +1382,7 @@ A romantic square-format bouquet inspired by [Brand Name]. Roses are crafted fro
 
 ---
 
-### 45. creative advertising
+### 44. creative advertising
 
 ![creative advertising](https://opennana.com/awesome-prompt-gallery/images/12.png)
 
@@ -1415,7 +1399,7 @@ A real [Real Object] is integrated into a hand-drawn black ink doodle, using loo
 
 ---
 
-### 46. creative advertising
+### 45. creative advertising
 
 ![creative advertising](https://opennana.com/awesome-prompt-gallery/images/13.png)
 
@@ -1439,7 +1423,7 @@ Use the uploaded product image exactly as it is — do not alter, redraw, or rei
 
 ---
 
-### 47. creative advertising
+### 46. creative advertising
 
 ![creative advertising](https://opennana.com/awesome-prompt-gallery/images/14.png)
 
@@ -1455,7 +1439,7 @@ A high-impact advertisement set against a clean, dark or high-contrast backgroun
 
 ---
 
-### 48. tree house
+### 47. tree house
 
 ![tree house](https://opennana.com/awesome-prompt-gallery/images/15.png)
 
@@ -1471,7 +1455,7 @@ A quiet morning in a luxury treehouse retreat created by [BRAND NAME] — golden
 
 ---
 
-### 49. brand planet world
+### 48. brand planet world
 
 ![brand planet world](https://opennana.com/awesome-prompt-gallery/images/16.png)
 
@@ -1487,7 +1471,7 @@ Planet [Brand name], Year 3025. A distant world shaped entirely by the essence o
 
 ---
 
-### 50. A glimpse of the future
+### 49. A glimpse of the future
 
 ![A glimpse of the future](https://opennana.com/awesome-prompt-gallery/images/17.png)
 
@@ -1503,7 +1487,7 @@ A cinematic rendering of [subject] walking through a rain-soaked street at night
 
 ---
 
-### 51. Brand Minecraft Style
+### 50. Brand Minecraft Style
 
 ![Brand Minecraft Style](https://opennana.com/awesome-prompt-gallery/images/18.png)
 
@@ -1519,7 +1503,7 @@ A cinematic rendering of [subject] walking through a rain-soaked street at night
 
 ---
 
-### 52. Emoji turns into a flower pot
+### 51. Emoji turns into a flower pot
 
 ![Emoji turns into a flower pot](https://opennana.com/awesome-prompt-gallery/images/19.png)
 
@@ -1535,7 +1519,7 @@ A high-quality photo of a cute ceramic [object/animal]-shaped planter with a glo
 
 ---
 
-### 53. Transparent plastic bags
+### 52. Transparent plastic bags
 
 ![Transparent plastic bags](https://opennana.com/awesome-prompt-gallery/images/20.jpeg)
 
@@ -1551,7 +1535,7 @@ A high-resolution photograph of a clear plastic drawstring bag placed on a light
 
 ---
 
-### 54. Product becomes paper glass
+### 53. Product becomes paper glass
 
 ![Product becomes paper glass](https://opennana.com/awesome-prompt-gallery/images/21.jpeg)
 
@@ -1573,7 +1557,7 @@ Vertical or square aspect ratio, ultra-detailed, poster-quality, visually soothi
 
 ---
 
-### 55. custom balloons
+### 54. custom balloons
 
 ![custom balloons](https://opennana.com/awesome-prompt-gallery/images/22.jpeg)
 
@@ -1603,7 +1587,7 @@ The overall concept combines the letter structure and the material language of i
 
 ---
 
-### 56. Flat design equilateral style
+### 55. Flat design equilateral style
 
 ![Flat design equilateral style](https://opennana.com/awesome-prompt-gallery/images/23.png)
 
@@ -1619,7 +1603,7 @@ A flat isometric digital illustration of [describe the subject: e.g., a modern w
 
 ---
 
-### 57. Beauty brands in new markets
+### 56. Beauty brands in new markets
 
 ![Beauty brands in new markets](https://opennana.com/awesome-prompt-gallery/images/24.png)
 
@@ -1635,7 +1619,7 @@ A product photography shot of a [PRODUCT] inspired by [FOOD BRAND], placed again
 
 ---
 
-### 58. Keystroke to delete Monday
+### 57. Keystroke to delete Monday
 
 ![Keystroke to delete Monday](https://opennana.com/awesome-prompt-gallery/images/25.jpeg)
 
@@ -1651,7 +1635,7 @@ Detailed photographic image of a miniature person in bed feeling cranky under an
 
 ---
 
-### 59. water flow identity
+### 58. water flow identity
 
 ![water flow identity](https://opennana.com/awesome-prompt-gallery/images/26.jpeg)
 
@@ -1667,7 +1651,7 @@ An ultra-high resolution 8K cinematic render of the [Brand Name] logo, sculpted 
 
 ---
 
-### 60. Branded luxury items fall from the sky
+### 59. Branded luxury items fall from the sky
 
 ![Branded luxury items fall from the sky](https://opennana.com/awesome-prompt-gallery/images/27.png)
 
@@ -1684,7 +1668,7 @@ a dreamy brand ad of [Brand], a brand designed bubble-like capsule with brand co
 
 ---
 
-### 61. Running in narrow corridors
+### 60. Running in narrow corridors
 
 ![Running in narrow corridors](https://opennana.com/awesome-prompt-gallery/images/28.png)
 
@@ -1700,7 +1684,7 @@ A thrilling 3D cartoon scene: [CHARACTER1] runs through a narrow corridor inside
 
 ---
 
-### 62. Bread shape
+### 61. Bread shape
 
 ![Bread shape](https://opennana.com/awesome-prompt-gallery/images/29.png)
 
@@ -1716,7 +1700,7 @@ A highly realistic sculpture of a [object], made entirely from [bread type] with
 
 ---
 
-### 63. Company gold coins
+### 62. Company gold coins
 
 ![Company gold coins](https://opennana.com/awesome-prompt-gallery/images/30.jpeg)
 
@@ -1732,7 +1716,7 @@ Prompt: A high-resolution photograph of a gold coin featuring the [COMPANY NAME]
 
 ---
 
-### 64. Hyperrealistic puzzle portrait
+### 63. Hyperrealistic puzzle portrait
 
 ![Hyperrealistic puzzle portrait](https://opennana.com/awesome-prompt-gallery/images/31.jpeg)
 
@@ -1754,7 +1738,7 @@ There is a title "ZHOGUE" at the top like a fashion magazine (behind the charact
 
 ---
 
-### 65. Cartoon style text sign
+### 64. Cartoon style text sign
 
 ![Cartoon style text sign](https://opennana.com/awesome-prompt-gallery/images/32.png)
 
@@ -1770,7 +1754,7 @@ Create a bold, warped cartoon-style text design with two distinct layers. The to
 
 ---
 
-### 66. Retro Pixel UI Icons
+### 65. Retro Pixel UI Icons
 
 ![Retro Pixel UI Icons](https://opennana.com/awesome-prompt-gallery/images/33.png)
 
@@ -1829,7 +1813,7 @@ retexture the image attached in the following json aesthetic style:
 
 ---
 
-### 67. cloud art
+### 66. cloud art
 
 ![cloud art](https://opennana.com/awesome-prompt-gallery/images/34.jpeg)
 
@@ -1845,7 +1829,7 @@ A photograph captures a daytime scene with a [SUBJECT/OBJECT] formed by scattere
 
 ---
 
-### 68. character drama exaggerated style
+### 67. character drama exaggerated style
 
 ![character drama exaggerated style](https://opennana.com/awesome-prompt-gallery/images/35.png)
 
@@ -1889,7 +1873,7 @@ Typography (top-left corner):
 
 ---
 
-### 69. mosaic mural
+### 68. mosaic mural
 
 ![mosaic mural](https://opennana.com/awesome-prompt-gallery/images/36.png)
 
@@ -1905,7 +1889,7 @@ A mosaic mural of a [subject], crafted from chipped ceramic and glass shards in 
 
 ---
 
-### 70. Put the logo into my world
+### 69. Put the logo into my world
 
 ![Put the logo into my world](https://opennana.com/awesome-prompt-gallery/images/37.jpeg)
 
@@ -1978,7 +1962,7 @@ Recreate the [BRAND NAME] logo following the JSON Aesthetic below: {
 
 ---
 
-### 71. Czech puppet style
+### 70. Czech puppet style
 
 ![Czech puppet style](https://opennana.com/awesome-prompt-gallery/images/38.png)
 
@@ -1996,7 +1980,7 @@ A hand-carved wooden marionette interpretation of [SUBJECT], with jointed limbs,
 
 ---
 
-### 72. network matrix dream
+### 71. network matrix dream
 
 ![network matrix dream](https://opennana.com/awesome-prompt-gallery/images/39.png)
 
@@ -2012,7 +1996,7 @@ A hand-carved wooden marionette interpretation of [SUBJECT], with jointed limbs,
 
 ---
 
-### 73. Brand Leadership Ride
+### 72. Brand Leadership Ride
 
 ![Brand Leadership Ride](https://opennana.com/awesome-prompt-gallery/images/40.jpeg)
 
@@ -2028,7 +2012,7 @@ A cinematic 1:1 scene featuring the iconic leader of [Brand Name] riding a futur
 
 ---
 
-### 74. Cartoon characters transformed into hyper-realistic humans
+### 73. Cartoon characters transformed into hyper-realistic humans
 
 ![Cartoon characters transformed into hyper-realistic humans](https://opennana.com/awesome-prompt-gallery/images/41.jpeg)
 
@@ -2044,7 +2028,7 @@ Transform the cartoon character from the reference image into a hyper-realistic 
 
 ---
 
-### 75. Logo hyper-realistic miniature photography
+### 74. Logo hyper-realistic miniature photography
 
 ![Logo hyper-realistic miniature photography](https://opennana.com/awesome-prompt-gallery/images/42.jpeg)
 
@@ -2110,7 +2094,7 @@ Recreate this [BRAND NAME] logo follow the JSON aesthetic below:
 
 ---
 
-### 76. Airbnb style icons
+### 75. Airbnb style icons
 
 ![Airbnb style icons](https://opennana.com/awesome-prompt-gallery/images/43.jpeg)
 
@@ -2173,7 +2157,7 @@ generate[concept] icon with this json style:
 
 ---
 
-### 77. Enchant Particle Omnilight
+### 76. Enchant Particle Omnilight
 
 ![Enchant Particle Omnilight](https://opennana.com/awesome-prompt-gallery/images/44.png)
 
@@ -2189,7 +2173,7 @@ generate[concept] icon with this json style:
 
 ---
 
-### 78. Retro tin toy diorama style
+### 77. Retro tin toy diorama style
 
 ![Retro tin toy diorama style](https://opennana.com/awesome-prompt-gallery/images/45.jpeg)
 
@@ -2210,7 +2194,7 @@ transform it into part of a miniature mechanical scene from the 1940s or ’50s,
 
 ---
 
-### 79. Ideate and create impactful images with simple input
+### 78. Ideate and create impactful images with simple input
 
 ![Ideate and create impactful images with simple input](https://opennana.com/awesome-prompt-gallery/images/46.jpeg)
 
@@ -2226,7 +2210,7 @@ Create a surrealistic image about diabetes that conveys the message in a powerfu
 
 ---
 
-### 80. silent movie scene
+### 79. silent movie scene
 
 ![silent movie scene](https://opennana.com/awesome-prompt-gallery/images/47.png)
 
@@ -2242,7 +2226,7 @@ Create a surrealistic image about diabetes that conveys the message in a powerfu
 
 ---
 
-### 81. police photo style
+### 80. police photo style
 
 ![police photo style](https://opennana.com/awesome-prompt-gallery/images/48.png)
 
@@ -2260,7 +2244,7 @@ The photo should look like an official FBI or police booking photo, vertical for
 
 ---
 
-### 82. Surreal ocean pattern
+### 81. Surreal ocean pattern
 
 ![Surreal ocean pattern](https://opennana.com/awesome-prompt-gallery/images/49.jpeg)
 
@@ -2276,7 +2260,7 @@ Create a hyper-realistic image where [SHAPE] shape is formed by the magical part
 
 ---
 
-### 83. See the world through a keyhole
+### 82. See the world through a keyhole
 
 ![See the world through a keyhole](https://opennana.com/awesome-prompt-gallery/images/50.png)
 
@@ -2292,7 +2276,7 @@ looking through a [MATERIAL] keyhole towards a mythical [WORLD] dark fantasy, [v
 
 ---
 
-### 84. Neon glowing cute animals
+### 83. Neon glowing cute animals
 
 ![Neon glowing cute animals](https://opennana.com/awesome-prompt-gallery/images/51.png)
 
@@ -2308,7 +2292,7 @@ bioluminescent cute [ANIMAL], kawaii, chibi, [COLOR] neon backlit, 3d cartoon, b
 
 ---
 
-### 85. Little person cleaning piano keys
+### 84. Little person cleaning piano keys
 
 ![Little person cleaning piano keys](https://opennana.com/awesome-prompt-gallery/images/52.jpeg)
 
@@ -2324,7 +2308,7 @@ tilt-shift photo of a grand piano keyboard, side view from the left looking alon
 
 ---
 
-### 86. small house made of flowers
+### 85. small house made of flowers
 
 ![small house made of flowers](https://opennana.com/awesome-prompt-gallery/images/53.jpeg)
 
@@ -2340,7 +2324,7 @@ A small house made of flowers, a tree with colorful leaves growing on top and ar
 
 ---
 
-### 87. three shapes and three colors
+### 86. three shapes and three colors
 
 ![three shapes and three colors](https://opennana.com/awesome-prompt-gallery/images/54.jpeg)
 
@@ -2356,7 +2340,7 @@ Create a minimalist image of a [SUBJECT] using three geometric shapes, using a d
 
 ---
 
-### 88. Colorful cartoon playful icons and logos
+### 87. Colorful cartoon playful icons and logos
 
 ![Colorful cartoon playful icons and logos](https://opennana.com/awesome-prompt-gallery/images/55.jpeg)
 
@@ -2372,7 +2356,7 @@ Create a 2D digital illustration of the [FIREFOX] logo in a colorful cartoon sty
 
 ---
 
-### 89. Image visualization inside a glass box
+### 88. Image visualization inside a glass box
 
 ![Image visualization inside a glass box](https://opennana.com/awesome-prompt-gallery/images/56.jpeg)
 
@@ -2388,7 +2372,7 @@ photorealistic image of a [COLOR] 3D [SUBJECT] encased in a luxurious transparen
 
 ---
 
-### 90. Handmade wool texture
+### 89. Handmade wool texture
 
 ![Handmade wool texture](https://opennana.com/awesome-prompt-gallery/images/57.png)
 
@@ -2404,7 +2388,7 @@ Crea un render 3D fotorrealista de este logo hecho con hilo grueso y tejido a ma
 
 ---
 
-### 91. Duel under the blood moon
+### 90. Duel under the blood moon
 
 ![Duel under the blood moon](https://opennana.com/awesome-prompt-gallery/images/58.png)
 
@@ -2420,7 +2404,7 @@ Crea un render 3D fotorrealista de este logo hecho con hilo grueso y tejido a ma
 
 ---
 
-### 92. military plan
+### 91. military plan
 
 ![military plan](https://opennana.com/awesome-prompt-gallery/images/59.png)
 
@@ -2436,7 +2420,7 @@ A humorous cartoon scene set inside a military training classroom, featuring a g
 
 ---
 
-### 93. Mouth-watering ads
+### 92. Mouth-watering ads
 
 ![Mouth-watering ads](https://opennana.com/awesome-prompt-gallery/images/60.jpeg)
 
@@ -2452,7 +2436,7 @@ a vertical 2:3 high-resolution food advertisement featuring the most iconic and 
 
 ---
 
-### 94. broken truth
+### 93. broken truth
 
 ![broken truth](https://opennana.com/awesome-prompt-gallery/images/61.png)
 
@@ -2468,7 +2452,7 @@ A close-up of [SUBJECT 1] holding a mirror shard to their face. The shard reflec
 
 ---
 
-### 95. Brand Design Guidelines Poster
+### 94. Brand Design Guidelines Poster
 
 ![Brand Design Guidelines Poster](https://opennana.com/awesome-prompt-gallery/images/62.jpeg)
 
@@ -2484,7 +2468,7 @@ Create a vertical 9:16 brand design guide poster using the uploaded product imag
 
 ---
 
-### 96. Choose your side
+### 95. Choose your side
 
 ![Choose your side](https://opennana.com/awesome-prompt-gallery/images/63.jpeg)
 
@@ -2500,7 +2484,7 @@ A dramatic cinematic scene featuring two rival products placed side by side in a
 
 ---
 
-### 97. cave paintings
+### 96. cave paintings
 
 ![cave paintings](https://opennana.com/awesome-prompt-gallery/images/64.png)
 
@@ -2516,7 +2500,7 @@ A cave painting of a [subject], rendered with primitive ochres and charcoal line
 
 ---
 
-### 98. crumpled paper
+### 97. crumpled paper
 
 ![crumpled paper](https://opennana.com/awesome-prompt-gallery/images/65.jpeg)
 
@@ -2532,7 +2516,7 @@ A photorealistic image of the word '[NAME]' spelled out using torn, highly crump
 
 ---
 
-### 99. Neon style tools
+### 98. Neon style tools
 
 ![Neon style tools](https://opennana.com/awesome-prompt-gallery/images/66.png)
 
@@ -2583,7 +2567,7 @@ retexture the image attached based on the JSON aesthetic below
 
 ---
 
-### 100. Cute miniature scene
+### 99. Cute miniature scene
 
 ![Cute miniature scene](https://opennana.com/awesome-prompt-gallery/images/67.jpeg)
 
@@ -2655,7 +2639,7 @@ retexture the image attached based on the JSON aesthetic below
 
 ---
 
-### 101. There is a miniature 3D world inside the transparent container
+### 100. There is a miniature 3D world inside the transparent container
 
 ![There is a miniature 3D world inside the transparent container](https://opennana.com/awesome-prompt-gallery/images/68.png)
 
@@ -2671,7 +2655,7 @@ A giant [transparent or glossy] [object/container] with a miniature 3D diorama i
 
 ---
 
-### 102. Branded folding paper
+### 101. Branded folding paper
 
 ![Branded folding paper](https://opennana.com/awesome-prompt-gallery/images/69.png)
 
@@ -2691,7 +2675,7 @@ Dramatic studio lighting, origami texture detail, soft gradient shadows. Stylize
 
 ---
 
-### 103. rose gold reimagined
+### 102. rose gold reimagined
 
 ![rose gold reimagined](https://opennana.com/awesome-prompt-gallery/images/70.jpeg)
 
@@ -2707,7 +2691,7 @@ Design a luxury-themed 1:1 image featuring a rose gold sculpture that embodies t
 
 ---
 
-### 104. Landscape cave entrance shape
+### 103. Landscape cave entrance shape
 
 ![Landscape cave entrance shape](https://opennana.com/awesome-prompt-gallery/images/71.png)
 
@@ -2723,7 +2707,7 @@ Prompt: An image of a [TYPE] landscape, featuring a cave entrance that is shaped
 
 ---
 
-### 105. Surrealist oil painting
+### 104. Surrealist oil painting
 
 ![Surrealist oil painting](https://opennana.com/awesome-prompt-gallery/images/72.png)
 
@@ -2739,7 +2723,7 @@ A surreal oil painting of a [subject], executed in the style of early 20th-centu
 
 ---
 
-### 106. Funny furry letters
+### 105. Funny furry letters
 
 ![Funny furry letters](https://opennana.com/awesome-prompt-gallery/images/73.png)
 
@@ -2755,7 +2739,7 @@ A highly realistic 3D render of the letter [A-Z] designed as a full-body fluffy 
 
 ---
 
-### 107. 3D cute pastel clay icon
+### 106. 3D cute pastel clay icon
 
 ![3D cute pastel clay icon](https://opennana.com/awesome-prompt-gallery/images/74.png)
 
@@ -2771,7 +2755,7 @@ Tiny cute isometric [smiling - optional] [OBJECT] emoji, shape, soft lighting, s
 
 ---
 
-### 108. Cute and clean base diorama
+### 107. Cute and clean base diorama
 
 ![Cute and clean base diorama](https://opennana.com/awesome-prompt-gallery/images/75.png)
 
@@ -2787,7 +2771,7 @@ Highly detailed 3D-rendered chibi figurine diorama of [Character A] and [Charact
 
 ---
 
-### 109. Black and white comic style illustration
+### 108. Black and white comic style illustration
 
 ![Black and white comic style illustration](https://opennana.com/awesome-prompt-gallery/images/76.png)
 
@@ -2803,7 +2787,7 @@ Highly dramatic and epic black and white manga-style illustration of [Your chara
 
 ---
 
-### 110. 3D snack cartoon world
+### 109. 3D snack cartoon world
 
 ![3D snack cartoon world](https://opennana.com/awesome-prompt-gallery/images/77.jpeg)
 
@@ -2819,7 +2803,7 @@ A 3D-rendered digital illustration featuring a retro-style food truck inspired b
 
 ---
 
-### 111. Plush form emoticon
+### 110. Plush form emoticon
 
 ![Plush form emoticon](https://opennana.com/awesome-prompt-gallery/images/78.png)
 
@@ -2853,7 +2837,7 @@ Recreate this [insert emoji] using the parameters from the JSON provided.
 
 ---
 
-### 112. Alloy icon
+### 111. Alloy icon
 
 ![Alloy icon](https://opennana.com/awesome-prompt-gallery/images/79.jpeg)
 
@@ -2919,7 +2903,7 @@ turn a vector [ type
 
 ---
 
-### 113. fruit shape
+### 112. fruit shape
 
 ![fruit shape](https://opennana.com/awesome-prompt-gallery/images/80.jpeg)
 
@@ -2935,7 +2919,7 @@ Create an image by arranging [NUMBER/AGGREGATE] of [FRUIT] strategically on a da
 
 ---
 
-### 114. Branded musical instruments
+### 113. Branded musical instruments
 
 ![Branded musical instruments](https://opennana.com/awesome-prompt-gallery/images/81.png)
 
@@ -2951,7 +2935,7 @@ A highly stylized and vibrant promotional image of a [INSTRUMENT] designed in th
 
 ---
 
-### 115. Neon floral harmony illustration
+### 114. Neon floral harmony illustration
 
 ![Neon floral harmony illustration](https://opennana.com/awesome-prompt-gallery/images/82.png)
 
@@ -2967,7 +2951,7 @@ A Neon Floral Harmony illustration of [SUBJECT], with flowers and plants outline
 
 ---
 
-### 116. Glitch vector logo style
+### 115. Glitch vector logo style
 
 ![Glitch vector logo style](https://opennana.com/awesome-prompt-gallery/images/83.png)
 
@@ -2983,7 +2967,7 @@ A bold vector logo design in glitch art style, featuring distorted typography wi
 
 ---
 
-### 117. Gradient extrusion Google I/O 2025 conference visual effects
+### 116. Gradient extrusion Google I/O 2025 conference visual effects
 
 ![Gradient extrusion Google I/O 2025 conference visual effects](https://opennana.com/awesome-prompt-gallery/images/84.jpeg)
 
@@ -3057,7 +3041,7 @@ Retexture this image in the following JSON style aesthetic:
 
 ---
 
-### 118. OpenAI wearables of the future
+### 117. OpenAI wearables of the future
 
 ![OpenAI wearables of the future](https://opennana.com/awesome-prompt-gallery/images/86.png)
 
@@ -3073,7 +3057,7 @@ Create image with 1:1 ratio A next-gen wearable ai [device type] blending Jony I
 
 ---
 
-### 119. Brand unlocks childhood memories
+### 118. Brand unlocks childhood memories
 
 ![Brand unlocks childhood memories](https://opennana.com/awesome-prompt-gallery/images/87.png)
 
@@ -3089,7 +3073,7 @@ A realistic, cinematic photograph of a vintage [BRAND NAME] item being gently li
 
 ---
 
-### 120. AirBnB anything
+### 119. AirBnB anything
 
 ![AirBnB anything](https://opennana.com/awesome-prompt-gallery/images/88.png)
 
@@ -3123,7 +3107,7 @@ Optional Add-on for Replication:  Use the attached photo as a reference for prop
 
 ---
 
-### 121. Three different fantasy sailing ships in the ocean
+### 120. Three different fantasy sailing ships in the ocean
 
 ![Three different fantasy sailing ships in the ocean](https://opennana.com/awesome-prompt-gallery/images/89.jpeg)
 
@@ -3139,7 +3123,7 @@ Three different fantasy sailboats in the ocean, multiple scenes of beautiful aur
 
 ---
 
-### 122. Turn your logo into a felt texture
+### 121. Turn your logo into a felt texture
 
 ![Turn your logo into a felt texture](https://opennana.com/awesome-prompt-gallery/images/90.jpeg)
 
@@ -3208,7 +3192,7 @@ Retexture [BRAND NAME] logo following my JSON aesthetic below:
 
 ---
 
-### 123. dynamic sculpture
+### 122. dynamic sculpture
 
 ![dynamic sculpture](https://opennana.com/awesome-prompt-gallery/images/91.png)
 
@@ -3224,7 +3208,7 @@ A kinetic sculpture of a [subject], made of interlocking metal rods and panels i
 
 ---
 
-### 124. neon glass glow
+### 123. neon glass glow
 
 ![neon glass glow](https://opennana.com/awesome-prompt-gallery/images/92.jpeg)
 
@@ -3289,7 +3273,7 @@ Recreate this image using the parameters from the JSON provided.
 
 ---
 
-### 125. Thought bubbles of different emotional states
+### 124. Thought bubbles of different emotional states
 
 ![Thought bubbles of different emotional states](https://opennana.com/awesome-prompt-gallery/images/93.jpeg)
 
@@ -3305,7 +3289,7 @@ A [SUBJECT] sits alone in a minimalistic room filled with floating, semi-transpa
 
 ---
 
-### 126. Pharmaceutical style merchandise
+### 125. Pharmaceutical style merchandise
 
 ![Pharmaceutical style merchandise](https://opennana.com/awesome-prompt-gallery/images/94.jpeg)
 
@@ -3321,7 +3305,7 @@ A square-format digital photograph showing a fictional pharmaceutical-style prod
 
 ---
 
-### 127. Brand flat paper style
+### 126. Brand flat paper style
 
 ![Brand flat paper style](https://opennana.com/awesome-prompt-gallery/images/95.png)
 
@@ -3337,7 +3321,7 @@ A flat branded paper folds itself into the full 3D shape of a [Air Jordan 1 shoe
 
 ---
 
-### 128. 3D steampunk logo
+### 127. 3D steampunk logo
 
 ![3D steampunk logo](https://opennana.com/awesome-prompt-gallery/images/96.jpeg)
 
@@ -3353,7 +3337,7 @@ A flat branded paper folds itself into the full 3D shape of a [Air Jordan 1 shoe
 
 ---
 
-### 129. Retro computer boot screen parsed into ASCII art
+### 128. Retro computer boot screen parsed into ASCII art
 
 ![Retro computer boot screen parsed into ASCII art](https://opennana.com/awesome-prompt-gallery/images/97.png)
 
@@ -3369,7 +3353,7 @@ Retro CRT computer boot screen that resolves into ASCII-art of NYC's tallest bui
 
 ---
 
-### 130. 3D cartoon sculpture style
+### 129. 3D cartoon sculpture style
 
 ![3D cartoon sculpture style](https://opennana.com/awesome-prompt-gallery/images/98.jpeg)
 
@@ -3385,7 +3369,7 @@ a soft 3D cartoon-style sculpture of [brand product], made of smooth clay-like t
 
 ---
 
-### 131. History in the toy box
+### 130. History in the toy box
 
 ![History in the toy box](https://opennana.com/awesome-prompt-gallery/images/99.png)
 
@@ -3401,7 +3385,7 @@ An ultra-realistic top-down photograph of a 3D-printed diorama inside a beige ca
 
 ---
 
-### 132. The ultimate crossover
+### 131. The ultimate crossover
 
 ![The ultimate crossover](https://opennana.com/awesome-prompt-gallery/images/100.png)
 
@@ -3417,7 +3401,7 @@ Imagine [CHARAKTER 1] and [Charakter 2] casually sitting together at a table in 
 
 ---
 
-### 133. Turn your logo into a mascot
+### 132. Turn your logo into a mascot
 
 ![Turn your logo into a mascot](https://opennana.com/awesome-prompt-gallery/images/101.jpeg)
 
@@ -3476,7 +3460,7 @@ Create a mascot for [BRAND NAME] logo following the JSON aesthetic below:
 
 ---
 
-### 134. Textured images
+### 133. Textured images
 
 ![Textured images](https://opennana.com/awesome-prompt-gallery/images/102.png)
 
@@ -3537,7 +3521,7 @@ Retexture the image attached based on the json below
 
 ---
 
-### 135. embroidery style
+### 134. embroidery style
 
 ![embroidery style](https://opennana.com/awesome-prompt-gallery/images/103.png)
 
@@ -3620,7 +3604,7 @@ Retexture the image attached based on the json below
 
 ---
 
-### 136. Enamel mosaic tile style
+### 135. Enamel mosaic tile style
 
 ![Enamel mosaic tile style](https://opennana.com/awesome-prompt-gallery/images/104.png)
 
@@ -3640,7 +3624,7 @@ Visualize any selected emoji [] as an ultra-detailed, hyper-realistic 3D sculptu
 
 ---
 
-### 137. embroidery logo
+### 136. embroidery logo
 
 ![embroidery logo](https://opennana.com/awesome-prompt-gallery/images/105.jpeg)
 
@@ -3656,7 +3640,7 @@ A hyperrealistic embroidered textile artwork of the [SUBJECT], created with colo
 
 ---
 
-### 138. god of time
+### 137. god of time
 
 ![god of time](https://opennana.com/awesome-prompt-gallery/images/106.png)
 
@@ -3672,7 +3656,7 @@ Colossal marble statue of [INSERT OBJECT OR CHARACTER HERE], wings (if applicabl
 
 ---
 
-### 139. super animal hero
+### 138. super animal hero
 
 ![super animal hero](https://opennana.com/awesome-prompt-gallery/images/107.png)
 
@@ -3696,7 +3680,7 @@ Lighting should be warm and directional (studio-style), emphasizing the animal�
 
 ---
 
-### 140. logo liquefaction
+### 139. logo liquefaction
 
 ![logo liquefaction](https://opennana.com/awesome-prompt-gallery/images/108.jpeg)
 
@@ -3714,7 +3698,7 @@ Use appropriate colors for the logos.
 
 ---
 
-### 141. Paint splatter logo
+### 140. Paint splatter logo
 
 ![Paint splatter logo](https://opennana.com/awesome-prompt-gallery/images/109.png)
 
@@ -3730,7 +3714,7 @@ make a hyper-realistic 3D render of the attached logo, formed by glossy liquid p
 
 ---
 
-### 142. Pixar style character sheet
+### 141. Pixar style character sheet
 
 ![Pixar style character sheet](https://opennana.com/awesome-prompt-gallery/images/110.png)
 
@@ -3746,7 +3730,7 @@ A character sheet of [detailed description of thecharacter], in the style of Pix
 
 ---
 
-### 143. 3d hyper-realistic scene model
+### 142. 3d hyper-realistic scene model
 
 ![3d hyper-realistic scene model](https://opennana.com/awesome-prompt-gallery/images/111.jpeg)
 
@@ -3762,7 +3746,7 @@ A character sheet of [detailed description of thecharacter], in the style of Pix
 
 ---
 
-### 144. Outline key lines
+### 143. Outline key lines
 
 ![Outline key lines](https://opennana.com/awesome-prompt-gallery/images/112.jpeg)
 
@@ -3778,7 +3762,7 @@ A digital illustration of a [SUBJECT], portrayed with a network of glowing clean
 
 ---
 
-### 145. glow icon
+### 144. glow icon
 
 ![glow icon](https://opennana.com/awesome-prompt-gallery/images/113.jpeg)
 
@@ -3794,7 +3778,7 @@ A close-up digital photo of a human hand gently holding a glowing neon blue squa
 
 ---
 
-### 146. Monochrome LCD effect
+### 145. Monochrome LCD effect
 
 ![Monochrome LCD effect](https://opennana.com/awesome-prompt-gallery/images/114.png)
 
@@ -3861,7 +3845,7 @@ A close-up digital photo of a human hand gently holding a glowing neon blue squa
 
 ---
 
-### 147. Cool and elegant product poster
+### 146. Cool and elegant product poster
 
 ![Cool and elegant product poster](https://opennana.com/awesome-prompt-gallery/images/115.png)
 
@@ -3877,7 +3861,7 @@ Imagine a visual concept where [insert your product] — featuring Korean text o
 
 ---
 
-### 148. Nintendo style 3D cartoon illustration
+### 147. Nintendo style 3D cartoon illustration
 
 ![Nintendo style 3D cartoon illustration](https://opennana.com/awesome-prompt-gallery/images/116.png)
 
@@ -3903,7 +3887,7 @@ The overall tone should be lighthearted, clean, and family-friendly, like a fram
 
 ---
 
-### 149. Anime mecha stylized mechanical design drawing
+### 148. Anime mecha stylized mechanical design drawing
 
 ![Anime mecha stylized mechanical design drawing](https://opennana.com/awesome-prompt-gallery/images/117.png)
 
@@ -3925,7 +3909,7 @@ Keep the format horizontal, like a blueprint or character sheet, with a balance 
 
 ---
 
-### 150. Brand product digital advertising
+### 149. Brand product digital advertising
 
 ![Brand product digital advertising](https://opennana.com/awesome-prompt-gallery/images/118.jpeg)
 
@@ -3941,7 +3925,7 @@ A hyper-realistic, ultra-detailed 3D digital advertisement showcasing a Pepsi ca
 
 ---
 
-### 151. City Embroidery Stickers Photo
+### 150. City Embroidery Stickers Photo
 
 ![City Embroidery Stickers Photo](https://opennana.com/awesome-prompt-gallery/images/119.png)
 
@@ -3958,7 +3942,7 @@ Integrate the national colors of the country represented—such as in the text, 
 
 ---
 
-### 152. Funny style 3D vinyl toys
+### 151. Funny style 3D vinyl toys
 
 ![Funny style 3D vinyl toys](https://opennana.com/awesome-prompt-gallery/images/120.png)
 
@@ -3974,7 +3958,7 @@ Chibi-style 3D vinyl toy of [subject], rendered in [color1] and [color2] tones, 
 
 ---
 
-### 153. Renaissance Anatomy
+### 152. Renaissance Anatomy
 
 ![Renaissance Anatomy](https://opennana.com/awesome-prompt-gallery/images/121.png)
 
@@ -3990,7 +3974,7 @@ A Renaissance anatomical study of a [subject], meticulously illustrated in fine 
 
 ---
 
-### 154. Toy transporter made of slime
+### 153. Toy transporter made of slime
 
 ![Toy transporter made of slime](https://opennana.com/awesome-prompt-gallery/images/122.png)
 
@@ -4023,7 +4007,7 @@ A Renaissance anatomical study of a [subject], meticulously illustrated in fine 
 
 ---
 
-### 155. plant sculpture
+### 154. plant sculpture
 
 ![plant sculpture](https://opennana.com/awesome-prompt-gallery/images/123.png)
 
@@ -4039,7 +4023,7 @@ The [subject] appears as if organically grown from intertwining plants, flowers,
 
 ---
 
-### 156. Frosted blur silhouette
+### 155. Frosted blur silhouette
 
 ![Frosted blur silhouette](https://opennana.com/awesome-prompt-gallery/images/124.jpeg)
 
@@ -4055,7 +4039,7 @@ A black and white photograph shows the blurred silhouette of a [SUBJECT] behind 
 
 ---
 
-### 157. fashion brand doll
+### 156. fashion brand doll
 
 ![fashion brand doll](https://opennana.com/awesome-prompt-gallery/images/125.png)
 
@@ -4071,7 +4055,7 @@ A hyper-realistic photograph of a fashion doll styled in the aesthetic of [BRAND
 
 ---
 
-### 158. Surreal advertising reimagined
+### 157. Surreal advertising reimagined
 
 ![Surreal advertising reimagined](https://opennana.com/awesome-prompt-gallery/images/126.jpeg)
 
@@ -4090,7 +4074,7 @@ Style: surreal, high-resolution, minimal, cinematic lighting, 1:1 aspect ratio.
 
 ---
 
-### 159. symbol conflict
+### 158. symbol conflict
 
 ![symbol conflict](https://opennana.com/awesome-prompt-gallery/images/127.png)
 
@@ -4118,7 +4102,7 @@ Aspect Ratio: 1:1
 
 ---
 
-### 160. Infinite reflection of a word
+### 159. Infinite reflection of a word
 
 ![Infinite reflection of a word](https://opennana.com/awesome-prompt-gallery/images/128.png)
 
@@ -4134,7 +4118,7 @@ A [PERSON] in a dark room with a glowing projection of the word “[WORD]” rep
 
 ---
 
-### 161. Create suspended sliced ​​fruit
+### 160. Create suspended sliced ​​fruit
 
 ![Create suspended sliced ​​fruit](https://opennana.com/awesome-prompt-gallery/images/129.jpeg)
 
@@ -4150,7 +4134,7 @@ A hyper-realistic photograph of a [FRUIT] sliced into five glossy layers, each s
 
 ---
 
-### 162. Create surreal and impossible images
+### 161. Create surreal and impossible images
 
 ![Create surreal and impossible images](https://opennana.com/awesome-prompt-gallery/images/130.jpeg)
 
@@ -4166,7 +4150,7 @@ Create a surreal split-scene where the left half is an underwater version of a [
 
 ---
 
-### 163. Custom plush keychain
+### 162. Custom plush keychain
 
 ![Custom plush keychain](https://opennana.com/awesome-prompt-gallery/images/131.jpeg)
 
@@ -4182,7 +4166,7 @@ Close-up photo of a small plush keychain of [attached image/emojis]  held gently
 
 ---
 
-### 164. suspended magic realism
+### 163. suspended magic realism
 
 ![suspended magic realism](https://opennana.com/awesome-prompt-gallery/images/132.jpeg)
 
@@ -4198,7 +4182,7 @@ An old-fashioned postal shack floating on a space rock, with envelopes flutterin
 
 ---
 
-### 165. ghost form
+### 164. ghost form
 
 ![ghost form](https://opennana.com/awesome-prompt-gallery/images/133.png)
 
@@ -4214,7 +4198,7 @@ A hyper-realistic photograph of a [SUBJECT] entirely made from a single, semi-ri
 
 ---
 
-### 166. Generate real movie posters
+### 165. Generate real movie posters
 
 ![Generate real movie posters](https://opennana.com/awesome-prompt-gallery/images/134.jpeg)
 
@@ -4234,7 +4218,7 @@ Include a short, emotionally resonant tagline beneath the title. Overall composi
 
 ---
 
-### 167. Prismatic glass icon
+### 166. Prismatic glass icon
 
 ![Prismatic glass icon](https://opennana.com/awesome-prompt-gallery/images/135.jpeg)
 
@@ -4250,7 +4234,7 @@ Create a high-resolution illustration of a [skull] icon in the style of a glossy
 
 ---
 
-### 168. Daily necessities have skin
+### 167. Daily necessities have skin
 
 ![Daily necessities have skin](https://opennana.com/awesome-prompt-gallery/images/136.png)
 
@@ -4266,7 +4250,7 @@ A high-quality studio photograph of a [OBJECT] fully covered in ultra-realistic 
 
 ---
 
-### 169. Put everything into perspective
+### 168. Put everything into perspective
 
 ![Put everything into perspective](https://opennana.com/awesome-prompt-gallery/images/137.jpeg)
 
@@ -4282,7 +4266,7 @@ a fully transparent [product] made of ultra-clear iridescent glass, showing all 
 
 ---
 
-### 170. Gumroad style icon
+### 169. Gumroad style icon
 
 ![Gumroad style icon](https://opennana.com/awesome-prompt-gallery/images/138.jpeg)
 
@@ -4298,7 +4282,7 @@ Create a high-resolution illustration of a [OBJECT] icon in the style of a flat,
 
 ---
 
-### 171. Turn your favorite brands into lifestyle products
+### 170. Turn your favorite brands into lifestyle products
 
 ![Turn your favorite brands into lifestyle products](https://opennana.com/awesome-prompt-gallery/images/139.jpeg)
 
@@ -4314,7 +4298,7 @@ A high-quality studio product photo of a [brand name]-branded [product type], [f
 
 ---
 
-### 172. Modern digital anime style
+### 171. Modern digital anime style
 
 ![Modern digital anime style](https://opennana.com/awesome-prompt-gallery/images/140.png)
 
@@ -4330,7 +4314,7 @@ Transform this image into a modern digital anime TV style. Use clean and sharp o
 
 ---
 
-### 173. Surveillance-level fashion insights
+### 172. Surveillance-level fashion insights
 
 ![Surveillance-level fashion insights](https://opennana.com/awesome-prompt-gallery/images/141.jpeg)
 
@@ -4347,7 +4331,7 @@ A closed up view of focus woman carrying  [brand] [product] on street, a square 
 
 ---
 
-### 174. Design sneakers for any brand
+### 173. Design sneakers for any brand
 
 ![Design sneakers for any brand](https://opennana.com/awesome-prompt-gallery/images/142.jpeg)
 
@@ -4363,7 +4347,7 @@ create image with 1:1 ratio   A branded footwear ad for [Brand], showcasing the 
 
 ---
 
-### 175. disney cocktails
+### 174. disney cocktails
 
 ![disney cocktails](https://opennana.com/awesome-prompt-gallery/images/143.png)
 
@@ -4379,7 +4363,7 @@ A realistic, high-end cocktail in a frosted glass with a sparkling salt rim, fil
 
 ---
 
-### 176. Fantastic vaporwave distortion
+### 175. Fantastic vaporwave distortion
 
 ![Fantastic vaporwave distortion](https://opennana.com/awesome-prompt-gallery/images/144.png)
 
@@ -4395,7 +4379,7 @@ A realistic, high-end cocktail in a frosted glass with a sparkling salt rim, fil
 
 ---
 
-### 177. Play chess with your own aesthetic
+### 176. Play chess with your own aesthetic
 
 ![Play chess with your own aesthetic](https://opennana.com/awesome-prompt-gallery/images/145.png)
 
@@ -4411,7 +4395,7 @@ A highly realistic vertical photograph of a traditional chessboard viewed from a
 
 ---
 
-### 178. Holographic overlay effect rainbow gradient
+### 177. Holographic overlay effect rainbow gradient
 
 ![Holographic overlay effect rainbow gradient](https://opennana.com/awesome-prompt-gallery/images/146.jpeg)
 
@@ -4427,7 +4411,7 @@ Apply a holographic overlay effect on [SUBJECT/TEXT] — dreamy rainbow gradient
 
 ---
 
-### 179. Glass deformation poster
+### 178. Glass deformation poster
 
 ![Glass deformation poster](https://opennana.com/awesome-prompt-gallery/images/147.jpeg)
 
@@ -4443,7 +4427,7 @@ Design a cinematic brand poster featuring “[BRAND NAME]” — include a bold 
 
 ---
 
-### 180. nostalgic afternoon sunshine
+### 179. nostalgic afternoon sunshine
 
 ![nostalgic afternoon sunshine](https://opennana.com/awesome-prompt-gallery/images/148.jpeg)
 
@@ -4459,7 +4443,7 @@ a pillow fort in the backyard, shaded by a big old tree. Sunlight filters throug
 
 ---
 
-### 181. Gorillaz style characters
+### 180. Gorillaz style characters
 
 ![Gorillaz style characters](https://opennana.com/awesome-prompt-gallery/images/149.png)
 
@@ -4475,7 +4459,7 @@ Create a stylized full-body portrait of [your subject] in the Gorillaz character
 
 ---
 
-### 182. vinyl toys
+### 181. vinyl toys
 
 ![vinyl toys](https://opennana.com/awesome-prompt-gallery/images/150.png)
 
@@ -4491,7 +4475,7 @@ A comic-style caricature illustration of [subject], with an oversized head and e
 
 ---
 
-### 183. Neoglo style logo
+### 182. Neoglo style logo
 
 ![Neoglo style logo](https://opennana.com/awesome-prompt-gallery/images/151.jpeg)
 
@@ -4518,7 +4502,7 @@ The logo should feel creative, modern, and ready for a bold digital brand.
 
 ---
 
-### 184. new anime style
+### 183. new anime style
 
 ![new anime style](https://opennana.com/awesome-prompt-gallery/images/152.png)
 
@@ -4534,7 +4518,7 @@ Transform this image into a 1960s Tezuka-style illustration. Use big, rounded ex
 
 ---
 
-### 185. Neon wireframe
+### 184. Neon wireframe
 
 ![Neon wireframe](https://opennana.com/awesome-prompt-gallery/images/153.png)
 
@@ -4550,7 +4534,7 @@ A neon wireframe visualization of a [subject], traced in glowing [color1] and [c
 
 ---
 
-### 186. Colorful knitted
+### 185. Colorful knitted
 
 ![Colorful knitted](https://opennana.com/awesome-prompt-gallery/images/154.jpeg)
 
@@ -4566,7 +4550,7 @@ A hyper-realistic, artistic rendering of a [OBJECT] entirely wrapped in colorful
 
 ---
 
-### 187. Your own national landmark fashion magazine
+### 186. Your own national landmark fashion magazine
 
 ![Your own national landmark fashion magazine](https://opennana.com/awesome-prompt-gallery/images/155.png)
 
@@ -4582,7 +4566,7 @@ a luxurious fashion magazine cover designed in the style of [COUNTRY], blending 
 
 ---
 
-### 188. Famous landmarks as furniture
+### 187. Famous landmarks as furniture
 
 ![Famous landmarks as furniture](https://opennana.com/awesome-prompt-gallery/images/156.jpeg)
 
@@ -4598,7 +4582,7 @@ The [LANDMARK - Statue of Liberty/Eiffel Tower/Big Ben] perfectly carved and fun
 
 ---
 
-### 189. Minimal weather widget
+### 188. Minimal weather widget
 
 ![Minimal weather widget](https://opennana.com/awesome-prompt-gallery/images/157.jpeg)
 
@@ -4615,7 +4599,7 @@ surreal minimal aesthetic, airplane window frame on subtle gradient backdrop wit
 
 ---
 
-### 190. Branded 3D Cartoon Animal Characters
+### 189. Branded 3D Cartoon Animal Characters
 
 ![Branded 3D Cartoon Animal Characters](https://opennana.com/awesome-prompt-gallery/images/158.png)
 
@@ -4631,7 +4615,7 @@ A high-quality 3D cartoon animal character inspired by [Brand Name], with large 
 
 ---
 
-### 191. render gem
+### 190. render gem
 
 ![render gem](https://opennana.com/awesome-prompt-gallery/images/159.jpeg)
 
@@ -4697,7 +4681,7 @@ Recreate this image using the pamareters of the JSON provided.
 
 ---
 
-### 192. new anime style
+### 191. new anime style
 
 ![new anime style](https://opennana.com/awesome-prompt-gallery/images/160.png)
 
@@ -4713,7 +4697,7 @@ Transform this image into an over-the-top anime illustration in the style of Tri
 
 ---
 
-### 193. Item texturing
+### 192. Item texturing
 
 ![Item texturing](https://opennana.com/awesome-prompt-gallery/images/161.png)
 
@@ -4763,7 +4747,7 @@ retexture the image attached based on the JSON below:
 
 ---
 
-### 194. surreal vaporwave
+### 193. surreal vaporwave
 
 ![surreal vaporwave](https://opennana.com/awesome-prompt-gallery/images/162.png)
 
@@ -4779,7 +4763,7 @@ retexture the image attached based on the JSON below:
 
 ---
 
-### 195. Translucent glass items ASMR
+### 194. Translucent glass items ASMR
 
 ![Translucent glass items ASMR](https://opennana.com/awesome-prompt-gallery/images/163.jpeg)
 
@@ -4795,7 +4779,7 @@ Hyper-realistic [fruit name] made of translucent glass, smooth, rounded surface 
 
 ---
 
-### 196. Turn emojis into cardboard
+### 195. Turn emojis into cardboard
 
 ![Turn emojis into cardboard](https://opennana.com/awesome-prompt-gallery/images/164.png)
 
@@ -4811,7 +4795,7 @@ Ultra high-resolution 3D render of the emoji [🥹], meticulously recreated as a
 
 ---
 
-### 197. Cover emojis with bubble wrap
+### 196. Cover emojis with bubble wrap
 
 ![Cover emojis with bubble wrap](https://opennana.com/awesome-prompt-gallery/images/165.png)
 
@@ -4827,7 +4811,7 @@ A hyper-realistic 3D render of the emoji [❤️‍🔥], entirely wrapped in tr
 
 ---
 
-### 198. Geometry Zen
+### 197. Geometry Zen
 
 ![Geometry Zen](https://opennana.com/awesome-prompt-gallery/images/166.png)
 
@@ -4843,7 +4827,7 @@ A hyper-realistic 3D render of the emoji [❤️‍🔥], entirely wrapped in tr
 
 ---
 
-### 199. Liquid metal design products
+### 198. Liquid metal design products
 
 ![Liquid metal design products](https://opennana.com/awesome-prompt-gallery/images/167.jpeg)
 
@@ -4861,7 +4845,7 @@ retexture the photo I attached with the following json
 
 ---
 
-### 200. fruit candle
+### 199. fruit candle
 
 ![fruit candle](https://opennana.com/awesome-prompt-gallery/images/168.png)
 
@@ -4877,7 +4861,7 @@ A minimal still life of a round glass candle filled with [fruit], labeled “[SC
 
 ---
 
-### 201. Micro transparent capsule
+### 200. Micro transparent capsule
 
 ![Micro transparent capsule](https://opennana.com/awesome-prompt-gallery/images/169.png)
 
@@ -4893,7 +4877,7 @@ Close-up, A hand holding a transparent capsule, inside it is a miniature model o
 
 ---
 
-### 202. new cartoon style
+### 201. new cartoon style
 
 ![new cartoon style](https://opennana.com/awesome-prompt-gallery/images/170.png)
 
@@ -4909,7 +4893,7 @@ Transform this image into the Foster’s Home for Imaginary Friends cartoon styl
 
 ---
 
-### 203. Neon branding reimagined
+### 202. Neon branding reimagined
 
 ![Neon branding reimagined](https://opennana.com/awesome-prompt-gallery/images/171.jpeg)
 
@@ -4925,7 +4909,7 @@ Create a cinematic advertisement for “[PRODUCT NAME]” — use bioluminescent
 
 ---
 
-### 204. Prismatic crystal
+### 203. Prismatic crystal
 
 ![Prismatic crystal](https://opennana.com/awesome-prompt-gallery/images/172.jpeg)
 
@@ -4971,7 +4955,7 @@ Recreate this image using the parameters of the JSON provided.
 
 ---
 
-### 205. Retro style icon
+### 204. Retro style icon
 
 ![Retro style icon](https://opennana.com/awesome-prompt-gallery/images/173.jpeg)
 
@@ -4987,7 +4971,7 @@ Create an illustration of a [OBJECT] in a retro cartoon style. Use only flat, so
 
 ---
 
-### 206. Generate movie atmosphere map
+### 205. Generate movie atmosphere map
 
 ![Generate movie atmosphere map](https://opennana.com/awesome-prompt-gallery/images/174.png)
 
@@ -5003,7 +4987,7 @@ Cinematic still, A [ description of the character or action scene], with a [ bac
 
 ---
 
-### 207. translucent crystal effect
+### 206. translucent crystal effect
 
 ![translucent crystal effect](https://opennana.com/awesome-prompt-gallery/images/175.jpeg)
 
@@ -5019,7 +5003,7 @@ a [SUBJECT] rendered as a translucent crystalline form with beveled edges, subtl
 
 ---
 
-### 208. 3D geometric effect
+### 207. 3D geometric effect
 
 ![3D geometric effect](https://opennana.com/awesome-prompt-gallery/images/176.jpeg)
 
@@ -5035,7 +5019,7 @@ A bison in the center of an array of colorful geometric shapes, surrounded by sy
 
 ---
 
-### 209. 2D word poster design
+### 208. 2D word poster design
 
 ![2D word poster design](https://opennana.com/awesome-prompt-gallery/images/177.jpeg)
 
@@ -5051,7 +5035,7 @@ Create a surreal 2D poster design based on the word “[KEYWORD]” — the layo
 
 ---
 
-### 210. bioluminescence
+### 209. bioluminescence
 
 ![bioluminescence](https://opennana.com/awesome-prompt-gallery/images/178.png)
 
@@ -5067,7 +5051,7 @@ Create a surreal 2D poster design based on the word “[KEYWORD]” — the layo
 
 ---
 
-### 211. Create a variety of 3D style avatars
+### 210. Create a variety of 3D style avatars
 
 ![Create a variety of 3D style avatars](https://opennana.com/awesome-prompt-gallery/images/179.png)
 
@@ -5083,7 +5067,7 @@ Create a 3D-rendered digital illustration of a stylized cartoon boy character, s
 
 ---
 
-### 212. Cute pastel vinyl characters
+### 211. Cute pastel vinyl characters
 
 ![Cute pastel vinyl characters](https://opennana.com/awesome-prompt-gallery/images/180.png)
 
@@ -5099,7 +5083,7 @@ A cute pastel vinyl figure of [INSERT YOUR CHARACTER OR OBJECT], pastel colors (
 
 ---
 
-### 213. Abstract liquid typography text
+### 212. Abstract liquid typography text
 
 ![Abstract liquid typography text](https://opennana.com/awesome-prompt-gallery/images/181.jpeg)
 
@@ -5115,7 +5099,7 @@ Abstract liquid typography spelling "text", made of thick, transparent water-gel
 
 ---
 
-### 214. LOGO made of bird feathers
+### 213. LOGO made of bird feathers
 
 ![LOGO made of bird feathers](https://opennana.com/awesome-prompt-gallery/images/182.jpeg)
 
@@ -5131,7 +5115,7 @@ A detailed overhead shot of a fluid, colorful OpenAI logo created by arranging h
 
 ---
 
-### 215. Neon effect poster
+### 214. Neon effect poster
 
 ![Neon effect poster](https://opennana.com/awesome-prompt-gallery/images/183.jpeg)
 
@@ -5147,7 +5131,7 @@ a single [OBJECT] glowing vividly with internal neon light that matches its bran
 
 ---
 
-### 216. LEGO style set
+### 215. LEGO style set
 
 ![LEGO style set](https://opennana.com/awesome-prompt-gallery/images/184.png)
 
@@ -5163,7 +5147,7 @@ a realistic LEGO-style set featuring [COUNTRY]’s national treasure: [ITEM]. Ph
 
 ---
 
-### 217. Ergonomics
+### 216. Ergonomics
 
 ![Ergonomics](https://opennana.com/awesome-prompt-gallery/images/185.png)
 
@@ -5179,7 +5163,7 @@ Imagine a [piece of furniture] designed in the form of [creature/object/concept]
 
 ---
 
-### 218. art deco metropolitan
+### 217. art deco metropolitan
 
 ![art deco metropolitan](https://opennana.com/awesome-prompt-gallery/images/186.png)
 
@@ -5195,7 +5179,7 @@ Imagine a [piece of furniture] designed in the form of [creature/object/concept]
 
 ---
 
-### 219. new cartoon style
+### 218. new cartoon style
 
 ![new cartoon style](https://opennana.com/awesome-prompt-gallery/images/187.png)
 
@@ -5211,7 +5195,7 @@ Transform this image into a classic Tex Avery / Looney Tunes cartoon style. Use 
 
 ---
 
-### 220. Miniature felt wool figures
+### 219. Miniature felt wool figures
 
 ![Miniature felt wool figures](https://opennana.com/awesome-prompt-gallery/images/188.png)
 
@@ -5227,7 +5211,7 @@ A felted wool figure of a [subject], handcrafted with soft fibers, uneven stitch
 
 ---
 
-### 221. Make anime-style signatures from beloved characters
+### 220. Make anime-style signatures from beloved characters
 
 ![Make anime-style signatures from beloved characters](https://opennana.com/awesome-prompt-gallery/images/189.png)
 
@@ -5243,7 +5227,7 @@ A minimalistic black-and-white autograph design in a single-line drawing style, 
 
 ---
 
-### 222. brand avatar
+### 221. brand avatar
 
 ![brand avatar](https://opennana.com/awesome-prompt-gallery/images/190.png)
 
@@ -5259,7 +5243,7 @@ A fictional character shaped like a [Brand Name] product, wearing clothing that 
 
 ---
 
-### 223. Post-apocalyptic atmosphere
+### 222. Post-apocalyptic atmosphere
 
 ![Post-apocalyptic atmosphere](https://opennana.com/awesome-prompt-gallery/images/191.jpeg)
 
@@ -5275,7 +5259,7 @@ a young cartoon boy with big goggles and scarf driving a tiny makeshift vehicle 
 
 ---
 
-### 224. Moonlight Rooftop Tea Party
+### 223. Moonlight Rooftop Tea Party
 
 ![Moonlight Rooftop Tea Party](https://opennana.com/awesome-prompt-gallery/images/192.jpeg)
 
@@ -5291,7 +5275,7 @@ A moonlight rooftop tea party between a girl and a boy, dreamy, gentle, painterl
 
 ---
 
-### 225. Put your logo on the moon
+### 224. Put your logo on the moon
 
 ![Put your logo on the moon](https://opennana.com/awesome-prompt-gallery/images/193.jpeg)
 
@@ -5364,7 +5348,7 @@ Recreate [BRAND NAME] logo following my JSON aesthetic below:
 
 ---
 
-### 226. art deco futurism
+### 225. art deco futurism
 
 ![art deco futurism](https://opennana.com/awesome-prompt-gallery/images/194.jpeg)
 
@@ -5381,7 +5365,7 @@ create image with 1:1 ratio
 
 ---
 
-### 227. Classic miniature toy style
+### 226. Classic miniature toy style
 
 ![Classic miniature toy style](https://opennana.com/awesome-prompt-gallery/images/195.png)
 
@@ -5397,7 +5381,7 @@ A miniature version of [LOCATION], designed in a whimsical dollhouse style. The 
 
 ---
 
-### 228. alphabet landscape
+### 227. alphabet landscape
 
 ![alphabet landscape](https://opennana.com/awesome-prompt-gallery/images/196.jpeg)
 
@@ -5413,7 +5397,7 @@ the letter B beautiful and elegant decorated with a beautiful beachscape
 
 ---
 
-### 229. Digital Clay Sculpture
+### 228. Digital Clay Sculpture
 
 ![Digital Clay Sculpture](https://opennana.com/awesome-prompt-gallery/images/197.png)
 
@@ -5429,7 +5413,7 @@ A digital clay sculpture of a [subject], captured in a [pose/action], resting on
 
 ---
 
-### 230. Cute designer dolls
+### 229. Cute designer dolls
 
 ![Cute designer dolls](https://opennana.com/awesome-prompt-gallery/images/198.png)
 
@@ -5445,7 +5429,7 @@ A cute designer doll styled as a [SUBJECT]. The doll has a porcelain face with b
 
 ---
 
-### 231. Custom textured retro toys
+### 230. Custom textured retro toys
 
 ![Custom textured retro toys](https://opennana.com/awesome-prompt-gallery/images/199.png)
 
@@ -5494,7 +5478,7 @@ Retexture the uploaded image based on the JSON
 
 ---
 
-### 232. Comparison between real person and style
+### 231. Comparison between real person and style
 
 ![Comparison between real person and style](https://opennana.com/awesome-prompt-gallery/images/200.jpeg)
 
@@ -5577,7 +5561,7 @@ create image {
 
 ---
 
-### 233. Little cartoon characters on paper
+### 232. Little cartoon characters on paper
 
 ![Little cartoon characters on paper](https://opennana.com/awesome-prompt-gallery/images/201.jpeg)
 
@@ -5593,7 +5577,7 @@ Imagine you’re a tiny cartoon character who has come to life on a piece of pap
 
 ---
 
-### 234. Create translucent icons
+### 233. Create translucent icons
 
 ![Create translucent icons](https://opennana.com/awesome-prompt-gallery/images/202.jpeg)
 
@@ -5609,7 +5593,7 @@ Create a 3D-rendered icon of [Subject] in a dreamy, translucent, glass-like plas
 
 ---
 
-### 235. 3D emoji head
+### 234. 3D emoji head
 
 ![3D emoji head](https://opennana.com/awesome-prompt-gallery/images/203.jpeg)
 
@@ -5625,7 +5609,7 @@ Generate a hyper-realistic 3D render of a [EMOJI🐱] as a floating animal head 
 
 ---
 
-### 236. The Matrix Green Code
+### 235. The Matrix Green Code
 
 ![The Matrix Green Code](https://opennana.com/awesome-prompt-gallery/images/204.jpeg)
 
@@ -5641,7 +5625,7 @@ Transform this image into a digital Matrix-style scene. The background and subje
 
 ---
 
-### 237. Animal-inspired brands
+### 236. Animal-inspired brands
 
 ![Animal-inspired brands](https://opennana.com/awesome-prompt-gallery/images/205.png)
 
@@ -5657,7 +5641,7 @@ A high-quality studio photograph of a [BRAND + OBJECT] fully covered in ultra-re
 
 ---
 
-### 238. Industrial interior brand advertising
+### 237. Industrial interior brand advertising
 
 ![Industrial interior brand advertising](https://opennana.com/awesome-prompt-gallery/images/206.jpeg)
 
@@ -5679,7 +5663,7 @@ Style: studio-grade lighting, high contrast, photorealistic textures.
 
 ---
 
-### 239. Surreal high impact images
+### 238. Surreal high impact images
 
 ![Surreal high impact images](https://opennana.com/awesome-prompt-gallery/images/207.jpeg)
 
@@ -5695,7 +5679,7 @@ Create a hyperrealistic, high-impact image of a [subject] suspended mid-air, cap
 
 ---
 
-### 240. Realistic product photos
+### 239. Realistic product photos
 
 ![Realistic product photos](https://opennana.com/awesome-prompt-gallery/images/208.jpeg)
 
@@ -5711,7 +5695,7 @@ A realistic product photo of a [brand name] [bottle or jar] sculpted entirely fr
 
 ---
 
-### 241. eat your words
+### 240. eat your words
 
 ![eat your words](https://opennana.com/awesome-prompt-gallery/images/209.jpeg)
 
@@ -5738,7 +5722,7 @@ The word should:
 
 ---
 
-### 242. 90s style wrestling characters
+### 241. 90s style wrestling characters
 
 ![90s style wrestling characters](https://opennana.com/awesome-prompt-gallery/images/210.jpeg)
 
@@ -5754,7 +5738,7 @@ Product photography, a 1990's style WWF Wrestling Figurine package with the figu
 
 ---
 
-### 243. city ​​in light bulb
+### 242. city ​​in light bulb
 
 ![city ​​in light bulb](https://opennana.com/awesome-prompt-gallery/images/211.jpeg)
 
@@ -5770,7 +5754,7 @@ Create a hyper-realistic, stylish poster featuring a light bulb lying on wet urb
 
 ---
 
-### 244. brand on suspended platform
+### 243. brand on suspended platform
 
 ![brand on suspended platform](https://opennana.com/awesome-prompt-gallery/images/212.png)
 
@@ -5786,7 +5770,7 @@ A highly detailed cinematic advertisement scene featuring [TYPE OF ALCOHOL, BRAN
 
 ---
 
-### 245. 3D fluffy objects
+### 244. 3D fluffy objects
 
 ![3D fluffy objects](https://opennana.com/awesome-prompt-gallery/images/213.jpeg)
 
@@ -5802,7 +5786,7 @@ Transform the [BRAND NAME] logo into a hyper-realistic, 3D fluffy object. Keep t
 
 ---
 
-### 246. Partially bitten pastry
+### 245. Partially bitten pastry
 
 ![Partially bitten pastry](https://opennana.com/awesome-prompt-gallery/images/214.jpeg)
 
@@ -5818,7 +5802,7 @@ A high-resolution, studio-lit macro photograph of a pastry shaped like a [SUBJEC
 
 ---
 
-### 247. Traveling through the maze of dreams
+### 246. Traveling through the maze of dreams
 
 ![Traveling through the maze of dreams](https://opennana.com/awesome-prompt-gallery/images/216.png)
 
@@ -5834,7 +5818,7 @@ A high-resolution, studio-lit macro photograph of a pastry shaped like a [SUBJEC
 
 ---
 
-### 248. Cartoon modern style illustration
+### 247. Cartoon modern style illustration
 
 ![Cartoon modern style illustration](https://opennana.com/awesome-prompt-gallery/images/217.png)
 
@@ -5855,7 +5839,7 @@ The final image should look like a frame from a 1950s or 1960s modernist cartoon
 
 ---
 
-### 249. Surreal black and white color page
+### 248. Surreal black and white color page
 
 ![Surreal black and white color page](https://opennana.com/awesome-prompt-gallery/images/218.jpeg)
 
@@ -5871,7 +5855,7 @@ Create a psychedelic black and white coloring page featuring melting [SUBJECT] i
 
 ---
 
-### 250. winter country
+### 249. winter country
 
 ![winter country](https://opennana.com/awesome-prompt-gallery/images/219.png)
 
@@ -5887,7 +5871,7 @@ A super detailed, realistic snow globe containing the essence of [Country Name].
 
 ---
 
-### 251. 3D store rendering
+### 250. 3D store rendering
 
 ![3D store rendering](https://opennana.com/awesome-prompt-gallery/images/220.jpeg)
 
@@ -5903,7 +5887,7 @@ Ultra-realistic 3D render of a cute, miniature [BRAND NAME] storefront building.
 
 ---
 
-### 252. diamond setting style
+### 251. diamond setting style
 
 ![diamond setting style](https://opennana.com/awesome-prompt-gallery/images/221.jpeg)
 
@@ -5972,7 +5956,7 @@ Recreate this image using the parameters of the JSON provided.
 
 ---
 
-### 253. Gem rendering style
+### 252. Gem rendering style
 
 ![Gem rendering style](https://opennana.com/awesome-prompt-gallery/images/222.jpeg)
 
@@ -6041,7 +6025,7 @@ Apply the parameters of the JSON provided to [insert image]
 
 ---
 
-### 254. Amazing exoskeleton images
+### 253. Amazing exoskeleton images
 
 ![Amazing exoskeleton images](https://opennana.com/awesome-prompt-gallery/images/223.jpeg)
 
@@ -6057,7 +6041,7 @@ a futuristic 3D-rendered [object] made of translucent [color] inner structure en
 
 ---
 
-### 255. A comfortable weekend starts here
+### 254. A comfortable weekend starts here
 
 ![A comfortable weekend starts here](https://opennana.com/awesome-prompt-gallery/images/224.png)
 
@@ -6113,7 +6097,7 @@ retexture the image attached based on the json below:
 
 ---
 
-### 256. Stylish capsule poster
+### 255. Stylish capsule poster
 
 ![Stylish capsule poster](https://opennana.com/awesome-prompt-gallery/images/225.jpeg)
 
@@ -6129,7 +6113,7 @@ Create a hyper-realistic, stylish poster [1080x1080] aspect ratio featuring a ho
 
 ---
 
-### 257. movie scene
+### 256. movie scene
 
 ![movie scene](https://opennana.com/awesome-prompt-gallery/images/226.png)
 
@@ -6145,7 +6129,7 @@ Close-up. Overhead shot from an extremely high vantage point, extremely low grai
 
 ---
 
-### 258. candy shaped items
+### 257. candy shaped items
 
 ![candy shaped items](https://opennana.com/awesome-prompt-gallery/images/227.png)
 
@@ -6161,7 +6145,7 @@ A glossy candy-shaped perfume bottle resting on an open book, soft morning light
 
 ---
 
-### 259. Japanese funny manga style illustration
+### 258. Japanese funny manga style illustration
 
 ![Japanese funny manga style illustration](https://opennana.com/awesome-prompt-gallery/images/228.jpeg)
 
@@ -6177,7 +6161,7 @@ Transform this image into a Japanese gag manga style illustration. Use a high-co
 
 ---
 
-### 260. Branded fast food capsules
+### 259. Branded fast food capsules
 
 ![Branded fast food capsules](https://opennana.com/awesome-prompt-gallery/images/229.jpeg)
 
@@ -6193,7 +6177,7 @@ Create a hyper-realistic, stylish poster [1080x1080] aspect ratio featuring a ho
 
 ---
 
-### 261. Shape of birthday balloon text
+### 260. Shape of birthday balloon text
 
 ![Shape of birthday balloon text](https://opennana.com/awesome-prompt-gallery/images/231.png)
 
@@ -6209,7 +6193,7 @@ Create a hyper-realistic 3D rendering of balloon letters forming the word [WOW].
 
 ---
 
-### 262. Capsules poured from clear medicine bottles
+### 261. Capsules poured from clear medicine bottles
 
 ![Capsules poured from clear medicine bottles](https://opennana.com/awesome-prompt-gallery/images/232.jpeg)
 
@@ -6225,7 +6209,7 @@ Hyper-realistic poster, 1080x1080. Small glossy/glass capsules spilling from a t
 
 ---
 
-### 263. Surreal bird fantasy
+### 262. Surreal bird fantasy
 
 ![Surreal bird fantasy](https://opennana.com/awesome-prompt-gallery/images/233.png)
 
@@ -6241,7 +6225,7 @@ A highly detailed and surreal depiction of a mythical bird creature. It has the 
 
 ---
 
-### 264. Products become dreams under neon lights
+### 263. Products become dreams under neon lights
 
 ![Products become dreams under neon lights](https://opennana.com/awesome-prompt-gallery/images/234.jpeg)
 
@@ -6257,7 +6241,7 @@ a surreal-realistic digital artwork of a product from the brand [Brand name]. Th
 
 ---
 
-### 265. A satirical version of you
+### 264. A satirical version of you
 
 ![A satirical version of you](https://opennana.com/awesome-prompt-gallery/images/235.jpeg)
 
@@ -6273,7 +6257,7 @@ Based on your understanding of my personality and past interactions, create a hu
 
 ---
 
-### 266. Helicopter brand advertising
+### 265. Helicopter brand advertising
 
 ![Helicopter brand advertising](https://opennana.com/awesome-prompt-gallery/images/236.jpeg)
 
@@ -6289,7 +6273,7 @@ Create a hyper-realistic, square 1:1 image featuring a small helicopter flying t
 
 ---
 
-### 267. Film shooting
+### 266. Film shooting
 
 ![Film shooting](https://opennana.com/awesome-prompt-gallery/images/237.png)
 
@@ -6305,7 +6289,7 @@ Cinematic shot of [detailed character description], shot from [camera angle], [l
 
 ---
 
-### 268. Beautify your products with flowers
+### 267. Beautify your products with flowers
 
 ![Beautify your products with flowers](https://opennana.com/awesome-prompt-gallery/images/238.png)
 
@@ -6321,7 +6305,7 @@ A high-end editorial photo of (PRODUCT NAME OR IMAGE) placed on a white marble p
 
 ---
 
-### 269. beach capsule city
+### 268. beach capsule city
 
 ![beach capsule city](https://opennana.com/awesome-prompt-gallery/images/239.jpeg)
 
@@ -6337,7 +6321,7 @@ A vibrant, hyper-realistic miniature of [CITY] inside a transparent capsule lyin
 
 ---
 
-### 270. custom pillows
+### 269. custom pillows
 
 ![custom pillows](https://opennana.com/awesome-prompt-gallery/images/240.jpeg)
 
@@ -6353,7 +6337,7 @@ Create a high-resolution 3D render of the [BRAND] logo designed as an inflatable
 
 ---
 
-### 271. 9 grid Q version style stickers
+### 270. 9 grid Q version style stickers
 
 ![9 grid Q version style stickers](https://opennana.com/awesome-prompt-gallery/images/241.png)
 
@@ -6369,7 +6353,7 @@ Create a 3D kawaii 10-16 canvas featuring nine chibi-style stickers in various o
 
 ---
 
-### 272. Fun blocky 3D world
+### 271. Fun blocky 3D world
 
 ![Fun blocky 3D world](https://opennana.com/awesome-prompt-gallery/images/242.png)
 
@@ -6424,7 +6408,7 @@ Retexture the image attached based on the JSON below
 
 ---
 
-### 273. Cartoon Photo Conversion
+### 272. Cartoon Photo Conversion
 
 ![Cartoon Photo Conversion](https://opennana.com/awesome-prompt-gallery/images/243.png)
 
@@ -6440,7 +6424,7 @@ Transform the character into a digital, half-body cartoon-style portrait. Use a 
 
 ---
 
-### 274. Kiro cartoon ghost
+### 273. Kiro cartoon ghost
 
 ![Kiro cartoon ghost](https://opennana.com/awesome-prompt-gallery/images/245.jpeg)
 
@@ -6456,7 +6440,7 @@ A cute cartoon ghost is the absolute main subject of the picture. It has a pure 
 
 ---
 
-### 275. Colorful handmade sculptures
+### 274. Colorful handmade sculptures
 
 ![Colorful handmade sculptures](https://opennana.com/awesome-prompt-gallery/images/246.jpeg)
 
@@ -6472,7 +6456,7 @@ A colorful handcrafted sculpture of [insert subject], made from semi-transparent
 
 ---
 
-### 276. 90s American cartoon stop motion animation style illustration
+### 275. 90s American cartoon stop motion animation style illustration
 
 ![90s American cartoon stop motion animation style illustration](https://opennana.com/awesome-prompt-gallery/images/247.jpeg)
 
@@ -6488,7 +6472,7 @@ Transform this image into a 90s American cartoon cel-style illustration. Use thi
 
 ---
 
-### 277. street sign pictures
+### 276. street sign pictures
 
 ![street sign pictures](https://opennana.com/awesome-prompt-gallery/images/249.jpeg)
 
@@ -6504,7 +6488,7 @@ Image of a billboard with the text: “Image of a billboard with the text:”
 
 ---
 
-### 278. Brand products surrounded by elegant water swirls
+### 277. Brand products surrounded by elegant water swirls
 
 ![Brand products surrounded by elegant water swirls](https://opennana.com/awesome-prompt-gallery/images/250.png)
 
@@ -6520,7 +6504,7 @@ Create square image of studio-lit product photography of a [Product] suspended i
 
 ---
 
-### 279. Ultra-detailed box-shaped paper craft toy
+### 278. Ultra-detailed box-shaped paper craft toy
 
 ![Ultra-detailed box-shaped paper craft toy](https://opennana.com/awesome-prompt-gallery/images/251.jpeg)
 
@@ -6536,7 +6520,7 @@ Create square image of studio-lit product photography of a [Product] suspended i
 
 ---
 
-### 280. Weird and dreamy surreal illustrations
+### 279. Weird and dreamy surreal illustrations
 
 ![Weird and dreamy surreal illustrations](https://opennana.com/awesome-prompt-gallery/images/252.png)
 
@@ -6557,7 +6541,7 @@ Transform the uploaded image into a surreal illustration with a whimsical, dream
 
 ---
 
-### 281. acrylic keychain
+### 280. acrylic keychain
 
 ![acrylic keychain](https://opennana.com/awesome-prompt-gallery/images/253.jpeg)
 
@@ -6573,7 +6557,7 @@ Create a photorealistic square image (1080x1080) showing a custom acrylic keycha
 
 ---
 
-### 282. Frosted Bubble 3D Icon
+### 281. Frosted Bubble 3D Icon
 
 ![Frosted Bubble 3D Icon](https://opennana.com/awesome-prompt-gallery/images/254.png)
 
@@ -6630,7 +6614,7 @@ Create a photorealistic square image (1080x1080) showing a custom acrylic keycha
 
 ---
 
-### 283. Geometric portrait of head
+### 282. Geometric portrait of head
 
 ![Geometric portrait of head](https://opennana.com/awesome-prompt-gallery/images/255.jpeg)
 
@@ -6646,7 +6630,7 @@ Design a geometric portrait of a [ANIMAL] head in the style of contemporary pape
 
 ---
 
-### 284. floating glass neon 3D
+### 283. floating glass neon 3D
 
 ![floating glass neon 3D](https://opennana.com/awesome-prompt-gallery/images/256.jpeg)
 
@@ -6716,7 +6700,7 @@ retexture the image attached based on the JSON below:
 
 ---
 
-### 285. transparent honeycomb deformation
+### 284. transparent honeycomb deformation
 
 ![transparent honeycomb deformation](https://opennana.com/awesome-prompt-gallery/images/257.png)
 
@@ -6756,7 +6740,7 @@ retexture the image attached based on the JSON below:
 
 ---
 
-### 286. 1950s posters
+### 285. 1950s posters
 
 ![1950s posters](https://opennana.com/awesome-prompt-gallery/images/258.png)
 
@@ -6772,7 +6756,7 @@ Transform this image into a 1950s poster in the style of mid-century modern grap
 
 ---
 
-### 287. 1930s Fleischer Studio style animation
+### 286. 1930s Fleischer Studio style animation
 
 ![1930s Fleischer Studio style animation](https://opennana.com/awesome-prompt-gallery/images/259.png)
 
@@ -6788,7 +6772,7 @@ Transform this image into a 1930s animation storyboard in the style of Fleischer
 
 ---
 
-### 288. Fairy tale illustrations in the style of Arthur Rackham from the 1920s
+### 287. Fairy tale illustrations in the style of Arthur Rackham from the 1920s
 
 ![Fairy tale illustrations in the style of Arthur Rackham from the 1920s](https://opennana.com/awesome-prompt-gallery/images/260.png)
 
@@ -6804,7 +6788,7 @@ Transform this image into a 1920s fairy tale illustration in the style of Arthur
 
 ---
 
-### 289. City Candy Crush Saga style
+### 288. City Candy Crush Saga style
 
 ![City Candy Crush Saga style](https://opennana.com/awesome-prompt-gallery/images/261.jpeg)
 
@@ -6820,7 +6804,7 @@ A colorful, playful 2D map of [city name], in the style of Candy Crush Saga, fea
 
 ---
 
-### 290. Gorillaz style illustration
+### 289. Gorillaz style illustration
 
 ![Gorillaz style illustration](https://opennana.com/awesome-prompt-gallery/images/262.png)
 
@@ -6837,7 +6821,7 @@ with a rebellious, animated tone, dark stylish tone, full of attitude.
 
 ---
 
-### 291. Low poly mosaic style
+### 290. Low poly mosaic style
 
 ![Low poly mosaic style](https://opennana.com/awesome-prompt-gallery/images/263.jpeg)
 
@@ -6853,7 +6837,7 @@ Transform this image into a refined low-poly mosaic style. Preserve the original
 
 ---
 
-### 292. Paper toy version
+### 291. Paper toy version
 
 ![Paper toy version](https://opennana.com/awesome-prompt-gallery/images/264.png)
 
@@ -6869,7 +6853,7 @@ Ultra-detailed render of a [CHARACTER NAME] paper toy version in box form (paper
 
 ---
 
-### 293. brand magazine
+### 292. brand magazine
 
 ![brand magazine](https://opennana.com/awesome-prompt-gallery/images/265.png)
 
@@ -6885,7 +6869,7 @@ A hyper-realistic editorial concept for a collaboration between [BRAND] and [MAG
 
 ---
 
-### 294. Products hanging on the tree
+### 293. Products hanging on the tree
 
 ![Products hanging on the tree](https://opennana.com/awesome-prompt-gallery/images/266.png)
 
@@ -6901,7 +6885,7 @@ A hyper-realistic photograph of a tree in a scenic meadow, with a sturdy, detail
 
 ---
 
-### 295. A vintage tea bag
+### 294. A vintage tea bag
 
 ![A vintage tea bag](https://opennana.com/awesome-prompt-gallery/images/267.png)
 
@@ -6917,7 +6901,7 @@ A single vintage tea bag lying on a clean white background, hand-painted with an
 
 ---
 
-### 296. Childlike illustrations
+### 295. Childlike illustrations
 
 ![Childlike illustrations](https://opennana.com/awesome-prompt-gallery/images/268.jpeg)
 
@@ -6933,7 +6917,7 @@ Create a full body, flat vector illustration of [CHARACTER] in a whimsical, wavy
 
 ---
 
-### 297. Behind the transparent X-ray scanning panel
+### 296. Behind the transparent X-ray scanning panel
 
 ![Behind the transparent X-ray scanning panel](https://opennana.com/awesome-prompt-gallery/images/269.png)
 
@@ -6949,7 +6933,7 @@ Two anime-style characters standing behind a futuristic transparent X-ray scanni
 
 ---
 
-### 298. LEGO Super Heroes in action-packed action poses
+### 297. LEGO Super Heroes in action-packed action poses
 
 ![LEGO Super Heroes in action-packed action poses](https://opennana.com/awesome-prompt-gallery/images/270.jpeg)
 
@@ -6965,7 +6949,7 @@ Epic LEGO [SUPERHERO] in dynamic action pose showcasing their signature powers, 
 
 ---
 
-### 299. Digital illustration in surreal geometric art style
+### 298. Digital illustration in surreal geometric art style
 
 ![Digital illustration in surreal geometric art style](https://opennana.com/awesome-prompt-gallery/images/271.png)
 
@@ -6981,7 +6965,7 @@ Transform this image into a digital illustration with a surreal, geometric art s
 
 ---
 
-### 300. pencil sketch drawing
+### 299. pencil sketch drawing
 
 ![pencil sketch drawing](https://opennana.com/awesome-prompt-gallery/images/272.png)
 
@@ -6997,7 +6981,7 @@ A pencil drawing of [Your character], with detailed lines and shading on white p
 
 ---
 
-### 301. Surreal minimalist concept advertising
+### 300. Surreal minimalist concept advertising
 
 ![Surreal minimalist concept advertising](https://opennana.com/awesome-prompt-gallery/images/273.jpeg)
 
@@ -7022,7 +7006,7 @@ Create a 1:1 high-resolution poster that reimagines the brand/product as a surre
 
 ---
 
-### 302. Create comic-style illustrations
+### 301. Create comic-style illustrations
 
 ![Create comic-style illustrations](https://opennana.com/awesome-prompt-gallery/images/274.png)
 
@@ -7071,7 +7055,7 @@ create comic style illustration:
 
 ---
 
-### 303. Brand landing page - close-up of young woman's face after exercise
+### 302. Brand landing page - close-up of young woman's face after exercise
 
 ![Brand landing page - close-up of young woman's face after exercise](https://opennana.com/awesome-prompt-gallery/images/275.jpeg)
 
@@ -7087,7 +7071,7 @@ Create a closeup face of a young woman after a workout, sweaty, deep blue eyes, 
 
 ---
 
-### 304. Mosaic stained glass badge
+### 303. Mosaic stained glass badge
 
 ![Mosaic stained glass badge](https://opennana.com/awesome-prompt-gallery/images/276.png)
 
@@ -7148,7 +7132,7 @@ create image:
 
 ---
 
-### 305. minimalist style illustration
+### 304. minimalist style illustration
 
 ![minimalist style illustration](https://opennana.com/awesome-prompt-gallery/images/277.png)
 
@@ -7164,7 +7148,7 @@ Create a minimalistic illustration of [object or scene] in a paper cut-out style
 
 ---
 
-### 306. 3D cartoon keychain
+### 305. 3D cartoon keychain
 
 ![3D cartoon keychain](https://opennana.com/awesome-prompt-gallery/images/278.png)
 
@@ -7180,7 +7164,7 @@ Create a cute 3D cartoon keychain version of the person in the uploaded photo. T
 
 ---
 
-### 307. Playful and modern app icon design
+### 306. Playful and modern app icon design
 
 ![Playful and modern app icon design](https://opennana.com/awesome-prompt-gallery/images/279.png)
 
@@ -7196,7 +7180,7 @@ A playful and modern app icon design of a cute coffee cup character with a winki
 
 ---
 
-### 308. Make toys of the people in the photos
+### 307. Make toys of the people in the photos
 
 ![Make toys of the people in the photos](https://opennana.com/awesome-prompt-gallery/images/280.jpeg)
 
@@ -7216,7 +7200,7 @@ on top of the box, write 'LIONEL MESSI and underneath it,
 
 ---
 
-### 309. Create Airbnb Creative Ads
+### 308. Create Airbnb Creative Ads
 
 ![Create Airbnb Creative Ads](https://opennana.com/awesome-prompt-gallery/images/281.jpeg)
 
@@ -7232,7 +7216,7 @@ Create Airbnb creative ad, show a suitcase opening like a dollhouse, revealing a
 
 ---
 
-### 310. Branded Die Cut Vinyl Stickers
+### 309. Branded Die Cut Vinyl Stickers
 
 ![Branded Die Cut Vinyl Stickers](https://opennana.com/awesome-prompt-gallery/images/282.jpeg)
 
@@ -7248,7 +7232,7 @@ Generate a large die-cut vinyl sticker of the [BRAND] logo with thick white bord
 
 ---
 
-### 311. Exquisite paper origami model
+### 310. Exquisite paper origami model
 
 ![Exquisite paper origami model](https://opennana.com/awesome-prompt-gallery/images/283.jpeg)
 
@@ -7264,7 +7248,7 @@ A square 1:1 format digital photograph of an intricate paper origami model repre
 
 ---
 
-### 312. Letters furry image
+### 311. Letters furry image
 
 ![Letters furry image](https://opennana.com/awesome-prompt-gallery/images/284.jpeg)
 
@@ -7281,7 +7265,7 @@ Frame against a stark white void to maximize contrast and draw attention to the 
 
 ---
 
-### 313. Cartoon illustration pill image
+### 312. Cartoon illustration pill image
 
 ![Cartoon illustration pill image](https://opennana.com/awesome-prompt-gallery/images/285.jpeg)
 
@@ -7297,7 +7281,7 @@ Create a stylized cartoon illustration of [CHARACTER] with a smooth, vertical pi
 
 ---
 
-### 314. Q version wood carving doll
+### 313. Q version wood carving doll
 
 ![Q version wood carving doll](https://opennana.com/awesome-prompt-gallery/images/286.jpeg)
 
@@ -7313,7 +7297,7 @@ Hyper-realistic carved wooden figurine of [CHARACTER], chibi proportions (big he
 
 ---
 
-### 315. 3D paper art works
+### 314. 3D paper art works
 
 ![3D paper art works](https://opennana.com/awesome-prompt-gallery/images/287.png)
 
@@ -7329,7 +7313,7 @@ A 3D papercraft representation of [Subject], composed of layered paper cutouts, 
 
 ---
 
-### 316. Food and exercise ads
+### 315. Food and exercise ads
 
 ![Food and exercise ads](https://opennana.com/awesome-prompt-gallery/images/288.jpeg)
 
@@ -7345,7 +7329,7 @@ Muscular African  man dunks a grilled chicken breast into a basketball hoop with
 
 ---
 
-### 317. I know you're in a hurry, but don't be anxious yet
+### 316. I know you're in a hurry, but don't be anxious yet
 
 ![I know you're in a hurry, but don't be anxious yet](https://opennana.com/awesome-prompt-gallery/images/289.png)
 
@@ -7363,7 +7347,7 @@ Please design an emoticon picture for this
 
 ---
 
-### 318. Recipe infographic production
+### 317. Recipe infographic production
 
 ![Recipe infographic production](https://opennana.com/awesome-prompt-gallery/images/290.jpeg)
 
@@ -7379,7 +7363,7 @@ Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-dow
 
 ---
 
-### 319. English word flashcard production
+### 318. English word flashcard production
 
 ![English word flashcard production](https://opennana.com/awesome-prompt-gallery/images/291.jpeg)
 
@@ -7395,7 +7379,7 @@ You are a master of making English word flashcards. You can generate a picture b
 
 ---
 
-### 320. 3D hyper-realistic food advertising
+### 319. 3D hyper-realistic food advertising
 
 ![3D hyper-realistic food advertising](https://opennana.com/awesome-prompt-gallery/images/292.jpeg)
 
@@ -7411,7 +7395,7 @@ Smooth 3D hyperrealistic food advertisement of [TYPE OF FOOD], shown with mouthw
 
 ---
 
-### 321. Soft high quality plush toys
+### 320. Soft high quality plush toys
 
 ![Soft high quality plush toys](https://opennana.com/awesome-prompt-gallery/images/293.jpeg)
 
@@ -7427,7 +7411,7 @@ A soft, high-quality plush toy of [CHARACTER], with an oversized head, small bod
 
 ---
 
-### 322. crochet doll
+### 321. crochet doll
 
 ![crochet doll](https://opennana.com/awesome-prompt-gallery/images/294.jpeg)
 
@@ -7443,7 +7427,7 @@ Create a 3D photorealistic and highly detailed poster in amigurumi style. The de
 
 ---
 
-### 323. Transparent gashapon scene model
+### 322. Transparent gashapon scene model
 
 ![Transparent gashapon scene model](https://opennana.com/awesome-prompt-gallery/images/295.jpeg)
 
@@ -7459,7 +7443,7 @@ A detailed transparent gashapon capsule diorama, held between fingers, featuring
 
 ---
 
-### 324. Figure-Advanced Packaging Tape Printer (Optimus Prime)
+### 323. Figure-Advanced Packaging Tape Printer (Optimus Prime)
 
 ![Figure-Advanced Packaging Tape Printer (Optimus Prime)](https://opennana.com/awesome-prompt-gallery/images/296.jpeg)
 
@@ -7476,7 +7460,7 @@ The PVC material of the base needs to be crystal clear and translucent, and the 
 
 ---
 
-### 325. Production studio portrait shoot
+### 324. Production studio portrait shoot
 
 ![Production studio portrait shoot](https://opennana.com/awesome-prompt-gallery/images/297.jpeg)
 
@@ -7492,7 +7476,7 @@ Portrait photo taken in the life generation studio in the picture, black backgro
 
 ---
 
-### 326. Figure-ZBrush modeling screen display and Bandai style packaging box
+### 325. Figure-ZBrush modeling screen display and Bandai style packaging box
 
 ![Figure-ZBrush modeling screen display and Bandai style packaging box](https://opennana.com/awesome-prompt-gallery/images/298.jpeg)
 
@@ -7511,7 +7495,7 @@ Next to the computer screen, place a BANDAl-style toy packaging box printedwith 
 
 ---
 
-### 327. Make photo stickers
+### 326. Make photo stickers
 
 ![Make photo stickers](https://opennana.com/awesome-prompt-gallery/images/299.jpeg)
 
@@ -7527,7 +7511,7 @@ Use this photo to make a 3*3 photo booth grid. Each photo should use a different
 
 ---
 
-### 328. Make ID photo
+### 327. Make ID photo
 
 ![Make ID photo](https://opennana.com/awesome-prompt-gallery/images/300.jpeg)
 
@@ -7547,7 +7531,7 @@ Cut off the head of the portrait in the picture and make it into a 2-inch ID pho
 
 ---
 
-### 329. Hyperrealistic portrait located in plaster center
+### 328. Hyperrealistic portrait located in plaster center
 
 ![Hyperrealistic portrait located in plaster center](https://opennana.com/awesome-prompt-gallery/images/301.jpeg)
 
@@ -7563,7 +7547,7 @@ Ultra-real portrait of [CHARACTER] centered, surrounded by dozens of life-size s
 
 ---
 
-### 330. Hyper-realistic 3D comic portrait
+### 329. Hyper-realistic 3D comic portrait
 
 ![Hyper-realistic 3D comic portrait](https://opennana.com/awesome-prompt-gallery/images/302.jpeg)
 
@@ -7579,7 +7563,7 @@ Hyper-realistic 3D caricature of [NAME], featuring an expressive, oversized head
 
 ---
 
-### 331. Cartoon style app icons
+### 330. Cartoon style app icons
 
 ![Cartoon style app icons](https://opennana.com/awesome-prompt-gallery/images/303.jpeg)
 
@@ -7595,7 +7579,7 @@ Colorful, cartoon-style app icon design for a [type of app: game, movie, food, s
 
 ---
 
-### 332. Detailed technical drawings
+### 331. Detailed technical drawings
 
 ![Detailed technical drawings](https://opennana.com/awesome-prompt-gallery/images/304.jpeg)
 
@@ -7611,7 +7595,7 @@ Detailed technical drawing of a [vehicle, weapon, object, or item], on white pap
 
 ---
 
-### 333. Retro comic style cartoon illustration
+### 332. Retro comic style cartoon illustration
 
 ![Retro comic style cartoon illustration](https://opennana.com/awesome-prompt-gallery/images/305.jpeg)
 
@@ -7627,7 +7611,7 @@ Detailed technical drawing of a [vehicle, weapon, object, or item], on white pap
 
 ---
 
-### 334. Layered paper cut illustration
+### 333. Layered paper cut illustration
 
 ![Layered paper cut illustration](https://opennana.com/awesome-prompt-gallery/images/306.jpeg)
 
@@ -7643,7 +7627,7 @@ Layered paper-cut illustration of [subject], built with overlapping shapes in so
 
 ---
 
-### 335. alphabet animals
+### 334. alphabet animals
 
 ![alphabet animals](https://opennana.com/awesome-prompt-gallery/images/307.jpeg)
 
@@ -7659,7 +7643,7 @@ A stylized capital letter [Letter] with a cartoon [Animal] intertwined with it, 
 
 ---
 
-### 336. Character movie-level rendering
+### 335. Character movie-level rendering
 
 ![Character movie-level rendering](https://opennana.com/awesome-prompt-gallery/images/308.jpeg)
 
@@ -7675,7 +7659,7 @@ Full-body shot of a [character + location], with a powerful aura of energy aroun
 
 ---
 
-### 337. luxury brand advertising
+### 336. luxury brand advertising
 
 ![luxury brand advertising](https://opennana.com/awesome-prompt-gallery/images/309.jpeg)
 
@@ -7702,7 +7686,7 @@ The mood is glamorous, iconic, and prestigious, shot in the style of a high-end 
 
 ---
 
-### 338. Autumn leaves pattern
+### 337. Autumn leaves pattern
 
 ![Autumn leaves pattern](https://opennana.com/awesome-prompt-gallery/images/310.jpeg)
 
@@ -7718,7 +7702,7 @@ Medium shot, sunny afternoon, film texture, shooting ground, autumn leaves, bran
 
 ---
 
-### 339. Cutting objects with cartoon explosions
+### 338. Cutting objects with cartoon explosions
 
 ![Cutting objects with cartoon explosions](https://opennana.com/awesome-prompt-gallery/images/311.jpeg)
 
@@ -7736,7 +7720,7 @@ The outside of the [OBJECT] remains photorealistic with detailed texture and lig
 
 ---
 
-### 340. Brand studio photos
+### 339. Brand studio photos
 
 ![Brand studio photos](https://opennana.com/awesome-prompt-gallery/images/312.jpeg)
 
@@ -7752,7 +7736,7 @@ The outside of the [OBJECT] remains photorealistic with detailed texture and lig
 
 ---
 
-### 341. Create your own 3D comics
+### 340. Create your own 3D comics
 
 ![Create your own 3D comics](https://opennana.com/awesome-prompt-gallery/images/313.jpeg)
 
@@ -7768,7 +7752,7 @@ A highly stylized 3D caricature of me, with expressive facial features, and play
 
 ---
 
-### 342. Movie-level 3D dynamic advertising
+### 341. Movie-level 3D dynamic advertising
 
 ![Movie-level 3D dynamic advertising](https://opennana.com/awesome-prompt-gallery/images/314.jpeg)
 
@@ -7784,7 +7768,7 @@ Cinematic 3D action-packed advertisement of [PRODUCT], captured in a dramatic mi
 
 ---
 
-### 343. Funko Pop style vinyl figures
+### 342. Funko Pop style vinyl figures
 
 ![Funko Pop style vinyl figures](https://opennana.com/awesome-prompt-gallery/images/315.jpeg)
 
@@ -7820,7 +7804,7 @@ RENDER STYLE:
 
 ---
 
-### 344. brand font
+### 343. brand font
 
 ![brand font](https://opennana.com/awesome-prompt-gallery/images/316.jpeg)
 
@@ -7836,7 +7820,7 @@ Create a typographic illustration shaped like a {OBJECT}, where the text itself 
 
 ---
 
-### 345. 6 Vintage Polaroid Photos
+### 344. 6 Vintage Polaroid Photos
 
 ![6 Vintage Polaroid Photos](https://opennana.com/awesome-prompt-gallery/images/317.jpeg)
 
@@ -7861,7 +7845,7 @@ The atmosphere is an art-retro style with elements of a '70s fashion magazine, s
 
 ---
 
-### 346. educational toy characters
+### 345. educational toy characters
 
 ![educational toy characters](https://opennana.com/awesome-prompt-gallery/images/318.jpeg)
 
@@ -7903,7 +7887,7 @@ OUTPUT STYLE: Cute chibi proportions, Puzzle-based
 
 ---
 
-### 347. Photorealistic concept food art portrait
+### 346. Photorealistic concept food art portrait
 
 ![Photorealistic concept food art portrait](https://opennana.com/awesome-prompt-gallery/images/319.jpeg)
 
@@ -7923,7 +7907,7 @@ Captured with a Canon EOS 5D, 85mm f/1.8 lens, shallow depth of field focusing o
 
 ---
 
-### 348. Objects turn into bold cartoon drippings
+### 347. Objects turn into bold cartoon drippings
 
 ![Objects turn into bold cartoon drippings](https://opennana.com/awesome-prompt-gallery/images/320.jpeg)
 
@@ -7945,7 +7929,7 @@ High resolution, pop-art aesthetic, surreal contrast between realism and cartoon
 
 ---
 
-### 349. Product ultra-realistic CGI footage
+### 348. Product ultra-realistic CGI footage
 
 ![Product ultra-realistic CGI footage](https://opennana.com/awesome-prompt-gallery/images/321.jpeg)
 
@@ -7961,7 +7945,7 @@ Ultra-realistic CGI shot of a giant [PRODUCT NAME HERE], seamlessly integrated i
 
 ---
 
-### 350. Studio photos of products
+### 349. Studio photos of products
 
 ![Studio photos of products](https://opennana.com/awesome-prompt-gallery/images/322.jpeg)
 
@@ -7977,7 +7961,7 @@ A high-quality studio photograph of a [BRAND] fully covered in ultra-realistic [
 
 ---
 
-### 351. Character creation
+### 350. Character creation
 
 ![Character creation](https://opennana.com/awesome-prompt-gallery/images/323.jpeg)
 
@@ -7993,7 +7977,7 @@ A high-quality studio photograph of a [BRAND] fully covered in ultra-realistic [
 
 ---
 
-### 352. pop art portrait
+### 351. pop art portrait
 
 ![pop art portrait](https://opennana.com/awesome-prompt-gallery/images/324.jpeg)
 
@@ -8009,7 +7993,7 @@ A vibrant, stylized pop art portrait of a [Subject]. The subject is rendered wit
 
 ---
 
-### 353. beauty fashion photography
+### 352. beauty fashion photography
 
 ![beauty fashion photography](https://opennana.com/awesome-prompt-gallery/images/325.jpeg)
 
@@ -8075,7 +8059,7 @@ A vibrant, stylized pop art portrait of a [Subject]. The subject is rendered wit
 
 ---
 
-### 354. Cinematic street beauty photography
+### 353. Cinematic street beauty photography
 
 ![Cinematic street beauty photography](https://opennana.com/awesome-prompt-gallery/images/326.jpeg)
 
@@ -8091,7 +8075,7 @@ CINEMATIC STREET PHOTOGRAPHY, STYLISH YOUNG WOMAN IN MOTION, URBAN ENVIRONMENT, 
 
 ---
 
-### 355. Beauty movie style portrait
+### 354. Beauty movie style portrait
 
 ![Beauty movie style portrait](https://opennana.com/awesome-prompt-gallery/images/327.jpeg)
 
@@ -8117,7 +8101,7 @@ Style: hyper-realistic, luxury portrait, magazine aesthetic.
 
 ---
 
-### 356. Studio portrait style photos
+### 355. Studio portrait style photos
 
 ![Studio portrait style photos](https://opennana.com/awesome-prompt-gallery/images/328.jpeg)
 
@@ -8133,7 +8117,7 @@ Referring to the facial features in Figure 1, a full-body studio portrait is gen
 
 ---
 
-### 357. Vertical portrait of beautiful woman
+### 356. Vertical portrait of beautiful woman
 
 ![Vertical portrait of beautiful woman](https://opennana.com/awesome-prompt-gallery/images/329.jpeg)
 
@@ -8149,7 +8133,7 @@ A hyper-realistic 4K UHD vertical potrait (3:4) of me, preserving my exact origi
 
 ---
 
-### 358. Photorealistic indoor lying portraits
+### 357. Photorealistic indoor lying portraits
 
 ![Photorealistic indoor lying portraits](https://opennana.com/awesome-prompt-gallery/images/330.jpeg)
 
@@ -8288,7 +8272,7 @@ A hyper-realistic 4K UHD vertical potrait (3:4) of me, preserving my exact origi
 
 ---
 
-### 359. women in corridor
+### 358. women in corridor
 
 ![women in corridor](https://opennana.com/awesome-prompt-gallery/images/331.jpeg)
 
@@ -8386,7 +8370,7 @@ A hyper-realistic 4K UHD vertical potrait (3:4) of me, preserving my exact origi
 
 ---
 
-### 360. Girls mirror selfie
+### 359. Girls mirror selfie
 
 ![Girls mirror selfie](https://opennana.com/awesome-prompt-gallery/images/332.jpeg)
 
@@ -8481,7 +8465,7 @@ Mirror selfie, otaku computer corner, blue tones
 
 ---
 
-### 361. Girl sitting on the sofa
+### 360. Girl sitting on the sofa
 
 ![Girl sitting on the sofa](https://opennana.com/awesome-prompt-gallery/images/333.jpeg)
 
@@ -8604,7 +8588,7 @@ Mirror selfie, otaku computer corner, blue tones
 
 ---
 
-### 362. full body night portrait
+### 361. full body night portrait
 
 ![full body night portrait](https://opennana.com/awesome-prompt-gallery/images/334.jpeg)
 
@@ -8663,7 +8647,7 @@ Mirror selfie, otaku computer corner, blue tones
 
 ---
 
-### 363. Beautiful Japanese woman in light blue police uniform
+### 362. Beautiful Japanese woman in light blue police uniform
 
 ![Beautiful Japanese woman in light blue police uniform](https://opennana.com/awesome-prompt-gallery/images/335.jpeg)
 
@@ -8689,7 +8673,7 @@ warm incandescent lighting with nostalgic amber tone, low saturation colors, fin
 
 ---
 
-### 364. A dreamlike and intimate portrait
+### 363. A dreamlike and intimate portrait
 
 ![A dreamlike and intimate portrait](https://opennana.com/awesome-prompt-gallery/images/336.jpeg)
 
@@ -8705,7 +8689,7 @@ a dreamy intimate portrait of a beautiful realistic asian woman lying under a bl
 
 ---
 
-### 365. Girl with low ponytail in Japanese izakaya
+### 364. Girl with low ponytail in Japanese izakaya
 
 ![Girl with low ponytail in Japanese izakaya](https://opennana.com/awesome-prompt-gallery/images/337.jpeg)
 
@@ -8721,7 +8705,7 @@ a young beautiful sweet smiling Asian woman with soft brown hair tied loosely in
 
 ---
 
-### 366. A huge vortex over the city breaks through the storm clouds
+### 365. A huge vortex over the city breaks through the storm clouds
 
 ![A huge vortex over the city breaks through the storm clouds](https://opennana.com/awesome-prompt-gallery/images/338.jpeg)
 
@@ -8737,7 +8721,7 @@ A massive spiral vortex tears through storm clouds above a futuristic illuminate
 
 ---
 
-### 367. Beautiful girl in pleated mini skirt
+### 366. Beautiful girl in pleated mini skirt
 
 ![Beautiful girl in pleated mini skirt](https://opennana.com/awesome-prompt-gallery/images/339.jpeg)
 
@@ -8753,7 +8737,7 @@ The image features a subject with long, dark hair, dressed in a short-sleeved, c
 
 ---
 
-### 368. Photos of beautiful women taken with flash in an izakaya
+### 367. Photos of beautiful women taken with flash in an izakaya
 
 ![Photos of beautiful women taken with flash in an izakaya](https://opennana.com/awesome-prompt-gallery/images/340.jpeg)
 
@@ -8777,7 +8761,7 @@ The overall mood is nostalgic, warm, and faintly ambiguous — capturing a momen
 
 ---
 
-### 369. Photos of beautiful women in Tokyo subway stairwells
+### 368. Photos of beautiful women in Tokyo subway stairwells
 
 ![Photos of beautiful women in Tokyo subway stairwells](https://opennana.com/awesome-prompt-gallery/images/341.jpeg)
 
@@ -8801,7 +8785,7 @@ The atmosphere is electric and nostalgic, a mix of youth, motion, and fleeting e
 
 ---
 
-### 370. A woman riding the subway
+### 369. A woman riding the subway
 
 ![A woman riding the subway](https://opennana.com/awesome-prompt-gallery/images/342.jpeg)
 
@@ -8817,7 +8801,7 @@ a young beautiful Japanese woman with porcelain skin, soft makeup and bright red
 
 ---
 
-### 371. Hyper-realistic studio portraits
+### 370. Hyper-realistic studio portraits
 
 ![Hyper-realistic studio portraits](https://opennana.com/awesome-prompt-gallery/images/343.jpeg)
 
@@ -8833,7 +8817,7 @@ Hyper-realistic studio portrait of a man leaning elegantly on the back of a chai
 
 ---
 
-### 372. Mid-autumn moon swing photos
+### 371. Mid-autumn moon swing photos
 
 ![Mid-autumn moon swing photos](https://opennana.com/awesome-prompt-gallery/images/344.jpeg)
 
@@ -8849,7 +8833,7 @@ Mid-autumn moon swing photos
 
 ---
 
-### 373. A retro-style selfie of you holding a baby version of yourself
+### 372. A retro-style selfie of you holding a baby version of yourself
 
 ![A retro-style selfie of you holding a baby version of yourself](https://opennana.com/awesome-prompt-gallery/images/345.jpeg)
 
@@ -8865,7 +8849,7 @@ retro selfies of you holding a baby version of you
 
 ---
 
-### 374. Characters and large Gengar
+### 373. Characters and large Gengar
 
 ![Characters and large Gengar](https://opennana.com/awesome-prompt-gallery/images/346.jpeg)
 
@@ -8881,7 +8865,7 @@ Hyper-realistic editorial portrait of a person, generated from the provided imag
 
 ---
 
-### 375. Characters and Pokémon
+### 374. Characters and Pokémon
 
 ![Characters and Pokémon](https://opennana.com/awesome-prompt-gallery/images/347.jpeg)
 
@@ -8897,7 +8881,7 @@ Create a hyper-realistic editorial portrait of a person, generated from the prov
 
 ---
 
-### 376. super mario style photos
+### 375. super mario style photos
 
 ![super mario style photos](https://opennana.com/awesome-prompt-gallery/images/348.jpeg)
 
@@ -8913,7 +8897,7 @@ Generate a picture, the character is wearing a red hat with a white circle and a
 
 ---
 
-### 377. Retro Newsboy
+### 376. Retro Newsboy
 
 ![Retro Newsboy](https://opennana.com/awesome-prompt-gallery/images/349.jpeg)
 
@@ -8929,7 +8913,7 @@ Keep the character's facial features and posture unchanged to generate a fresh p
 
 ---
 
-### 378. Chinese red selfie photo
+### 377. Chinese red selfie photo
 
 ![Chinese red selfie photo](https://opennana.com/awesome-prompt-gallery/images/350.jpeg)
 
@@ -8945,7 +8929,7 @@ In the picture, the character has yellow flowers on both sides of his hair, a re
 
 ---
 
-### 379. Patrick and Spongebob in ancient costumes
+### 378. Patrick and Spongebob in ancient costumes
 
 ![Patrick and Spongebob in ancient costumes](https://opennana.com/awesome-prompt-gallery/images/351.png)
 
@@ -8961,7 +8945,7 @@ A big star wearing a Tang Dynasty costume is natural and lifelike. It is a dark 
 
 ---
 
-### 380. Woman 3D digital illustration
+### 379. Woman 3D digital illustration
 
 ![Woman 3D digital illustration](https://opennana.com/awesome-prompt-gallery/images/352.jpeg)
 
@@ -8977,7 +8961,7 @@ A hyper-realistic 3D digital illustration of a woman with her natural facial fea
 
 ---
 
-### 381. Cinematic Surrealist Portraits
+### 380. Cinematic Surrealist Portraits
 
 ![Cinematic Surrealist Portraits](https://opennana.com/awesome-prompt-gallery/images/353.jpeg)
 
@@ -8997,7 +8981,7 @@ A cinematic, hyper-realistic portrait of
 
 ---
 
-### 382. Super detailed realistic portrait of beautiful woman
+### 381. Super detailed realistic portrait of beautiful woman
 
 ![Super detailed realistic portrait of beautiful woman](https://opennana.com/awesome-prompt-gallery/images/354.jpeg)
 
@@ -9013,7 +8997,7 @@ Ultra-detailed, photorealistic portrait of a beautiful woman, high fashion edito
 
 ---
 
-### 383. Take selfies with Marvel characters
+### 382. Take selfies with Marvel characters
 
 ![Take selfies with Marvel characters](https://opennana.com/awesome-prompt-gallery/images/355.jpeg)
 
@@ -9029,7 +9013,7 @@ A ultra realistic group selfie, center is the person from the attached image (up
 
 ---
 
-### 384. Black and white style portrait
+### 383. Black and white style portrait
 
 ![Black and white style portrait](https://opennana.com/awesome-prompt-gallery/images/356.jpeg)
 
@@ -9045,7 +9029,7 @@ a woman standing confidently in a minimalist studio, shot from a slightly low an
 
 ---
 
-### 385. Black and white style portrait
+### 384. Black and white style portrait
 
 ![Black and white style portrait](https://opennana.com/awesome-prompt-gallery/images/357.jpeg)
 
@@ -9061,7 +9045,7 @@ A captivating black and white close-up portrait of a beautiful young Asian woman
 
 ---
 
-### 386. Bedroom mirror selfie
+### 385. Bedroom mirror selfie
 
 ![Bedroom mirror selfie](https://opennana.com/awesome-prompt-gallery/images/358.jpeg)
 
@@ -9128,7 +9112,7 @@ A captivating black and white close-up portrait of a beautiful young Asian woman
 
 ---
 
-### 387. red evening dress woman
+### 386. red evening dress woman
 
 ![red evening dress woman](https://opennana.com/awesome-prompt-gallery/images/359.jpeg)
 
@@ -9144,7 +9128,7 @@ A captivating black and white close-up portrait of a beautiful young Asian woman
 
 ---
 
-### 388. Stylish woman posing with bear
+### 387. Stylish woman posing with bear
 
 ![Stylish woman posing with bear](https://opennana.com/awesome-prompt-gallery/images/360.jpeg)
 
@@ -9160,7 +9144,7 @@ Ultra-cinematic shot of a confident, stylish woman in a sleek, dark suit blazer 
 
 ---
 
-### 389. Plush world
+### 388. Plush world
 
 ![Plush world](https://opennana.com/awesome-prompt-gallery/images/361.jpeg)
 
@@ -9176,7 +9160,7 @@ A soft and plush 3D model of a [subject] with a [key detail], rendered in a cute
 
 ---
 
-### 390. Confident and elegant lady in black suit
+### 389. Confident and elegant lady in black suit
 
 ![Confident and elegant lady in black suit](https://opennana.com/awesome-prompt-gallery/images/362.jpeg)
 
@@ -9192,7 +9176,7 @@ A beautiful, confident woman wearing a black suit sits elegantly on a luxurious 
 
 ---
 
-### 391. Brand creative 3D advertising
+### 390. Brand creative 3D advertising
 
 ![Brand creative 3D advertising](https://opennana.com/awesome-prompt-gallery/images/363.jpeg)
 
@@ -9208,7 +9192,7 @@ Creative 3D ad for [Brand Name], with surreal object made from it, matching back
 
 ---
 
-### 392. Girls in pink camisole show their love
+### 391. Girls in pink camisole show their love
 
 ![Girls in pink camisole show their love](https://opennana.com/awesome-prompt-gallery/images/364.jpeg)
 
@@ -9298,7 +9282,7 @@ Creative 3D ad for [Brand Name], with surreal object made from it, matching back
 
 ---
 
-### 393. A dramatic black and white studio portrait
+### 392. A dramatic black and white studio portrait
 
 ![A dramatic black and white studio portrait](https://opennana.com/awesome-prompt-gallery/images/365.jpeg)
 
@@ -9319,7 +9303,7 @@ Post-production: high-contrast black and white effects, soft tonal gradients, de
 
 ---
 
-### 394. Cinematic side profile portrait of a young woman
+### 393. Cinematic side profile portrait of a young woman
 
 ![Cinematic side profile portrait of a young woman](https://opennana.com/awesome-prompt-gallery/images/366.jpeg)
 
@@ -9341,7 +9325,7 @@ Atmosphere: Moody, cinematic, minimalist
 
 ---
 
-### 395. Fashion film portrait of a young woman
+### 394. Fashion film portrait of a young woman
 
 ![Fashion film portrait of a young woman](https://opennana.com/awesome-prompt-gallery/images/367.jpeg)
 
@@ -9359,7 +9343,7 @@ The subject is slightly off center. No text, logos or watermarks should appear o
 
 ---
 
-### 396. Studio portrait of woman sitting on chair
+### 395. Studio portrait of woman sitting on chair
 
 ![Studio portrait of woman sitting on chair](https://opennana.com/awesome-prompt-gallery/images/368.jpeg)
 
@@ -9379,7 +9363,7 @@ The soft sunset window light casts on the studio walls.
 
 ---
 
-### 397. Capture stylish bathroom dressing area through mirror
+### 396. Capture stylish bathroom dressing area through mirror
 
 ![Capture stylish bathroom dressing area through mirror](https://opennana.com/awesome-prompt-gallery/images/369.jpeg)
 
@@ -9443,7 +9427,7 @@ The soft sunset window light casts on the studio walls.
 
 ---
 
-### 398. Surreal gothic rabbit studio portrait
+### 397. Surreal gothic rabbit studio portrait
 
 ![Surreal gothic rabbit studio portrait](https://opennana.com/awesome-prompt-gallery/images/370.jpeg)
 
@@ -9503,7 +9487,7 @@ The soft sunset window light casts on the studio walls.
 
 ---
 
-### 399. Highly detailed portraits of people as animals
+### 398. Highly detailed portraits of people as animals
 
 ![Highly detailed portraits of people as animals](https://opennana.com/awesome-prompt-gallery/images/371.jpeg)
 
@@ -9519,7 +9503,7 @@ The soft sunset window light casts on the studio walls.
 
 ---
 
-### 400. 90s style photos
+### 399. 90s style photos
 
 ![90s style photos](https://opennana.com/awesome-prompt-gallery/images/372.jpeg)
 
@@ -9535,7 +9519,7 @@ Without changing her original face, create a portrait of a beautiful young woman
 
 ---
 
-### 401. Portrait wearing a loose white shirt
+### 400. Portrait wearing a loose white shirt
 
 ![Portrait wearing a loose white shirt](https://opennana.com/awesome-prompt-gallery/images/373.jpeg)
 
@@ -9553,7 +9537,7 @@ The overall image is high-fashion editorial in monochrome, cinematic, and striki
 
 ---
 
-### 402. Sitting next to a giant furry cute cartoon monster
+### 401. Sitting next to a giant furry cute cartoon monster
 
 ![Sitting next to a giant furry cute cartoon monster](https://opennana.com/awesome-prompt-gallery/images/374.jpeg)
 
@@ -9569,7 +9553,7 @@ make me sit next to a giant fluffy cute cartoon monster. I am real realistic but
 
 ---
 
-### 403. An exquisite figural metal coin
+### 402. An exquisite figural metal coin
 
 ![An exquisite figural metal coin](https://opennana.com/awesome-prompt-gallery/images/375.jpeg)
 
@@ -9586,7 +9570,7 @@ Person's face attached in the image ( Do not change facial features of the perso
 
 ---
 
-### 404. Sitting on a huge smooth white rock formation
+### 403. Sitting on a huge smooth white rock formation
 
 ![Sitting on a huge smooth white rock formation](https://opennana.com/awesome-prompt-gallery/images/376.jpeg)
 
@@ -9604,7 +9588,7 @@ The overall atmosphere is calm, stylish, and Mediterranean-inspired. The face sh
 
 ---
 
-### 405. Sitting on a modern subway bench
+### 404. Sitting on a modern subway bench
 
 ![Sitting on a modern subway bench](https://opennana.com/awesome-prompt-gallery/images/377.jpeg)
 
@@ -9624,7 +9608,7 @@ Format: 2:3 Do not replace face; keep the same person with realistic proportions
 
 ---
 
-### 406. Highest resolution photos of elegant poses
+### 405. Highest resolution photos of elegant poses
 
 ![Highest resolution photos of elegant poses](https://opennana.com/awesome-prompt-gallery/images/378.jpeg)
 
@@ -9642,7 +9626,7 @@ The image should look like a high-quality, ultra-realistic fashion magazine phot
 
 ---
 
-### 407. Wearing a newsboy cap and a black vest
+### 406. Wearing a newsboy cap and a black vest
 
 ![Wearing a newsboy cap and a black vest](https://opennana.com/awesome-prompt-gallery/images/379.jpeg)
 
@@ -9660,7 +9644,7 @@ He leans against a weathered brick wall in a narrow, atmospheric alleyway, looki
 
 ---
 
-### 408. cartoon illustration
+### 407. cartoon illustration
 
 ![cartoon illustration](https://opennana.com/awesome-prompt-gallery/images/380.jpeg)
 
@@ -9686,7 +9670,7 @@ Keywords: hybrid photo-doodle, product cartoon, expressive characters, minimal p
 
 ---
 
-### 409. A luxurious high fashion portrait
+### 408. A luxurious high fashion portrait
 
 ![A luxurious high fashion portrait](https://opennana.com/awesome-prompt-gallery/images/381.jpeg)
 
@@ -9722,7 +9706,7 @@ Style Tags: Monochrome | Floating Frame | Film Studio Fashion | Luxurious Editor
 
 ---
 
-### 410. 3D chibi style vinyl collectibles
+### 409. 3D chibi style vinyl collectibles
 
 ![3D chibi style vinyl collectibles](https://opennana.com/awesome-prompt-gallery/images/382.jpeg)
 
@@ -9752,7 +9736,7 @@ Style: vinyl-toy aesthetic with a mix of matte + glossy accents depending on cos
 
 ---
 
-### 411. A surreal macro photo
+### 410. A surreal macro photo
 
 ![A surreal macro photo](https://opennana.com/awesome-prompt-gallery/images/383.jpeg)
 
@@ -9768,7 +9752,7 @@ Create a hyper-real macro photograph of a tiny (CHARACTER) about 10–12 cm tall
 
 ---
 
-### 412. Three views of people and cars
+### 411. Three views of people and cars
 
 ![Three views of people and cars](https://opennana.com/awesome-prompt-gallery/images/384.jpeg)
 
@@ -9800,7 +9784,7 @@ Style: Cinematic automotive editorial, urban setting, moody and stylish, profess
 
 ---
 
-### 413. A dramatic black and white close-up portrait
+### 412. A dramatic black and white close-up portrait
 
 ![A dramatic black and white close-up portrait](https://opennana.com/awesome-prompt-gallery/images/385.jpeg)
 
@@ -9816,7 +9800,7 @@ A dramatic black and white close-up portrait of a handsome young East Asian man.
 
 ---
 
-### 414. Light peach pink loose plush pajamas for girls
+### 413. Light peach pink loose plush pajamas for girls
 
 ![Light peach pink loose plush pajamas for girls](https://opennana.com/awesome-prompt-gallery/images/386.jpeg)
 
@@ -9898,7 +9882,7 @@ A dramatic black and white close-up portrait of a handsome young East Asian man.
 
 ---
 
-### 415. Girl holding retro silver microphone
+### 414. Girl holding retro silver microphone
 
 ![Girl holding retro silver microphone](https://opennana.com/awesome-prompt-gallery/images/387.jpeg)
 
@@ -9980,7 +9964,7 @@ A dramatic black and white close-up portrait of a handsome young East Asian man.
 
 ---
 
-### 416. Sleepy girl on white pillow
+### 415. Sleepy girl on white pillow
 
 ![Sleepy girl on white pillow](https://opennana.com/awesome-prompt-gallery/images/388.jpeg)
 
@@ -10062,7 +10046,7 @@ A dramatic black and white close-up portrait of a handsome young East Asian man.
 
 ---
 
-### 417. Twin ponytails show love to girls
+### 416. Twin ponytails show love to girls
 
 ![Twin ponytails show love to girls](https://opennana.com/awesome-prompt-gallery/images/389.jpeg)
 
@@ -10147,7 +10131,7 @@ A dramatic black and white close-up portrait of a handsome young East Asian man.
 
 ---
 
-### 418. Girls with rainbow hair styles
+### 417. Girls with rainbow hair styles
 
 ![Girls with rainbow hair styles](https://opennana.com/awesome-prompt-gallery/images/390.jpeg)
 
@@ -10229,7 +10213,7 @@ A dramatic black and white close-up portrait of a handsome young East Asian man.
 
 ---
 
-### 419. Girls indoors in cafe
+### 418. Girls indoors in cafe
 
 ![Girls indoors in cafe](https://opennana.com/awesome-prompt-gallery/images/391.jpeg)
 
@@ -10310,7 +10294,7 @@ A dramatic black and white close-up portrait of a handsome young East Asian man.
 
 ---
 
-### 420. Girls changing clothes
+### 419. Girls changing clothes
 
 ![Girls changing clothes](https://opennana.com/awesome-prompt-gallery/images/392.jpeg)
 
@@ -10392,7 +10376,7 @@ A dramatic black and white close-up portrait of a handsome young East Asian man.
 
 ---
 
-### 421. Full body realistic fashion portrait
+### 420. Full body realistic fashion portrait
 
 ![Full body realistic fashion portrait](https://opennana.com/awesome-prompt-gallery/images/393.jpeg)
 
@@ -10497,7 +10481,7 @@ A dramatic black and white close-up portrait of a handsome young East Asian man.
 
 ---
 
-### 422. Taking a photo with Sonic Mario
+### 421. Taking a photo with Sonic Mario
 
 ![Taking a photo with Sonic Mario](https://opennana.com/awesome-prompt-gallery/images/394.jpeg)
 
@@ -10513,7 +10497,7 @@ Selfie ultra-realista en formato vertical 9:16 con lente ojo de pez de mí junto
 
 ---
 
-### 423. Cyber ​​aesthetics future social software interface photos
+### 422. Cyber ​​aesthetics future social software interface photos
 
 ![Cyber ​​aesthetics future social software interface photos](https://opennana.com/awesome-prompt-gallery/images/395.jpeg)
 
@@ -10537,7 +10521,7 @@ The light reflections on the fingers look cinematic and atmospheric, creating a 
 
 ---
 
-### 424. Create a 3D Twitter profile card
+### 423. Create a 3D Twitter profile card
 
 ![Create a 3D Twitter profile card](https://opennana.com/awesome-prompt-gallery/images/396.jpeg)
 
@@ -10557,7 +10541,7 @@ Create a hyper-realistic 3D render of a transparent twitter profile card, design
 
 ---
 
-### 425. A candid photo of a young woman
+### 424. A candid photo of a young woman
 
 ![A candid photo of a young woman](https://opennana.com/awesome-prompt-gallery/images/397.jpeg)
 
@@ -10573,7 +10557,7 @@ A candid snapshot of a young woman with straight black hair, blunt bangs, large 
 
 ---
 
-### 426. Studio photoshoot with oversized props
+### 425. Studio photoshoot with oversized props
 
 ![Studio photoshoot with oversized props](https://opennana.com/awesome-prompt-gallery/images/398.jpeg)
 
@@ -10589,7 +10573,7 @@ A full-body hyper-realistic studio portrait of [CHARACTER DESCRIPTION] in a [POS
 
 ---
 
-### 427. Young East Asian Female K-Pop Idol Style
+### 426. Young East Asian Female K-Pop Idol Style
 
 ![Young East Asian Female K-Pop Idol Style](https://opennana.com/awesome-prompt-gallery/images/399.jpeg)
 
@@ -10663,7 +10647,7 @@ A full-body hyper-realistic studio portrait of [CHARACTER DESCRIPTION] in a [POS
 
 ---
 
-### 428. A candid photo of a young woman hiking in the mountains
+### 427. A candid photo of a young woman hiking in the mountains
 
 ![A candid photo of a young woman hiking in the mountains](https://opennana.com/awesome-prompt-gallery/images/400.jpeg)
 
@@ -10679,7 +10663,7 @@ A natural grab shot of an alluring day-style woman hiking in the mountains, pony
 
 ---
 
-### 429. Close-up portrait of young woman wearing dark hoodie
+### 428. Close-up portrait of young woman wearing dark hoodie
 
 ![Close-up portrait of young woman wearing dark hoodie](https://opennana.com/awesome-prompt-gallery/images/401.jpeg)
 
@@ -10718,7 +10702,7 @@ A natural grab shot of an alluring day-style woman hiking in the mountains, pony
 
 ---
 
-### 430. Digital comics of a middle-aged man
+### 429. Digital comics of a middle-aged man
 
 ![Digital comics of a middle-aged man](https://opennana.com/awesome-prompt-gallery/images/402.jpeg)
 
@@ -10740,7 +10724,7 @@ The art style should combine semi-realistic digital painting with the texture of
 
 ---
 
-### 431. A hyper-realistic, detailed underwater close-up portrait
+### 430. A hyper-realistic, detailed underwater close-up portrait
 
 ![A hyper-realistic, detailed underwater close-up portrait](https://opennana.com/awesome-prompt-gallery/images/403.jpeg)
 
@@ -10780,7 +10764,7 @@ The art style should combine semi-realistic digital painting with the texture of
 
 ---
 
-### 432. Small and cute isometric view
+### 431. Small and cute isometric view
 
 ![Small and cute isometric view](https://opennana.com/awesome-prompt-gallery/images/404.jpeg)
 
@@ -10796,7 +10780,7 @@ Tiny cute isometric [CHARACTER or PRODUCT], soft lighting, soft pastel colors, 3
 
 ---
 
-### 433. Ultra-realistic full-body portraits and character interactions
+### 432. Ultra-realistic full-body portraits and character interactions
 
 ![Ultra-realistic full-body portraits and character interactions](https://opennana.com/awesome-prompt-gallery/images/405.jpeg)
 
@@ -10816,7 +10800,7 @@ Expression and mood: {emotional tone}, captured in photorealistic textures, real
 
 ---
 
-### 434. A hyper-realistic full-body portrait interacting with Luffy
+### 433. A hyper-realistic full-body portrait interacting with Luffy
 
 ![A hyper-realistic full-body portrait interacting with Luffy](https://opennana.com/awesome-prompt-gallery/images/406.jpeg)
 
@@ -10832,7 +10816,7 @@ Ultra-realistic full-body portrait of the attached image. The person is interact
 
 ---
 
-### 435. Turn celebrities into fun 3D cartoon portraits
+### 434. Turn celebrities into fun 3D cartoon portraits
 
 ![Turn celebrities into fun 3D cartoon portraits](https://opennana.com/awesome-prompt-gallery/images/407.jpeg)
 
@@ -10848,7 +10832,7 @@ Full-body 3D caricature of [Character Name] in Pixar/DreamWorks style, featuring
 
 ---
 
-### 436. The character becomes a 3D collectible Q-version doll
+### 435. The character becomes a 3D collectible Q-version doll
 
 ![The character becomes a 3D collectible Q-version doll](https://opennana.com/awesome-prompt-gallery/images/408.jpeg)
 
@@ -10864,7 +10848,7 @@ Full-body 3D caricature of [Character Name] in Pixar/DreamWorks style, featuring
 
 ---
 
-### 437. Branded 3D rendering of large capsule-shaped container
+### 436. Branded 3D rendering of large capsule-shaped container
 
 ![Branded 3D rendering of large capsule-shaped container](https://opennana.com/awesome-prompt-gallery/images/409.jpeg)
 
@@ -10880,7 +10864,7 @@ Create a hyper-realistic 3D render of a large capsule-shaped container. The top 
 
 ---
 
-### 438. Selfie style photo surrounded by several animals
+### 437. Selfie style photo surrounded by several animals
 
 ![Selfie style photo surrounded by several animals](https://opennana.com/awesome-prompt-gallery/images/410.jpeg)
 
@@ -10896,7 +10880,7 @@ A selfie-style shot of a smiling young man with dark hair and a beard, wearing a
 
 ---
 
-### 439. A woman walks out of the smartphone screen
+### 438. A woman walks out of the smartphone screen
 
 ![A woman walks out of the smartphone screen](https://opennana.com/awesome-prompt-gallery/images/411.jpeg)
 
@@ -10912,7 +10896,7 @@ A hyperrealistic cinematic photo of a woman stepping out of a smartphone screen 
 
 ---
 
-### 440. 3D comic portrait
+### 439. 3D comic portrait
 
 ![3D comic portrait](https://opennana.com/awesome-prompt-gallery/images/412.jpeg)
 
@@ -10928,7 +10912,7 @@ A hyperrealistic cinematic photo of a woman stepping out of a smartphone screen 
 
 ---
 
-### 441. Pencil style big head cartoon
+### 440. Pencil style big head cartoon
 
 ![Pencil style big head cartoon](https://opennana.com/awesome-prompt-gallery/images/413.jpeg)
 
@@ -10965,7 +10949,7 @@ A hyperrealistic cinematic photo of a woman stepping out of a smartphone screen 
 
 ---
 
-### 442. 3x3 photo in clean soft beige studio
+### 441. 3x3 photo in clean soft beige studio
 
 ![3x3 photo in clean soft beige studio](https://opennana.com/awesome-prompt-gallery/images/414.jpeg)
 
@@ -10981,7 +10965,7 @@ Editorial 3x3 photo grid in a clean soft beige studio. Character (matches refere
 
 ---
 
-### 443. Nine Q-version stickers with different clothing poses and expressions
+### 442. Nine Q-version stickers with different clothing poses and expressions
 
 ![Nine Q-version stickers with different clothing poses and expressions](https://opennana.com/awesome-prompt-gallery/images/415.jpeg)
 
@@ -10997,7 +10981,7 @@ Create a 3D kawaii 10:16 canvas featuring nine chibi-style stickers in various o
 
 ---
 
-### 444. Exaggerated HD full body comics
+### 443. Exaggerated HD full body comics
 
 ![Exaggerated HD full body comics](https://opennana.com/awesome-prompt-gallery/images/416.jpeg)
 
@@ -11013,7 +10997,7 @@ A realistic HD full body caricature of [subject: name], [describe exaggerated ph
 
 ---
 
-### 445. A hyper-realistic, high-quality close-up portrait
+### 444. A hyper-realistic, high-quality close-up portrait
 
 ![A hyper-realistic, high-quality close-up portrait](https://opennana.com/awesome-prompt-gallery/images/417.jpeg)
 
@@ -11030,7 +11014,7 @@ Create an hyperrealistic and high quality close-up portrait of a styling young w
 
 ---
 
-### 446. Redesign movie posters into claymation style
+### 445. Redesign movie posters into claymation style
 
 ![Redesign movie posters into claymation style](https://opennana.com/awesome-prompt-gallery/images/418.jpeg)
 
@@ -11046,7 +11030,7 @@ Restyle the reference movie poster in claymation style. Keep the original layout
 
 ---
 
-### 447. Young woman by the window on the bus
+### 446. Young woman by the window on the bus
 
 ![Young woman by the window on the bus](https://opennana.com/awesome-prompt-gallery/images/419.jpeg)
 
@@ -11121,7 +11105,7 @@ Restyle the reference movie poster in claymation style. Keep the original layout
 
 ---
 
-### 448. Light and shadow triptych at home
+### 447. Light and shadow triptych at home
 
 ![Light and shadow triptych at home](https://opennana.com/awesome-prompt-gallery/images/420.jpeg)
 
@@ -11176,7 +11160,7 @@ The pictures are not deliberately staged or gorgeously decorated, but use light 
 
 ---
 
-### 449. Ultra-realistic wildlife photography scenes
+### 448. Ultra-realistic wildlife photography scenes
 
 ![Ultra-realistic wildlife photography scenes](https://opennana.com/awesome-prompt-gallery/images/421.jpeg)
 
@@ -11192,7 +11176,7 @@ Ultra-realistic wildlife photography scene, (use reference face from uploaded ph
 
 ---
 
-### 450. Realistic high-definition full-body comic characters
+### 449. Realistic high-definition full-body comic characters
 
 ![Realistic high-definition full-body comic characters](https://opennana.com/awesome-prompt-gallery/images/422.jpeg)
 
@@ -11213,7 +11197,7 @@ In the style of caricature realism, emphasize [expression details — e.g., wrin
 
 ---
 
-### 451. A realistic full-body portrait
+### 450. A realistic full-body portrait
 
 ![A realistic full-body portrait](https://opennana.com/awesome-prompt-gallery/images/423.jpeg)
 
@@ -11236,7 +11220,7 @@ Technical specifications:
 
 ---
 
-### 452. A cute anthropomorphic animal
+### 451. A cute anthropomorphic animal
 
 ![A cute anthropomorphic animal](https://opennana.com/awesome-prompt-gallery/images/424.jpeg)
 
@@ -11252,7 +11236,7 @@ A cute anthropomorphic [subject] in triple view: front-left, front, and back. St
 
 ---
 
-### 453. Bird wearing inflatable down jacket
+### 452. Bird wearing inflatable down jacket
 
 ![Bird wearing inflatable down jacket](https://opennana.com/awesome-prompt-gallery/images/425.jpeg)
 
@@ -11268,7 +11252,7 @@ A bird wearing an inflatable [COLOR] down jacket perched on the top of a dry tre
 
 ---
 
-### 454. Decryption and disassembly of Sichuan Opera Face Changing
+### 453. Decryption and disassembly of Sichuan Opera Face Changing
 
 ![Decryption and disassembly of Sichuan Opera Face Changing](https://opennana.com/awesome-prompt-gallery/images/427.jpeg)
 
@@ -11284,7 +11268,7 @@ Generate a decryption and disassembly diagram of the face-changing trick of Chin
 
 ---
 
-### 455. Humorous doodle style
+### 454. Humorous doodle style
 
 ![Humorous doodle style](https://opennana.com/awesome-prompt-gallery/images/428.jpeg)
 
@@ -11300,7 +11284,7 @@ A doodle-style [subject], naive lines, humorous shape exaggeration
 
 ---
 
-### 456. Long text ancient poetry painting
+### 455. Long text ancient poetry painting
 
 ![Long text ancient poetry painting](https://opennana.com/awesome-prompt-gallery/images/429.jpeg)
 
@@ -11330,7 +11314,7 @@ I sent my farewell words again with great care, and in them I vowed to know each
 
 ---
 
-### 457. Animation and reality split portrait
+### 456. Animation and reality split portrait
 
 ![Animation and reality split portrait](https://opennana.com/awesome-prompt-gallery/images/430.jpeg)
 
@@ -11346,7 +11330,7 @@ A cinematic 16:9 wide shot featuring a single centered headshot of Naruto Uzumak
 
 ---
 
-### 458. Game of Thrones character holding passport
+### 457. Game of Thrones character holding passport
 
 ![Game of Thrones character holding passport](https://opennana.com/awesome-prompt-gallery/images/431.jpeg)
 
@@ -11362,7 +11346,7 @@ change it to [an unexpected, unlikely westeros character] in a different but rel
 
 ---
 
-### 459. Contents of TV screen copied into oil painting
+### 458. Contents of TV screen copied into oil painting
 
 ![Contents of TV screen copied into oil painting](https://opennana.com/awesome-prompt-gallery/images/432.jpeg)
 
@@ -11378,7 +11362,7 @@ Amateur photograph from 1998 of a middle-aged artist copying an image by hand fr
 
 ---
 
-### 460. landmark infographic
+### 459. landmark infographic
 
 ![landmark infographic](https://opennana.com/awesome-prompt-gallery/images/433.jpeg)
 
@@ -11394,7 +11378,7 @@ Create an infographic image of [LANDMARK], combining a real photograph of the la
 
 ---
 
-### 461. Journey to the West characters take the subway
+### 460. Journey to the West characters take the subway
 
 ![Journey to the West characters take the subway](https://opennana.com/awesome-prompt-gallery/images/434.jpeg)
 
@@ -11410,7 +11394,7 @@ A crowded Beijing subway car, but the passengers are all mythical characters (Su
 
 ---
 
-### 462. Wearing famous clothes and taking photos on the beach in Shanghai
+### 461. Wearing famous clothes and taking photos on the beach in Shanghai
 
 ![Wearing famous clothes and taking photos on the beach in Shanghai](https://opennana.com/awesome-prompt-gallery/images/435.jpeg)
 
@@ -11448,7 +11432,7 @@ Aspect ratio: 16:9
 
 ---
 
-### 463. Career journey visualized as a map
+### 462. Career journey visualized as a map
 
 ![Career journey visualized as a map](https://opennana.com/awesome-prompt-gallery/images/436.jpeg)
 
@@ -11464,7 +11448,7 @@ Download your LinkedIn profile is a PDF and give it to Nano Banana Pro with a si
 
 ---
 
-### 464. Aircraft three-dimensional section infographic
+### 463. Aircraft three-dimensional section infographic
 
 ![Aircraft three-dimensional section infographic](https://opennana.com/awesome-prompt-gallery/images/437.jpeg)
 
@@ -11480,7 +11464,7 @@ Create a 3D cross-sectional infographic with a strong sense of technology, aimin
 
 ---
 
-### 465. Crazy program meow
+### 464. Crazy program meow
 
 ![Crazy program meow](https://opennana.com/awesome-prompt-gallery/images/438.jpeg)
 
@@ -11496,7 +11480,7 @@ Create a 3D cross-sectional infographic with a strong sense of technology, aimin
 
 ---
 
-### 466. Create patterns or exploded views from images
+### 465. Create patterns or exploded views from images
 
 ![Create patterns or exploded views from images](https://opennana.com/awesome-prompt-gallery/images/439.png)
 
@@ -11512,7 +11496,7 @@ Create an image of the different patterns that makes up this shoe. lay them out 
 
 ---
 
-### 467. Beauty detector
+### 466. Beauty detector
 
 ![Beauty detector](https://opennana.com/awesome-prompt-gallery/images/440.jpeg)
 
@@ -11564,7 +11548,7 @@ Design style:
 
 ---
 
-### 468. Statue of Liberty architectural blueprint
+### 467. Statue of Liberty architectural blueprint
 
 ![Statue of Liberty architectural blueprint](https://opennana.com/awesome-prompt-gallery/images/441.jpeg)
 
@@ -11580,7 +11564,7 @@ A photorealistic wide-angle landscape shot of the Statue of Liberty with the New
 
 ---
 
-### 469. historical anachronism
+### 468. historical anachronism
 
 ![historical anachronism](https://opennana.com/awesome-prompt-gallery/images/442.jpeg)
 
@@ -11596,7 +11580,7 @@ A candid backstage polaroid photo from 1865. Abraham Lincoln is sitting in a can
 
 ---
 
-### 470. Mars surveillance video
+### 469. Mars surveillance video
 
 ![Mars surveillance video](https://opennana.com/awesome-prompt-gallery/images/443.jpeg)
 
@@ -11612,7 +11596,7 @@ Grainy surveillance security camera footage from inside a Mars habitat airlock. 
 
 ---
 
-### 471. magic window
+### 470. magic window
 
 ![magic window](https://opennana.com/awesome-prompt-gallery/images/444.jpeg)
 
@@ -11628,7 +11612,7 @@ Grainy 35mm film photo from 1975. A construction worker is installing a large gl
 
 ---
 
-### 472. Incorporate comic characters into your real-life photos
+### 471. Incorporate comic characters into your real-life photos
 
 ![Incorporate comic characters into your real-life photos](https://opennana.com/awesome-prompt-gallery/images/445.jpeg)
 
@@ -11644,7 +11628,7 @@ A photograph of a crowded subway train in Tokyo, hyper-realistic style. Sitting 
 
 ---
 
-### 473. fake history
+### 472. fake history
 
 ![fake history](https://opennana.com/awesome-prompt-gallery/images/446.jpeg)
 
@@ -11660,7 +11644,7 @@ Leaked production footage from a secret soundstage, 1969. Neil Armstrong is walk
 
 ---
 
-### 474. SPaceX engineering schematics and blueprint lines
+### 473. SPaceX engineering schematics and blueprint lines
 
 ![SPaceX engineering schematics and blueprint lines](https://opennana.com/awesome-prompt-gallery/images/447.jpeg)
 
@@ -11676,7 +11660,7 @@ A high angle wide angle live action photo of [SPace X] as a background overlaid 
 
 ---
 
-### 475. Add sketched people to your real photos
+### 474. Add sketched people to your real photos
 
 ![Add sketched people to your real photos](https://opennana.com/awesome-prompt-gallery/images/448.jpeg)
 
@@ -11692,7 +11676,7 @@ Add clean, minimal white line-drawing illustrations of people into this photo. M
 
 ---
 
-### 476. You can actually be cute when you're angry
+### 475. You can actually be cute when you're angry
 
 ![You can actually be cute when you're angry](https://opennana.com/awesome-prompt-gallery/images/449.jpeg)
 
@@ -11708,7 +11692,7 @@ Transform the subject into a glossy designer-toy character inspired by the refer
 
 ---
 
-### 477. A behind-the-scenes look at the photo-making process
+### 476. A behind-the-scenes look at the photo-making process
 
 ![A behind-the-scenes look at the photo-making process](https://opennana.com/awesome-prompt-gallery/images/450.jpeg)
 
@@ -11724,7 +11708,7 @@ I’d like to see a behind the scenes of a photoshoot how this photograph was cr
 
 ---
 
-### 478. Hong Kong martial arts 3-frame comic
+### 477. Hong Kong martial arts 3-frame comic
 
 ![Hong Kong martial arts 3-frame comic](https://opennana.com/awesome-prompt-gallery/images/452.jpeg)
 
@@ -11743,7 +11727,7 @@ Master Tai: "Monk and Taoist Priest, please come together. I'm in a hurry."
 
 ---
 
-### 479. Street murals with strong photographic quality
+### 478. Street murals with strong photographic quality
 
 ![Street murals with strong photographic quality](https://opennana.com/awesome-prompt-gallery/images/454.jpeg)
 
@@ -11763,7 +11747,7 @@ In the background is a clear blue sky dotted with white clouds; on the ground is
 
 ---
 
-### 480. Interesting ink painting of family relationship
+### 479. Interesting ink painting of family relationship
 
 ![Interesting ink painting of family relationship](https://opennana.com/awesome-prompt-gallery/images/455.jpeg)
 
@@ -11779,7 +11763,7 @@ In the background is a clear blue sky dotted with white clouds; on the ground is
 
 ---
 
-### 481. Warm toned science fiction comic scene with 2077 background
+### 480. Warm toned science fiction comic scene with 2077 background
 
 ![Warm toned science fiction comic scene with 2077 background](https://opennana.com/awesome-prompt-gallery/images/456.jpeg)
 
@@ -11805,7 +11789,7 @@ The overall atmosphere is warm and a little nostalgic, reflecting the warm and h
 
 ---
 
-### 482. Young Asian girl squatting in the courtyard on the concrete floor
+### 481. Young Asian girl squatting in the courtyard on the concrete floor
 
 ![Young Asian girl squatting in the courtyard on the concrete floor](https://opennana.com/awesome-prompt-gallery/images/457.jpeg)
 
@@ -11821,7 +11805,7 @@ In a hyper-realistic style, a natural and casual photo is captured from a high a
 
 ---
 
-### 483. Text generates beautiful magazine article photos
+### 482. Text generates beautiful magazine article photos
 
 ![Text generates beautiful magazine article photos](https://opennana.com/awesome-prompt-gallery/images/458.jpeg)
 
@@ -11837,7 +11821,7 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 
 ---
 
-### 484. Make 9 different hairstyles
+### 483. Make 9 different hairstyles
 
 ![Make 9 different hairstyles](https://opennana.com/awesome-prompt-gallery/images/459.jpeg)
 
@@ -11853,7 +11837,7 @@ make a 3x3 grid with different hairstyles
 
 ---
 
-### 485. Fixed reference picture pose to generate pictures
+### 484. Fixed reference picture pose to generate pictures
 
 ![Fixed reference picture pose to generate pictures](https://opennana.com/awesome-prompt-gallery/images/460.jpeg)
 
@@ -11926,7 +11910,7 @@ make a 3x3 grid with different hairstyles
 
 ---
 
-### 486. Chinese and pinyin pictures of the song broken by the autumn wind in thatched cottage
+### 485. Chinese and pinyin pictures of the song broken by the autumn wind in thatched cottage
 
 ![Chinese and pinyin pictures of the song broken by the autumn wind in thatched cottage](https://opennana.com/awesome-prompt-gallery/images/461.jpeg)
 
@@ -11949,7 +11933,7 @@ The Chinese pinyin is marked above each word, and the content of the picture mai
 
 ---
 
-### 487. Generate press conference site pictures based on text
+### 486. Generate press conference site pictures based on text
 
 ![Generate press conference site pictures based on text](https://opennana.com/awesome-prompt-gallery/images/462.jpeg)
 
@@ -11965,7 +11949,7 @@ Generate a photo based on the text: a grand Apple conference, with many spectato
 
 ---
 
-### 488. Famous Quote Cards
+### 487. Famous Quote Cards
 
 ![Famous Quote Cards](https://opennana.com/awesome-prompt-gallery/images/463.jpeg)
 
@@ -11981,7 +11965,7 @@ A wide card with famous quotes, brown background, light gold serif "Stay Hungry,
 
 ---
 
-### 489. rick and morty style card
+### 488. rick and morty style card
 
 ![rick and morty style card](https://opennana.com/awesome-prompt-gallery/images/464.jpeg)
 
@@ -11997,7 +11981,7 @@ Using rick and morty style, introduce xxxxx in great detail
 
 ---
 
-### 490. Holiday photos for all ages from birth to 80
+### 489. Holiday photos for all ages from birth to 80
 
 ![Holiday photos for all ages from birth to 80](https://opennana.com/awesome-prompt-gallery/images/465.jpeg)
 
@@ -12013,7 +11997,7 @@ Generate the holiday photo of this person through the ages up to 80 years old
 
 ---
 
-### 491. 14 furry little guys squeezed side by side on the sofa
+### 490. 14 furry little guys squeezed side by side on the sofa
 
 ![14 furry little guys squeezed side by side on the sofa](https://opennana.com/awesome-prompt-gallery/images/466.jpeg)
 
@@ -12029,7 +12013,7 @@ A medium shot of the 14 fluffy characters sitting squeezed together side-by-side
 
 ---
 
-### 492. Celebrity co-production
+### 491. Celebrity co-production
 
 ![Celebrity co-production](https://opennana.com/awesome-prompt-gallery/images/467.jpeg)
 
@@ -12065,7 +12049,7 @@ Polished marbl
 
 ---
 
-### 493. Fake TikTok screenshots
+### 492. Fake TikTok screenshots
 
 ![Fake TikTok screenshots](https://opennana.com/awesome-prompt-gallery/images/468.jpeg)
 
@@ -12081,7 +12065,7 @@ Help me generate a screenshot of a Douyin vertical screen short video. The conte
 
 ---
 
-### 494. Animation to live action
+### 493. Animation to live action
 
 ![Animation to live action](https://opennana.com/awesome-prompt-gallery/images/469.jpeg)
 
@@ -12097,7 +12081,7 @@ Help me generate a screenshot of a Douyin vertical screen short video. The conte
 
 ---
 
-### 495. Picture annotation
+### 494. Picture annotation
 
 ![Picture annotation](https://opennana.com/awesome-prompt-gallery/images/470.jpeg)
 
@@ -12113,7 +12097,7 @@ add sketch annotations on top of this image explaining the camera movement. I wa
 
 ---
 
-### 496. Leaked photos from the set of the live-action movie
+### 495. Leaked photos from the set of the live-action movie
 
 ![Leaked photos from the set of the live-action movie](https://opennana.com/awesome-prompt-gallery/images/471.jpeg)
 
@@ -12129,7 +12113,7 @@ Generate leaked photo BTS from KPOP Demon Hunters live action movie set
 
 ---
 
-### 497. Earth's Got Talent
+### 496. Earth's Got Talent
 
 ![Earth's Got Talent](https://opennana.com/awesome-prompt-gallery/images/472.jpeg)
 
@@ -12156,7 +12140,7 @@ Captured with a professional cinema camera (e.g., Arri Alexa LF) using a 35mm pr
 
 ---
 
-### 498. Young Asian girl squatting in the courtyard on the concrete floor
+### 497. Young Asian girl squatting in the courtyard on the concrete floor
 
 ![Young Asian girl squatting in the courtyard on the concrete floor](https://opennana.com/awesome-prompt-gallery/images/473.jpeg)
 
@@ -12203,7 +12187,7 @@ Captured with a professional cinema camera (e.g., Arri Alexa LF) using a 35mm pr
 
 ---
 
-### 499. Super Smash Bros. game poster family portrait
+### 498. Super Smash Bros. game poster family portrait
 
 ![Super Smash Bros. game poster family portrait](https://opennana.com/awesome-prompt-gallery/images/474.jpeg)
 
@@ -12219,7 +12203,7 @@ Draw a family portrait for the Super Smash Bros. game poster, keeping the style 
 
 ---
 
-### 500. Three heroes racing against Lu Bu
+### 499. Three heroes racing against Lu Bu
 
 ![Three heroes racing against Lu Bu](https://opennana.com/awesome-prompt-gallery/images/475.jpeg)
 
@@ -12248,7 +12232,7 @@ The traditional Zhuyin ("Jade Seal") inscription is retained in the appropriate 
 
 ---
 
-### 501. Recipe - Tomato Scrambled Eggs
+### 500. Recipe - Tomato Scrambled Eggs
 
 ![Recipe - Tomato Scrambled Eggs](https://opennana.com/awesome-prompt-gallery/images/476.jpeg)
 
@@ -12346,7 +12330,7 @@ Signed at bottom center
 
 ---
 
-### 502. Attack on Titan style recipe: braised pork
+### 501. Attack on Titan style recipe: braised pork
 
 ![Attack on Titan style recipe: braised pork](https://opennana.com/awesome-prompt-gallery/images/477.jpeg)
 
@@ -12362,7 +12346,7 @@ Please draw a flow chart for making braised pork, with a brief description, the 
 
 ---
 
-### 503. Panoramic character depth concept exploded view
+### 502. Panoramic character depth concept exploded view
 
 ![Panoramic character depth concept exploded view](https://opennana.com/awesome-prompt-gallery/images/478.jpeg)
 
@@ -12411,7 +12395,7 @@ When the user provides an image or description:
 
 ---
 
-### 504. One-click OOTD
+### 503. One-click OOTD
 
 ![One-click OOTD](https://opennana.com/awesome-prompt-gallery/images/479.jpeg)
 
@@ -12458,7 +12442,7 @@ Create an OOTD collage image. Fill in the price as you wish
 
 ---
 
-### 505. divided comic manuscript drawings
+### 504. divided comic manuscript drawings
 
 ![divided comic manuscript drawings](https://opennana.com/awesome-prompt-gallery/images/480.jpeg)
 
@@ -12481,7 +12465,7 @@ Do not output the analysis content, directly output the divided cartoon pictures
 
 ---
 
-### 506. Zhuge Liannu’s retro-style engineering explosion
+### 505. Zhuge Liannu’s retro-style engineering explosion
 
 ![Zhuge Liannu’s retro-style engineering explosion](https://opennana.com/awesome-prompt-gallery/images/483.jpeg)
 
@@ -12497,7 +12481,7 @@ Please create a retro-style engineering explosion diagram of Zhuge Liannu with t
 
 ---
 
-### 507. Make a 4×4 grid to match the period style
+### 506. Make a 4×4 grid to match the period style
 
 ![Make a 4×4 grid to match the period style](https://opennana.com/awesome-prompt-gallery/images/484.jpeg)
 
@@ -12513,7 +12497,7 @@ Make a 4×4 grid starting with the 1880s. In each section, I should appear style
 
 ---
 
-### 508. Colorful hand-drawn style emoticon pack
+### 507. Colorful hand-drawn style emoticon pack
 
 ![Colorful hand-drawn style emoticon pack](https://opennana.com/awesome-prompt-gallery/images/485.jpeg)
 
@@ -12532,7 +12516,7 @@ The generated image needs to be 4K resolution 16:9
 
 ---
 
-### 509. Super Saiyan transformation process
+### 508. Super Saiyan transformation process
 
 ![Super Saiyan transformation process](https://opennana.com/awesome-prompt-gallery/images/486.jpeg)
 
@@ -12548,7 +12532,7 @@ Create a detailed visual chart showing the full evolution of “Super Saiyan–s
 
 ---
 
-### 510. 8 initial sketches for pictures
+### 509. 8 initial sketches for pictures
 
 ![8 initial sketches for pictures](https://opennana.com/awesome-prompt-gallery/images/487.jpeg)
 
@@ -12564,7 +12548,7 @@ Create 8 different initial sketches leading to this final character.
 
 ---
 
-### 511. Minimalist children's painting style
+### 510. Minimalist children's painting style
 
 ![Minimalist children's painting style](https://opennana.com/awesome-prompt-gallery/images/488.jpeg)
 
@@ -12580,7 +12564,7 @@ A [subject] in a minimalist children's drawing style, using thick white lines an
 
 ---
 
-### 512. Artist painting his own miniature puppet
+### 511. Artist painting his own miniature puppet
 
 ![Artist painting his own miniature puppet](https://opennana.com/awesome-prompt-gallery/images/489.jpeg)
 
@@ -12596,7 +12580,7 @@ Create an image of this person as an artist painting a tiny miniature figurine v
 
 ---
 
-### 513. A high-resolution, full-body outdoor photo
+### 512. A high-resolution, full-body outdoor photo
 
 ![A high-resolution, full-body outdoor photo](https://opennana.com/awesome-prompt-gallery/images/490.jpeg)
 
@@ -12612,7 +12596,7 @@ A high-resolution, full outdoor shot of a young East Asian woman with a radiant 
 
 ---
 
-### 514. 10 different hairstyles
+### 513. 10 different hairstyles
 
 ![10 different hairstyles](https://opennana.com/awesome-prompt-gallery/images/491.jpeg)
 
@@ -12628,7 +12612,7 @@ Create a grid of 10 different hairstyles for this women. List the name of each h
 
 ---
 
-### 515. Generate pictures based on coordinates
+### 514. Generate pictures based on coordinates
 
 ![Generate pictures based on coordinates](https://opennana.com/awesome-prompt-gallery/images/492.jpeg)
 
@@ -12644,7 +12628,7 @@ Generate a sunset image with coordinates 36.4602° N, 25.3730° E
 
 ---
 
-### 516. PS5 technical blueprint
+### 515. PS5 technical blueprint
 
 ![PS5 technical blueprint](https://opennana.com/awesome-prompt-gallery/images/493.jpeg)
 
@@ -12660,7 +12644,7 @@ A two-panel technical blueprint diagram in clean monochrome line-art, matching t
 
 ---
 
-### 517. A cool selfie with Luffy
+### 516. A cool selfie with Luffy
 
 ![A cool selfie with Luffy](https://opennana.com/awesome-prompt-gallery/images/494.jpeg)
 
@@ -12676,7 +12660,7 @@ Place Monkey D. Luffy next to the man, smiling widely with his straw hat tilted.
 
 ---
 
-### 518. Miniature cozy living room
+### 517. Miniature cozy living room
 
 ![Miniature cozy living room](https://opennana.com/awesome-prompt-gallery/images/495.jpeg)
 
@@ -12692,7 +12676,7 @@ A photorealistic ESC keycap scene shows a miniature cozy living room setup. Insi
 
 ---
 
-### 519. Wearing a stunning conceptual avant-garde gown
+### 518. Wearing a stunning conceptual avant-garde gown
 
 ![Wearing a stunning conceptual avant-garde gown](https://opennana.com/awesome-prompt-gallery/images/496.jpeg)
 
@@ -12708,7 +12692,7 @@ A photorealistic ESC keycap scene shows a miniature cozy living room setup. Insi
 
 ---
 
-### 520. Japanese rural bus station scene on a rainy night
+### 519. Japanese rural bus station scene on a rainy night
 
 ![Japanese rural bus station scene on a rainy night](https://opennana.com/awesome-prompt-gallery/images/497.jpeg)
 
@@ -12765,7 +12749,7 @@ A photorealistic ESC keycap scene shows a miniature cozy living room setup. Insi
 
 ---
 
-### 521. A small world can make a big story happen
+### 520. A small world can make a big story happen
 
 ![A small world can make a big story happen](https://opennana.com/awesome-prompt-gallery/images/498.jpeg)
 
@@ -12781,7 +12765,7 @@ Create a highly detailed miniature hyper-realistic scene of tiny characters real
 
 ---
 
-### 522. Chengdu tourist map
+### 521. Chengdu tourist map
 
 ![Chengdu tourist map](https://opennana.com/awesome-prompt-gallery/images/499.jpeg)
 
@@ -12818,7 +12802,7 @@ Computer font, computer generated text, straight lines, rigid grid, perfect alig
 
 ---
 
-### 523. cyber almanac
+### 522. cyber almanac
 
 ![cyber almanac](https://opennana.com/awesome-prompt-gallery/images/500.jpeg)
 
@@ -12842,7 +12826,7 @@ Negative words: 3D, photo, modern font, horizontal text, minimalist, simple, blu
 
 ---
 
-### 524. Illustrations of Chang'an in the Tang Dynasty
+### 523. Illustrations of Chang'an in the Tang Dynasty
 
 ![Illustrations of Chang'an in the Tang Dynasty](https://opennana.com/awesome-prompt-gallery/images/501.jpeg)
 
@@ -12885,7 +12869,7 @@ English, roman alphabet, 3D, modern map, grid layout, geometric shapes, computer
 
 ---
 
-### 525. Aerial photography of old Beijing
+### 524. Aerial photography of old Beijing
 
 ![Aerial photography of old Beijing](https://opennana.com/awesome-prompt-gallery/images/502.jpeg)
 
@@ -12917,7 +12901,7 @@ Towering walls, sculptural Chinese characters, huge structures, overly obvious C
 
 ---
 
-### 526. Decomposed diagram of horizontal throwing motion trajectory and velocity displacement
+### 525. Decomposed diagram of horizontal throwing motion trajectory and velocity displacement
 
 ![Decomposed diagram of horizontal throwing motion trajectory and velocity displacement](https://opennana.com/awesome-prompt-gallery/images/503.jpeg)
 
@@ -12933,7 +12917,7 @@ Decomposed diagram of horizontal throwing motion trajectory and velocity displac
 
 ---
 
-### 527. Brand co-branded poster
+### 526. Brand co-branded poster
 
 ![Brand co-branded poster](https://opennana.com/awesome-prompt-gallery/images/504.jpeg)
 
@@ -12949,7 +12933,7 @@ Aspect ratio 16:9, official game linkage poster, masterpiece, vibrant "Zero" ani
 
 ---
 
-### 528. Solve math problems
+### 527. Solve math problems
 
 ![Solve math problems](https://opennana.com/awesome-prompt-gallery/images/505.jpeg)
 
@@ -12965,7 +12949,7 @@ Draw a piece of scratch paper with the solution to this problem.
 
 ---
 
-### 529. A brand new Instagram account
+### 528. A brand new Instagram account
 
 ![A brand new Instagram account](https://opennana.com/awesome-prompt-gallery/images/506.jpeg)
 
@@ -12981,7 +12965,7 @@ Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror se
 
 ---
 
-### 530. Timeline of Chinese dynasties
+### 529. Timeline of Chinese dynasties
 
 ![Timeline of Chinese dynasties](https://opennana.com/awesome-prompt-gallery/images/507.jpeg)
 
@@ -12997,7 +12981,7 @@ Help me generate a very long vertical graph, the content is an information graph
 
 ---
 
-### 531. Woman beach movie style portrait
+### 530. Woman beach movie style portrait
 
 ![Woman beach movie style portrait](https://opennana.com/awesome-prompt-gallery/images/508.jpeg)
 
@@ -13019,7 +13003,7 @@ Close-up portrait, melancholic mood, natural lighting, realistic details, 8K.
 
 ---
 
-### 532. Hayao Miyazaki's character walks into the Last Supper
+### 531. Hayao Miyazaki's character walks into the Last Supper
 
 ![Hayao Miyazaki's character walks into the Last Supper](https://opennana.com/awesome-prompt-gallery/images/510.jpeg)
 
@@ -13039,7 +13023,7 @@ All characters are classic Hayao Miyazaki characters, and the characters must be
 
 ---
 
-### 533. last supper
+### 532. last supper
 
 ![last supper](https://opennana.com/awesome-prompt-gallery/images/511.jpeg)
 
@@ -13055,7 +13039,7 @@ Recreate the composition of Leonardo da Vinci’s The Last Supper, but with icon
 
 ---
 
-### 534. HD magazine spread
+### 533. HD magazine spread
 
 ![HD magazine spread](https://opennana.com/awesome-prompt-gallery/images/512.jpeg)
 
@@ -13098,7 +13082,7 @@ STYLE: Retro Streetwear (retro street)
 
 ---
 
-### 535. labubu style dynamics
+### 534. labubu style dynamics
 
 ![labubu style dynamics](https://opennana.com/awesome-prompt-gallery/images/513.jpeg)
 
@@ -13174,7 +13158,7 @@ Generate a high-end fashion magazine spread merging a **Real Human User** (with 
 
 ---
 
-### 536. Replica picture prompt words
+### 535. Replica picture prompt words
 
 ![Replica picture prompt words](https://opennana.com/awesome-prompt-gallery/images/514.jpeg)
 
@@ -13190,7 +13174,7 @@ Detailed description of the complete image reproduction JSON prompt word, includ
 
 ---
 
-### 537. Animation to live action
+### 536. Animation to live action
 
 ![Animation to live action](https://opennana.com/awesome-prompt-gallery/images/517.png)
 
@@ -13206,7 +13190,7 @@ Create a realistic photo of this character.
 
 ---
 
-### 538. minimalist cocktail photography
+### 537. minimalist cocktail photography
 
 ![minimalist cocktail photography](https://opennana.com/awesome-prompt-gallery/images/518.jpeg)
 
@@ -13259,7 +13243,7 @@ Create a realistic photo of this character.
 
 ---
 
-### 539. High end studio photos
+### 538. High end studio photos
 
 ![High end studio photos](https://opennana.com/awesome-prompt-gallery/images/519.jpeg)
 
@@ -13275,7 +13259,7 @@ Create a high-end 8k studio photograph. The person from the reference is standin
 
 ---
 
-### 540. dragon ball cards
+### 539. dragon ball cards
 
 ![dragon ball cards](https://opennana.com/awesome-prompt-gallery/images/520.jpeg)
 
@@ -13345,7 +13329,7 @@ Technical Specs: Ultra detailed TCG card art collection, multiple dynamic action
 
 ---
 
-### 541. Hand drawn isometric illustration of landmarks
+### 540. Hand drawn isometric illustration of landmarks
 
 ![Hand drawn isometric illustration of landmarks](https://opennana.com/awesome-prompt-gallery/images/521.jpeg)
 
@@ -13361,7 +13345,7 @@ Create a hand drawn isometric schematic diagram of [LANDMARK]. 1080x1080 dimensi
 
 ---
 
-### 542. Wardrobe teardown and style analysis
+### 541. Wardrobe teardown and style analysis
 
 ![Wardrobe teardown and style analysis](https://opennana.com/awesome-prompt-gallery/images/522.jpeg)
 
@@ -13408,7 +13392,7 @@ Act as a professional fashion archivist and technical designer. Given an uploade
 
 ---
 
-### 543. Photorealistic close-up selfie of a young woman
+### 542. Photorealistic close-up selfie of a young woman
 
 ![Photorealistic close-up selfie of a young woman](https://opennana.com/awesome-prompt-gallery/images/523.jpeg)
 
@@ -13469,7 +13453,7 @@ Act as a professional fashion archivist and technical designer. Given an uploade
 
 ---
 
-### 544. Labubu and Dilireba high-end fashion cross-page blockbuster
+### 543. Labubu and Dilireba high-end fashion cross-page blockbuster
 
 ![Labubu and Dilireba high-end fashion cross-page blockbuster](https://opennana.com/awesome-prompt-gallery/images/525.jpeg)
 
@@ -13524,7 +13508,7 @@ Art Director’s conclusion:
 
 ---
 
-### 545. fortune chart
+### 544. fortune chart
 
 ![fortune chart](https://opennana.com/awesome-prompt-gallery/images/526.jpeg)
 
@@ -13540,7 +13524,7 @@ Use a long chart to generate my fortune, marking the starting point of his desti
 
 ---
 
-### 546. Minecraft Mysterious Age Information Card
+### 545. Minecraft Mysterious Age Information Card
 
 ![Minecraft Mysterious Age Information Card](https://opennana.com/awesome-prompt-gallery/images/527.jpeg)
 
@@ -13568,7 +13552,7 @@ High quality, fine texture, glowing effect, fantasy style.
 
 ---
 
-### 547. Large oil painting portrait
+### 546. Large oil painting portrait
 
 ![Large oil painting portrait](https://opennana.com/awesome-prompt-gallery/images/528.jpeg)
 
@@ -13585,7 +13569,7 @@ Signature: Shreya Yadav
 
 ---
 
-### 548. Literacy tabloid meta prompt words
+### 547. Literacy tabloid meta prompt words
 
 ![Literacy tabloid meta prompt words](https://opennana.com/awesome-prompt-gallery/images/529.jpeg)
 
@@ -13601,7 +13585,7 @@ Please generate a children's literacy tabloid "Amusement Park", vertical format 
 
 ---
 
-### 549. Battle of Changping infographic
+### 548. Battle of Changping infographic
 
 ![Battle of Changping infographic](https://opennana.com/awesome-prompt-gallery/images/530.jpeg)
 
@@ -13617,7 +13601,7 @@ Use a set of pictures to describe what happened between May and October 260 BC, 
 
 ---
 
-### 550. Make people make Emoji expressions
+### 549. Make people make Emoji expressions
 
 ![Make people make Emoji expressions](https://opennana.com/awesome-prompt-gallery/images/531.jpeg)
 
@@ -13633,7 +13617,7 @@ Make this person do the expression of emoji [EMOJI]
 
 ---
 
-### 551. Markdown to infographic
+### 550. Markdown to infographic
 
 ![Markdown to infographic](https://opennana.com/awesome-prompt-gallery/images/532.jpeg)
 
@@ -13649,7 +13633,7 @@ Make this markdown transcript into a infographic
 
 ---
 
-### 552. Baking bread flow chart
+### 551. Baking bread flow chart
 
 ![Baking bread flow chart](https://opennana.com/awesome-prompt-gallery/images/533.jpeg)
 
@@ -13665,7 +13649,7 @@ i need a flowchart for how to toast bread, make it as wacky and over the top and
 
 ---
 
-### 553. Four seasons infographic
+### 552. Four seasons infographic
 
 ![Four seasons infographic](https://opennana.com/awesome-prompt-gallery/images/534.jpeg)
 
@@ -13681,7 +13665,7 @@ generate a detailed infographic that explains the 4 seasons as experienced in To
 
 ---
 
-### 554. Convert paper into a picture of the professor's whiteboard
+### 553. Convert paper into a picture of the professor's whiteboard
 
 ![Convert paper into a picture of the professor's whiteboard](https://opennana.com/awesome-prompt-gallery/images/535.jpeg)
 
@@ -13697,7 +13681,7 @@ Take this paper and transform in the image of a professor whiteboard image. diag
 
 ---
 
-### 555. Hyper-realistic 3D realistic pictures made of food
+### 554. Hyper-realistic 3D realistic pictures made of food
 
 ![Hyper-realistic 3D realistic pictures made of food](https://opennana.com/awesome-prompt-gallery/images/536.jpeg)
 
@@ -13713,7 +13697,7 @@ Ultra-realistic 3D render of [MONUMENT] made entirely out of [FOOD], seamlessly 
 
 ---
 
-### 556. style learning
+### 555. style learning
 
 ![style learning](https://opennana.com/awesome-prompt-gallery/images/537.jpeg)
 
@@ -13729,7 +13713,7 @@ Learn this style and design a retro DSLR camera.
 
 ---
 
-### 557. Create a movie storyboard
+### 556. Create a movie storyboard
 
 ![Create a movie storyboard](https://opennana.com/awesome-prompt-gallery/images/538.jpeg)
 
@@ -13745,7 +13729,7 @@ Create a cinematic storyboard of the first page of 1984, by using widescreen pan
 
 ---
 
-### 558. Generate cinematic images based on lyrics
+### 557. Generate cinematic images based on lyrics
 
 ![Generate cinematic images based on lyrics](https://opennana.com/awesome-prompt-gallery/images/539.jpeg)
 
@@ -13761,7 +13745,7 @@ generate a cinematic sequence of images for a song based on the lyrics [quote ly
 
 ---
 
-### 559. Item disassembly diagram
+### 558. Item disassembly diagram
 
 ![Item disassembly diagram](https://opennana.com/awesome-prompt-gallery/images/540.jpeg)
 
@@ -13777,7 +13761,7 @@ Ultra-realistic 8K flat-lay photo in strict knolling style. Top-down 90º shot o
 
 ---
 
-### 560. Highly detailed 3D infographic poster
+### 559. Highly detailed 3D infographic poster
 
 ![Highly detailed 3D infographic poster](https://opennana.com/awesome-prompt-gallery/images/541.jpeg)
 
@@ -13849,7 +13833,7 @@ Change the food in this prompt word to xiaolongbao
 
 ---
 
-### 561. Fashion design manuscript
+### 560. Fashion design manuscript
 
 ![Fashion design manuscript](https://opennana.com/awesome-prompt-gallery/images/542.jpeg)
 
@@ -13875,7 +13859,7 @@ The white design canvas is dotted with additional design elements: 3-4 minimalis
 
 ---
 
-### 562. City dynamic weather card
+### 561. City dynamic weather card
 
 ![City dynamic weather card](https://opennana.com/awesome-prompt-gallery/images/543.jpeg)
 
@@ -13902,7 +13886,7 @@ City name:【Shanghai】
 
 ---
 
-### 563. Turn articles into blackboard newspapers
+### 562. Turn articles into blackboard newspapers
 
 ![Turn articles into blackboard newspapers](https://opennana.com/awesome-prompt-gallery/images/545.jpeg)
 
@@ -13930,7 +13914,7 @@ Use "nano banana pro" for drawing based on the provided content.
 
 ---
 
-### 564. Turn articles into cartoon infographics
+### 563. Turn articles into cartoon infographics
 
 ![Turn articles into cartoon infographics](https://opennana.com/awesome-prompt-gallery/images/546.jpeg)
 
@@ -13960,7 +13944,7 @@ Please use nano banana pro to create the illustration based on the input provide
 
 ---
 
-### 565. Hand drawn calendar illustration
+### 564. Hand drawn calendar illustration
 
 ![Hand drawn calendar illustration](https://opennana.com/awesome-prompt-gallery/images/547.jpeg)
 
@@ -14006,7 +13990,7 @@ General Guidelines:
 
 ---
 
-### 566. LINE style half-length Q version emoticon pack
+### 565. LINE style half-length Q version emoticon pack
 
 ![LINE style half-length Q version emoticon pack](https://opennana.com/awesome-prompt-gallery/images/549.jpeg)
 
@@ -14027,7 +14011,7 @@ Final image should be in 4K resolution, 16:9 aspect ratio.
 
 ---
 
-### 567. Fashion style concept exploded illustration in hand drawn style
+### 566. Fashion style concept exploded illustration in hand drawn style
 
 ![Fashion style concept exploded illustration in hand drawn style](https://opennana.com/awesome-prompt-gallery/images/550.jpeg)
 
@@ -14055,7 +14039,7 @@ Language: labels in Chinese + English.
 
 ---
 
-### 568. Modern Chicago Riverside Qingming Riverside Scene Style
+### 567. Modern Chicago Riverside Qingming Riverside Scene Style
 
 ![Modern Chicago Riverside Qingming Riverside Scene Style](https://opennana.com/awesome-prompt-gallery/images/551.jpeg)
 
@@ -14077,7 +14061,7 @@ Human Activity: The Riverwalk and bridge sidewalks are packed with hundreds of t
 
 ---
 
-### 569. Musk taught Einstein how to take pictures
+### 568. Musk taught Einstein how to take pictures
 
 ![Musk taught Einstein how to take pictures](https://opennana.com/awesome-prompt-gallery/images/553.jpeg)
 
@@ -14093,7 +14077,7 @@ A disheveled Einstein stares at his smartphone in confusion, trying to take a se
 
 ---
 
-### 570. Pink star card blows bubbles
+### 569. Pink star card blows bubbles
 
 ![Pink star card blows bubbles](https://opennana.com/awesome-prompt-gallery/images/554.jpeg)
 
@@ -14109,7 +14093,7 @@ Dream diary. Pink Kirby sleeps on a star and spits rainbow-colored bubbles from 
 
 ---
 
-### 571. Take a photo with Deadpool at Avengers Tower
+### 570. Take a photo with Deadpool at Avengers Tower
 
 ![Take a photo with Deadpool at Avengers Tower](https://opennana.com/awesome-prompt-gallery/images/555.jpeg)
 
@@ -14125,7 +14109,7 @@ Place Deadpool next to the man, making "bunny ears" with his fingers behind the 
 
 ---
 
-### 572. The woman stretches her hand exaggeratedly toward the camera
+### 571. The woman stretches her hand exaggeratedly toward the camera
 
 ![The woman stretches her hand exaggeratedly toward the camera](https://opennana.com/awesome-prompt-gallery/images/556.jpeg)
 
@@ -14141,7 +14125,7 @@ Photo taken with an extreme fisheye lens. A young woman with blond hair and twin
 
 ---
 
-### 573. career map picture
+### 572. career map picture
 
 ![career map picture](https://opennana.com/awesome-prompt-gallery/images/557.jpeg)
 
@@ -14157,7 +14141,7 @@ Please create an interesting career map picture for Xiaomi’s Lei Jun, using th
 
 ---
 
-### 574. Astronaut sits next to the crescent moon and fishes for stars
+### 573. Astronaut sits next to the crescent moon and fishes for stars
 
 ![Astronaut sits next to the crescent moon and fishes for stars](https://opennana.com/awesome-prompt-gallery/images/558.jpeg)
 
@@ -14173,23 +14157,7 @@ An astronaut sits on the edge of the curved moon, holding a fishing rod in his h
 
 ---
 
-### 575. I won’t sleep if the moon doesn’t sleep
-
-![I won’t sleep if the moon doesn’t sleep](https://opennana.com/awesome-prompt-gallery/images/559.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@songguoxiansen](https://x.com/songguoxiansen/status/1991871219600400445)
-- **Tags:** neon
-
-**Prompt:**
-
-```
-A panda wears sunglasses and holds a thermos cup (with wolfberry soaked in it). The background is a neon city late at night. The neon sign next to the panda reads: "I won't sleep until the moon sleeps. I'm a bald baby."
-```
-
----
-
-### 576. Don’t tell others to be kind without their suffering
+### 574. Don’t tell others to be kind without their suffering
 
 ![Don’t tell others to be kind without their suffering](https://opennana.com/awesome-prompt-gallery/images/560.jpeg)
 
@@ -14205,7 +14173,7 @@ A very beautiful sunset scenery picture, a person sitting on the edge of the cli
 
 ---
 
-### 577. National Level 1 Wastelanding License
+### 575. National Level 1 Wastelanding License
 
 ![National Level 1 Wastelanding License](https://opennana.com/awesome-prompt-gallery/images/561.jpeg)
 
@@ -14221,7 +14189,7 @@ A close-up of an ID card that looks like a driver's license. The ID card shows a
 
 ---
 
-### 578. Graffiti marker pen account
+### 576. Graffiti marker pen account
 
 ![Graffiti marker pen account](https://opennana.com/awesome-prompt-gallery/images/562.jpeg)
 
@@ -14237,7 +14205,7 @@ A close-up of an ID card that looks like a driver's license. The ID card shows a
 
 ---
 
-### 579. Mario Luigi repairs Princess Peach's kitchen
+### 577. Mario Luigi repairs Princess Peach's kitchen
 
 ![Mario Luigi repairs Princess Peach's kitchen](https://opennana.com/awesome-prompt-gallery/images/564.jpeg)
 
@@ -14253,7 +14221,7 @@ Mario, covered in dirt and looking exhausted, is fixing a leaky sink under the k
 
 ---
 
-### 580. Behind-the-scenes photos of celebrities
+### 578. Behind-the-scenes photos of celebrities
 
 ![Behind-the-scenes photos of celebrities](https://opennana.com/awesome-prompt-gallery/images/565.jpeg)
 
@@ -14269,7 +14237,7 @@ I'd like to see a behind-the-scenes look at this photoshoot and learn how it was
 
 ---
 
-### 581. Bruce Lee and Master Yoda use martial arts to make friends
+### 579. Bruce Lee and Master Yoda use martial arts to make friends
 
 ![Bruce Lee and Master Yoda use martial arts to make friends](https://opennana.com/awesome-prompt-gallery/images/566.jpeg)
 
@@ -14285,7 +14253,7 @@ Bruce Lee, wearing a yellow jumpsuit, has a friendly sparring session with Maste
 
 ---
 
-### 582. hello earthlings
+### 580. hello earthlings
 
 ![hello earthlings](https://opennana.com/awesome-prompt-gallery/images/567.jpeg)
 
@@ -14301,7 +14269,7 @@ Two astronauts wearing bulky spacesuits take a selfie on the lunar surface. In t
 
 ---
 
-### 583. Golden Retriever Live
+### 581. Golden Retriever Live
 
 ![Golden Retriever Live](https://opennana.com/awesome-prompt-gallery/images/568.jpeg)
 
@@ -14317,7 +14285,7 @@ A golden retriever wearing headphones sits in front of a microphone, surrounded 
 
 ---
 
-### 584. Yellowed old newspaper account
+### 582. Yellowed old newspaper account
 
 ![Yellowed old newspaper account](https://opennana.com/awesome-prompt-gallery/images/569.jpeg)
 
@@ -14334,7 +14302,7 @@ Yellowed old newspaper account
 
 ---
 
-### 585. Game character tries to crawl from TV screen to living room
+### 583. Game character tries to crawl from TV screen to living room
 
 ![Game character tries to crawl from TV screen to living room](https://opennana.com/awesome-prompt-gallery/images/570.jpeg)
 
@@ -14350,7 +14318,7 @@ A pixelated video game character tries to crawl from the TV screen into the livi
 
 ---
 
-### 586. It's morning. Let's have a video conference first.
+### 584. It's morning. Let's have a video conference first.
 
 ![It's morning. Let's have a video conference first.](https://opennana.com/awesome-prompt-gallery/images/571.jpeg)
 
@@ -14366,7 +14334,7 @@ Traditional Qing Dynasty palace painting style. The picture depicts the emperor 
 
 ---
 
-### 587. Cream watercolor diary
+### 585. Cream watercolor diary
 
 ![Cream watercolor diary](https://opennana.com/awesome-prompt-gallery/images/572.jpeg)
 
@@ -14382,7 +14350,7 @@ A 9:16 vertical screen high-end fashion illustration mood board, simulating the 
 
 ---
 
-### 588. Sunny girl wearing white knitted top
+### 586. Sunny girl wearing white knitted top
 
 ![Sunny girl wearing white knitted top](https://opennana.com/awesome-prompt-gallery/images/573.jpeg)
 
@@ -14429,7 +14397,7 @@ A 9:16 vertical screen high-end fashion illustration mood board, simulating the 
 
 ---
 
-### 589. Beautiful 3D renderings of the handheld game console
+### 587. Beautiful 3D renderings of the handheld game console
 
 ![Beautiful 3D renderings of the handheld game console](https://opennana.com/awesome-prompt-gallery/images/574.jpeg)
 
@@ -14445,7 +14413,7 @@ A highly polished 3D render of a classic handheld game console split cleanly int
 
 ---
 
-### 590. maximalist pop art layer
+### 588. maximalist pop art layer
 
 ![maximalist pop art layer](https://opennana.com/awesome-prompt-gallery/images/575.jpeg)
 
@@ -14461,7 +14429,7 @@ A highly polished 3D render of a classic handheld game console split cleanly int
 
 ---
 
-### 591. Pixar style 3D animated scenes
+### 589. Pixar style 3D animated scenes
 
 ![Pixar style 3D animated scenes](https://opennana.com/awesome-prompt-gallery/images/576.jpeg)
 
@@ -14502,7 +14470,7 @@ Characters: Liu Bei, Zhang Fei, Guan Yu
 
 ---
 
-### 592. Pixar style 3D animated scenes
+### 590. Pixar style 3D animated scenes
 
 ![Pixar style 3D animated scenes](https://opennana.com/awesome-prompt-gallery/images/577.jpeg)
 
@@ -14532,7 +14500,7 @@ Names: [Frodo, Sam, Aragorn, Gandalf, Legolas, Gimli]
 
 ---
 
-### 593. Oil-splashed noodles cartoon picture
+### 591. Oil-splashed noodles cartoon picture
 
 ![Oil-splashed noodles cartoon picture](https://opennana.com/awesome-prompt-gallery/images/578.jpeg)
 
@@ -14548,7 +14516,7 @@ Write a Nano Banana prompt word to generate a four-square grid cartoon diagram o
 
 ---
 
-### 594. Young woman sitting sideways on arcade stool
+### 592. Young woman sitting sideways on arcade stool
 
 ![Young woman sitting sideways on arcade stool](https://opennana.com/awesome-prompt-gallery/images/579.jpeg)
 
@@ -14564,7 +14532,7 @@ Write a Nano Banana prompt word to generate a four-square grid cartoon diagram o
 
 ---
 
-### 595. Japanese woman expresses her feelings through fisheye lens
+### 593. Japanese woman expresses her feelings through fisheye lens
 
 ![Japanese woman expresses her feelings through fisheye lens](https://opennana.com/awesome-prompt-gallery/images/580.jpeg)
 
@@ -14618,7 +14586,7 @@ Write a Nano Banana prompt word to generate a four-square grid cartoon diagram o
 
 ---
 
-### 596. Professional suit style diary
+### 594. Professional suit style diary
 
 ![Professional suit style diary](https://opennana.com/awesome-prompt-gallery/images/581.jpeg)
 
@@ -14634,7 +14602,7 @@ Write a Nano Banana prompt word to generate a four-square grid cartoon diagram o
 
 ---
 
-### 597. Fantasy Adventure Comedy Poster - Dragon Hunting Secret Realm
+### 595. Fantasy Adventure Comedy Poster - Dragon Hunting Secret Realm
 
 ![Fantasy Adventure Comedy Poster - Dragon Hunting Secret Realm](https://opennana.com/awesome-prompt-gallery/images/582.jpeg)
 
@@ -14650,7 +14618,7 @@ A poster for the fictional fantasy adventure comedy The Dragon Realm Quest. The 
 
 ---
 
-### 598. Oriental Martial Arts Epic Poster-Sword Shadow Beauty
+### 596. Oriental Martial Arts Epic Poster-Sword Shadow Beauty
 
 ![Oriental Martial Arts Epic Poster-Sword Shadow Beauty](https://opennana.com/awesome-prompt-gallery/images/583.jpeg)
 
@@ -14666,7 +14634,7 @@ A poster for the fictional Eastern martial arts epic Sword & Beauty. The scene i
 
 ---
 
-### 599. retro anime fantasy
+### 597. retro anime fantasy
 
 ![retro anime fantasy](https://opennana.com/awesome-prompt-gallery/images/584.jpeg)
 
@@ -14682,7 +14650,7 @@ A beautiful East Asian woman with enviable fair and smooth skin and fluffy 90s-s
 
 ---
 
-### 600. Camera teardown
+### 598. Camera teardown
 
 ![Camera teardown](https://opennana.com/awesome-prompt-gallery/images/585.jpeg)
 
@@ -14698,7 +14666,7 @@ Knolling photography, disassembled parts of a vintage film camera neatly arrange
 
 ---
 
-### 601. Fresh blue wallet
+### 599. Fresh blue wallet
 
 ![Fresh blue wallet](https://opennana.com/awesome-prompt-gallery/images/586.jpeg)
 
@@ -14714,7 +14682,7 @@ Vertical fashion illustration full of summer atmosphere. The background is a han
 
 ---
 
-### 602. iPhone 16 Pro Max teardown
+### 600. iPhone 16 Pro Max teardown
 
 ![iPhone 16 Pro Max teardown](https://opennana.com/awesome-prompt-gallery/images/587.jpeg)
 
@@ -14730,7 +14698,7 @@ Deconstruction and comparison photography of the latest iPhone 16 Pro Max, split
 
 ---
 
-### 603. Metal neon wallet
+### 601. Metal neon wallet
 
 ![Metal neon wallet](https://opennana.com/awesome-prompt-gallery/images/588.jpeg)
 
@@ -14746,7 +14714,7 @@ Vertical screen fashion mood board in Y2K aesthetic style. The background is a d
 
 ---
 
-### 604. kawaii pop art
+### 602. kawaii pop art
 
 ![kawaii pop art](https://opennana.com/awesome-prompt-gallery/images/589.jpeg)
 
@@ -14762,7 +14730,7 @@ Shot from a medium to low angle, a lovely young East Asian woman with fair, rosy
 
 ---
 
-### 605. Fictional English Movie Poster - A Taste of Memories
+### 603. Fictional English Movie Poster - A Taste of Memories
 
 ![Fictional English Movie Poster - A Taste of Memories](https://opennana.com/awesome-prompt-gallery/images/590.jpeg)
 
@@ -14778,7 +14746,7 @@ A movie poster for the fictional English-language film The Taste of Memory. The 
 
 ---
 
-### 606. Real person to 3D comic
+### 604. Real person to 3D comic
 
 ![Real person to 3D comic](https://opennana.com/awesome-prompt-gallery/images/591.jpeg)
 
@@ -14794,7 +14762,7 @@ A highly stylized 3D caricature of [celebrity], with an oversized head, expressi
 
 ---
 
-### 607. Die-cutting lines become a reality
+### 605. Die-cutting lines become a reality
 
 ![Die-cutting lines become a reality](https://opennana.com/awesome-prompt-gallery/images/593.png)
 
@@ -14810,7 +14778,7 @@ Assemble the dieline into a perfectly folded 3D box with accurate panel placemen
 
 ---
 
-### 608. Convert die-cutting line drawing to 3D product visualization
+### 606. Convert die-cutting line drawing to 3D product visualization
 
 ![Convert die-cutting line drawing to 3D product visualization](https://opennana.com/awesome-prompt-gallery/images/594.png)
 
@@ -14916,7 +14884,7 @@ Assemble the dieline into a perfectly folded 3D box with accurate panel placemen
 
 ---
 
-### 609. Collage of four women's fashion life scenes
+### 607. Collage of four women's fashion life scenes
 
 ![Collage of four women's fashion life scenes](https://opennana.com/awesome-prompt-gallery/images/595.jpeg)
 
@@ -14982,7 +14950,7 @@ Assemble the dieline into a perfectly folded 3D box with accurate panel placemen
 
 ---
 
-### 610. 3X3 Woman Portrait Photo Collage
+### 608. 3X3 Woman Portrait Photo Collage
 
 ![3X3 Woman Portrait Photo Collage](https://opennana.com/awesome-prompt-gallery/images/596.jpeg)
 
@@ -15020,7 +14988,7 @@ Make every image hyperrealistic and shot as if with a professional camera:
 
 ---
 
-### 611. Polaroid photos tell stories
+### 609. Polaroid photos tell stories
 
 ![Polaroid photos tell stories](https://opennana.com/awesome-prompt-gallery/images/597.jpeg)
 
@@ -15036,7 +15004,7 @@ Create an image about "[FILM_OR_NOVEL]" retold through a series of Polaroid phot
 
 ---
 
-### 612. Polaroid photos tell stories
+### 610. Polaroid photos tell stories
 
 ![Polaroid photos tell stories](https://opennana.com/awesome-prompt-gallery/images/598.jpeg)
 
@@ -15052,7 +15020,7 @@ Create an image about "[FILM_OR_NOVEL]" retold through a series of Polaroid phot
 
 ---
 
-### 613. The girl makes a heart shape with her hands
+### 611. The girl makes a heart shape with her hands
 
 ![The girl makes a heart shape with her hands](https://opennana.com/awesome-prompt-gallery/images/599.jpeg)
 
@@ -15135,7 +15103,7 @@ Create an image about "[FILM_OR_NOVEL]" retold through a series of Polaroid phot
 
 ---
 
-### 614. Take selfies with Zootopia characters
+### 612. Take selfies with Zootopia characters
 
 ![Take selfies with Zootopia characters](https://opennana.com/awesome-prompt-gallery/images/600.jpeg)
 
@@ -15171,7 +15139,7 @@ Create an image about "[FILM_OR_NOVEL]" retold through a series of Polaroid phot
 
 ---
 
-### 615. Professional Studio Photography Photos
+### 613. Professional Studio Photography Photos
 
 ![Professional Studio Photography Photos](https://opennana.com/awesome-prompt-gallery/images/601.jpeg)
 
@@ -15240,7 +15208,7 @@ Create an image about "[FILM_OR_NOVEL]" retold through a series of Polaroid phot
 
 ---
 
-### 616. The girl wearing a mask made a gesture
+### 614. The girl wearing a mask made a gesture
 
 ![The girl wearing a mask made a gesture](https://opennana.com/awesome-prompt-gallery/images/602.jpeg)
 
@@ -15325,7 +15293,7 @@ Create an image about "[FILM_OR_NOVEL]" retold through a series of Polaroid phot
 
 ---
 
-### 617. A candid photo of a Korean pop star
+### 615. A candid photo of a Korean pop star
 
 ![A candid photo of a Korean pop star](https://opennana.com/awesome-prompt-gallery/images/603.jpeg)
 
@@ -15341,7 +15309,7 @@ A candid photograph of a KPOP star. format 3:4
 
 ---
 
-### 618. Night smear shutter exposure
+### 616. Night smear shutter exposure
 
 ![Night smear shutter exposure](https://opennana.com/awesome-prompt-gallery/images/604.jpeg)
 
@@ -15357,7 +15325,7 @@ A visual explosion in the middle of a fast-moving street. Frozen faces, sweeping
 
 ---
 
-### 619. Beach photo shoot
+### 617. Beach photo shoot
 
 ![Beach photo shoot](https://opennana.com/awesome-prompt-gallery/images/605.jpeg)
 
@@ -15436,7 +15404,7 @@ A visual explosion in the middle of a fast-moving street. Frozen faces, sweeping
 
 ---
 
-### 620. Ultra-realistic street scene portraits
+### 618. Ultra-realistic street scene portraits
 
 ![Ultra-realistic street scene portraits](https://opennana.com/awesome-prompt-gallery/images/606.jpeg)
 
@@ -15486,7 +15454,7 @@ A visual explosion in the middle of a fast-moving street. Frozen faces, sweeping
 
 ---
 
-### 621. 9 professional lighting effects for photos
+### 619. 9 professional lighting effects for photos
 
 ![9 professional lighting effects for photos](https://opennana.com/awesome-prompt-gallery/images/607.jpeg)
 
@@ -15502,7 +15470,7 @@ Editorial 3x3 grid in a cool-grey seamless backdrop. Character (face characteris
 
 ---
 
-### 622. A group of lively and fashionable young people
+### 620. A group of lively and fashionable young people
 
 ![A group of lively and fashionable young people](https://opennana.com/awesome-prompt-gallery/images/608.jpeg)
 
@@ -15595,7 +15563,7 @@ Editorial 3x3 grid in a cool-grey seamless backdrop. Character (face characteris
 
 ---
 
-### 623. Fashion selfie portrait of young woman
+### 621. Fashion selfie portrait of young woman
 
 ![Fashion selfie portrait of young woman](https://opennana.com/awesome-prompt-gallery/images/609.jpeg)
 
@@ -15611,7 +15579,7 @@ Editorial 3x3 grid in a cool-grey seamless backdrop. Character (face characteris
 
 ---
 
-### 624. A confident and elegant young woman
+### 622. A confident and elegant young woman
 
 ![A confident and elegant young woman](https://opennana.com/awesome-prompt-gallery/images/610.jpeg)
 
@@ -15657,7 +15625,7 @@ quality = Soft yet defined, creating subtle shadows that enhance her features an
 
 ---
 
-### 625. A vibrant mixed media masterpiece
+### 623. A vibrant mixed media masterpiece
 
 ![A vibrant mixed media masterpiece](https://opennana.com/awesome-prompt-gallery/images/611.jpeg)
 
@@ -15719,7 +15687,7 @@ quality = Soft yet defined, creating subtle shadows that enhance her features an
 
 ---
 
-### 626. A man was dolled up in a picture frame
+### 624. A man was dolled up in a picture frame
 
 ![A man was dolled up in a picture frame](https://opennana.com/awesome-prompt-gallery/images/612.jpeg)
 
@@ -15736,7 +15704,7 @@ The Trap: He is caught in Visual Recursion. He has become a "strange loop" where
 
 ---
 
-### 627. Woman sitting on the floor ready to drink coke
+### 625. Woman sitting on the floor ready to drink coke
 
 ![Woman sitting on the floor ready to drink coke](https://opennana.com/awesome-prompt-gallery/images/613.jpeg)
 
@@ -15795,7 +15763,7 @@ The Trap: He is caught in Visual Recursion. He has become a "strange loop" where
 
 ---
 
-### 628. A detailed technical illustration of a cyber warrior
+### 626. A detailed technical illustration of a cyber warrior
 
 ![A detailed technical illustration of a cyber warrior](https://opennana.com/awesome-prompt-gallery/images/614.jpeg)
 
@@ -15811,7 +15779,7 @@ Create a detailed technical illustration of a Cybernetic Samurai, exploded into 
 
 ---
 
-### 629. Heartwarming moments between humans and robots
+### 627. Heartwarming moments between humans and robots
 
 ![Heartwarming moments between humans and robots](https://opennana.com/awesome-prompt-gallery/images/615.jpeg)
 
@@ -15830,7 +15798,7 @@ Create a detailed technical illustration of a Cybernetic Samurai, exploded into 
 
 ---
 
-### 630. Girl sitting on the woven sofa with her back to the audience
+### 628. Girl sitting on the woven sofa with her back to the audience
 
 ![Girl sitting on the woven sofa with her back to the audience](https://opennana.com/awesome-prompt-gallery/images/616.jpeg)
 
@@ -15927,7 +15895,7 @@ Create a detailed technical illustration of a Cybernetic Samurai, exploded into 
 
 ---
 
-### 631. A coherent collage of four fashion life scenes
+### 629. A coherent collage of four fashion life scenes
 
 ![A coherent collage of four fashion life scenes](https://opennana.com/awesome-prompt-gallery/images/617.jpeg)
 
@@ -15994,7 +15962,7 @@ Create a detailed technical illustration of a Cybernetic Samurai, exploded into 
 
 ---
 
-### 632. A collage of four fashion life scenes
+### 630. A collage of four fashion life scenes
 
 ![A collage of four fashion life scenes](https://opennana.com/awesome-prompt-gallery/images/618.jpeg)
 
@@ -16060,7 +16028,7 @@ Create a detailed technical illustration of a Cybernetic Samurai, exploded into 
 
 ---
 
-### 633. Realistic Hong Kong retro portraits with 90s movie quality
+### 631. Realistic Hong Kong retro portraits with 90s movie quality
 
 ![Realistic Hong Kong retro portraits with 90s movie quality](https://opennana.com/awesome-prompt-gallery/images/619.jpeg)
 
@@ -16077,7 +16045,7 @@ Use image [0] as face reference. Half-body. Subject leaning against newspaper-co
 
 ---
 
-### 634. Super realistic portrait of sexy big mouth character
+### 632. Super realistic portrait of sexy big mouth character
 
 ![Super realistic portrait of sexy big mouth character](https://opennana.com/awesome-prompt-gallery/images/620.jpeg)
 
@@ -16161,7 +16129,7 @@ Use image [0] as face reference. Half-body. Subject leaning against newspaper-co
 
 ---
 
-### 635. One hand holding the product in the uploaded image
+### 633. One hand holding the product in the uploaded image
 
 ![One hand holding the product in the uploaded image](https://opennana.com/awesome-prompt-gallery/images/621.jpeg)
 
@@ -16177,7 +16145,7 @@ A minimal sunlit wall. Sharp, elongated shadow of a human hand holding the exact
 
 ---
 
-### 636. Indoor movie portrait of confident mature woman
+### 634. Indoor movie portrait of confident mature woman
 
 ![Indoor movie portrait of confident mature woman](https://opennana.com/awesome-prompt-gallery/images/622.jpeg)
 
@@ -16257,7 +16225,7 @@ A minimal sunlit wall. Sharp, elongated shadow of a human hand holding the exact
 
 ---
 
-### 637. Evaluate the work
+### 635. Evaluate the work
 
 ![Evaluate the work](https://opennana.com/awesome-prompt-gallery/images/623.jpeg)
 
@@ -16273,7 +16241,7 @@ Analyze this work in depth and critique it. In the image, mark the points that n
 
 ---
 
-### 638. Hand drawn beauty science chart
+### 636. Hand drawn beauty science chart
 
 ![Hand drawn beauty science chart](https://opennana.com/awesome-prompt-gallery/images/624.jpeg)
 
@@ -16314,7 +16282,7 @@ best quality, high-res, clean edges, masterpiece.
 
 ---
 
-### 639. Add candy monsters around characters
+### 637. Add candy monsters around characters
 
 ![Add candy monsters around characters](https://opennana.com/awesome-prompt-gallery/images/625.jpeg)
 
@@ -16355,7 +16323,7 @@ Create a highly decorated, maximalist pop-art scene where the real person stands
 
 ---
 
-### 640. Black and white ink painting style-lone boat and coir raincoat
+### 638. Black and white ink painting style-lone boat and coir raincoat
 
 ![Black and white ink painting style-lone boat and coir raincoat](https://opennana.com/awesome-prompt-gallery/images/626.jpeg)
 
@@ -16371,7 +16339,7 @@ Black and white ink painting style, blank artistic conception, lone boat and coi
 
 ---
 
-### 641. MacBook Pro laptop teardown
+### 639. MacBook Pro laptop teardown
 
 ![MacBook Pro laptop teardown](https://opennana.com/awesome-prompt-gallery/images/627.jpeg)
 
@@ -16387,7 +16355,7 @@ The ultimate disassembly of the MacBook Pro laptop, split screen composition lef
 
 ---
 
-### 642. First person perspective photo of holding hands
+### 640. First person perspective photo of holding hands
 
 ![First person perspective photo of holding hands](https://opennana.com/awesome-prompt-gallery/images/628.jpeg)
 
@@ -16404,7 +16372,7 @@ A hyper-realistic first-person boyfriend's perspective photo. In the foreground 
 
 ---
 
-### 643. One picture generates 9 shots of different scenes
+### 641. One picture generates 9 shots of different scenes
 
 ![One picture generates 9 shots of different scenes](https://opennana.com/awesome-prompt-gallery/images/629.jpeg)
 
@@ -16443,7 +16411,7 @@ All frames feature photo-realistic textures, consistent cinematic color grading,
 
 ---
 
-### 644. Zootopia Large Plush Character Hat
+### 642. Zootopia Large Plush Character Hat
 
 ![Zootopia Large Plush Character Hat](https://opennana.com/awesome-prompt-gallery/images/630.jpeg)
 
@@ -16472,7 +16440,7 @@ Quality and detail: 8K, highly realistic plush texture (individual fur fibers), 
 
 ---
 
-### 645. Draw a picture based on an ancient poem
+### 643. Draw a picture based on an ancient poem
 
 ![Draw a picture based on an ancient poem](https://opennana.com/awesome-prompt-gallery/images/631.jpeg)
 
@@ -16489,7 +16457,7 @@ Draw a picture based on the ancient poem and attach the original text.
 
 ---
 
-### 646. Japanese izakaya dog skewers
+### 644. Japanese izakaya dog skewers
 
 ![Japanese izakaya dog skewers](https://opennana.com/awesome-prompt-gallery/images/632.jpeg)
 
@@ -16505,7 +16473,7 @@ Warm Japanese izakaya with warm yellow lighting. The store manager, a Shiba Inu 
 
 ---
 
-### 647. Poisoning late at night is the greatest disrespect for weight loss
+### 645. Poisoning late at night is the greatest disrespect for weight loss
 
 ![Poisoning late at night is the greatest disrespect for weight loss](https://opennana.com/awesome-prompt-gallery/images/633.jpeg)
 
@@ -16521,7 +16489,7 @@ Macrophobia style, Hollywood disaster movie texture. A huge bucket of braised be
 
 ---
 
-### 648. Combination of ink painting style and realistic photography
+### 646. Combination of ink painting style and realistic photography
 
 ![Combination of ink painting style and realistic photography](https://opennana.com/awesome-prompt-gallery/images/634.jpeg)
 
@@ -16537,7 +16505,7 @@ A combination of ink painting style and realistic photography. There is a crumbl
 
 ---
 
-### 649. Draw a picture based on an ancient poem
+### 647. Draw a picture based on an ancient poem
 
 ![Draw a picture based on an ancient poem](https://opennana.com/awesome-prompt-gallery/images/635.jpeg)
 
@@ -16554,7 +16522,7 @@ Draw a picture based on the ancient poem and attach the original text.
 
 ---
 
-### 650. 3D three-dimensional book illustration
+### 648. 3D three-dimensional book illustration
 
 ![3D three-dimensional book illustration](https://opennana.com/awesome-prompt-gallery/images/636.jpeg)
 
@@ -16570,7 +16538,7 @@ A 3D pop-up book illustration featuring a [subject], with layered paper elements
 
 ---
 
-### 651. Beautiful woman with fair complexion bathing in morning light
+### 649. Beautiful woman with fair complexion bathing in morning light
 
 ![Beautiful woman with fair complexion bathing in morning light](https://opennana.com/awesome-prompt-gallery/images/637.jpeg)
 
@@ -16605,7 +16573,7 @@ A 3D pop-up book illustration featuring a [subject], with layered paper elements
 
 ---
 
-### 652. Cute idol close-up portrait
+### 650. Cute idol close-up portrait
 
 ![Cute idol close-up portrait](https://opennana.com/awesome-prompt-gallery/images/638.jpeg)
 
@@ -16668,7 +16636,7 @@ A 3D pop-up book illustration featuring a [subject], with layered paper elements
 
 ---
 
-### 653. Wearing an off-shoulder white knitted top
+### 651. Wearing an off-shoulder white knitted top
 
 ![Wearing an off-shoulder white knitted top](https://opennana.com/awesome-prompt-gallery/images/639.jpeg)
 
@@ -16685,7 +16653,7 @@ With brown long wavy hair. keep the facial details correctly. Please do not alte
 
 ---
 
-### 654. 3x3 grid composition for taking photos
+### 652. 3x3 grid composition for taking photos
 
 ![3x3 grid composition for taking photos](https://opennana.com/awesome-prompt-gallery/images/640.jpeg)
 
@@ -16701,7 +16669,7 @@ Editorial 3x3 grid in soft golden-beige studio. Character (face characteristics 
 
 ---
 
-### 655. luffy classroom art
+### 653. luffy classroom art
 
 ![luffy classroom art](https://opennana.com/awesome-prompt-gallery/images/641.jpeg)
 
@@ -16755,7 +16723,7 @@ Editorial 3x3 grid in soft golden-beige studio. Character (face characteristics 
 
 ---
 
-### 656. Blackboard Artwork-Pirate Empress
+### 654. Blackboard Artwork-Pirate Empress
 
 ![Blackboard Artwork-Pirate Empress](https://opennana.com/awesome-prompt-gallery/images/642.jpeg)
 
@@ -16809,7 +16777,7 @@ Editorial 3x3 grid in soft golden-beige studio. Character (face characteristics 
 
 ---
 
-### 657. Modern vector poster portrait
+### 655. Modern vector poster portrait
 
 ![Modern vector poster portrait](https://opennana.com/awesome-prompt-gallery/images/643.jpeg)
 
@@ -16836,7 +16804,7 @@ Set the background to a solid red tone.
 
 ---
 
-### 658. Highly collectible chess pieces
+### 656. Highly collectible chess pieces
 
 ![Highly collectible chess pieces](https://opennana.com/awesome-prompt-gallery/images/644.jpeg)
 
@@ -16852,7 +16820,7 @@ A hyper-detailed 3D render of a collectible chess piece designed as [ICON]. The 
 
 ---
 
-### 659. One face with six emotions
+### 657. One face with six emotions
 
 ![One face with six emotions](https://opennana.com/awesome-prompt-gallery/images/645.jpeg)
 
@@ -16907,7 +16875,7 @@ A hyper-detailed 3D render of a collectible chess piece designed as [ICON]. The 
 
 ---
 
-### 660. Young woman sitting in shopping cart
+### 658. Young woman sitting in shopping cart
 
 ![Young woman sitting in shopping cart](https://opennana.com/awesome-prompt-gallery/images/646.jpeg)
 
@@ -17016,7 +16984,7 @@ A hyper-detailed 3D render of a collectible chess piece designed as [ICON]. The 
 
 ---
 
-### 661. 3D explosion assembly drawing floating in the air
+### 659. 3D explosion assembly drawing floating in the air
 
 ![3D explosion assembly drawing floating in the air](https://opennana.com/awesome-prompt-gallery/images/647.jpeg)
 
@@ -17080,7 +17048,7 @@ A hyper-detailed 3D render of a collectible chess piece designed as [ICON]. The 
 
 ---
 
-### 662. Cinematic photos
+### 660. Cinematic photos
 
 ![Cinematic photos](https://opennana.com/awesome-prompt-gallery/images/648.jpeg)
 
@@ -17162,7 +17130,7 @@ A hyper-detailed 3D render of a collectible chess piece designed as [ICON]. The 
 
 ---
 
-### 663. An ultra-realistic 8K portrait
+### 661. An ultra-realistic 8K portrait
 
 ![An ultra-realistic 8K portrait](https://opennana.com/awesome-prompt-gallery/images/649.jpeg)
 
@@ -17178,7 +17146,7 @@ Create an Ultra-realistic 8k portrait, standing against a deep red background. S
 
 ---
 
-### 664. A mini version of myself is standing in the cavity of the head
+### 662. A mini version of myself is standing in the cavity of the head
 
 ![A mini version of myself is standing in the cavity of the head](https://opennana.com/awesome-prompt-gallery/images/650.jpeg)
 
@@ -17196,7 +17164,7 @@ Art style: Modern flat illustration with a lo-fi, grainy texture. Soft pastel co
 
 ---
 
-### 665. matcha girl
+### 663. matcha girl
 
 ![matcha girl](https://opennana.com/awesome-prompt-gallery/images/651.jpeg)
 
@@ -17256,7 +17224,7 @@ Art style: Modern flat illustration with a lo-fi, grainy texture. Soft pastel co
 
 ---
 
-### 666. Cinematic realistic images of characters
+### 664. Cinematic realistic images of characters
 
 ![Cinematic realistic images of characters](https://opennana.com/awesome-prompt-gallery/images/652.jpeg)
 
@@ -17319,7 +17287,7 @@ Art style: Modern flat illustration with a lo-fi, grainy texture. Soft pastel co
 
 ---
 
-### 667. Hyper-realistic travel ads
+### 665. Hyper-realistic travel ads
 
 ![Hyper-realistic travel ads](https://opennana.com/awesome-prompt-gallery/images/653.jpeg)
 
@@ -17335,7 +17303,7 @@ A hyper-realistic travel advertisement in square format (1080x1080), featuring a
 
 ---
 
-### 668. Close-up of human hand holding a huge vertical pill
+### 666. Close-up of human hand holding a huge vertical pill
 
 ![Close-up of human hand holding a huge vertical pill](https://opennana.com/awesome-prompt-gallery/images/654.jpeg)
 
@@ -17360,7 +17328,7 @@ Ensure motion, energy, and dynamic movement inside the pill while keeping the pi
 
 ---
 
-### 669. Google DeepMind performs a neat display of items
+### 667. Google DeepMind performs a neat display of items
 
 ![Google DeepMind performs a neat display of items](https://opennana.com/awesome-prompt-gallery/images/655.jpeg)
 
@@ -17376,7 +17344,7 @@ A knolling for Google DeepMind
 
 ---
 
-### 670. Woman's selfie
+### 668. Woman's selfie
 
 ![Woman's selfie](https://opennana.com/awesome-prompt-gallery/images/656.jpeg)
 
@@ -17470,7 +17438,7 @@ A knolling for Google DeepMind
 
 ---
 
-### 671. Woman in suit poses for suspect photo
+### 669. Woman in suit poses for suspect photo
 
 ![Woman in suit poses for suspect photo](https://opennana.com/awesome-prompt-gallery/images/657.jpeg)
 
@@ -17568,7 +17536,7 @@ A knolling for Google DeepMind
 
 ---
 
-### 672. 3x3 photo sticker style collage
+### 670. 3x3 photo sticker style collage
 
 ![3x3 photo sticker style collage](https://opennana.com/awesome-prompt-gallery/images/658.jpeg)
 
@@ -17610,7 +17578,7 @@ DO NOT: Add any text, logos, tags, watermarks, symbols, numbers or other text el
 
 ---
 
-### 673. Super close up portrait of young woman
+### 671. Super close up portrait of young woman
 
 ![Super close up portrait of young woman](https://opennana.com/awesome-prompt-gallery/images/659.jpeg)
 
@@ -17635,7 +17603,7 @@ DO NOT: Add any text, logos, tags, watermarks, symbols, numbers or other text el
 
 ---
 
-### 674. Close-up of modern and avant-garde girls
+### 672. Close-up of modern and avant-garde girls
 
 ![Close-up of modern and avant-garde girls](https://opennana.com/awesome-prompt-gallery/images/660.jpeg)
 
@@ -17698,7 +17666,7 @@ DO NOT: Add any text, logos, tags, watermarks, symbols, numbers or other text el
 
 ---
 
-### 675. Aerial images generated based on latitude and longitude
+### 673. Aerial images generated based on latitude and longitude
 
 ![Aerial images generated based on latitude and longitude](https://opennana.com/awesome-prompt-gallery/images/661.jpeg)
 
@@ -17714,7 +17682,7 @@ Creates an aerial image that blends into the sky above your location at latitude
 
 ---
 
-### 676. Cake made of city landmarks
+### 674. Cake made of city landmarks
 
 ![Cake made of city landmarks](https://opennana.com/awesome-prompt-gallery/images/662.jpeg)
 
@@ -17738,7 +17706,7 @@ In the top center of the screen, use a large bold English title "[CityName]", pl
 
 ---
 
-### 677. Doraemon lectures
+### 675. Doraemon lectures
 
 ![Doraemon lectures](https://opennana.com/awesome-prompt-gallery/images/663.jpeg)
 
@@ -17782,7 +17750,7 @@ The colors should not be too bright, but should match the colors under real ligh
 
 ---
 
-### 678. Multi-picture style reference
+### 676. Multi-picture style reference
 
 ![Multi-picture style reference](https://opennana.com/awesome-prompt-gallery/images/664.jpeg)
 
@@ -17798,7 +17766,7 @@ Please help me draw a diagram of the Mediterranean diet using the style of these
 
 ---
 
-### 679. Photos of delivery staff
+### 677. Photos of delivery staff
 
 ![Photos of delivery staff](https://opennana.com/awesome-prompt-gallery/images/665.jpeg)
 
@@ -17814,7 +17782,7 @@ Half-length portrait taken in a bright studio. The beautiful East Asian girl, wi
 
 ---
 
-### 680. Extremely close selfie
+### 678. Extremely close selfie
 
 ![Extremely close selfie](https://opennana.com/awesome-prompt-gallery/images/666.jpeg)
 
@@ -17867,7 +17835,7 @@ Half-length portrait taken in a bright studio. The beautiful East Asian girl, wi
 
 ---
 
-### 681. City top view isometric 3D cartoon miniature scene
+### 679. City top view isometric 3D cartoon miniature scene
 
 ![City top view isometric 3D cartoon miniature scene](https://opennana.com/awesome-prompt-gallery/images/668.jpeg)
 
@@ -17888,7 +17856,7 @@ Square 1080x1080 dimension.
 
 ---
 
-### 682. Woman takes selfie in mirror at Disney store
+### 680. Woman takes selfie in mirror at Disney store
 
 ![Woman takes selfie in mirror at Disney store](https://opennana.com/awesome-prompt-gallery/images/669.jpeg)
 
@@ -17979,7 +17947,7 @@ Square 1080x1080 dimension.
 
 ---
 
-### 683. Young woman taking selfie in mirror next to Judy
+### 681. Young woman taking selfie in mirror next to Judy
 
 ![Young woman taking selfie in mirror next to Judy](https://opennana.com/awesome-prompt-gallery/images/670.jpeg)
 
@@ -17995,7 +17963,7 @@ Square 1080x1080 dimension.
 
 ---
 
-### 684. Horoscope card
+### 682. Horoscope card
 
 ![Horoscope card](https://opennana.com/awesome-prompt-gallery/images/671.jpeg)
 
@@ -18011,7 +17979,7 @@ Please help me search for today's latest fortune for "zodiac sign" first. The ke
 
 ---
 
-### 685. Zootopia Judy and Nick
+### 683. Zootopia Judy and Nick
 
 ![Zootopia Judy and Nick](https://opennana.com/awesome-prompt-gallery/images/672.jpeg)
 
@@ -18085,7 +18053,7 @@ sampling:
 
 ---
 
-### 686. 3×3 beauty e-commerce advertising production
+### 684. 3×3 beauty e-commerce advertising production
 
 ![3×3 beauty e-commerce advertising production](https://opennana.com/awesome-prompt-gallery/images/673.jpeg)
 
@@ -18108,7 +18076,7 @@ generate as one evenly spaced 3×3 grid.
 
 ---
 
-### 687. A double-storey house on the mountainside of Wudang Mountain
+### 685. A double-storey house on the mountainside of Wudang Mountain
 
 ![A double-storey house on the mountainside of Wudang Mountain](https://opennana.com/awesome-prompt-gallery/images/674.jpeg)
 
@@ -18124,7 +18092,7 @@ A set of detailed architectural blueprints for a two-story residence located on 
 
 ---
 
-### 688. Soft blurred side close-up of the same face
+### 686. Soft blurred side close-up of the same face
 
 ![Soft blurred side close-up of the same face](https://opennana.com/awesome-prompt-gallery/images/675.jpeg)
 
@@ -18172,7 +18140,7 @@ A set of detailed architectural blueprints for a two-story residence located on 
 
 ---
 
-### 689. Selfie of a girl sticking out her tongue at night
+### 687. Selfie of a girl sticking out her tongue at night
 
 ![Selfie of a girl sticking out her tongue at night](https://opennana.com/awesome-prompt-gallery/images/676.jpeg)
 
@@ -18224,7 +18192,7 @@ Lighting_Conditions = Dimly lit by street lamps and distant city lights
 
 ---
 
-### 690. Modern Teenage Fantasy Comics
+### 688. Modern Teenage Fantasy Comics
 
 ![Modern Teenage Fantasy Comics](https://opennana.com/awesome-prompt-gallery/images/677.jpeg)
 
@@ -18312,7 +18280,7 @@ Lighting_Conditions = Dimly lit by street lamps and distant city lights
 
 ---
 
-### 691. Zootopia Judy and Nick tell short stories - wait and see
+### 689. Zootopia Judy and Nick tell short stories - wait and see
 
 ![Zootopia Judy and Nick tell short stories - wait and see](https://opennana.com/awesome-prompt-gallery/images/678.jpeg)
 
@@ -18333,7 +18301,7 @@ The sixth frame: Disney's "Zootopia" 3D animation style. Judy reluctantly pulled
 
 ---
 
-### 692. Forbidden City architectural photo display and design drawings
+### 690. Forbidden City architectural photo display and design drawings
 
 ![Forbidden City architectural photo display and design drawings](https://opennana.com/awesome-prompt-gallery/images/679.jpeg)
 
@@ -18361,7 +18329,7 @@ The entire picture has a clear dividing line separating the real scene on the le
 
 ---
 
-### 693. OOTD hand-drawn graffiti decomposition
+### 691. OOTD hand-drawn graffiti decomposition
 
 ![OOTD hand-drawn graffiti decomposition](https://opennana.com/awesome-prompt-gallery/images/680.jpeg)
 
@@ -18377,7 +18345,7 @@ Breakdown the look into a fun OOTD Fashion Collage, 9:16. Paper scribble aesthet
 
 ---
 
-### 694. Reverse picture json prompt word
+### 692. Reverse picture json prompt word
 
 ![Reverse picture json prompt word](https://opennana.com/awesome-prompt-gallery/images/681.jpeg)
 
@@ -18393,7 +18361,7 @@ Convert images to JSON requests, including dimensions and detailed information.
 
 ---
 
-### 695. Miniature 3D cartoon view showing the city's three tallest buildings
+### 693. Miniature 3D cartoon view showing the city's three tallest buildings
 
 ![Miniature 3D cartoon view showing the city's three tallest buildings](https://opennana.com/awesome-prompt-gallery/images/682.jpeg)
 
@@ -18418,7 +18386,7 @@ Use a square 1080×1080 composition.Use a clean, neutral background. Ensure no e
 
 ---
 
-### 696. Wedding photos in the garden
+### 694. Wedding photos in the garden
 
 ![Wedding photos in the garden](https://opennana.com/awesome-prompt-gallery/images/683.jpeg)
 
@@ -18464,7 +18432,7 @@ Use a square 1080×1080 composition.Use a clean, neutral background. Ensure no e
 
 ---
 
-### 697. Gothic film style portraiture
+### 695. Gothic film style portraiture
 
 ![Gothic film style portraiture](https://opennana.com/awesome-prompt-gallery/images/684.jpeg)
 
@@ -18534,7 +18502,7 @@ Use a square 1080×1080 composition.Use a clean, neutral background. Ensure no e
 
 ---
 
-### 698. Close-up photo of a 3x3 grid
+### 696. Close-up photo of a 3x3 grid
 
 ![Close-up photo of a 3x3 grid](https://opennana.com/awesome-prompt-gallery/images/685.jpeg)
 
@@ -18556,7 +18524,7 @@ Please output only the 9 images required for the 3x3 grid. Do not generate any a
 
 ---
 
-### 699. Generate a realistic photo of a specified time and place
+### 697. Generate a realistic photo of a specified time and place
 
 ![Generate a realistic photo of a specified time and place](https://opennana.com/awesome-prompt-gallery/images/687.jpeg)
 
@@ -18572,7 +18540,7 @@ Generate a photorealistic image of a cafe terrace in the Marais district of Pari
 
 ---
 
-### 700. Hyper-realistic 8K portrait of an attractive woman
+### 698. Hyper-realistic 8K portrait of an attractive woman
 
 ![Hyper-realistic 8K portrait of an attractive woman](https://opennana.com/awesome-prompt-gallery/images/688.jpeg)
 
@@ -18615,7 +18583,7 @@ Generate a photorealistic image of a cafe terrace in the Marais district of Pari
 
 ---
 
-### 701. The great discovery of bilingual cognition - transportation
+### 699. The great discovery of bilingual cognition - transportation
 
 ![The great discovery of bilingual cognition - transportation](https://opennana.com/awesome-prompt-gallery/images/689.jpeg)
 
@@ -18707,7 +18675,7 @@ Cinema 4D cute render style
 
 ---
 
-### 702. The great discovery of bilingual cognition-Underwater World
+### 700. The great discovery of bilingual cognition-Underwater World
 
 ![The great discovery of bilingual cognition-Underwater World](https://opennana.com/awesome-prompt-gallery/images/690.jpeg)
 
@@ -18803,7 +18771,7 @@ Simple, Fun, Easy-to-read Composition.
 
 ---
 
-### 703. Label all items in English and Japanese
+### 701. Label all items in English and Japanese
 
 ![Label all items in English and Japanese](https://opennana.com/awesome-prompt-gallery/images/691.jpeg)
 
@@ -18819,7 +18787,7 @@ Please draw an illustration of a bedroom. Label all items in English/Japanese. P
 
 ---
 
-### 704. Young woman with long brown hair taking selfie
+### 702. Young woman with long brown hair taking selfie
 
 ![Young woman with long brown hair taking selfie](https://opennana.com/awesome-prompt-gallery/images/692.jpeg)
 
@@ -18866,7 +18834,7 @@ Please draw an illustration of a bedroom. Label all items in English/Japanese. P
 
 ---
 
-### 705. 3x3 grid soft pink and blue toned studio photo shoot
+### 703. 3x3 grid soft pink and blue toned studio photo shoot
 
 ![3x3 grid soft pink and blue toned studio photo shoot](https://opennana.com/awesome-prompt-gallery/images/695.jpeg)
 
@@ -18882,7 +18850,7 @@ Editorial 3x3 grid in soft pastel-blue studio. Character (face characteristics 1
 
 ---
 
-### 706. Japanese girl rushes to the subway
+### 704. Japanese girl rushes to the subway
 
 ![Japanese girl rushes to the subway](https://opennana.com/awesome-prompt-gallery/images/696.jpeg)
 
@@ -18959,7 +18927,7 @@ Atmosphere: Cute, healing, relaxing, a little nervous but completely everyday, l
 
 ---
 
-### 707. Felt toys
+### 705. Felt toys
 
 ![Felt toys](https://opennana.com/awesome-prompt-gallery/images/697.jpeg)
 
@@ -18975,7 +18943,7 @@ Full body [SUBJECT] toy, [ATTRIBUTES/ACCESSORIES], [EXPRESSION], made of felt, i
 
 ---
 
-### 708. Close-up of tender young woman
+### 706. Close-up of tender young woman
 
 ![Close-up of tender young woman](https://opennana.com/awesome-prompt-gallery/images/699.jpeg)
 
@@ -19077,7 +19045,7 @@ Full body [SUBJECT] toy, [ATTRIBUTES/ACCESSORIES], [EXPRESSION], made of felt, i
 
 ---
 
-### 709. Shanghai 3D City Time Tour
+### 707. Shanghai 3D City Time Tour
 
 ![Shanghai 3D City Time Tour](https://opennana.com/awesome-prompt-gallery/images/700.jpeg)
 
@@ -19093,7 +19061,7 @@ A stunning hyper-realistic 3D render of Shanghai's architectural evolution displ
 
 ---
 
-### 710. Draw a detailed pet store scene
+### 708. Draw a detailed pet store scene
 
 ![Draw a detailed pet store scene](https://opennana.com/awesome-prompt-gallery/images/701.jpeg)
 
@@ -19115,7 +19083,7 @@ Third line: Chinese translation
 
 ---
 
-### 711. Generate 3×3 photo grid photos
+### 709. Generate 3×3 photo grid photos
 
 ![Generate 3×3 photo grid photos](https://opennana.com/awesome-prompt-gallery/images/702.jpeg)
 
@@ -19154,7 +19122,7 @@ Style Requirements:
 
 ---
 
-### 712. Children's hand drawn travel diary style
+### 710. Children's hand drawn travel diary style
 
 ![Children's hand drawn travel diary style](https://opennana.com/awesome-prompt-gallery/images/703.jpeg)
 
@@ -19229,7 +19197,7 @@ III. Overall Art Style Requirements
 
 ---
 
-### 713. Female character portrait in hyper-realistic style
+### 711. Female character portrait in hyper-realistic style
 
 ![Female character portrait in hyper-realistic style](https://opennana.com/awesome-prompt-gallery/images/704.jpeg)
 
@@ -19259,7 +19227,7 @@ Everything outside the spotlight should be nearly invisible.
 
 ---
 
-### 714. Cyberpunk aesthetic style card
+### 712. Cyberpunk aesthetic style card
 
 ![Cyberpunk aesthetic style card](https://opennana.com/awesome-prompt-gallery/images/705.jpeg)
 
@@ -19290,7 +19258,7 @@ Displayed in this exact order:
 
 ---
 
-### 715. Mascot sitting on operating system window border
+### 713. Mascot sitting on operating system window border
 
 ![Mascot sitting on operating system window border](https://opennana.com/awesome-prompt-gallery/images/706.jpeg)
 
@@ -19366,7 +19334,7 @@ extras:
 
 ---
 
-### 716. Generate ultra-realistic AI influencers
+### 714. Generate ultra-realistic AI influencers
 
 ![Generate ultra-realistic AI influencers](https://opennana.com/awesome-prompt-gallery/images/707.jpeg)
 
@@ -19438,7 +19406,7 @@ Await user description of the scene. Generate the JSON output immediately.
 
 ---
 
-### 717. Q version Starbucks mini concept store
+### 715. Q version Starbucks mini concept store
 
 ![Q version Starbucks mini concept store](https://opennana.com/awesome-prompt-gallery/images/708.jpeg)
 
@@ -19454,7 +19422,7 @@ The design of this 3D Q-version Starbucks mini concept store is unique, and its 
 
 ---
 
-### 718. Photo of woman displayed on digital camera screen
+### 716. Photo of woman displayed on digital camera screen
 
 ![Photo of woman displayed on digital camera screen](https://opennana.com/awesome-prompt-gallery/images/709.jpeg)
 
@@ -19481,7 +19449,7 @@ Color grading: nostalgic digital-camera tones, high contrast flash, subtle displ
 
 ---
 
-### 719. A beautiful photo collage of four frames
+### 717. A beautiful photo collage of four frames
 
 ![A beautiful photo collage of four frames](https://opennana.com/awesome-prompt-gallery/images/710.jpeg)
 
@@ -19507,7 +19475,7 @@ Style & Atmosphere: Soft morning sunlight, "lazy Sunday" aesthetic, neutral colo
 
 ---
 
-### 720. Artistic digital scrapbooking style
+### 718. Artistic digital scrapbooking style
 
 ![Artistic digital scrapbooking style](https://opennana.com/awesome-prompt-gallery/images/711.jpeg)
 
@@ -19630,7 +19598,7 @@ Style & Atmosphere: Soft morning sunlight, "lazy Sunday" aesthetic, neutral colo
 
 ---
 
-### 721. Photos turned into beautiful acrylic artwork
+### 719. Photos turned into beautiful acrylic artwork
 
 ![Photos turned into beautiful acrylic artwork](https://opennana.com/awesome-prompt-gallery/images/712.jpeg)
 
@@ -19662,7 +19630,7 @@ Strong cool diagonal lighting passes through the highly transparent artwork. **I
 
 ---
 
-### 722. Create an image of a character design expression style guide
+### 720. Create an image of a character design expression style guide
 
 ![Create an image of a character design expression style guide](https://opennana.com/awesome-prompt-gallery/images/713.jpeg)
 
@@ -19678,7 +19646,7 @@ Make a character design expression style guide of image, aspect ratio 16:9
 
 ---
 
-### 723. Refrigerator magnet prompt word template
+### 721. Refrigerator magnet prompt word template
 
 ![Refrigerator magnet prompt word template](https://opennana.com/awesome-prompt-gallery/images/714.jpeg)
 
@@ -19743,7 +19711,7 @@ You are an expert Visual Anthropologist and Knolling Photographer. Your goal is 
 
 ---
 
-### 724. porcelain doll style photos
+### 722. porcelain doll style photos
 
 ![porcelain doll style photos](https://opennana.com/awesome-prompt-gallery/images/715.jpeg)
 
@@ -19775,7 +19743,7 @@ The overall aesthetic emphasizes dollcore, vintage romantic, cottage and Victori
 
 ---
 
-### 725. Q version miniature travel concept design
+### 723. Q version miniature travel concept design
 
 ![Q version miniature travel concept design](https://opennana.com/awesome-prompt-gallery/images/716.jpeg)
 
@@ -19791,7 +19759,7 @@ A 3D Q-version miniature travel concept design with the theme of Mount Fuji. The
 
 ---
 
-### 726. City refrigerator magnet
+### 724. City refrigerator magnet
 
 ![City refrigerator magnet](https://opennana.com/awesome-prompt-gallery/images/717.jpeg)
 
@@ -19807,7 +19775,7 @@ A clear, directly top-down photograph of shanghai landmarks as realistic miniatu
 
 ---
 
-### 727. Make a map of China consisting of provinces and cities with delicacies
+### 725. Make a map of China consisting of provinces and cities with delicacies
 
 ![Make a map of China consisting of provinces and cities with delicacies](https://opennana.com/awesome-prompt-gallery/images/718.jpeg)
 
@@ -19823,7 +19791,7 @@ Make a map of China that includes Taiwan, with each province and city represente
 
 ---
 
-### 728. Colorful scrapbook poster style
+### 726. Colorful scrapbook poster style
 
 ![Colorful scrapbook poster style](https://opennana.com/awesome-prompt-gallery/images/719.jpeg)
 
@@ -19873,7 +19841,7 @@ negative_prompt": "no realism that breaks Y2K aesthetic, no modern 2020s clothin
 
 ---
 
-### 729. Judy Cos Chunli Nick Cos Xiaohong
+### 727. Judy Cos Chunli Nick Cos Xiaohong
 
 ![Judy Cos Chunli Nick Cos Xiaohong](https://opennana.com/awesome-prompt-gallery/images/720.jpeg)
 
@@ -19889,7 +19857,7 @@ Judy and Nick from Zootopia have a Street Fighter-like duel at the movie shootin
 
 ---
 
-### 730. a sketch of a certain character
+### 728. a sketch of a certain character
 
 ![a sketch of a certain character](https://opennana.com/awesome-prompt-gallery/images/721.jpeg)
 
@@ -19905,7 +19873,7 @@ a drawing of [Character], crayon on white paper, in the style of a children's bo
 
 ---
 
-### 731. Branded Pizza Studio Photos
+### 729. Branded Pizza Studio Photos
 
 ![Branded Pizza Studio Photos](https://opennana.com/awesome-prompt-gallery/images/722.jpeg)
 
@@ -19921,7 +19889,7 @@ A surreal studio photograph of a slice of pizza with its cheese topping transfor
 
 ---
 
-### 732. The hand gently holds a 3D collectible 3D model of the city
+### 730. The hand gently holds a 3D collectible 3D model of the city
 
 ![The hand gently holds a 3D collectible 3D model of the city](https://opennana.com/awesome-prompt-gallery/images/723.jpeg)
 
@@ -19937,7 +19905,7 @@ Create a hyper-realistic 1080x1080 square render of a human hand gently holding 
 
 ---
 
-### 733. Young woman taking selfie in front of bathroom mirror
+### 731. Young woman taking selfie in front of bathroom mirror
 
 ![Young woman taking selfie in front of bathroom mirror](https://opennana.com/awesome-prompt-gallery/images/724.jpeg)
 
@@ -20044,7 +20012,7 @@ Create a hyper-realistic 1080x1080 square render of a human hand gently holding 
 
 ---
 
-### 734. Judy and Pinecone’s joint magazine
+### 732. Judy and Pinecone’s joint magazine
 
 ![Judy and Pinecone’s joint magazine](https://opennana.com/awesome-prompt-gallery/images/725.jpeg)
 
@@ -20060,7 +20028,7 @@ A vertical portrait photo with a 9:16 aspect ratio showing a clean, stand-alone 
 
 ---
 
-### 735. Turn a reference image into a coherent short movie
+### 733. Turn a reference image into a coherent short movie
 
 ![Turn a reference image into a coherent short movie](https://opennana.com/awesome-prompt-gallery/images/726.jpeg)
 
@@ -20156,7 +20124,7 @@ E) ONE Master Contact Sheet Image (All KFs in one grid)
 
 ---
 
-### 736. High fashion portrait with vertical slice distortion
+### 734. High fashion portrait with vertical slice distortion
 
 ![High fashion portrait with vertical slice distortion](https://opennana.com/awesome-prompt-gallery/images/727.jpeg)
 
@@ -20220,7 +20188,7 @@ E) ONE Master Contact Sheet Image (All KFs in one grid)
 
 ---
 
-### 737. A black and white studio portrait
+### 735. A black and white studio portrait
 
 ![A black and white studio portrait](https://opennana.com/awesome-prompt-gallery/images/728.jpeg)
 
@@ -20236,7 +20204,7 @@ Black and white studio portrait of the young woman in the uploaded image, lookin
 
 ---
 
-### 738. A fall fashion collage of 12 individual photos
+### 736. A fall fashion collage of 12 individual photos
 
 ![A fall fashion collage of 12 individual photos](https://opennana.com/awesome-prompt-gallery/images/729.jpeg)
 
@@ -20253,7 +20221,7 @@ Signature: Shreya Yadav
 
 ---
 
-### 739. Girl leaning on the counter
+### 737. Girl leaning on the counter
 
 ![Girl leaning on the counter](https://opennana.com/awesome-prompt-gallery/images/730.jpeg)
 
@@ -20285,7 +20253,7 @@ Signature: Shreya Yadav
 
 ---
 
-### 740. Girl standing near blackboard holding chalk in hand
+### 738. Girl standing near blackboard holding chalk in hand
 
 ![Girl standing near blackboard holding chalk in hand](https://opennana.com/awesome-prompt-gallery/images/731.jpeg)
 
@@ -20348,7 +20316,7 @@ Signature: Shreya Yadav
 
 ---
 
-### 741. Extremely detailed miniature scene of chef's uniform
+### 739. Extremely detailed miniature scene of chef's uniform
 
 ![Extremely detailed miniature scene of chef's uniform](https://opennana.com/awesome-prompt-gallery/images/732.jpeg)
 
@@ -20364,7 +20332,7 @@ Extreme detailed miniature diorama: A tiny chef's jacket held between two human 
 
 ---
 
-### 742. A sweet and realistic portrait of a girl
+### 740. A sweet and realistic portrait of a girl
 
 ![A sweet and realistic portrait of a girl](https://opennana.com/awesome-prompt-gallery/images/733.jpeg)
 
@@ -20380,7 +20348,7 @@ Realistic portrait of a sweet-faced woman in her mid-20s, with her face, eyes, e
 
 ---
 
-### 743. Transform comic book characters into hyper-realistic humans
+### 741. Transform comic book characters into hyper-realistic humans
 
 ![Transform comic book characters into hyper-realistic humans](https://opennana.com/awesome-prompt-gallery/images/734.jpeg)
 
@@ -20416,7 +20384,7 @@ NEGATIVE PROMPT:
 
 ---
 
-### 744. Surreal digital art hanging ghost
+### 742. Surreal digital art hanging ghost
 
 ![Surreal digital art hanging ghost](https://opennana.com/awesome-prompt-gallery/images/735.jpeg)
 
@@ -20442,7 +20410,7 @@ Flat perspective as if viewing screen directly, even diffused lighting from scre
 
 ---
 
-### 745. MacBook selfie (couple model)
+### 743. MacBook selfie (couple model)
 
 ![MacBook selfie (couple model)](https://opennana.com/awesome-prompt-gallery/images/736.jpeg)
 
@@ -20541,7 +20509,7 @@ Flat perspective as if viewing screen directly, even diffused lighting from scre
 
 ---
 
-### 746. Characters transformed into stylized 3D character comics
+### 744. Characters transformed into stylized 3D character comics
 
 ![Characters transformed into stylized 3D character comics](https://opennana.com/awesome-prompt-gallery/images/737.jpeg)
 
@@ -20557,7 +20525,7 @@ A highly stylized 3D caricature of the person in the uploaded image, with expres
 
 ---
 
-### 747. Professional image photos of characters transformed into Korean style
+### 745. Professional image photos of characters transformed into Korean style
 
 ![Professional image photos of characters transformed into Korean style](https://opennana.com/awesome-prompt-gallery/images/738.jpeg)
 
@@ -20575,7 +20543,7 @@ Keep the facial features of the people in the picture consistent.
 
 ---
 
-### 748. Woman takes selfie in elevator of apartment
+### 746. Woman takes selfie in elevator of apartment
 
 ![Woman takes selfie in elevator of apartment](https://opennana.com/awesome-prompt-gallery/images/739.jpeg)
 
@@ -20624,7 +20592,7 @@ Keep the facial features of the people in the picture consistent.
 
 ---
 
-### 749. Large-sized iPhone 17 Pro Max scene
+### 747. Large-sized iPhone 17 Pro Max scene
 
 ![Large-sized iPhone 17 Pro Max scene](https://opennana.com/awesome-prompt-gallery/images/740.jpeg)
 
@@ -20743,7 +20711,7 @@ Keep the facial features of the people in the picture consistent.
 
 ---
 
-### 750. Ultra-realistic views of exploding technology
+### 748. Ultra-realistic views of exploding technology
 
 ![Ultra-realistic views of exploding technology](https://opennana.com/awesome-prompt-gallery/images/741.jpeg)
 
@@ -20759,7 +20727,7 @@ Generate an ultra-detailed, hyperrealistic exploded technical view of __________
 
 ---
 
-### 751. A movie poster template
+### 749. A movie poster template
 
 ![A movie poster template](https://opennana.com/awesome-prompt-gallery/images/742.jpeg)
 
@@ -20825,7 +20793,7 @@ Style description template:
 
 ---
 
-### 752. Character is pinched in a transparent glass ball
+### 750. Character is pinched in a transparent glass ball
 
 ![Character is pinched in a transparent glass ball](https://opennana.com/awesome-prompt-gallery/images/743.jpeg)
 
@@ -20841,7 +20809,7 @@ Generate a portrait image of a detailed, transparent glass sphere/capsule held b
 
 ---
 
-### 753. Woman wearing white strapless lace wedding dress
+### 751. Woman wearing white strapless lace wedding dress
 
 ![Woman wearing white strapless lace wedding dress](https://opennana.com/awesome-prompt-gallery/images/744.jpeg)
 
@@ -20857,7 +20825,7 @@ Create a portrait of a woman in a white off-the-shoulder wedding dress with lace
 
 ---
 
-### 754. LEGO style mini 3D figures
+### 752. LEGO style mini 3D figures
 
 ![LEGO style mini 3D figures](https://opennana.com/awesome-prompt-gallery/images/745.jpeg)
 
@@ -20873,7 +20841,7 @@ Create a highly detailed, miniature LEGO-style 3D figure of [NAME], preserving t
 
 ---
 
-### 755. Ultra HD 4K Pixar-style 3D portraits
+### 753. Ultra HD 4K Pixar-style 3D portraits
 
 ![Ultra HD 4K Pixar-style 3D portraits](https://opennana.com/awesome-prompt-gallery/images/746.jpeg)
 
@@ -20889,7 +20857,7 @@ Ultra HD 4K Pixar-style 3D portrait of a young couple attempting a selfie on a c
 
 ---
 
-### 756. You can take selfies with celebrities and walk into the set of any movie
+### 754. You can take selfies with celebrities and walk into the set of any movie
 
 ![You can take selfies with celebrities and walk into the set of any movie](https://opennana.com/awesome-prompt-gallery/images/747.jpeg)
 
@@ -20907,7 +20875,7 @@ Keep the character exactly like the reference image, with 100% identical facial 
 
 ---
 
-### 757. Lady on huge stylish curved 3D billboard
+### 755. Lady on huge stylish curved 3D billboard
 
 ![Lady on huge stylish curved 3D billboard](https://opennana.com/awesome-prompt-gallery/images/748.jpeg)
 
@@ -20924,7 +20892,7 @@ Signature: Shreya Yadav
 
 ---
 
-### 758. film mixed media portrait
+### 756. film mixed media portrait
 
 ![film mixed media portrait](https://opennana.com/awesome-prompt-gallery/images/749.jpeg)
 
@@ -20963,7 +20931,7 @@ Signature: Shreya Yadav
 
 ---
 
-### 759. Cinematic Film Printing Master
+### 757. Cinematic Film Printing Master
 
 ![Cinematic Film Printing Master](https://opennana.com/awesome-prompt-gallery/images/750.jpeg)
 
@@ -21036,7 +21004,7 @@ Lower strip of film (pure atmosphere): 4 small, highly abstract images. Complete
 
 ---
 
-### 760. Hand drawn portrait illustration in red and yellow colors
+### 758. Hand drawn portrait illustration in red and yellow colors
 
 ![Hand drawn portrait illustration in red and yellow colors](https://opennana.com/awesome-prompt-gallery/images/751.jpeg)
 
@@ -21054,7 +21022,7 @@ handwritten notes around, realistic pen stroke texture,4K resolution.
 
 ---
 
-### 761. The characters are placed in a crowded conference scene
+### 759. The characters are placed in a crowded conference scene
 
 ![The characters are placed in a crowded conference scene](https://opennana.com/awesome-prompt-gallery/images/752.jpeg)
 
@@ -21070,7 +21038,7 @@ A wide-angle, candid documentary photograph capturing the person from {reference
 
 ---
 
-### 762. A miniature man trimming his eyebrows
+### 760. A miniature man trimming his eyebrows
 
 ![A miniature man trimming his eyebrows](https://opennana.com/awesome-prompt-gallery/images/753.jpeg)
 
@@ -21110,7 +21078,7 @@ A wide-angle, candid documentary photograph capturing the person from {reference
 
 ---
 
-### 763. Generate infographics in the style of Ukiyo-e and Cuphead
+### 761. Generate infographics in the style of Ukiyo-e and Cuphead
 
 ![Generate infographics in the style of Ukiyo-e and Cuphead](https://opennana.com/awesome-prompt-gallery/images/754.jpeg)
 
@@ -21127,7 +21095,7 @@ Generate an infographic for the content below in the style of Ukiyoe + Cuphead
 
 ---
 
-### 764. Use the experiences of the characters in the work to paint a picture
+### 762. Use the experiences of the characters in the work to paint a picture
 
 ![Use the experiences of the characters in the work to paint a picture](https://opennana.com/awesome-prompt-gallery/images/755.jpeg)
 
@@ -21201,7 +21169,7 @@ The user will provide **[Work Title] + [Character Name]**.
 
 ---
 
-### 765. Woman sitting barefoot and cross-legged on a simple wooden chair
+### 763. Woman sitting barefoot and cross-legged on a simple wooden chair
 
 ![Woman sitting barefoot and cross-legged on a simple wooden chair](https://opennana.com/awesome-prompt-gallery/images/756.jpeg)
 
@@ -21238,7 +21206,7 @@ Quality = High detail, professional art-scene aesthetic
 
 ---
 
-### 766. Woman holding blister packaging close to camera
+### 764. Woman holding blister packaging close to camera
 
 ![Woman holding blister packaging close to camera](https://opennana.com/awesome-prompt-gallery/images/757.jpeg)
 
@@ -21323,7 +21291,7 @@ Quality = High detail, professional art-scene aesthetic
 
 ---
 
-### 767. A woman lies on her back and takes a selfie with her right arm stretched upward
+### 765. A woman lies on her back and takes a selfie with her right arm stretched upward
 
 ![A woman lies on her back and takes a selfie with her right arm stretched upward](https://opennana.com/awesome-prompt-gallery/images/758.jpeg)
 
@@ -21396,7 +21364,7 @@ Quality = High detail, professional art-scene aesthetic
 
 ---
 
-### 768. Make professional OOTD fashion collages in magazine editorial style
+### 766. Make professional OOTD fashion collages in magazine editorial style
 
 ![Make professional OOTD fashion collages in magazine editorial style](https://opennana.com/awesome-prompt-gallery/images/759.jpeg)
 
@@ -21450,7 +21418,7 @@ Overall style:
 
 ---
 
-### 769. A young Japanese beauty model
+### 767. A young Japanese beauty model
 
 ![A young Japanese beauty model](https://opennana.com/awesome-prompt-gallery/images/760.jpeg)
 
@@ -21478,7 +21446,7 @@ Atmosphere: lively, warm, romantic, playful festival vibe.
 
 ---
 
-### 770. A short-sighted person's perspective
+### 768. A short-sighted person's perspective
 
 ![A short-sighted person's perspective](https://opennana.com/awesome-prompt-gallery/images/761.jpeg)
 
@@ -21494,7 +21462,7 @@ ultra hugging close-up view of with edges of glasses with the lenses almost touc
 
 ---
 
-### 771. Kudo Shinichi and Mao Lilan
+### 769. Kudo Shinichi and Mao Lilan
 
 ![Kudo Shinichi and Mao Lilan](https://opennana.com/awesome-prompt-gallery/images/762.jpeg)
 
@@ -21535,7 +21503,7 @@ wearing dark dress, (body and face hidden in deep sharp shadow:1.4), absolutely 
 
 ---
 
-### 772. Victorian surgeon's medical box spread out
+### 770. Victorian surgeon's medical box spread out
 
 ![Victorian surgeon's medical box spread out](https://opennana.com/awesome-prompt-gallery/images/763.jpeg)
 
@@ -21551,7 +21519,7 @@ A Victorian surgeon's medical kit laid open on aged leather, featuring antique b
 
 ---
 
-### 773. A small animated version of myself appeared in the window
+### 771. A small animated version of myself appeared in the window
 
 ![A small animated version of myself appeared in the window](https://opennana.com/awesome-prompt-gallery/images/764.jpeg)
 
@@ -21586,7 +21554,7 @@ A Victorian surgeon's medical kit laid open on aged leather, featuring antique b
 
 ---
 
-### 774. A high quality portrait of a cute girl
+### 772. A high quality portrait of a cute girl
 
 ![A high quality portrait of a cute girl](https://opennana.com/awesome-prompt-gallery/images/765.jpeg)
 
@@ -21645,7 +21613,7 @@ Cute pastel, cozy café girl, playful expression, soft flash, colorful and happy
 
 ---
 
-### 775. Make a photo with hidden words
+### 773. Make a photo with hidden words
 
 ![Make a photo with hidden words](https://opennana.com/awesome-prompt-gallery/images/766.jpeg)
 
@@ -21661,7 +21629,7 @@ make a photo with a hidden word embedded into it, make the word hard to see unti
 
 ---
 
-### 776. The perfect blend of photos and sketches
+### 774. The perfect blend of photos and sketches
 
 ![The perfect blend of photos and sketches](https://opennana.com/awesome-prompt-gallery/images/767.jpeg)
 
@@ -21783,7 +21751,7 @@ make a photo with a hidden word embedded into it, make the word hard to see unti
 
 ---
 
-### 777. Black and white sketch hand drawn comics
+### 775. Black and white sketch hand drawn comics
 
 ![Black and white sketch hand drawn comics](https://opennana.com/awesome-prompt-gallery/images/768.jpeg)
 
@@ -21836,7 +21804,7 @@ make a photo with a hidden word embedded into it, make the word hard to see unti
 
 ---
 
-### 778. The application interface shows 9 different funny effects
+### 776. The application interface shows 9 different funny effects
 
 ![The application interface shows 9 different funny effects](https://opennana.com/awesome-prompt-gallery/images/769.jpeg)
 
@@ -21852,7 +21820,7 @@ A complete screenshot of the MacOS Photo Booth application interface, with the t
 
 ---
 
-### 779. Realistic photos with illustrated sticker overlays
+### 777. Realistic photos with illustrated sticker overlays
 
 ![Realistic photos with illustrated sticker overlays](https://opennana.com/awesome-prompt-gallery/images/770.jpeg)
 
@@ -21901,7 +21869,7 @@ A complete screenshot of the MacOS Photo Booth application interface, with the t
 
 ---
 
-### 780. A collage of playful and stylish portraits
+### 778. A collage of playful and stylish portraits
 
 ![A collage of playful and stylish portraits](https://opennana.com/awesome-prompt-gallery/images/771.jpeg)
 
@@ -21925,7 +21893,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### 781. Y2K Millennial Hottie Retro Pixel Style
+### 779. Y2K Millennial Hottie Retro Pixel Style
 
 ![Y2K Millennial Hottie Retro Pixel Style](https://opennana.com/awesome-prompt-gallery/images/772.jpeg)
 
@@ -21941,7 +21909,7 @@ Maintain character facial features and hairstyle. Y2K Millennial retro fashion s
 
 ---
 
-### 782. Labubu’s 3x3 grid collage photo
+### 780. Labubu’s 3x3 grid collage photo
 
 ![Labubu’s 3x3 grid collage photo](https://opennana.com/awesome-prompt-gallery/images/773.jpeg)
 
@@ -21957,7 +21925,7 @@ Generate a high-quality 3x3 nine-square grid collage photo of Labubu. Nine indep
 
 ---
 
-### 783. 9 clothing styles and backgrounds for characters
+### 781. 9 clothing styles and backgrounds for characters
 
 ![9 clothing styles and backgrounds for characters](https://opennana.com/awesome-prompt-gallery/images/774.jpeg)
 
@@ -21973,7 +21941,7 @@ Based on [uploaded person picture] and keeping his facial features absolutely un
 
 ---
 
-### 784. Each frame of the 6-panel comic has a different style
+### 782. Each frame of the 6-panel comic has a different style
 
 ![Each frame of the 6-panel comic has a different style](https://opennana.com/awesome-prompt-gallery/images/775.jpeg)
 
@@ -22011,7 +21979,7 @@ Box 6: 16-bit pixel game style
 
 ---
 
-### 785. Strike a stylish, complex and powerful pose
+### 783. Strike a stylish, complex and powerful pose
 
 ![Strike a stylish, complex and powerful pose](https://opennana.com/awesome-prompt-gallery/images/776.jpeg)
 
@@ -22027,7 +21995,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-wide shot wi
 
 ---
 
-### 786. 9 clothing styles and backgrounds for characters
+### 784. 9 clothing styles and backgrounds for characters
 
 ![9 clothing styles and backgrounds for characters](https://opennana.com/awesome-prompt-gallery/images/777.jpeg)
 
@@ -22043,7 +22011,7 @@ Based on [uploaded person pictures] and strictly keeping facial features unchang
 
 ---
 
-### 787. Summer Dopamine Fresh Style
+### 785. Summer Dopamine Fresh Style
 
 ![Summer Dopamine Fresh Style](https://opennana.com/awesome-prompt-gallery/images/778.jpeg)
 
@@ -22059,7 +22027,7 @@ Maintain character facial features and hairstyle. Summer dopamine fresh style, v
 
 ---
 
-### 788. Young woman kneeling in field
+### 786. Young woman kneeling in field
 
 ![Young woman kneeling in field](https://opennana.com/awesome-prompt-gallery/images/779.jpeg)
 
@@ -22141,7 +22109,7 @@ Maintain character facial features and hairstyle. Summer dopamine fresh style, v
 
 ---
 
-### 789. A miniature world handcrafted from plush textiles
+### 787. A miniature world handcrafted from plush textiles
 
 ![A miniature world handcrafted from plush textiles](https://opennana.com/awesome-prompt-gallery/images/780.jpeg)
 
@@ -22160,7 +22128,7 @@ A curved backdrop piece appears as a plush, padded woolen shape, adding dimensio
 
 ---
 
-### 790. Fantastic handmade paper crafts
+### 788. Fantastic handmade paper crafts
 
 ![Fantastic handmade paper crafts](https://opennana.com/awesome-prompt-gallery/images/781.jpeg)
 
@@ -22176,7 +22144,7 @@ A whimsical handmade paper artwork on a wooden desk: a hand-drawn cartoon 【dog
 
 ---
 
-### 791. Miniature 3D cartoon scene
+### 789. Miniature 3D cartoon scene
 
 ![Miniature 3D cartoon scene](https://opennana.com/awesome-prompt-gallery/images/782.jpeg)
 
@@ -22199,7 +22167,7 @@ Composition: perfectly centered layout, square 1080x1080, ultra-clean, high-clar
 
 ---
 
-### 792. Selfie with 2D animation illustration
+### 790. Selfie with 2D animation illustration
 
 ![Selfie with 2D animation illustration](https://opennana.com/awesome-prompt-gallery/images/783.jpeg)
 
@@ -22367,7 +22335,7 @@ Composition: perfectly centered layout, square 1080x1080, ultra-clean, high-clar
 
 ---
 
-### 793. Transform subjects into clay-style 3D characters
+### 791. Transform subjects into clay-style 3D characters
 
 ![Transform subjects into clay-style 3D characters](https://opennana.com/awesome-prompt-gallery/images/784.jpeg)
 
@@ -22383,7 +22351,7 @@ Transform the subject into a stylized 3D character with soft clay-like materials
 
 ---
 
-### 794. Generate a nine-square grid of characters in different poses
+### 792. Generate a nine-square grid of characters in different poses
 
 ![Generate a nine-square grid of characters in different poses](https://opennana.com/awesome-prompt-gallery/images/785.jpeg)
 
@@ -22464,7 +22432,7 @@ Strict rules:
 
 ---
 
-### 795. Research and data visualization design
+### 793. Research and data visualization design
 
 ![Research and data visualization design](https://opennana.com/awesome-prompt-gallery/images/786.jpeg)
 
@@ -22522,7 +22490,7 @@ Visual performance: squeezed at the bottom or corner of the screen, the visual s
 
 ---
 
-### 796. Attractions change with the seasons
+### 794. Attractions change with the seasons
 
 ![Attractions change with the seasons](https://opennana.com/awesome-prompt-gallery/images/787.jpeg)
 
@@ -22574,7 +22542,7 @@ Seamless diagonal transitions, no hard lines but distinct color shifts. The land
 
 ---
 
-### 797. A fascinating picture of time in four seasons
+### 795. A fascinating picture of time in four seasons
 
 ![A fascinating picture of time in four seasons](https://opennana.com/awesome-prompt-gallery/images/788.jpeg)
 
@@ -22594,7 +22562,7 @@ There are no visible dividing lines between seasons; the weather, lighting, and 
 
 ---
 
-### 798. Young woman squatting elegantly for selfie indoors
+### 796. Young woman squatting elegantly for selfie indoors
 
 ![Young woman squatting elegantly for selfie indoors](https://opennana.com/awesome-prompt-gallery/images/789.jpeg)
 
@@ -22699,7 +22667,7 @@ There are no visible dividing lines between seasons; the weather, lighting, and 
 
 ---
 
-### 799. Product development trajectory chart
+### 797. Product development trajectory chart
 
 ![Product development trajectory chart](https://opennana.com/awesome-prompt-gallery/images/790.jpeg)
 
@@ -22731,7 +22699,7 @@ Technical Specs: Octane render, Unreal Engine 5 aesthetic, editorial layout, inf
 
 ---
 
-### 800. The evolution of Stark Industries' Iron Man suit
+### 798. The evolution of Stark Industries' Iron Man suit
 
 ![The evolution of Stark Industries' Iron Man suit](https://opennana.com/awesome-prompt-gallery/images/792.jpeg)
 
@@ -22763,7 +22731,7 @@ Technical Specs: Octane render, Unreal Engine 5 aesthetic, editorial layout, inf
 
 ---
 
-### 801. Seamlessly blending two different eras
+### 799. Seamlessly blending two different eras
 
 ![Seamlessly blending two different eras](https://opennana.com/awesome-prompt-gallery/images/793.jpeg)
 
@@ -22792,7 +22760,7 @@ Aspect Ratio: 4:3
 
 ---
 
-### 802. Reality-distorting mirror selfie that incorporates multiple media elements
+### 800. Reality-distorting mirror selfie that incorporates multiple media elements
 
 ![Reality-distorting mirror selfie that incorporates multiple media elements](https://opennana.com/awesome-prompt-gallery/images/794.jpeg)
 
@@ -22897,7 +22865,7 @@ Aspect Ratio: 4:3
 
 ---
 
-### 803. A set of cyberpunk style fashion blockbusters
+### 801. A set of cyberpunk style fashion blockbusters
 
 ![A set of cyberpunk style fashion blockbusters](https://opennana.com/awesome-prompt-gallery/images/796.jpeg)
 
@@ -22913,7 +22881,7 @@ A cyber-grunge surveillance fashion editorial featuring a cool, edgy young woman
 
 ---
 
-### 804. Colorful, cinematic photos
+### 802. Colorful, cinematic photos
 
 ![Colorful, cinematic photos](https://opennana.com/awesome-prompt-gallery/images/797.jpeg)
 
@@ -22950,7 +22918,7 @@ A cyber-grunge surveillance fashion editorial featuring a cool, edgy young woman
 
 ---
 
-### 805. Beautiful layout similar to photography album
+### 803. Beautiful layout similar to photography album
 
 ![Beautiful layout similar to photography album](https://opennana.com/awesome-prompt-gallery/images/798.jpeg)
 
@@ -22966,7 +22934,7 @@ Makes the specified character appear to be sightseeing at latitude and longitude
 
 ---
 
-### 806. Climbing the Stork Tower
+### 804. Climbing the Stork Tower
 
 ![Climbing the Stork Tower](https://opennana.com/awesome-prompt-gallery/images/799.jpeg)
 
@@ -22984,7 +22952,7 @@ Poem Title: Climb the Stork Tower
 
 ---
 
-### 807. Real world tilt-shift photography
+### 805. Real world tilt-shift photography
 
 ![Real world tilt-shift photography](https://opennana.com/awesome-prompt-gallery/images/800.jpeg)
 
@@ -23000,7 +22968,7 @@ A highly detailed tilt-shift photography of [LOCATION] captured from a high vant
 
 ---
 
-### 808. A fusion of anime character sketch characters and clay animation characters
+### 806. A fusion of anime character sketch characters and clay animation characters
 
 ![A fusion of anime character sketch characters and clay animation characters](https://opennana.com/awesome-prompt-gallery/images/801.jpeg)
 
@@ -23016,7 +22984,7 @@ A photo of an everyday scene at a busy cafe serving breakfast. In the foreground
 
 ---
 
-### 809. Raise a wave like a rug
+### 807. Raise a wave like a rug
 
 ![Raise a wave like a rug](https://opennana.com/awesome-prompt-gallery/images/802.jpeg)
 
@@ -23032,7 +23000,7 @@ A [SUBJECT] is crouching on the beach, lifting a wave like a carpet to reveal a 
 
 ---
 
-### 810. The character is sitting on the edge of the bed with a stack of banknotes spread out in his hands
+### 808. The character is sitting on the edge of the bed with a stack of banknotes spread out in his hands
 
 ![The character is sitting on the edge of the bed with a stack of banknotes spread out in his hands](https://opennana.com/awesome-prompt-gallery/images/803.jpeg)
 
@@ -23089,7 +23057,7 @@ A [SUBJECT] is crouching on the beach, lifting a wave like a carpet to reveal a 
 
 ---
 
-### 811. Cinematic double exposure poster design
+### 809. Cinematic double exposure poster design
 
 ![Cinematic double exposure poster design](https://opennana.com/awesome-prompt-gallery/images/804.jpeg)
 
@@ -23130,7 +23098,7 @@ A [SUBJECT] is crouching on the beach, lifting a wave like a carpet to reveal a 
 
 ---
 
-### 812. Explore different art styles at once
+### 810. Explore different art styles at once
 
 ![Explore different art styles at once](https://opennana.com/awesome-prompt-gallery/images/805.jpeg)
 
@@ -23146,7 +23114,7 @@ A 3x3 grid collage layout featuring the same man in 9 different art styles. The 
 
 ---
 
-### 813. A young woman wearing gorgeous Tang Dynasty costumes
+### 811. A young woman wearing gorgeous Tang Dynasty costumes
 
 ![A young woman wearing gorgeous Tang Dynasty costumes](https://opennana.com/awesome-prompt-gallery/images/806.jpeg)
 
@@ -23231,7 +23199,7 @@ A 3x3 grid collage layout featuring the same man in 9 different art styles. The 
 
 ---
 
-### 814. High fashion photos shot with ultra-wide angle
+### 812. High fashion photos shot with ultra-wide angle
 
 ![High fashion photos shot with ultra-wide angle](https://opennana.com/awesome-prompt-gallery/images/807.jpeg)
 
@@ -23434,7 +23402,7 @@ A 3x3 grid collage layout featuring the same man in 9 different art styles. The 
 
 ---
 
-### 815. Soft Drink Fortress
+### 813. Soft Drink Fortress
 
 ![Soft Drink Fortress](https://opennana.com/awesome-prompt-gallery/images/808.jpeg)
 
@@ -23450,7 +23418,7 @@ This is a whimsical【 orange-and-green】 fantasy castle crafted from 【Fanta 
 
 ---
 
-### 816. A 3D game level map poster
+### 814. A 3D game level map poster
 
 ![A 3D game level map poster](https://opennana.com/awesome-prompt-gallery/images/809.jpeg)
 
@@ -23488,7 +23456,7 @@ Style and Rendering: Nintendo-style clay. Colors are bright and saturated.
 
 ---
 
-### 817. Woman reflected on iPad screen on airplane folding table
+### 815. Woman reflected on iPad screen on airplane folding table
 
 ![Woman reflected on iPad screen on airplane folding table](https://opennana.com/awesome-prompt-gallery/images/810.jpeg)
 
@@ -23510,7 +23478,7 @@ Soft-warm × pastel aesthetic tone. Edited in a “K-aesthetic soft glow” styl
 
 ---
 
-### 818. Cute sleep report poster
+### 816. Cute sleep report poster
 
 ![Cute sleep report poster](https://opennana.com/awesome-prompt-gallery/images/811.jpeg)
 
@@ -23553,7 +23521,7 @@ Legend: Use four small dots of corresponding colors to mark the name and specifi
 
 ---
 
-### 819. Stunning split screen photos
+### 817. Stunning split screen photos
 
 ![Stunning split screen photos](https://opennana.com/awesome-prompt-gallery/images/812.jpeg)
 
@@ -23582,7 +23550,7 @@ Photorealistic octane render, 8K, razor-sharp reflection detail, anamorphic lens
 
 ---
 
-### 820. Characters appear on giant digital billboards
+### 818. Characters appear on giant digital billboards
 
 ![Characters appear on giant digital billboards](https://opennana.com/awesome-prompt-gallery/images/813.jpeg)
 
@@ -23633,7 +23601,7 @@ Photorealistic octane render, 8K, razor-sharp reflection detail, anamorphic lens
 
 ---
 
-### 821. Studio photo shoot of product
+### 819. Studio photo shoot of product
 
 ![Studio photo shoot of product](https://opennana.com/awesome-prompt-gallery/images/814.jpeg)
 
@@ -23649,7 +23617,7 @@ studio shot of [PRODUCT], placed on a [background], surrounded by soft shadows a
 
 ---
 
-### 822. Although the body is as careful as a lion
+### 820. Although the body is as careful as a lion
 
 ![Although the body is as careful as a lion](https://opennana.com/awesome-prompt-gallery/images/815.jpeg)
 
@@ -23665,7 +23633,7 @@ A small, reddish-brown poodle with curly fur and expressive dark eyes is standin
 
 ---
 
-### 823. Special report on Tokyo nightlife
+### 821. Special report on Tokyo nightlife
 
 ![Special report on Tokyo nightlife](https://opennana.com/awesome-prompt-gallery/images/816.jpeg)
 
@@ -23681,7 +23649,7 @@ Tokyo nightlife editorial. Full body shot, low angle looking up slightly. A cool
 
 ---
 
-### 824. A young woman with personality
+### 822. A young woman with personality
 
 ![A young woman with personality](https://opennana.com/awesome-prompt-gallery/images/817.jpeg)
 
@@ -23734,7 +23702,7 @@ Tokyo nightlife editorial. Full body shot, low angle looking up slightly. A cool
 
 ---
 
-### 825. The transparent object is filled with delicate flowers
+### 823. The transparent object is filled with delicate flowers
 
 ![The transparent object is filled with delicate flowers](https://opennana.com/awesome-prompt-gallery/images/818.jpeg)
 
@@ -23750,7 +23718,7 @@ A transparent [OBJECT] filled with delicate spring flowers like cherry blossoms,
 
 ---
 
-### 826. Movie scenes turned into miniature isometric dioramas
+### 824. Movie scenes turned into miniature isometric dioramas
 
 ![Movie scenes turned into miniature isometric dioramas](https://opennana.com/awesome-prompt-gallery/images/819.jpeg)
 
@@ -23773,7 +23741,7 @@ Camera: A detailed macro photograph from a slightly elevated isometric three-qua
 
 ---
 
-### 827. Animals and humans alike are transformed into neon glass creatures
+### 825. Animals and humans alike are transformed into neon glass creatures
 
 ![Animals and humans alike are transformed into neon glass creatures](https://opennana.com/awesome-prompt-gallery/images/820.jpeg)
 
@@ -23799,7 +23767,7 @@ SCENE: At the boundary between sunset and nightfall on the African savannah, whe
 
 ---
 
-### 828. Cute clay style themed poster
+### 826. Cute clay style themed poster
 
 ![Cute clay style themed poster](https://opennana.com/awesome-prompt-gallery/images/821.jpeg)
 
@@ -23863,7 +23831,7 @@ Written on the monitor screen.
 
 ---
 
-### 829. Reality and inner spirit meet in the magic mirror
+### 827. Reality and inner spirit meet in the magic mirror
 
 ![Reality and inner spirit meet in the magic mirror](https://opennana.com/awesome-prompt-gallery/images/822.jpeg)
 
@@ -23892,7 +23860,7 @@ Rendered in cinematic lighting, surrealist style, ultra-detailed realism, 8K res
 
 ---
 
-### 830. The person in the photo is holding the product in one hand
+### 828. The person in the photo is holding the product in one hand
 
 ![The person in the photo is holding the product in one hand](https://opennana.com/awesome-prompt-gallery/images/823.jpeg)
 
@@ -23908,7 +23876,7 @@ Create a hyper-realistic mirror selfie of a person holding the product in one ha
 
 ---
 
-### 831. Giant Korean woman in the bustling street
+### 829. Giant Korean woman in the bustling street
 
 ![Giant Korean woman in the bustling street](https://opennana.com/awesome-prompt-gallery/images/824.png)
 
@@ -23924,7 +23892,7 @@ A highly detailed photorealistic aerial shot looking down on a colossal Korean y
 
 ---
 
-### 832. Floating Tai Chi cute 3D cartoon scene
+### 830. Floating Tai Chi cute 3D cartoon scene
 
 ![Floating Tai Chi cute 3D cartoon scene](https://opennana.com/awesome-prompt-gallery/images/825.jpeg)
 
@@ -23996,7 +23964,7 @@ ar=1:1
 
 ---
 
-### 833. Generate scene posters for any movie, TV series or novel
+### 831. Generate scene posters for any movie, TV series or novel
 
 ![Generate scene posters for any movie, TV series or novel](https://opennana.com/awesome-prompt-gallery/images/826.jpeg)
 
@@ -24018,7 +23986,7 @@ The last thing is the typesetting at the bottom, please generate Chinese text. W
 
 ---
 
-### 834. Real world portal anime character crossover scene
+### 832. Real world portal anime character crossover scene
 
 ![Real world portal anime character crossover scene](https://opennana.com/awesome-prompt-gallery/images/827.jpeg)
 
@@ -24053,7 +24021,7 @@ Portal_Inner_Character: A cyborg girl with mechanical limbs wearing a semi-armor
 
 ---
 
-### 835. Healing fairy tale clay poster
+### 833. Healing fairy tale clay poster
 
 ![Healing fairy tale clay poster](https://opennana.com/awesome-prompt-gallery/images/828.jpeg)
 
@@ -24075,7 +24043,7 @@ Generate a list (Einstein):
 
 ---
 
-### 836. people magazine collage cover
+### 834. people magazine collage cover
 
 ![people magazine collage cover](https://opennana.com/awesome-prompt-gallery/images/829.jpeg)
 
@@ -24126,7 +24094,7 @@ Refer to the photos of people uploaded by users, automatically read the image st
 
 ---
 
-### 837. Facebook profile interface
+### 835. Facebook profile interface
 
 ![Facebook profile interface](https://opennana.com/awesome-prompt-gallery/images/830.jpeg)
 
@@ -24158,7 +24126,7 @@ Refer to the photos of people uploaded by users, automatically read the image st
 
 ---
 
-### 838. Retro blueprint illustration
+### 836. Retro blueprint illustration
 
 ![Retro blueprint illustration](https://opennana.com/awesome-prompt-gallery/images/831.jpeg)
 
@@ -24174,7 +24142,7 @@ Create a highly detailed blueprint-style technical schematic based on the upload
 
 ---
 
-### 839. Convert to graffiti style
+### 837. Convert to graffiti style
 
 ![Convert to graffiti style](https://opennana.com/awesome-prompt-gallery/images/832.jpeg)
 
@@ -24266,7 +24234,7 @@ Create a highly detailed blueprint-style technical schematic based on the upload
 
 ---
 
-### 840. An exploded view of a dragon's anatomy
+### 838. An exploded view of a dragon's anatomy
 
 ![An exploded view of a dragon's anatomy](https://opennana.com/awesome-prompt-gallery/images/833.jpeg)
 
@@ -24282,7 +24250,7 @@ Create an exploded-view illustration of a dragon's anatomy, dissecting its wings
 
 ---
 
-### 841. A bust in the style of a digital oil painting
+### 839. A bust in the style of a digital oil painting
 
 ![A bust in the style of a digital oil painting](https://opennana.com/awesome-prompt-gallery/images/834.jpeg)
 
@@ -24298,7 +24266,7 @@ A digital oil-painted bust portrait of a slender young man (late teens/early twe
 
 ---
 
-### 842. Dongshan Xiaohong
+### 840. Dongshan Xiaohong
 
 ![Dongshan Xiaohong](https://opennana.com/awesome-prompt-gallery/images/835.jpeg)
 
@@ -24343,7 +24311,7 @@ A digital oil-painted bust portrait of a slender young man (late teens/early twe
 
 ---
 
-### 843. Girls night city street shooting
+### 841. Girls night city street shooting
 
 ![Girls night city street shooting](https://opennana.com/awesome-prompt-gallery/images/836.jpeg)
 
@@ -24388,7 +24356,7 @@ Reference Figure 1 Face and body generation
 
 ---
 
-### 844. Woman holding a big stuffed mouse
+### 842. Woman holding a big stuffed mouse
 
 ![Woman holding a big stuffed mouse](https://opennana.com/awesome-prompt-gallery/images/837.jpeg)
 
@@ -24469,7 +24437,7 @@ Reference Figure 1 Face and body generation
 
 ---
 
-### 845. Take realistic selfies in front of the mirror in your bedroom
+### 843. Take realistic selfies in front of the mirror in your bedroom
 
 ![Take realistic selfies in front of the mirror in your bedroom](https://opennana.com/awesome-prompt-gallery/images/838.jpeg)
 
@@ -24596,7 +24564,7 @@ Reference Figure 1 Face and body generation
 
 ---
 
-### 846. Abstract neon art design
+### 844. Abstract neon art design
 
 ![Abstract neon art design](https://opennana.com/awesome-prompt-gallery/images/839.jpeg)
 
@@ -24612,7 +24580,7 @@ abstract neon light [OBJECT] artwork design, digital art, wallpaper, stunning, i
 
 ---
 
-### 847. Ultra-realistic 8K surreal winter fantasy portrait
+### 845. Ultra-realistic 8K surreal winter fantasy portrait
 
 ![Ultra-realistic 8K surreal winter fantasy portrait](https://opennana.com/awesome-prompt-gallery/images/840.jpeg)
 
@@ -24699,7 +24667,7 @@ abstract neon light [OBJECT] artwork design, digital art, wallpaper, stunning, i
 
 ---
 
-### 848. Ancient style wide-sleeved robe garden night scene photo
+### 846. Ancient style wide-sleeved robe garden night scene photo
 
 ![Ancient style wide-sleeved robe garden night scene photo](https://opennana.com/awesome-prompt-gallery/images/841.jpeg)
 
@@ -24749,7 +24717,7 @@ abstract neon light [OBJECT] artwork design, digital art, wallpaper, stunning, i
 
 ---
 
-### 849. Tokyo Tower is occupied by a super giant cat
+### 847. Tokyo Tower is occupied by a super giant cat
 
 ![Tokyo Tower is occupied by a super giant cat](https://opennana.com/awesome-prompt-gallery/images/842.jpeg)
 
@@ -24767,7 +24735,7 @@ The overall mood is quiet, warm, soothing, and cute.
 
 ---
 
-### 850. Japanese Ukiyo-e shadow puppet works
+### 848. Japanese Ukiyo-e shadow puppet works
 
 ![Japanese Ukiyo-e shadow puppet works](https://opennana.com/awesome-prompt-gallery/images/843.jpeg)
 
@@ -24783,7 +24751,7 @@ A Japanese Ukiyo-e Shadow Theater depicting [SUBJECT] as elegant silhouettes ins
 
 ---
 
-### 851. 3x3 grid Rick and Morty style
+### 849. 3x3 grid Rick and Morty style
 
 ![3x3 grid Rick and Morty style](https://opennana.com/awesome-prompt-gallery/images/844.jpeg)
 
@@ -24837,7 +24805,7 @@ A Japanese Ukiyo-e Shadow Theater depicting [SUBJECT] as elegant silhouettes ins
 
 ---
 
-### 852. Be part of your own comic
+### 850. Be part of your own comic
 
 ![Be part of your own comic](https://opennana.com/awesome-prompt-gallery/images/845.jpeg)
 
@@ -24876,7 +24844,7 @@ A Japanese Ukiyo-e Shadow Theater depicting [SUBJECT] as elegant silhouettes ins
 
 ---
 
-### 853. Exaggerated perspective illustration style
+### 851. Exaggerated perspective illustration style
 
 ![Exaggerated perspective illustration style](https://opennana.com/awesome-prompt-gallery/images/846.jpeg)
 
@@ -24950,7 +24918,7 @@ CRITICAL REQUIREMENTS:
 
 ---
 
-### 854. Expand 3D model
+### 852. Expand 3D model
 
 ![Expand 3D model](https://opennana.com/awesome-prompt-gallery/images/847.jpeg)
 
@@ -24967,7 +24935,7 @@ About one-third of the image should be a reference view displaying the 3D model 
 
 ---
 
-### 855. 9-square grid nude 3D collage poster
+### 853. 9-square grid nude 3D collage poster
 
 ![9-square grid nude 3D collage poster](https://opennana.com/awesome-prompt-gallery/images/848.jpeg)
 
@@ -25024,7 +24992,7 @@ Follow these steps to think about and construct your final prompt word:
 
 ---
 
-### 856. Professional Studio Portrait Photography Christmas Winter Theme
+### 854. Professional Studio Portrait Photography Christmas Winter Theme
 
 ![Professional Studio Portrait Photography Christmas Winter Theme](https://opennana.com/awesome-prompt-gallery/images/849.jpeg)
 
@@ -25040,7 +25008,7 @@ Professional studio portrait photography, Christmas winter theme, white studio b
 
 ---
 
-### 857. Christmas themed high-end studio photos
+### 855. Christmas themed high-end studio photos
 
 ![Christmas themed high-end studio photos](https://opennana.com/awesome-prompt-gallery/images/850.jpeg)
 
@@ -25069,7 +25037,7 @@ Professional studio portrait photography, Christmas winter theme, white studio b
 
 ---
 
-### 858. Christmas pet nine palace chart
+### 856. Christmas pet nine palace chart
 
 ![Christmas pet nine palace chart](https://opennana.com/awesome-prompt-gallery/images/851.jpeg)
 
@@ -25106,7 +25074,7 @@ Overall requirements:
 
 ---
 
-### 859. 20 yuan banknote (Guilin landscape version)
+### 857. 20 yuan banknote (Guilin landscape version)
 
 ![20 yuan banknote (Guilin landscape version)](https://opennana.com/awesome-prompt-gallery/images/852.jpeg)
 
@@ -25126,7 +25094,7 @@ Overall requirements:
 
 ---
 
-### 860. Elf in the snow scene
+### 858. Elf in the snow scene
 
 ![Elf in the snow scene](https://opennana.com/awesome-prompt-gallery/images/853.jpeg)
 
@@ -25142,7 +25110,7 @@ Overall requirements:
 
 ---
 
-### 861. Commercial advertising shooting scene
+### 859. Commercial advertising shooting scene
 
 ![Commercial advertising shooting scene](https://opennana.com/awesome-prompt-gallery/images/854.jpeg)
 
@@ -25166,7 +25134,7 @@ Cinematic composition, warm lighting, realistic details, with a fairy-tale-like 
 
 ---
 
-### 862. Zhujiang New Town in paper-cut style
+### 860. Zhujiang New Town in paper-cut style
 
 ![Zhujiang New Town in paper-cut style](https://opennana.com/awesome-prompt-gallery/images/855.jpeg)
 
@@ -25186,7 +25154,7 @@ The work cleverly incorporates light dandelion fluff or star-like dynamic light 
 
 ---
 
-### 863. marionette
+### 861. marionette
 
 ![marionette](https://opennana.com/awesome-prompt-gallery/images/856.jpeg)
 
@@ -25265,7 +25233,7 @@ The work cleverly incorporates light dandelion fluff or star-like dynamic light 
 
 ---
 
-### 864. Ultra-realistic 3D commercial style product illustrations
+### 862. Ultra-realistic 3D commercial style product illustrations
 
 ![Ultra-realistic 3D commercial style product illustrations](https://opennana.com/awesome-prompt-gallery/images/857.jpeg)
 
@@ -25297,7 +25265,7 @@ Detailing: Extreme attention to condensation, droplets, and high-speed motion of
 
 ---
 
-### 865. Close up selfie of woman standing in room
+### 863. Close up selfie of woman standing in room
 
 ![Close up selfie of woman standing in room](https://opennana.com/awesome-prompt-gallery/images/858.jpeg)
 
@@ -25320,7 +25288,7 @@ The natural lighting from the sun highlights the subject from the front.  Shot w
 
 ---
 
-### 866. A beautiful and charming young woman
+### 864. A beautiful and charming young woman
 
 ![A beautiful and charming young woman](https://opennana.com/awesome-prompt-gallery/images/859.jpeg)
 
@@ -25402,7 +25370,7 @@ The natural lighting from the sun highlights the subject from the front.  Shot w
 
 ---
 
-### 867. Super realistic object clouds
+### 865. Super realistic object clouds
 
 ![Super realistic object clouds](https://opennana.com/awesome-prompt-gallery/images/860.jpeg)
 
@@ -25422,7 +25390,7 @@ The overall mood should feel calm, optimistic, and visually striking, with rich 
 
 ---
 
-### 868. 3D cartoon style characters
+### 866. 3D cartoon style characters
 
 ![3D cartoon style characters](https://opennana.com/awesome-prompt-gallery/images/861.jpeg)
 
@@ -25438,7 +25406,7 @@ The overall mood should feel calm, optimistic, and visually striking, with rich 
 
 ---
 
-### 869. A smiling man holding an aluminum can of Coca-Cola
+### 867. A smiling man holding an aluminum can of Coca-Cola
 
 ![A smiling man holding an aluminum can of Coca-Cola](https://opennana.com/awesome-prompt-gallery/images/862.jpeg)
 
@@ -25462,7 +25430,7 @@ Photorealistic, 8K detail, professional studio photography, global soda brand ad
 
 ---
 
-### 870. HD restoration of old photos
+### 868. HD restoration of old photos
 
 ![HD restoration of old photos](https://opennana.com/awesome-prompt-gallery/images/863.jpeg)
 
@@ -25478,7 +25446,7 @@ Luxury portrait of the uploaded image, 100% same face identity. Bright, clean ex
 
 ---
 
-### 871. Filters that travel through time and space - old photo restoration
+### 869. Filters that travel through time and space - old photo restoration
 
 ![Filters that travel through time and space - old photo restoration](https://opennana.com/awesome-prompt-gallery/images/864.jpeg)
 
@@ -25552,7 +25520,7 @@ For the photos provided, pictures are generated based on the prompt words, and t
 
 ---
 
-### 872. packaging design
+### 870. packaging design
 
 ![packaging design](https://opennana.com/awesome-prompt-gallery/images/865.jpeg)
 
@@ -25580,7 +25548,7 @@ High resolution, clear details
 
 ---
 
-### 873. A super realistic vertical photo
+### 871. A super realistic vertical photo
 
 ![A super realistic vertical photo](https://opennana.com/awesome-prompt-gallery/images/866.jpeg)
 
@@ -25643,7 +25611,7 @@ A hyper-realistic vertical photo with a slightly downward perspective. The subje
 
 ---
 
-### 874. Comic character walks out of screen
+### 872. Comic character walks out of screen
 
 ![Comic character walks out of screen](https://opennana.com/awesome-prompt-gallery/images/867.jpeg)
 
@@ -25659,7 +25627,7 @@ In the ultra-realistic 8K scene, the person in the photo walked out and broke th
 
 ---
 
-### 875. A realistic wall calendar
+### 873. A realistic wall calendar
 
 ![A realistic wall calendar](https://opennana.com/awesome-prompt-gallery/images/868.jpeg)
 
@@ -25675,7 +25643,7 @@ Create a realistic wall calendar hanging on a textured concrete wall, framed in 
 
 ---
 
-### 876. Woman floating in huge transparent plastic water bag
+### 874. Woman floating in huge transparent plastic water bag
 
 ![Woman floating in huge transparent plastic water bag](https://opennana.com/awesome-prompt-gallery/images/869.jpeg)
 
@@ -25691,7 +25659,7 @@ A high-end glossy surreal fashion photograph of a young woman floating inside a 
 
 ---
 
-### 877. Multiple women squatting on the stage scene
+### 875. Multiple women squatting on the stage scene
 
 ![Multiple women squatting on the stage scene](https://opennana.com/awesome-prompt-gallery/images/870.jpeg)
 
@@ -25779,7 +25747,7 @@ A high-end glossy surreal fashion photograph of a young woman floating inside a 
 
 ---
 
-### 878. 3x3 grid Pixar style storyboard
+### 876. 3x3 grid Pixar style storyboard
 
 ![3x3 grid Pixar style storyboard](https://opennana.com/awesome-prompt-gallery/images/871.jpeg)
 
@@ -25833,7 +25801,7 @@ A high-end glossy surreal fashion photograph of a young woman floating inside a 
 
 ---
 
-### 879. Girl sitting on the cold drink cup of Luckin Coffee
+### 877. Girl sitting on the cold drink cup of Luckin Coffee
 
 ![Girl sitting on the cold drink cup of Luckin Coffee](https://opennana.com/awesome-prompt-gallery/images/873.jpeg)
 
@@ -25852,7 +25820,7 @@ Next to the cup, there is a super huge glossy pink handbag that perfectly matche
 
 ---
 
-### 880. Real-life version of the 9-square grid photo
+### 878. Real-life version of the 9-square grid photo
 
 ![Real-life version of the 9-square grid photo](https://opennana.com/awesome-prompt-gallery/images/874.jpeg)
 
@@ -25967,7 +25935,7 @@ Next to the cup, there is a super huge glossy pink handbag that perfectly matche
 
 ---
 
-### 881. Beijing 7-day weather forecast-poster
+### 879. Beijing 7-day weather forecast-poster
 
 ![Beijing 7-day weather forecast-poster](https://opennana.com/awesome-prompt-gallery/images/875.jpeg)
 
@@ -25983,7 +25951,7 @@ Create a weather visualization poster for Beijing for the next 7 days (including
 
 ---
 
-### 882. Judy stands on the snow bridge
+### 880. Judy stands on the snow bridge
 
 ![Judy stands on the snow bridge](https://opennana.com/awesome-prompt-gallery/images/876.jpeg)
 
@@ -25999,7 +25967,7 @@ Zootopia's Judy Hopps stands on a snowy bridge at dusk, wearing a thick winter c
 
 ---
 
-### 883. Professional knowledge infographic
+### 881. Professional knowledge infographic
 
 ![Professional knowledge infographic](https://opennana.com/awesome-prompt-gallery/images/877.jpeg)
 
@@ -26015,7 +25983,7 @@ Create a professional knowledge infographic based on the following topic [Origin
 
 ---
 
-### 884. Pictures of predicting the time before and after
+### 882. Pictures of predicting the time before and after
 
 ![Pictures of predicting the time before and after](https://opennana.com/awesome-prompt-gallery/images/878.jpeg)
 
@@ -26031,7 +25999,7 @@ Please show the results respectively 5 minutes ago/30 minutes later/1 hour later
 
 ---
 
-### 885. Red ink frantically added handwritten Chinese annotations
+### 883. Red ink frantically added handwritten Chinese annotations
 
 ![Red ink frantically added handwritten Chinese annotations](https://opennana.com/awesome-prompt-gallery/images/879.jpeg)
 
@@ -26047,7 +26015,7 @@ Generate a picture, print it out, and then use red ink to add handwritten Chines
 
 ---
 
-### 886. Microcosm and macrofood
+### 884. Microcosm and macrofood
 
 ![Microcosm and macrofood](https://opennana.com/awesome-prompt-gallery/images/880.jpeg)
 
@@ -26131,7 +26099,7 @@ Generate a picture, print it out, and then use red ink to add handwritten Chines
 
 ---
 
-### 887. Ink style creates a dreamy, poetic atmosphere
+### 885. Ink style creates a dreamy, poetic atmosphere
 
 ![Ink style creates a dreamy, poetic atmosphere](https://opennana.com/awesome-prompt-gallery/images/881.jpeg)
 
@@ -26147,7 +26115,7 @@ The [subject] is formed from liquid plumes swirling in milky water. Soft diffusi
 
 ---
 
-### 888. Miniature 3D model
+### 886. Miniature 3D model
 
 ![Miniature 3D model](https://opennana.com/awesome-prompt-gallery/images/882.jpeg)
 
@@ -26178,7 +26146,7 @@ Composition: perfectly centered, square 1080x1080, ultra-clean high-clarity dior
 
 ---
 
-### 889. Woman in a retro American car
+### 887. Woman in a retro American car
 
 ![Woman in a retro American car](https://opennana.com/awesome-prompt-gallery/images/883.jpeg)
 
@@ -26287,7 +26255,7 @@ Composition: perfectly centered, square 1080x1080, ultra-clean high-clarity dior
 
 ---
 
-### 890. minimalist food photography
+### 888. minimalist food photography
 
 ![minimalist food photography](https://opennana.com/awesome-prompt-gallery/images/884.jpeg)
 
@@ -26303,7 +26271,7 @@ Minimalist food photograph, [1080x1080] – a single [FOOD] rests on a light, ma
 
 ---
 
-### 891. Character stands on an oversized smartphone
+### 889. Character stands on an oversized smartphone
 
 ![Character stands on an oversized smartphone](https://opennana.com/awesome-prompt-gallery/images/885.jpeg)
 
@@ -26319,7 +26287,7 @@ Using the uploaded image for accurate facial likeness, create a surreal, modern 
 
 ---
 
-### 892. The model stands on the ground covered with countless black and white billboards
+### 890. The model stands on the ground covered with countless black and white billboards
 
 ![The model stands on the ground covered with countless black and white billboards](https://opennana.com/awesome-prompt-gallery/images/886.jpeg)
 
@@ -26335,7 +26303,7 @@ This high-resolution bird's-eye view photograph was taken with a LOMO Ic-a. The 
 
 ---
 
-### 893. Q version character Jiugongge
+### 891. Q version character Jiugongge
 
 ![Q version character Jiugongge](https://opennana.com/awesome-prompt-gallery/images/887.jpeg)
 
@@ -26351,7 +26319,7 @@ Create a 3D kawaii a 9:16 canvas featuring nine chibi-style stickers in various 
 
 ---
 
-### 894. Place characters in Christmas scenes from 9 movies
+### 892. Place characters in Christmas scenes from 9 movies
 
 ![Place characters in Christmas scenes from 9 movies](https://opennana.com/awesome-prompt-gallery/images/888.jpeg)
 
@@ -26377,7 +26345,7 @@ Each frame imitates the tone, light and atmosphere of the corresponding movie, w
 
 ---
 
-### 895. Miniature brand store
+### 893. Miniature brand store
 
 ![Miniature brand store](https://opennana.com/awesome-prompt-gallery/images/889.jpeg)
 
@@ -26393,7 +26361,7 @@ A dynamic aerial view of a bustling city street, focusing on a miniature [BRAND]
 
 ---
 
-### 896. Girls pencil sketch
+### 894. Girls pencil sketch
 
 ![Girls pencil sketch](https://opennana.com/awesome-prompt-gallery/images/890.jpeg)
 
@@ -26475,7 +26443,7 @@ A dynamic aerial view of a bustling city street, focusing on a miniature [BRAND]
 
 ---
 
-### 897. 6X6 Product pictures of various styles and qualities
+### 895. 6X6 Product pictures of various styles and qualities
 
 ![6X6 Product pictures of various styles and qualities](https://opennana.com/awesome-prompt-gallery/images/891.jpeg)
 
@@ -26491,7 +26459,7 @@ Generate a 6x6 grid of professional product photography. Reference the original 
 
 ---
 
-### 898. 6X6 products in various styles
+### 896. 6X6 products in various styles
 
 ![6X6 products in various styles](https://opennana.com/awesome-prompt-gallery/images/892.jpeg)
 
@@ -26507,7 +26475,7 @@ Generate a 6x6 grid of variations based on the original image. Keep the same pro
 
 ---
 
-### 899. Photos of the prosperous Tang Dynasty and Paris
+### 897. Photos of the prosperous Tang Dynasty and Paris
 
 ![Photos of the prosperous Tang Dynasty and Paris](https://opennana.com/awesome-prompt-gallery/images/894.jpeg)
 
@@ -26547,7 +26515,7 @@ Scheme G (azurite/emerald green base): Base color: emerald green/azurite (common
 
 ---
 
-### 900. Gemini 3 flash advertising image
+### 898. Gemini 3 flash advertising image
 
 ![Gemini 3 flash advertising image](https://opennana.com/awesome-prompt-gallery/images/895.jpeg)
 
@@ -26563,7 +26531,7 @@ Generate a Gemini 3 flash promotional image that conforms to Google's tone, with
 
 ---
 
-### 901. Surfing on orange juice
+### 899. Surfing on orange juice
 
 ![Surfing on orange juice](https://opennana.com/awesome-prompt-gallery/images/896.jpeg)
 
@@ -26579,7 +26547,7 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
 
 ---
 
-### 902. 2x2 grid collage
+### 900. 2x2 grid collage
 
 ![2x2 grid collage](https://opennana.com/awesome-prompt-gallery/images/897.jpeg)
 
@@ -26718,7 +26686,7 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
 
 ---
 
-### 903. High angle commercial food photography photos
+### 901. High angle commercial food photography photos
 
 ![High angle commercial food photography photos](https://opennana.com/awesome-prompt-gallery/images/898.jpeg)
 
@@ -26734,7 +26702,7 @@ A high angle commercial food photography shot showing [tempura] served in a mini
 
 ---
 
-### 904. Urban streetwear editorial collage
+### 902. Urban streetwear editorial collage
 
 ![Urban streetwear editorial collage](https://opennana.com/awesome-prompt-gallery/images/900.jpeg)
 
@@ -26809,7 +26777,7 @@ A high angle commercial food photography shot showing [tempura] served in a mini
 
 ---
 
-### 905. Blonde woman taking selfie
+### 903. Blonde woman taking selfie
 
 ![Blonde woman taking selfie](https://opennana.com/awesome-prompt-gallery/images/901.jpeg)
 
@@ -26912,7 +26880,7 @@ A high angle commercial food photography shot showing [tempura] served in a mini
 
 ---
 
-### 906. Christmas card with nativity scene
+### 904. Christmas card with nativity scene
 
 ![Christmas card with nativity scene](https://opennana.com/awesome-prompt-gallery/images/902.jpeg)
 
@@ -26928,7 +26896,7 @@ a faithfully illustrated Christmas card design featuring the couple in Christmas
 
 ---
 
-### 907. Prompt word kid caricature
+### 905. Prompt word kid caricature
 
 ![Prompt word kid caricature](https://opennana.com/awesome-prompt-gallery/images/903.jpeg)
 
@@ -26946,7 +26914,7 @@ Draw a caricature in the style of Ding Cong with the theme:
 
 ---
 
-### 908. Photos of Victorian Gothic Royal Family
+### 906. Photos of Victorian Gothic Royal Family
 
 ![Photos of Victorian Gothic Royal Family](https://opennana.com/awesome-prompt-gallery/images/904.jpeg)
 
@@ -27031,7 +26999,7 @@ Look: Victorian Court Dress Directions + Tiara/Choker + Busty Bust + Velvet Lace
 
 ---
 
-### 909. Use Chinese fantasy to write world-famous paintings
+### 907. Use Chinese fantasy to write world-famous paintings
 
 ![Use Chinese fantasy to write world-famous paintings](https://opennana.com/awesome-prompt-gallery/images/905.jpeg)
 
@@ -27077,7 +27045,7 @@ The characters are set as: Four masters and apprentices from Journey to the West
 
 ---
 
-### 910. Take selfies with characters from movies and TV shows
+### 908. Take selfies with characters from movies and TV shows
 
 ![Take selfies with characters from movies and TV shows](https://opennana.com/awesome-prompt-gallery/images/906.jpeg)
 
@@ -27097,7 +27065,7 @@ Place me inside: [MOVIE OR TV SHOW NAME] (optional: cast members)
 
 ---
 
-### 911. paper cutting art
+### 909. paper cutting art
 
 ![paper cutting art](https://opennana.com/awesome-prompt-gallery/images/907.jpeg)
 
@@ -27130,7 +27098,7 @@ The artwork should be visually gorgeous, [temperament adjective 1], [temperament
 
 ---
 
-### 912. A duo of specimen boxes and realistic outfit aesthetics
+### 910. A duo of specimen boxes and realistic outfit aesthetics
 
 ![A duo of specimen boxes and realistic outfit aesthetics](https://opennana.com/awesome-prompt-gallery/images/908.jpeg)
 
@@ -27161,7 +27129,7 @@ Reference character, I want to see the teacher’s uniform
 
 ---
 
-### 913. Photos of articles in glossy magazines
+### 911. Photos of articles in glossy magazines
 
 ![Photos of articles in glossy magazines](https://opennana.com/awesome-prompt-gallery/images/909.jpeg)
 
@@ -27177,7 +27145,7 @@ Use search to find how the Gemini 3 Flash launch has been received. Use this inf
 
 ---
 
-### 914. Photos of girls' four-square grid
+### 912. Photos of girls' four-square grid
 
 ![Photos of girls' four-square grid](https://opennana.com/awesome-prompt-gallery/images/910.jpeg)
 
@@ -27260,7 +27228,7 @@ Use search to find how the Gemini 3 Flash launch has been received. Use this inf
 
 ---
 
-### 915. 36 different portraits of people wearing the same outfit
+### 913. 36 different portraits of people wearing the same outfit
 
 ![36 different portraits of people wearing the same outfit](https://opennana.com/awesome-prompt-gallery/images/911.jpeg)
 
@@ -27284,7 +27252,7 @@ Moody, high contrast, cinematic lighting. Varied environments—studio, architec
 
 ---
 
-### 916. Vertical three-frame collage
+### 914. Vertical three-frame collage
 
 ![Vertical three-frame collage](https://opennana.com/awesome-prompt-gallery/images/912.jpeg)
 
@@ -27339,7 +27307,7 @@ Moody, high contrast, cinematic lighting. Varied environments—studio, architec
 
 ---
 
-### 917. Ultra-realistic 8K street portraits
+### 915. Ultra-realistic 8K street portraits
 
 ![Ultra-realistic 8K street portraits](https://opennana.com/awesome-prompt-gallery/images/913.jpeg)
 
@@ -27433,7 +27401,7 @@ Moody, high contrast, cinematic lighting. Varied environments—studio, architec
 
 ---
 
-### 918. retro style photo booth
+### 916. retro style photo booth
 
 ![retro style photo booth](https://opennana.com/awesome-prompt-gallery/images/914.jpeg)
 
@@ -27465,7 +27433,7 @@ Quality: high realism, not AI-looking, natural proportions, no distortion.
 
 ---
 
-### 919. Convert photos into comics
+### 917. Convert photos into comics
 
 ![Convert photos into comics](https://opennana.com/awesome-prompt-gallery/images/915.jpeg)
 
@@ -27490,7 +27458,7 @@ No cambies el rostro, solo estilízalo.
 
 ---
 
-### 920. High end studio portraits
+### 918. High end studio portraits
 
 ![High end studio portraits](https://opennana.com/awesome-prompt-gallery/images/916.jpeg)
 
@@ -27506,7 +27474,7 @@ A high-end studio portrait using the uploaded photo as the main subject. The per
 
 ---
 
-### 921. Manipulate a replica of yourself with your fingers
+### 919. Manipulate a replica of yourself with your fingers
 
 ![Manipulate a replica of yourself with your fingers](https://opennana.com/awesome-prompt-gallery/images/917.jpeg)
 
@@ -27522,7 +27490,7 @@ ekteki kişi, bir tiyatro kulisinde kendisinin kopya kuklasını (marionette) pa
 
 ---
 
-### 922. Generate clothing matching for a week
+### 920. Generate clothing matching for a week
 
 ![Generate clothing matching for a week](https://opennana.com/awesome-prompt-gallery/images/918.jpeg)
 
@@ -27557,7 +27525,7 @@ Art style:
 
 ---
 
-### 923. Proportion comparison of double versions of women’s lilac long skirt
+### 921. Proportion comparison of double versions of women’s lilac long skirt
 
 ![Proportion comparison of double versions of women’s lilac long skirt](https://opennana.com/awesome-prompt-gallery/images/919.jpeg)
 
@@ -27658,7 +27626,7 @@ Art style:
 
 ---
 
-### 924. City rendering digital art poster
+### 922. City rendering digital art poster
 
 ![City rendering digital art poster](https://opennana.com/awesome-prompt-gallery/images/920.jpeg)
 
@@ -27686,7 +27654,7 @@ Style requirements: Octane Render, C4D, Isometric City, Micro World, Living Ecos
 
 ---
 
-### 925. MacBook Pro opens photos from X app
+### 923. MacBook Pro opens photos from X app
 
 ![MacBook Pro opens photos from X app](https://opennana.com/awesome-prompt-gallery/images/921.jpeg)
 
@@ -27702,7 +27670,7 @@ candid 3:4 still of a macbook pro with x opened on safari and this x account is 
 
 ---
 
-### 926. Product high-end commercial marketing design
+### 924. Product high-end commercial marketing design
 
 ![Product high-end commercial marketing design](https://opennana.com/awesome-prompt-gallery/images/922.jpeg)
 
@@ -27759,7 +27727,7 @@ Hyperreal, cinematic, polished, and aspirational
 
 ---
 
-### 927. Winter solstice poster
+### 925. Winter solstice poster
 
 ![Winter solstice poster](https://opennana.com/awesome-prompt-gallery/images/923.jpeg)
 
@@ -27775,7 +27743,7 @@ A warm 3D C4D Octane rendered scene in a wool needle felt style without black ou
 
 ---
 
-### 928. TV news studio scene
+### 926. TV news studio scene
 
 ![TV news studio scene](https://opennana.com/awesome-prompt-gallery/images/924.jpeg)
 
@@ -27833,7 +27801,7 @@ A warm 3D C4D Octane rendered scene in a wool needle felt style without black ou
 
 ---
 
-### 929. Gym selfie
+### 927. Gym selfie
 
 ![Gym selfie](https://opennana.com/awesome-prompt-gallery/images/925.jpeg)
 
@@ -27890,7 +27858,7 @@ A warm 3D C4D Octane rendered scene in a wool needle felt style without black ou
 
 ---
 
-### 930. Blonde woman kneeling on yacht deck
+### 928. Blonde woman kneeling on yacht deck
 
 ![Blonde woman kneeling on yacht deck](https://opennana.com/awesome-prompt-gallery/images/926.jpeg)
 
@@ -27986,7 +27954,7 @@ A warm 3D C4D Octane rendered scene in a wool needle felt style without black ou
 
 ---
 
-### 931. Woman standing next to KAWS style art sculpture
+### 929. Woman standing next to KAWS style art sculpture
 
 ![Woman standing next to KAWS style art sculpture](https://opennana.com/awesome-prompt-gallery/images/927.jpeg)
 
@@ -28011,7 +27979,7 @@ A warm 3D C4D Octane rendered scene in a wool needle felt style without black ou
 
 ---
 
-### 932. Woman holding a wooden picture frame of herself
+### 930. Woman holding a wooden picture frame of herself
 
 ![Woman holding a wooden picture frame of herself](https://opennana.com/awesome-prompt-gallery/images/928.jpeg)
 
@@ -28027,7 +27995,7 @@ A stylish woman wearing a black fedora and white shirt stands against a soft neu
 
 ---
 
-### 933. Ultra close macro portrait of woman's face
+### 931. Ultra close macro portrait of woman's face
 
 ![Ultra close macro portrait of woman's face](https://opennana.com/awesome-prompt-gallery/images/929.jpeg)
 
@@ -28066,7 +28034,7 @@ A stylish woman wearing a black fedora and white shirt stands against a soft neu
 
 ---
 
-### 934. 90s retro black and white portraits
+### 932. 90s retro black and white portraits
 
 ![90s retro black and white portraits](https://opennana.com/awesome-prompt-gallery/images/930.jpeg)
 
@@ -28083,7 +28051,7 @@ A highly artistic 90s vintage black and white (monochrome) portrait. It features
 
 ---
 
-### 935. Korean fashion closeup portrait of young woman
+### 933. Korean fashion closeup portrait of young woman
 
 ![Korean fashion closeup portrait of young woman](https://opennana.com/awesome-prompt-gallery/images/931.jpeg)
 
@@ -28101,7 +28069,7 @@ A highly artistic 90s vintage black and white (monochrome) portrait. It features
 
 ---
 
-### 936. Cinematic fashion grid graphics
+### 934. Cinematic fashion grid graphics
 
 ![Cinematic fashion grid graphics](https://opennana.com/awesome-prompt-gallery/images/932.jpeg)
 
@@ -28120,7 +28088,7 @@ Ultra-realistic fabric textures, refined color grading, sharp details, modern fa
 
 ---
 
-### 937. Women jumping into the air while running
+### 935. Women jumping into the air while running
 
 ![Women jumping into the air while running](https://opennana.com/awesome-prompt-gallery/images/933.jpeg)
 
@@ -28266,7 +28234,7 @@ Ultra-realistic fabric textures, refined color grading, sharp details, modern fa
 
 ---
 
-### 938. Female selfie
+### 936. Female selfie
 
 ![Female selfie](https://opennana.com/awesome-prompt-gallery/images/934.jpeg)
 
@@ -28365,7 +28333,7 @@ Ultra-realistic fabric textures, refined color grading, sharp details, modern fa
 
 ---
 
-### 939. Collage posters from the Y2K era
+### 937. Collage posters from the Y2K era
 
 ![Collage posters from the Y2K era](https://opennana.com/awesome-prompt-gallery/images/935.jpeg)
 
@@ -28421,7 +28389,7 @@ Ultra-realistic fabric textures, refined color grading, sharp details, modern fa
 
 ---
 
-### 940. Cartoons turned into Funko Pop vinyl figures
+### 938. Cartoons turned into Funko Pop vinyl figures
 
 ![Cartoons turned into Funko Pop vinyl figures](https://opennana.com/awesome-prompt-gallery/images/936.jpeg)
 
@@ -28437,7 +28405,7 @@ Transform this cartoon to a Funko Pop vinyl figure. Place the Funko Pop box besi
 
 ---
 
-### 941. Cinematic portrait photography
+### 939. Cinematic portrait photography
 
 ![Cinematic portrait photography](https://opennana.com/awesome-prompt-gallery/images/937.jpeg)
 
@@ -28453,7 +28421,7 @@ cinematic portrait photography of a young woman sitting in a field at golden hou
 
 ---
 
-### 942. Woman is stepping out of her mobile phone screen
+### 940. Woman is stepping out of her mobile phone screen
 
 ![Woman is stepping out of her mobile phone screen](https://opennana.com/awesome-prompt-gallery/images/938.jpeg)
 
@@ -28701,7 +28669,7 @@ cinematic portrait photography of a young woman sitting in a field at golden hou
 
 ---
 
-### 943. Editorial photo for concept art magazine
+### 941. Editorial photo for concept art magazine
 
 ![Editorial photo for concept art magazine](https://opennana.com/awesome-prompt-gallery/images/939.jpeg)
 
@@ -28734,7 +28702,7 @@ A seamless, impeccably clean studio cyclorama background in a pure, ultra-light 
 
 ---
 
-### 944. iron man coca cola
+### 942. iron man coca cola
 
 ![iron man coca cola](https://opennana.com/awesome-prompt-gallery/images/940.jpeg)
 
@@ -28815,7 +28783,7 @@ A seamless, impeccably clean studio cyclorama background in a pure, ultra-light 
 
 ---
 
-### 945. There is a Q-version model similar to mine.
+### 943. There is a Q-version model similar to mine.
 
 ![There is a Q-version model similar to mine.](https://opennana.com/awesome-prompt-gallery/images/941.jpeg)
 
@@ -28831,7 +28799,7 @@ A young man sitting casually at a modern café counter, smiling while holding a 
 
 ---
 
-### 946. Changes in one year of hair transplantation
+### 944. Changes in one year of hair transplantation
 
 ![Changes in one year of hair transplantation](https://opennana.com/awesome-prompt-gallery/images/942.jpeg)
 
@@ -28987,7 +28955,7 @@ A young man sitting casually at a modern café counter, smiling while holding a 
 
 ---
 
-### 947. Five-part wide-format film collage
+### 945. Five-part wide-format film collage
 
 ![Five-part wide-format film collage](https://opennana.com/awesome-prompt-gallery/images/943.jpeg)
 
@@ -29095,7 +29063,7 @@ A young man sitting casually at a modern café counter, smiling while holding a 
 
 ---
 
-### 948. Ultra-realistic Macbook screen video conferencing diagram
+### 946. Ultra-realistic Macbook screen video conferencing diagram
 
 ![Ultra-realistic Macbook screen video conferencing diagram](https://opennana.com/awesome-prompt-gallery/images/944.jpeg)
 
@@ -29281,7 +29249,7 @@ A young man sitting casually at a modern café counter, smiling while holding a 
 
 ---
 
-### 949. Turn your favorite characters into collectibles
+### 947. Turn your favorite characters into collectibles
 
 ![Turn your favorite characters into collectibles](https://opennana.com/awesome-prompt-gallery/images/945.jpeg)
 
@@ -29307,7 +29275,7 @@ Output: one image, 4:5 product hero shot.
 
 ---
 
-### 950. Visualization of gadgets and inventions from a given year
+### 948. Visualization of gadgets and inventions from a given year
 
 ![Visualization of gadgets and inventions from a given year](https://opennana.com/awesome-prompt-gallery/images/946.jpeg)
 
@@ -29341,7 +29309,7 @@ Style: Wes Anderson symmetry, high-end commercial advertising, vibrant.
 
 ---
 
-### 951. Christmas special - characters frozen in fantasy giant glass snow globes
+### 949. Christmas special - characters frozen in fantasy giant glass snow globes
 
 ![Christmas special - characters frozen in fantasy giant glass snow globes](https://opennana.com/awesome-prompt-gallery/images/947.jpeg)
 
@@ -29365,7 +29333,7 @@ Technical: Ray tracing reflections on the glass, refraction effects, crystal cle
 
 ---
 
-### 952. Christmas Special - Christmas Sweet Girl
+### 950. Christmas Special - Christmas Sweet Girl
 
 ![Christmas Special - Christmas Sweet Girl](https://opennana.com/awesome-prompt-gallery/images/948.jpeg)
 
@@ -29383,7 +29351,7 @@ Environment: Solid studio background in soft pastel red or green.Lighting: Brigh
 
 ---
 
-### 953. Christmas Special - Christmas Fashion with Red Rhyme
+### 951. Christmas Special - Christmas Fashion with Red Rhyme
 
 ![Christmas Special - Christmas Fashion with Red Rhyme](https://opennana.com/awesome-prompt-gallery/images/949.jpeg)
 
@@ -29401,7 +29369,7 @@ Styling: Minimalist chic outfit (black turtleneck, jeans). A long red scarf flow
 
 ---
 
-### 954. Christmas Special - My Christmas is in tune with myself
+### 952. Christmas Special - My Christmas is in tune with myself
 
 ![Christmas Special - My Christmas is in tune with myself](https://opennana.com/awesome-prompt-gallery/images/950.jpeg)
 

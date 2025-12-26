@@ -1,5 +1,5 @@
 # Prompt Gallery
-*Total prompts: 954*
+*Total prompts: 952*
 
 ## All Prompts
 
@@ -7,12 +7,6 @@
 ![custom balloons](images/22.jpeg)
 - Tags: 3d, minimalist, toy, typography
 - Prompt: A highly realistic 3D installation art: the letter Z is designed in the shape of an inflatable balloon. The overall shape is like a smooth and curved "Z" path, consisting of two oblique lines and a...
-
-### 1755. I won’t sleep if the moon doesn’t sleep
-![I won’t sleep if the moon doesn’t sleep](images/559.jpeg)
-- Tags: neon
-- Model: Nano banana pro
-- Prompt: A panda wears sunglasses and holds a thermos cup (with wolfberry soaked in it). The background is a late night neon city. The neon sign next to the panda reads: "I won't sleep until the moon sleeps...
 
 ### 1754. Make professional OOTD fashion collages in magazine editorial style
 ![Make professional OOTD fashion collages in magazine editorial style](images/759.jpeg)
@@ -3026,12 +3020,6 @@
 - Tags: creative
 - Model: Nano banana pro
 - Prompt: An astronaut sits on the edge of the curved moon, holding a fishing rod in his hand. The fishhook hung in the clouds below and caught a shining star. The atmosphere is lonely and peaceful. Lofi Hip...
-
-### 1165. I won’t sleep if the moon doesn’t sleep
-![I won’t sleep if the moon doesn’t sleep](images/559.jpeg)
-- Tags: neon
-- Model: Nano banana pro
-- Prompt: A panda wears sunglasses and holds a thermos cup (with wolfberry soaked in it). The background is a neon city late at night. The neon sign next to the panda reads: "I won't sleep until the moon sle...
 
 ### 1164. Don’t tell others to be kind without their suffering
 ![Don’t tell others to be kind without their suffering](images/560.jpeg)
@@ -7787,8 +7775,7 @@
 - [782] Christmas Special - Christmas Sweet Girl
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### neon (68)
-- [1755] I won’t sleep if the moon doesn’t sleep
+### neon (66)
 - [1735] Woman extends index finger forward towards camera lens
 - [1733] First person shooter perspective
 - [1729] Anime style digital poster
@@ -7824,7 +7811,6 @@
 - [1217] Brand co-branded poster
 - [1210] HD magazine spread
 - [1198] Labubu and Dilireba high-end fashion cross-page blockbuster
-- [1165] I won’t sleep if the moon doesn’t sleep
 - [1162] Graffiti marker pen account
 - [1149] maximalist pop art layer
 - [1145] Young woman sitting sideways on arcade stool
