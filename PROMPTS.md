@@ -1,5 +1,5 @@
 # Prompt Gallery
-*Total prompts: 978*
+*Total prompts: 965*
 
 ## All Prompts
 
@@ -24,7 +24,7 @@
 ![Make professional OOTD fashion collages in magazine editorial style](images/759.jpeg)
 - Tags: character, fashion, minimalist, nature, product, typography
 - Model: Nano banana pro
-- Prompt: 角色与任务 : 请以杂志编辑风格制作专业的 OOTD（今日的搭配）时尚拼贴。 设计需在左侧和右侧反映以下内容。  左侧： ・完全保留上传图片的面部、发型、服装。 ・可爱、有趣且搞怪的姿势，真实的氛围感。 ・干净明亮，杂志品质的照片。 ・宽度占整体的60%。  右侧： ・在干净的白色背景上整理好的商品网格 ・[数量]个独立商品模块垂直排列 ・最后的商品是配置了根据图像推测的内衣（胸罩、T 恤等...
+- Prompt: Roles and tasks: Create a professional OOTD (Outfit of the Day) fashion collage in magazine editorial style. The design needs to reflect the following on the left and right sides.  Left side: ・Comp...
 
 ### 1753. clothes suspended in the air
 ![clothes suspended in the air](images/951.jpeg)
@@ -210,7 +210,7 @@
 ![Childlike style illustration](images/981.jpeg)
 - Tags: illustration, paper-craft
 - Model: Nano banana pro
-- Prompt: 请生成一张【主题/主体】的插画，整体是童书插画的 whimsical 童趣风格：以松散的黑色墨线速写勾勒轮廓，细节不过度写实；叠加轻柔的水彩晕染与点染，颜色干净、温暖、略带纸张纹理。画面气质适合明信片/儿童绘本/圣诞广告活动/情绪化社论插画，氛围真挚、治愈、有一点点怀旧。构图简洁，留白舒适，主角清晰突出。不要照片质感，不要 3D 渲染感，不要过度锐利的细节。不要水印和 logo。
+- Prompt: Please generate an illustration of [theme/subject]. The overall style is whimsical and childlike in children's book illustrations: outlines are sketched with loose black ink lines, and the details ...
 
 ### 1722. Technical drawing display board
 ![Technical drawing display board](images/982.jpeg)
@@ -223,12 +223,6 @@
 - Tags: photography, vehicle
 - Model: Nano banana pro
 - Prompt: A close-up, hyper-realistic photograph of a tiny artist sitting on a stool and painting a [subject] on a giant human fingernail. The miniature painter holds a round palette and a thin brush, carefu...
-
-### 1720. Character teardown art poster
-![Character teardown art poster](images/984.jpeg)
-- Tags: branding, cartoon, character, fashion, nature, photography, pixel, portrait, poster, product, typography
-- Model: Nano banana pro
-- Prompt: 核心指令 (Core Instruction)  任务：基于用户提供的参考图片，创作一张超高品质、电影级的3D皮克斯/迪士尼(Pixar/Disney)风格角色拆解艺术海报。将照片中的人物转换为风格化写实的3D动画角色，并将其个人物品以严谨的"Knolling"（整齐排列）艺术风格进行布局展示。  画面比例：16:9 横版 (可根据需求调整为 3:2, 4:5, 1:1) 艺术风格核心：皮克...
 
 ### 1719. Sand and Wind Product Photography
 ![Sand and Wind Product Photography](images/985.jpeg)
@@ -284,8 +278,8 @@
 - Tags: character, futuristic
 - Prompt: {     "base_image": "uploaded image",     "style_transfer": {         "visual_characteristics": {             "head_and_face": {                 "material": "translucent resin with embedded starlig...
 
-### 1709. 刺绣肖像
-![刺绣肖像](images/7.png)
+### 1709. embroidery portrait
+![embroidery portrait](images/7.png)
 - Tags: portrait
 - Prompt: An embroidered portrait of [subject], [colors] thread on deep linen fabric. Visible needlework, layered textures, and handmade patterns give it an earthy, sacred feel.
 
@@ -362,7 +356,7 @@
 ### 1694. custom balloons
 ![custom balloons](images/22.jpeg)
 - Tags: 3d, minimalist, toy, typography
-- Prompt: 一件高度写实的 3D 装置艺术：字母 Z 被设计成充气球囊造型，整体形态如同流畅弯曲的“Z”字路径，由两段斜线和一个折角构成，边缘略微卷翘，充满柔软的气压感。  视角为正面稍仰视角（约10°）的正交投影，主体置于画面正中央，占据几乎全部画幅，背景为纯黑色，形成类似剧院聚光灯的聚焦舞台效果。  材质为高弹性亮面 PVC，表面涂有高光清漆。主色为柔亮粉色（#FF96AC），阴影部分渐变为淡紫粉色...
+- Prompt: A highly realistic 3D installation art: the letter Z is designed in the shape of an inflatable balloon. The overall shape is like a smooth and curved "Z" path, consisting of two oblique lines and a...
 
 ### 1693. Flat design equilateral style
 ![Flat design equilateral style](images/23.png)
@@ -939,8 +933,8 @@
 - Tags: branding, landscape, photography, product
 - Prompt: a fully transparent [product] made of ultra-clear iridescent glass, showing all internal components in photorealistic detail. The outer shell is glossy, refracts subtle rainbow colors, and reveals ...
 
-### 1578. Gumroad样式图标
-![Gumroad样式图标](images/138.jpeg)
+### 1578. Gumroad style icon
+![Gumroad style icon](images/138.jpeg)
 - Tags: cartoon, illustration, interior, paper-craft, vehicle
 - Prompt: Create a high-resolution illustration of a [OBJECT] icon in the style of a flat, outlined sticker graphic. The icon should be made entirely from very thin, solid black outlines with no interior fil...
 
@@ -2371,8 +2365,8 @@
 - Model: Nano banana pro
 - Prompt: A doodle-style [subject], naive lines, humorous shape exaggeration
 
-### 1292. 长文本古诗画画
-![长文本古诗画画](images/429.jpeg)
+### 1292. Long text ancient poetry painting
+![Long text ancient poetry painting](images/429.jpeg)
 - Tags: nature
 - Model: Nano banana pro
 - Prompt: Draw a picture based on the following ancient poem and attach the original text. The emperor of the Han Dynasty was obsessed with beauty and wanted to overwhelm the country. He couldn't get it from...
@@ -2503,12 +2497,6 @@
 - Model: Nano banana pro
 - Prompt: I’d like to see a behind the scenes of a photoshoot how this photograph was created
 
-### 1270. Chinese traditional ink and color painting
-![Chinese traditional ink and color painting](images/451.jpeg)
-- Tags: paper-craft, photography
-- Model: Nano banana pro
-- Prompt: A traditional Chinese ink and color painting in Gongbi style on aged rice paper texture. A noblewoman in elaborate Tang Dynasty Hanfu robes sits on a wooden stool, holding a modern hairdryer to dry...
-
 ### 1269. Hong Kong martial arts 3-frame comic
 ![Hong Kong martial arts 3-frame comic](images/452.jpeg)
 - Tags: creative
@@ -2605,8 +2593,8 @@
 - Model: Nano banana pro
 - Prompt: Create a hyper-realistic, ultra-sharp, full-color large-format image featuring a massive group of celebrities from different eras, all standing together in a single wide cinematic frame. The image ...
 
-### 1253. 伪造抖音截图
-![伪造抖音截图](images/468.jpeg)
+### 1253. Fake TikTok screenshots
+![Fake TikTok screenshots](images/468.jpeg)
 - Tags: food
 - Model: Nano banana pro
 - Prompt: Help me generate a screenshot of a Douyin vertical screen short video. The content is about preparing king crab in the kitchen. The chef faces the camera to show the ingredients and a complete set ...
@@ -2683,18 +2671,6 @@
 - Model: Nano banana pro
 - Prompt: You are a Japanese cartoonist who is good at Chinese and has a strong personal hand-drawing style. A hand-drawn drawing of the original draft of Demon Slayer: Kimetsu no Yaiba, of which you are one...
 
-### 1240. Traditional gongbi style ink painting
-![Traditional gongbi style ink painting](images/481.jpeg)
-- Tags: landscape, sculpture, vehicle
-- Model: Nano banana pro
-- Prompt: A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a giant turtle swimming calmly through a turbulent river, carrying a playful and anachronistic tableau on its shell: At...
-
-### 1239. Traditional Chinese meticulous ink painting - Fairy
-![Traditional Chinese meticulous ink painting - Fairy](images/482.jpeg)
-- Tags: interior, nature, paper-craft
-- Model: Nano banana pro
-- Prompt: A traditional Chinese Gongbi ink and color painting on aged, textured rice paper. A fairy in elaborate Tang dynasty robes of red, beige, and teal ribbons, with a peony flower in her high hair bun, ...
-
 ### 1238. Zhuge Liannu’s retro-style engineering explosion
 ![Zhuge Liannu’s retro-style engineering explosion](images/483.jpeg)
 - Tags: retro
@@ -2713,8 +2689,8 @@
 - Model: Nano banana pro
 - Prompt: Generate for me a Q-version of the character in the picture, a LINE-style bust emoticon package. Pay attention to the correct headdress. Colorful hand-drawn style, using 4x6 layout, covering a vari...
 
-### 1235. 超级赛亚人式变身过程
-![超级赛亚人式变身过程](images/486.jpeg)
+### 1235. Super Saiyan transformation process
+![Super Saiyan transformation process](images/486.jpeg)
 - Tags: creative
 - Model: Nano banana pro
 - Prompt: Create a detailed visual chart showing the full evolution of “Super Saiyan–style transformations”, using an original Saiyan-inspired warrior , depicted in multiple stages from base form to divine t...
@@ -2880,18 +2856,6 @@
 - Tags: fashion
 - Model: Nano banana pro
 - Prompt: Detailed description of the complete image reproduction JSON prompt word, including objects, clothing, hair, details, accessories, camera equipment, environment, lighting, style, body dynamics, eve...
-
-### 1207. Dandan Noodles Premium Poster
-![Dandan Noodles Premium Poster](images/515.jpeg)
-- Tags: food, interior, nature, photography, poster, typography
-- Model: Nano banana pro
-- Prompt: At the very top center of the composition, floating prominently above the ingredient layers, is a luxurious title label. The text reads " Dan Dan Noodles DAN DAN NOODLES" rendered in expressive, ha...
-
-### 1206. Ingredients synthetic food
-![Ingredients synthetic food](images/516.jpeg)
-- Tags: food, interior, nature, photography, poster
-- Model: Nano banana pro
-- Prompt: Premium Chinese noodle restaurant food poster featuring deconstructed layers of Dan Dan Noodles / Spicy Sichuan Noodles floating in vertical stack on pure black background (#000000). Seven distinct...
 
 ### 1205. Animation to live action
 ![Animation to live action](images/517.png)
@@ -3091,12 +3055,6 @@
 - Model: Nano banana pro
 - Prompt: A sweeping, highly detailed traditional Chinese ink and color handscroll painting on aged silk, perfectly emulating the artistic style, brushwork, and scattered point perspective of Zhang Zeduan's ...
 
-### 1172. Surrealist Japanese ink painting
-![Surrealist Japanese ink painting](images/552.jpeg)
-- Tags: futuristic, illustration, nature, neon, paper-craft, portrait, retro, sci-fi, toy
-- Model: Nano banana pro
-- Prompt: Create a highly detailed surreal Japanese sumi-e illustration blending ancient Edo-period aesthetics with futuristic absurdity. At twilight, under a vast sky streaked with vermilion and indigo brus...
-
 ### 1171. Musk taught Einstein how to take pictures
 ![Musk taught Einstein how to take pictures](images/553.jpeg)
 - Tags: creative
@@ -3156,12 +3114,6 @@
 - Tags: 3d, illustration, neon, paper-craft
 - Model: Nano banana pro
 - Prompt: 9:16 Full screen fashion mood board illustration. The background is a matte paper with a concrete texture, covered in bright neon marker doodles and abstract lines of street spray paint. All elemen...
-
-### 1161. The four masters and apprentices from Journey to the West formed a rock band
-![The four masters and apprentices from Journey to the West formed a rock band](images/563.jpeg)
-- Tags: character
-- Model: Nano banana pro
-- Prompt: A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a grand concert taking place on a giant, floating lotus leaf amidst a sea of clouds. At the center, Tang Sanzang wears ...
 
 ### 1160. Mario Luigi repairs Princess Peach's kitchen
 ![Mario Luigi repairs Princess Peach's kitchen](images/564.jpeg)
@@ -3247,8 +3199,8 @@
 - Model: Nano banana pro
 - Prompt: A vibrant Pixar-style 3D animated scene depicting a joyful group selfie moment featuring <group of characters> in a <culturally representative environment>. At the center, <main character> confiden...
 
-### 1146. 油泼面宫格漫画图
-![油泼面宫格漫画图](images/578.jpeg)
+### 1146. Oil-splashed noodles cartoon picture
+![Oil-splashed noodles cartoon picture](images/578.jpeg)
 - Tags: typography
 - Model: Nano banana pro
 - Prompt: Write a Nano Banana prompt word to generate a four-square grid cartoon diagram of "How to make noodles with oil", with pictures and text layout.
@@ -3775,12 +3727,6 @@
 - Model: Nano banana pro
 - Prompt: {   "intent": "Generate a hyper-idealized, 'Douyin-aesthetic' portrait of a young woman at night, utilizing direct flash photography to create a high-contrast, ethereal look with clear weather cond...
 
-### 1058. Hyper-realistic style real and cartoon separation effect
-![Hyper-realistic style real and cartoon separation effect](images/667.jpeg)
-- Tags: cartoon, character, illustration, interior, landscape, minimalist, nature, paper-craft, pixel, portrait, retro, vehicle
-- Model: Nano banana pro
-- Prompt: {   "image_generation": {     "requirements": {       "face_preservation": {         "preserve_original": true,         "accuracy_level": "100% identical to reference",         "details": [        ...
-
 ### 1057. City top view isometric 3D cartoon miniature scene
 ![City top view isometric 3D cartoon miniature scene](images/668.jpeg)
 - Tags: architecture, cartoon, landscape, logo, minimalist, nature, vehicle
@@ -3925,12 +3871,6 @@
 - Model: Nano banana pro
 - Prompt: {   "type": "image_generation",   "subject": {     "reference": "Use uploaded photo for 100% face and body consistency",     "description": "Young woman with long brown hair",     "attire": {      ...
 
-### 1033. Realistic photos freeze JOJO style
-![Realistic photos freeze JOJO style](images/693.jpeg)
-- Tags: cartoon, fashion, photography, vehicle
-- Model: Nano banana pro
-- Prompt: Use the uploaded photo as the base.  Keep the person’s **face, eyes, hairstyle, makeup, outfit, and overall identity** clearly recognizable and photorealistic. Do NOT turn the whole image into a dr...
-
 ### 1032. 3x3 grid soft pink and blue toned studio photo shoot
 ![3x3 grid soft pink and blue toned studio photo shoot](images/695.jpeg)
 - Tags: character, photography, portrait
@@ -3967,8 +3907,8 @@
 - Model: Nano banana pro
 - Prompt: Draw me a detailed {{Pet Shop}} scene  and label the English words for all objects,  Annotation format: First line: English words Second line: Phonetic symbols (International Phonetic Alphabet IPA ...
 
-### 1026. 生成3×3照片网格照片
-![生成3×3照片网格照片](images/702.jpeg)
+### 1026. Generate 3×3 photo grid photos
+![Generate 3×3 photo grid photos](images/702.jpeg)
 - Tags: cartoon, fashion, illustration, minimalist, photography, vehicle
 - Model: Nano banana pro
 - Prompt: Generate a 3×3 photo grid. Fully preserve the face, hairstyle, and outfit from the uploaded image in all panels.  The person should make a cute, funny, and slightly weird expression and pose, and t...
@@ -4219,8 +4159,8 @@
 - Model: Nano banana pro
 - Prompt: Generate a portrait image of a detailed, transparent glass sphere/capsule held between two fingers against a neutral background. Inside the capsule is a miniature chibi version of [PERSON NAME] wit...
 
-### 984. 女子身穿白色露肩蕾丝婚纱
-![女子身穿白色露肩蕾丝婚纱](images/744.jpeg)
+### 984. Woman wearing white strapless lace wedding dress
+![Woman wearing white strapless lace wedding dress](images/744.jpeg)
 - Tags: portrait
 - Model: Nano banana pro
 - Prompt: Create a portrait of a woman in a white off-the-shoulder wedding dress with lace details, wearing gloves, necklace, and earrings, in a dimly lit hallway with warm lighting.
@@ -4399,8 +4339,8 @@
 - Model: Nano banana pro
 - Prompt: Generate a high-quality 3x3 nine-square grid collage photo of Labubu. Nine independent pictures respectively show the character wearing: elegant pink and blue Tang Dynasty Hanfu (classical garden b...
 
-### 954. 人物的9种服装风格和背景
-![人物的9种服装风格和背景](images/774.jpeg)
+### 954. 9 clothing styles and backgrounds for characters
+![9 clothing styles and backgrounds for characters](images/774.jpeg)
 - Tags: fashion, interior, nature, portrait, retro
 - Model: Nano banana pro
 - Prompt: Based on [uploaded person picture] and keeping his facial features absolutely unchanged, a high-quality 3x3 nine-square grid collage photo is generated. Nine independent pictures show the character...
@@ -4501,12 +4441,6 @@
 - Model: Nano banana pro
 - Prompt: Role & Subject: A massive, encyclopedic 16:9 3D infographic poster titled "THE EVOLUTION OF [Product Name]". The visual style is a high-end fusion of museum-grade product photography and complex te...
 
-### 937. Girls show pictures on their mobile phones
-![Girls show pictures on their mobile phones](images/791.jpeg)
-- Tags: character, fashion, landscape, nature, photography, portrait, ui, vehicle
-- Model: Nano banana pro
-- Prompt: You need to upload 2 photos: 1. Upload photos of people 2. Upload the images you want to display on your phone, and then enter the following prompt words {   "edit_type": "extreme_wide_angle_phone_...
-
 ### 936. The evolution of Stark Industries' Iron Man suit
 ![The evolution of Stark Industries' Iron Man suit](images/792.jpeg)
 - Tags: branding, character, data-viz, infographic, logo, paper-craft, photography, poster, product, retro, typography
@@ -4591,8 +4525,8 @@
 - Model: Nano banana pro
 - Prompt: 4K hyper-detailed fashion photograph featuring hyper-realistic rendering.   **Crucial Character Consistency:** The character featured is precisely the same person shown in reference images,  mainta...
 
-### 922. 采用超广角视角拍摄的高级时装照片
-![采用超广角视角拍摄的高级时装照片](images/807.jpeg)
+### 922. High fashion photos shot with ultra-wide angle
+![High fashion photos shot with ultra-wide angle](images/807.jpeg)
 - Tags: 3d, cartoon, character, fashion, food, illustration, landscape, minimalist, nature, neon, photography, portrait, product, vehicle
 - Model: Nano banana pro
 - Prompt: {   "meta_control": {     "generation_mode": "multi_panel_consistent",     "priority_stack": ["identity_lock", "perspective_physics", "material_fidelity", "environmental_coherence"],     "quality_t...
@@ -4981,12 +4915,6 @@
 - Model: Nano banana pro
 - Prompt: { "project_name": "Auto_Creative_Music_Video_Storyboard_Generator", "version": "4.0 (Video Clip Focus - Multi-Input)", "ai_role": "You are a visionary Creative Director and Cinematographer for a hi...
 
-### 857. The Forbidden City Check-in from the series of Chinese women who want to make movies in their lifetime
-![The Forbidden City Check-in from the series of Chinese women who want to make movies in their lifetime](images/872.jpeg)
-- Tags: 3d, fashion, landscape, nature, paper-craft, photography, portrait, typography, ui
-- Model: Nano banana pro
-- Prompt: 【PROJECT GOAL | 项目目标】 生成一张 9:16 竖版「高端时尚杂志封面级」写实照片：以我上传的 FACE_REF 为人物身份参考，100%还原五官与骨相；人物身穿“明制华丽礼服方向”的重工汉服（多层叠穿、手工刺绣/织金锦、贵重金饰头面），在故宫红墙长廊雪景中拍摄。画面具备《Vogue》《Harper’s Bazaar》《ELLE》《Cosmopolitan》《Marie Cl...
-
 ### 856. Girl sitting on the cold drink cup of Luckin Coffee
 ![Girl sitting on the cold drink cup of Luckin Coffee](images/873.jpeg)
 - Tags: branding, landscape, logo, nature, portrait
@@ -5136,12 +5064,6 @@
 - Tags: food, logo, minimalist, paper-craft, photography, typography
 - Model: Nano banana pro
 - Prompt: A high angle commercial food photography shot showing [tempura] served in a minimalist clear glass dish with a small glass bowl of soy sauce and a bowl of wasabi. Two chopsticks are placed next to ...
-
-### 831. Four major Chinese festivals, manicure and four-square pattern
-![Four major Chinese festivals, manicure and four-square pattern](images/899.jpeg)
-- Tags: cartoon, food, interior, minimalist, nature, paper-craft, photography, typography
-- Model: Nano banana pro
-- Prompt: 任务：生成「中国四大节日美甲四宫格」拼贴图（2x2） 核心指令 基于用户提供的一张清晰手部近景照片（或同风格参考图），生成一张 2x2 四宫格拼贴图。四格必须是同一双手、同构图、同光线、同背景风格，只替换美甲设计主题。 每格底部必须标注节日名称：春节 / 清明 / 端午 / 中秋（中文优先；如文字易错可用英文备选）。 全局统一风格（四格都必须遵守）  构图：女性手部特写近景，手指搭在柔软针织...
 
 ### 830. Urban streetwear editorial collage
 ![Urban streetwear editorial collage](images/900.jpeg)
@@ -5451,7 +5373,7 @@
 
 ## Tags
 
-### 3d (79)
+### 3d (78)
 - [1757] custom balloons
 - [1738] Display board for residential building created by architectural illustrator
 - [1728] museum specimen photography
@@ -5517,7 +5439,7 @@
 - [946] Miniature 3D cartoon scene
 - [945] Selfie with 2D animation illustration
 - [934] Reality-distorting mirror selfie that incorporates multiple media elements
-- [922] 采用超广角视角拍摄的高级时装照片
+- [922] High fashion photos shot with ultra-wide angle
 - [918] Cute sleep report poster
 - [910] Movie scenes turned into miniature isometric dioramas
 - [904] Floating Tai Chi cute 3D cartoon scene
@@ -5526,7 +5448,6 @@
 - [881] 9-square grid nude 3D collage poster
 - [874] Zhujiang New Town in paper-cut style
 - [870] A beautiful and charming young woman
-- [857] The Forbidden City Check-in from the series of Chinese women who want to make movies in their lifetime
 - [847] Miniature 3D model
 - [810] City rendering digital art poster
 - [799] Korean fashion closeup portrait of young woman
@@ -5657,11 +5578,10 @@
 - [804] Blonde woman kneeling on yacht deck
 - [795] Collage posters from the Y2K era
 
-### branding (118)
+### branding (117)
 - [1750] A complete high-end product promotional photo
 - [1744] Christmas Special-Christmas Skin Care Set Promotional Card
 - [1735] Woman extends index finger forward towards camera lens
-- [1720] Character teardown art poster
 - [1707] Blue and white porcelain style
 - [1705] Brand Love Talk
 - [1704] creative advertising
@@ -5777,12 +5697,11 @@
 - [791] Editorial photo for concept art magazine
 - [786] Ultra-realistic Macbook screen video conferencing diagram
 
-### cartoon (113)
+### cartoon (109)
 - [1746] cartoon style keychain
 - [1743] Christmas Special-Christmas Event Invitation Card
 - [1742] Christmas Special-Christmas Elf
 - [1735] Woman extends index finger forward towards camera lens
-- [1720] Character teardown art poster
 - [1717] Nine-square grid collage
 - [1712] Musk draws in the park
 - [1706] Melt variant text
@@ -5798,7 +5717,7 @@
 - [1600] Nintendo style 3D cartoon illustration
 - [1597] City Embroidery Stickers Photo
 - [1585] Custom plush keychain
-- [1578] Gumroad样式图标
+- [1578] Gumroad style icon
 - [1576] Modern digital anime style
 - [1558] Branded 3D Cartoon Animal Characters
 - [1546] new cartoon style
@@ -5854,15 +5773,13 @@
 - [1068] Woman in suit poses for suspect photo
 - [1066] Super close up portrait of young woman
 - [1063] Cake made of city landmarks
-- [1058] Hyper-realistic style real and cartoon separation effect
 - [1057] City top view isometric 3D cartoon miniature scene
 - [1043] Miniature 3D cartoon view showing the city's three tallest buildings
 - [1042] Wedding photos in the garden
 - [1036] The great discovery of bilingual cognition-Underwater World
-- [1033] Realistic photos freeze JOJO style
 - [1030] Felt toys
 - [1029] Close-up of tender young woman
-- [1026] 生成3×3照片网格照片
+- [1026] Generate 3×3 photo grid photos
 - [1017] Artistic digital scrapbooking style
 - [994] Transform comic book characters into hyper-realistic humans
 - [992] MacBook selfie (couple model)
@@ -5876,7 +5793,7 @@
 - [946] Miniature 3D cartoon scene
 - [944] Transform subjects into clay-style 3D characters
 - [934] Reality-distorting mirror selfie that incorporates multiple media elements
-- [922] 采用超广角视角拍摄的高级时装照片
+- [922] High fashion photos shot with ultra-wide angle
 - [904] Floating Tai Chi cute 3D cartoon scene
 - [899] Facebook profile interface
 - [892] Woman holding a big stuffed mouse
@@ -5886,13 +5803,12 @@
 - [870] A beautiful and charming young woman
 - [868] 3D cartoon style characters
 - [866] HD restoration of old photos
-- [831] Four major Chinese festivals, manicure and four-square pattern
 - [822] A duo of specimen boxes and realistic outfit aesthetics
 - [803] Woman standing next to KAWS style art sculpture
 - [794] Cartoons turned into Funko Pop vinyl figures
 - [792] Woman is stepping out of her mobile phone screen
 
-### character (231)
+### character (227)
 - [1756] Simulated embroidery Su embroidery expression pack
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1749] 3D rubber hose character design
@@ -5902,7 +5818,6 @@
 - [1731] Christmas special - Christmas limited photo stickers, 9 levels of sweetness
 - [1730] Christmas Special - Little Thoughts of a Christmas Girl on a Peach Background
 - [1729] Anime style digital poster
-- [1720] Character teardown art poster
 - [1717] Nine-square grid collage
 - [1716] Christmas Special - A cool Christmas, sweet and cool all in a small space
 - [1711] Create your own GTA character
@@ -6016,7 +5931,6 @@
 - [1175] LINE style half-length Q version emoticon pack
 - [1174] Fashion style concept exploded illustration in hand drawn style
 - [1169] Take a photo with Deadpool at Avengers Tower
-- [1161] The four masters and apprentices from Journey to the West formed a rock band
 - [1154] Game character tries to crawl from TV screen to living room
 - [1148] Pixar style 3D animated scenes
 - [1147] Pixar style 3D animated scenes
@@ -6043,7 +5957,6 @@
 - [1065] Close-up of modern and avant-garde girls
 - [1062] Doraemon lectures
 - [1059] Extremely close selfie
-- [1058] Hyper-realistic style real and cartoon separation effect
 - [1053] Zootopia Judy and Nick
 - [1050] Soft blurred side close-up of the same face
 - [1048] Modern Teenage Fantasy Comics
@@ -6085,14 +5998,13 @@
 - [944] Transform subjects into clay-style 3D characters
 - [943] Generate a nine-square grid of characters in different poses
 - [938] Product development trajectory chart
-- [937] Girls show pictures on their mobile phones
 - [936] The evolution of Stark Industries' Iron Man suit
 - [934] Reality-distorting mirror selfie that incorporates multiple media elements
 - [931] Beautiful layout similar to photography album
 - [930] Climbing the Stork Tower
 - [926] The character is sitting on the edge of the bed with a stack of banknotes spread out in his hands
 - [923] A young woman wearing gorgeous Tang Dynasty costumes
-- [922] 采用超广角视角拍摄的高级时装照片
+- [922] High fashion photos shot with ultra-wide angle
 - [910] Movie scenes turned into miniature isometric dioramas
 - [908] Cute clay style themed poster
 - [907] Reality and inner spirit meet in the magic mirror
@@ -6175,7 +6087,7 @@
 - [1252] Animation to live action
 - [1251] Picture annotation
 - [1241] divided comic manuscript drawings
-- [1235] 超级赛亚人式变身过程
+- [1235] Super Saiyan transformation process
 - [1230] 10 different hairstyles
 - [1229] Generate pictures based on coordinates
 - [1218] Decomposed diagram of horizontal throwing motion trajectory and velocity displacement
@@ -6277,7 +6189,7 @@
 - [790] iron man coca cola
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 
-### fashion (211)
+### fashion (207)
 - [1756] Simulated embroidery Su embroidery expression pack
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1752] Stickers for different clothing styles
@@ -6285,7 +6197,6 @@
 - [1740] Stylish Asian Fashion Blogger
 - [1736] Young beautiful woman with twin tails
 - [1727] Sports girl photos
-- [1720] Character teardown art poster
 - [1673] Airbnb style icons
 - [1591] fashion brand doll
 - [1584] suspended magic realism
@@ -6403,8 +6314,7 @@
 - [1048] Modern Teenage Fantasy Comics
 - [1045] OOTD hand-drawn graffiti decomposition
 - [1042] Wedding photos in the garden
-- [1033] Realistic photos freeze JOJO style
-- [1026] 生成3×3照片网格照片
+- [1026] Generate 3×3 photo grid photos
 - [1024] Female character portrait in hyper-realistic style
 - [1020] Q version Starbucks mini concept store
 - [1013] porcelain doll style photos
@@ -6430,19 +6340,18 @@
 - [963] A high quality portrait of a cute girl
 - [958] Realistic photos with illustrated sticker overlays
 - [957] A collage of playful and stylish portraits
-- [954] 人物的9种服装风格和背景
+- [954] 9 clothing styles and backgrounds for characters
 - [951] 9 clothing styles and backgrounds for characters
 - [945] Selfie with 2D animation illustration
 - [943] Generate a nine-square grid of characters in different poses
 - [939] Young woman squatting elegantly for selfie indoors
-- [937] Girls show pictures on their mobile phones
 - [935] Seamlessly blending two different eras
 - [934] Reality-distorting mirror selfie that incorporates multiple media elements
 - [933] A set of cyberpunk style fashion blockbusters
 - [926] The character is sitting on the edge of the bed with a stack of banknotes spread out in his hands
 - [924] Explore different art styles at once
 - [923] A young woman wearing gorgeous Tang Dynasty costumes
-- [922] 采用超广角视角拍摄的高级时装照片
+- [922] High fashion photos shot with ultra-wide angle
 - [917] Stunning split screen photos
 - [916] Characters appear on giant digital billboards
 - [912] A young woman with personality
@@ -6462,7 +6371,6 @@
 - [860] Woman floating in huge transparent plastic water bag
 - [859] Multiple women squatting on the stage scene
 - [858] 3x3 grid Pixar style storyboard
-- [857] The Forbidden City Check-in from the series of Chinese women who want to make movies in their lifetime
 - [855] Real-life version of the 9-square grid photo
 - [846] Woman in a retro American car
 - [843] The model stands on the ground covered with countless black and white billboards
@@ -6513,7 +6421,7 @@
 - [830] Urban streetwear editorial collage
 - [807] Winter solstice poster
 
-### food (74)
+### food (71)
 - [1739] Gallery grid view for Apple’s iOS Photos app
 - [1735] Woman extends index finger forward towards camera lens
 - [1729] Anime style digital poster
@@ -6541,15 +6449,13 @@
 - [1329] Girls indoors in cafe
 - [1305] Nine Q-version stickers with different clothing poses and expressions
 - [1255] 14 furry little guys squeezed side by side on the sofa
-- [1253] 伪造抖音截图
+- [1253] Fake TikTok screenshots
 - [1245] Recipe - Tomato Scrambled Eggs
 - [1244] Attack on Titan style recipe: braised pork
 - [1221] cyber almanac
 - [1215] A brand new Instagram account
 - [1212] Hayao Miyazaki's character walks into the Last Supper
 - [1211] last supper
-- [1207] Dandan Noodles Premium Poster
-- [1206] Ingredients synthetic food
 - [1194] Literacy tabloid meta prompt words
 - [1187] Hyper-realistic 3D realistic pictures made of food
 - [1182] Highly detailed 3D infographic poster
@@ -6574,7 +6480,7 @@
 - [966] Kudo Shinichi and Mao Lilan
 - [963] A high quality portrait of a cute girl
 - [928] A fusion of anime character sketch characters and clay animation characters
-- [922] 采用超广角视角拍摄的高级时装照片
+- [922] High fashion photos shot with ultra-wide angle
 - [919] Woman reflected on iPad screen on airplane folding table
 - [899] Facebook profile interface
 - [871] Close up selfie of woman standing in room
@@ -6583,13 +6489,12 @@
 - [845] minimalist food photography
 - [838] 6X6 Product pictures of various styles and qualities
 - [832] High angle commercial food photography photos
-- [831] Four major Chinese festivals, manicure and four-square pattern
 - [823] paper cutting art
 - [820] Photos of girls' four-square grid
 - [807] Winter solstice poster
 - [795] Collage posters from the Y2K era
 
-### futuristic (55)
+### futuristic (54)
 - [1750] A complete high-end product promotional photo
 - [1710] Golden abstract integrated style
 - [1700] brand planet world
@@ -6629,7 +6534,6 @@
 - [1219] Aerial photography of old Beijing
 - [1217] Brand co-branded poster
 - [1202] dragon ball cards
-- [1172] Surrealist Japanese ink painting
 - [1136] Metal neon wallet
 - [1111] A detailed technical illustration of a cyber warrior
 - [1110] Heartwarming moments between humans and robots
@@ -6669,7 +6573,7 @@
 - [920] A 3D game level map poster
 - [887] Tokyo Tower is occupied by a super giant cat
 
-### illustration (128)
+### illustration (126)
 - [1738] Display board for residential building created by architectural illustrator
 - [1737] triptych collage depicts three consecutive moments of women
 - [1735] Woman extends index finger forward towards camera lens
@@ -6693,7 +6597,7 @@
 - [1599] Anime mecha stylized mechanical design drawing
 - [1590] Surreal advertising reimagined
 - [1581] Prismatic glass icon
-- [1578] Gumroad样式图标
+- [1578] Gumroad style icon
 - [1566] vinyl toys
 - [1564] new anime style
 - [1556] new anime style
@@ -6747,7 +6651,6 @@
 - [1178] Turn articles into cartoon infographics
 - [1177] Hand drawn calendar illustration
 - [1174] Fashion style concept exploded illustration in hand drawn style
-- [1172] Surrealist Japanese ink painting
 - [1162] Graffiti marker pen account
 - [1155] Yellowed old newspaper account
 - [1152] Cream watercolor diary
@@ -6765,12 +6668,11 @@
 - [1075] A mini version of myself is standing in the cavity of the head
 - [1068] Woman in suit poses for suspect photo
 - [1059] Extremely close selfie
-- [1058] Hyper-realistic style real and cartoon separation effect
 - [1054] Horoscope card
 - [1042] Wedding photos in the garden
 - [1035] Label all items in English and Japanese
 - [1029] Close-up of tender young woman
-- [1026] 生成3×3照片网格照片
+- [1026] Generate 3×3 photo grid photos
 - [1025] Children's hand drawn travel diary style
 - [1017] Artistic digital scrapbooking style
 - [1016] Photos turned into beautiful acrylic artwork
@@ -6786,7 +6688,7 @@
 - [944] Transform subjects into clay-style 3D characters
 - [943] Generate a nine-square grid of characters in different poses
 - [940] A fascinating picture of time in four seasons
-- [922] 采用超广角视角拍摄的高级时装照片
+- [922] High fashion photos shot with ultra-wide angle
 - [898] Retro blueprint illustration
 - [896] An exploded view of a dragon's anatomy
 - [892] Woman holding a big stuffed mouse
@@ -6827,7 +6729,7 @@
 - [936] The evolution of Stark Industries' Iron Man suit
 - [852] Professional knowledge infographic
 
-### interior (123)
+### interior (118)
 - [1746] cartoon style keychain
 - [1736] Young beautiful woman with twin tails
 - [1727] Sports girl photos
@@ -6842,7 +6744,7 @@
 - [1588] Infinite reflection of a word
 - [1587] Create suspended sliced ​​fruit
 - [1583] ghost form
-- [1578] Gumroad样式图标
+- [1578] Gumroad style icon
 - [1560] Famous landmarks as furniture
 - [1517] Custom textured retro toys
 - [1499] Surreal black and white color page
@@ -6879,10 +6781,7 @@
 - [1261] Fixed reference picture pose to generate pictures
 - [1255] 14 furry little guys squeezed side by side on the sofa
 - [1243] Panoramic character depth concept exploded view
-- [1239] Traditional Chinese meticulous ink painting - Fairy
 - [1226] Miniature cozy living room
-- [1207] Dandan Noodles Premium Poster
-- [1206] Ingredients synthetic food
 - [1199] Photorealistic close-up selfie of a young woman
 - [1195] Large oil painting portrait
 - [1189] Four seasons infographic
@@ -6898,7 +6797,6 @@
 - [1083] Blackboard Artwork-Pirate Empress
 - [1079] Young woman sitting in shopping cart
 - [1068] Woman in suit poses for suspect photo
-- [1058] Hyper-realistic style real and cartoon separation effect
 - [1056] Woman takes selfie in mirror at Disney store
 - [1053] Zootopia Judy and Nick
 - [1048] Modern Teenage Fantasy Comics
@@ -6919,7 +6817,7 @@
 - [961] The perfect blend of photos and sketches
 - [958] Realistic photos with illustrated sticker overlays
 - [955] Labubu’s 3x3 grid collage photo
-- [954] 人物的9种服装风格和背景
+- [954] 9 clothing styles and backgrounds for characters
 - [949] Young woman kneeling in field
 - [945] Selfie with 2D animation illustration
 - [939] Young woman squatting elegantly for selfie indoors
@@ -6939,7 +6837,6 @@
 - [862] Comic character walks out of screen
 - [859] Multiple women squatting on the stage scene
 - [846] Woman in a retro American car
-- [831] Four major Chinese festivals, manicure and four-square pattern
 - [829] Blonde woman taking selfie
 - [820] Photos of girls' four-square grid
 - [818] Vertical three-frame collage
@@ -6952,7 +6849,7 @@
 - [786] Ultra-realistic Macbook screen video conferencing diagram
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 
-### landscape (317)
+### landscape (313)
 - [1750] A complete high-end product promotional photo
 - [1746] cartoon style keychain
 - [1745] Cinematic augmented reality visual effects
@@ -7075,7 +6972,6 @@
 - [1254] Celebrity co-production
 - [1248] Young Asian girl squatting in the courtyard on the concrete floor
 - [1245] Recipe - Tomato Scrambled Eggs
-- [1240] Traditional gongbi style ink painting
 - [1233] Minimalist children's painting style
 - [1231] A high-resolution, full-body outdoor photo
 - [1226] Miniature cozy living room
@@ -7138,7 +7034,6 @@
 - [1063] Cake made of city landmarks
 - [1062] Doraemon lectures
 - [1059] Extremely close selfie
-- [1058] Hyper-realistic style real and cartoon separation effect
 - [1057] City top view isometric 3D cartoon miniature scene
 - [1056] Woman takes selfie in mirror at Disney store
 - [1049] Selfie of a girl sticking out her tongue at night
@@ -7186,7 +7081,6 @@
 - [941] Attractions change with the seasons
 - [940] A fascinating picture of time in four seasons
 - [939] Young woman squatting elegantly for selfie indoors
-- [937] Girls show pictures on their mobile phones
 - [935] Seamlessly blending two different eras
 - [934] Reality-distorting mirror selfie that incorporates multiple media elements
 - [933] A set of cyberpunk style fashion blockbusters
@@ -7196,7 +7090,7 @@
 - [926] The character is sitting on the edge of the bed with a stack of banknotes spread out in his hands
 - [925] Cinematic double exposure poster design
 - [923] A young woman wearing gorgeous Tang Dynasty costumes
-- [922] 采用超广角视角拍摄的高级时装照片
+- [922] High fashion photos shot with ultra-wide angle
 - [921] Soft Drink Fortress
 - [920] A 3D game level map poster
 - [919] Woman reflected on iPad screen on airplane folding table
@@ -7233,7 +7127,6 @@
 - [862] Comic character walks out of screen
 - [859] Multiple women squatting on the stage scene
 - [858] 3x3 grid Pixar style storyboard
-- [857] The Forbidden City Check-in from the series of Chinese women who want to make movies in their lifetime
 - [856] Girl sitting on the cold drink cup of Luckin Coffee
 - [854] Beijing 7-day weather forecast-poster
 - [849] Microcosm and macrofood
@@ -7413,7 +7306,7 @@
 - [787] Five-part wide-format film collage
 - [785] Turn your favorite characters into collectibles
 
-### minimalist (213)
+### minimalist (211)
 - [1757] custom balloons
 - [1756] Simulated embroidery Su embroidery expression pack
 - [1754] Make professional OOTD fashion collages in magazine editorial style
@@ -7569,11 +7462,10 @@
 - [1072] Hyper-realistic travel ads
 - [1063] Cake made of city landmarks
 - [1059] Extremely close selfie
-- [1058] Hyper-realistic style real and cartoon separation effect
 - [1057] City top view isometric 3D cartoon miniature scene
 - [1048] Modern Teenage Fantasy Comics
 - [1043] Miniature 3D cartoon view showing the city's three tallest buildings
-- [1026] 生成3×3照片网格照片
+- [1026] Generate 3×3 photo grid photos
 - [1024] Female character portrait in hyper-realistic style
 - [1017] Artistic digital scrapbooking style
 - [1004] Young woman taking selfie in front of bathroom mirror
@@ -7591,7 +7483,7 @@
 - [945] Selfie with 2D animation illustration
 - [942] Research and data visualization design
 - [932] Colorful, cinematic photos
-- [922] 采用超广角视角拍摄的高级时装照片
+- [922] High fashion photos shot with ultra-wide angle
 - [919] Woman reflected on iPad screen on airplane folding table
 - [915] Studio photo shoot of product
 - [911] The transparent object is filled with delicate flowers
@@ -7606,7 +7498,6 @@
 - [844] Character stands on an oversized smartphone
 - [839] Girls pencil sketch
 - [832] High angle commercial food photography photos
-- [831] Four major Chinese festivals, manicure and four-square pattern
 - [830] Urban streetwear editorial collage
 - [818] Vertical three-frame collage
 - [817] Ultra-realistic 8K street portraits
@@ -7628,7 +7519,7 @@
 - [785] Turn your favorite characters into collectibles
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### nature (361)
+### nature (352)
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1750] A complete high-end product promotional photo
 - [1745] Cinematic augmented reality visual effects
@@ -7644,7 +7535,6 @@
 - [1727] Sports girl photos
 - [1726] A hyper-realistic movie poster
 - [1725] Ultra-realistic and professional nighttime fireworks show
-- [1720] Character teardown art poster
 - [1719] Sand and Wind Product Photography
 - [1718] Fantastic, cinematic augmented reality visuals
 - [1716] Christmas Special - A cool Christmas, sweet and cool all in a small space
@@ -7774,7 +7664,7 @@
 - [1299] Ultra-realistic wildlife photography scenes
 - [1297] A realistic full-body portrait
 - [1295] Bird wearing inflatable down jacket
-- [1292] 长文本古诗画画
+- [1292] Long text ancient poetry painting
 - [1286] Wearing famous clothes and taking photos on the beach in Shanghai
 - [1277] magic window
 - [1275] fake history
@@ -7787,7 +7677,6 @@
 - [1249] Earth's Got Talent
 - [1243] Panoramic character depth concept exploded view
 - [1242] One-click OOTD
-- [1239] Traditional Chinese meticulous ink painting - Fairy
 - [1232] Artist painting his own miniature puppet
 - [1231] A high-resolution, full-body outdoor photo
 - [1227] A cool selfie with Luffy
@@ -7796,8 +7685,6 @@
 - [1219] Aerial photography of old Beijing
 - [1213] Woman beach movie style portrait
 - [1212] Hayao Miyazaki's character walks into the Last Supper
-- [1207] Dandan Noodles Premium Poster
-- [1206] Ingredients synthetic food
 - [1204] minimalist cocktail photography
 - [1200] Wardrobe teardown and style analysis
 - [1199] Photorealistic close-up selfie of a young woman
@@ -7807,7 +7694,6 @@
 - [1181] Fashion design manuscript
 - [1180] City dynamic weather card
 - [1174] Fashion style concept exploded illustration in hand drawn style
-- [1172] Surrealist Japanese ink painting
 - [1169] Take a photo with Deadpool at Avengers Tower
 - [1159] Behind-the-scenes photos of celebrities
 - [1155] Yellowed old newspaper account
@@ -7850,7 +7736,6 @@
 - [1066] Super close up portrait of young woman
 - [1065] Close-up of modern and avant-garde girls
 - [1062] Doraemon lectures
-- [1058] Hyper-realistic style real and cartoon separation effect
 - [1057] City top view isometric 3D cartoon miniature scene
 - [1056] Woman takes selfie in mirror at Disney store
 - [1053] Zootopia Judy and Nick
@@ -7900,7 +7785,7 @@
 - [958] Realistic photos with illustrated sticker overlays
 - [957] A collage of playful and stylish portraits
 - [955] Labubu’s 3x3 grid collage photo
-- [954] 人物的9种服装风格和背景
+- [954] 9 clothing styles and backgrounds for characters
 - [951] 9 clothing styles and backgrounds for characters
 - [950] Summer Dopamine Fresh Style
 - [949] Young woman kneeling in field
@@ -7909,13 +7794,12 @@
 - [943] Generate a nine-square grid of characters in different poses
 - [940] A fascinating picture of time in four seasons
 - [939] Young woman squatting elegantly for selfie indoors
-- [937] Girls show pictures on their mobile phones
 - [934] Reality-distorting mirror selfie that incorporates multiple media elements
 - [933] A set of cyberpunk style fashion blockbusters
 - [927] Raise a wave like a rug
 - [925] Cinematic double exposure poster design
 - [923] A young woman wearing gorgeous Tang Dynasty costumes
-- [922] 采用超广角视角拍摄的高级时装照片
+- [922] High fashion photos shot with ultra-wide angle
 - [918] Cute sleep report poster
 - [914] Although the body is as careful as a lion
 - [913] Special report on Tokyo nightlife
@@ -7949,7 +7833,6 @@
 - [866] HD restoration of old photos
 - [863] A super realistic vertical photo
 - [861] A realistic wall calendar
-- [857] The Forbidden City Check-in from the series of Chinese women who want to make movies in their lifetime
 - [856] Girl sitting on the cold drink cup of Luckin Coffee
 - [855] Real-life version of the 9-square grid photo
 - [853] Judy stands on the snow bridge
@@ -7960,7 +7843,6 @@
 - [839] Girls pencil sketch
 - [836] Photos of the prosperous Tang Dynasty and Paris
 - [833] 2x2 grid collage
-- [831] Four major Chinese festivals, manicure and four-square pattern
 - [829] Blonde woman taking selfie
 - [826] Photos of Victorian Gothic Royal Family
 - [824] Take selfies with characters from movies and TV shows
@@ -7991,7 +7873,7 @@
 - [782] Christmas Special - Christmas Sweet Girl
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### neon (69)
+### neon (68)
 - [1755] I won’t sleep if the moon doesn’t sleep
 - [1735] Woman extends index finger forward towards camera lens
 - [1733] First person shooter perspective
@@ -8028,7 +7910,6 @@
 - [1217] Brand co-branded poster
 - [1210] HD magazine spread
 - [1198] Labubu and Dilireba high-end fashion cross-page blockbuster
-- [1172] Surrealist Japanese ink painting
 - [1165] I won’t sleep if the moon doesn’t sleep
 - [1162] Graffiti marker pen account
 - [1149] maximalist pop art layer
@@ -8048,7 +7929,7 @@
 - [978] Cinematic Film Printing Master
 - [951] 9 clothing styles and backgrounds for characters
 - [935] Seamlessly blending two different eras
-- [922] 采用超广角视角拍摄的高级时装照片
+- [922] High fashion photos shot with ultra-wide angle
 - [917] Stunning split screen photos
 - [916] Characters appear on giant digital billboards
 - [913] Special report on Tokyo nightlife
@@ -8062,7 +7943,7 @@
 - [858] 3x3 grid Pixar style storyboard
 - [830] Urban streetwear editorial collage
 
-### paper-craft (128)
+### paper-craft (122)
 - [1752] Stickers for different clothing styles
 - [1748] Displayed on mobile phone screens in Japan in the early 2000s
 - [1738] Display board for residential building created by architectural illustrator
@@ -8081,7 +7962,7 @@
 - [1621] Brand flat paper style
 - [1597] City Embroidery Stickers Photo
 - [1595] Renaissance Anatomy
-- [1578] Gumroad样式图标
+- [1578] Gumroad style icon
 - [1574] Design sneakers for any brand
 - [1558] Branded 3D Cartoon Animal Characters
 - [1555] Item texturing
@@ -8108,12 +7989,10 @@
 - [1330] Girls with rainbow hair styles
 - [1307] Pencil style big head cartoon
 - [1305] Nine Q-version stickers with different clothing poses and expressions
-- [1270] Chinese traditional ink and color painting
 - [1268] Hand drawn style infographic card
 - [1266] Interesting ink painting of family relationship
 - [1245] Recipe - Tomato Scrambled Eggs
 - [1243] Panoramic character depth concept exploded view
-- [1239] Traditional Chinese meticulous ink painting - Fairy
 - [1225] Wearing a stunning conceptual avant-garde gown
 - [1222] Chengdu tourist map
 - [1221] cyber almanac
@@ -8123,7 +8002,6 @@
 - [1194] Literacy tabloid meta prompt words
 - [1188] Convert paper into a picture of the professor's whiteboard
 - [1174] Fashion style concept exploded illustration in hand drawn style
-- [1172] Surrealist Japanese ink painting
 - [1170] Pink star card blows bubbles
 - [1162] Graffiti marker pen account
 - [1155] Yellowed old newspaper account
@@ -8142,7 +8020,6 @@
 - [1089] 3D three-dimensional book illustration
 - [1084] luffy classroom art
 - [1083] Blackboard Artwork-Pirate Empress
-- [1058] Hyper-realistic style real and cartoon separation effect
 - [1051] A double-storey house on the mountainside of Wudang Mountain
 - [1046] Forbidden City architectural photo display and design drawings
 - [1045] OOTD hand-drawn graffiti decomposition
@@ -8175,14 +8052,12 @@
 - [874] Zhujiang New Town in paper-cut style
 - [862] Comic character walks out of screen
 - [861] A realistic wall calendar
-- [857] The Forbidden City Check-in from the series of Chinese women who want to make movies in their lifetime
 - [854] Beijing 7-day weather forecast-poster
 - [849] Microcosm and macrofood
 - [842] Q version character Jiugongge
 - [836] Photos of the prosperous Tang Dynasty and Paris
 - [833] 2x2 grid collage
 - [832] High angle commercial food photography photos
-- [831] Four major Chinese festivals, manicure and four-square pattern
 - [830] Urban streetwear editorial collage
 - [826] Photos of Victorian Gothic Royal Family
 - [823] paper cutting art
@@ -8192,7 +8067,7 @@
 - [784] Visualization of gadgets and inventions from a given year
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### photography (415)
+### photography (407)
 - [1750] A complete high-end product promotional photo
 - [1748] Displayed on mobile phone screens in Japan in the early 2000s
 - [1747] High-end professional tiled product photography
@@ -8213,7 +8088,6 @@
 - [1725] Ultra-realistic and professional nighttime fireworks show
 - [1722] Technical drawing display board
 - [1721] Miniature artist paints on giant human nails
-- [1720] Character teardown art poster
 - [1719] Sand and Wind Product Photography
 - [1718] Fantastic, cinematic augmented reality visuals
 - [1717] Nine-square grid collage
@@ -8377,7 +8251,6 @@
 - [1273] Add sketched people to your real photos
 - [1272] You can actually be cute when you're angry
 - [1271] A behind-the-scenes look at the photo-making process
-- [1270] Chinese traditional ink and color painting
 - [1267] Street murals with strong photographic quality
 - [1263] Text generates beautiful magazine article photos
 - [1256] Holiday photos for all ages from birth to 80
@@ -8392,8 +8265,6 @@
 - [1215] A brand new Instagram account
 - [1210] HD magazine spread
 - [1209] labubu style dynamics
-- [1207] Dandan Noodles Premium Poster
-- [1206] Ingredients synthetic food
 - [1205] Animation to live action
 - [1204] minimalist cocktail photography
 - [1203] High end studio photos
@@ -8463,12 +8334,11 @@
 - [1041] Gothic film style portraiture
 - [1039] Generate a realistic photo of a specified time and place
 - [1034] Young woman with long brown hair taking selfie
-- [1033] Realistic photos freeze JOJO style
 - [1032] 3x3 grid soft pink and blue toned studio photo shoot
 - [1031] Japanese girl rushes to the subway
 - [1029] Close-up of tender young woman
 - [1028] Shanghai 3D City Time Tour
-- [1026] 生成3×3照片网格照片
+- [1026] Generate 3×3 photo grid photos
 - [1023] Cyberpunk aesthetic style card
 - [1021] Generate ultra-realistic AI influencers
 - [1019] Photo of woman displayed on digital camera screen
@@ -8517,7 +8387,6 @@
 - [941] Attractions change with the seasons
 - [939] Young woman squatting elegantly for selfie indoors
 - [938] Product development trajectory chart
-- [937] Girls show pictures on their mobile phones
 - [936] The evolution of Stark Industries' Iron Man suit
 - [935] Seamlessly blending two different eras
 - [934] Reality-distorting mirror selfie that incorporates multiple media elements
@@ -8529,7 +8398,7 @@
 - [926] The character is sitting on the edge of the bed with a stack of banknotes spread out in his hands
 - [924] Explore different art styles at once
 - [923] A young woman wearing gorgeous Tang Dynasty costumes
-- [922] 采用超广角视角拍摄的高级时装照片
+- [922] High fashion photos shot with ultra-wide angle
 - [917] Stunning split screen photos
 - [916] Characters appear on giant digital billboards
 - [915] Studio photo shoot of product
@@ -8559,7 +8428,6 @@
 - [861] A realistic wall calendar
 - [860] Woman floating in huge transparent plastic water bag
 - [858] 3x3 grid Pixar style storyboard
-- [857] The Forbidden City Check-in from the series of Chinese women who want to make movies in their lifetime
 - [855] Real-life version of the 9-square grid photo
 - [853] Judy stands on the snow bridge
 - [849] Microcosm and macrofood
@@ -8571,7 +8439,6 @@
 - [836] Photos of the prosperous Tang Dynasty and Paris
 - [833] 2x2 grid collage
 - [832] High angle commercial food photography photos
-- [831] Four major Chinese festivals, manicure and four-square pattern
 - [829] Blonde woman taking selfie
 - [826] Photos of Victorian Gothic Royal Family
 - [825] Use Chinese fantasy to write world-famous paintings
@@ -8609,10 +8476,9 @@
 - [782] Christmas Special - Christmas Sweet Girl
 - [780] Christmas Special - My Christmas is in tune with myself
 
-### pixel (36)
+### pixel (34)
 - [1748] Displayed on mobile phone screens in Japan in the early 2000s
 - [1735] Woman extends index finger forward towards camera lens
-- [1720] Character teardown art poster
 - [1698] Brand Minecraft Style
 - [1683] Retro Pixel UI Icons
 - [1679] Put the logo into my world
@@ -8631,7 +8497,6 @@
 - [1127] Polaroid photos tell stories
 - [1081] Highly collectible chess pieces
 - [1068] Woman in suit poses for suspect photo
-- [1058] Hyper-realistic style real and cartoon separation effect
 - [1042] Wedding photos in the garden
 - [1005] The hand gently holds a 3D collectible 3D model of the city
 - [994] Transform comic book characters into hyper-realistic humans
@@ -8647,7 +8512,7 @@
 - [845] minimalist food photography
 - [792] Woman is stepping out of her mobile phone screen
 
-### portrait (324)
+### portrait (319)
 - [1756] Simulated embroidery Su embroidery expression pack
 - [1752] Stickers for different clothing styles
 - [1751] Ordinary objects transformed into giant monuments
@@ -8659,13 +8524,12 @@
 - [1734] A miniature scene model
 - [1732] Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface
 - [1729] Anime style digital poster
-- [1720] Character teardown art poster
 - [1718] Fantastic, cinematic augmented reality visuals
 - [1717] Nine-square grid collage
 - [1716] Christmas Special - A cool Christmas, sweet and cool all in a small space
 - [1715] Hand drawn style infographic card
 - [1712] Musk draws in the park
-- [1709] 刺绣肖像
+- [1709] embroidery portrait
 - [1685] Hyperrealistic puzzle portrait
 - [1681] character drama exaggerated style
 - [1675] Cartoon characters transformed into hyper-realistic humans
@@ -8794,7 +8658,6 @@
 - [1177] Hand drawn calendar illustration
 - [1176] Simulated embroidery Su embroidery expression pack
 - [1175] LINE style half-length Q version emoticon pack
-- [1172] Surrealist Japanese ink painting
 - [1151] Sunny girl wearing white knitted top
 - [1148] Pixar style 3D animated scenes
 - [1147] Pixar style 3D animated scenes
@@ -8840,7 +8703,6 @@
 - [1064] Aerial images generated based on latitude and longitude
 - [1062] Doraemon lectures
 - [1059] Extremely close selfie
-- [1058] Hyper-realistic style real and cartoon separation effect
 - [1050] Soft blurred side close-up of the same face
 - [1049] Selfie of a girl sticking out her tongue at night
 - [1048] Modern Teenage Fantasy Comics
@@ -8871,7 +8733,7 @@
 - [989] Woman takes selfie in elevator of apartment
 - [988] Large-sized iPhone 17 Pro Max scene
 - [985] Character is pinched in a transparent glass ball
-- [984] 女子身穿白色露肩蕾丝婚纱
+- [984] Woman wearing white strapless lace wedding dress
 - [983] LEGO style mini 3D figures
 - [982] Ultra HD 4K Pixar-style 3D portraits
 - [981] You can take selfies with celebrities and walk into the set of any movie
@@ -8890,14 +8752,13 @@
 - [957] A collage of playful and stylish portraits
 - [956] Y2K Millennial Hottie Retro Pixel Style
 - [955] Labubu’s 3x3 grid collage photo
-- [954] 人物的9种服装风格和背景
+- [954] 9 clothing styles and backgrounds for characters
 - [951] 9 clothing styles and backgrounds for characters
 - [950] Summer Dopamine Fresh Style
 - [949] Young woman kneeling in field
 - [946] Miniature 3D cartoon scene
 - [945] Selfie with 2D animation illustration
 - [943] Generate a nine-square grid of characters in different poses
-- [937] Girls show pictures on their mobile phones
 - [935] Seamlessly blending two different eras
 - [934] Reality-distorting mirror selfie that incorporates multiple media elements
 - [928] A fusion of anime character sketch characters and clay animation characters
@@ -8905,7 +8766,7 @@
 - [925] Cinematic double exposure poster design
 - [924] Explore different art styles at once
 - [923] A young woman wearing gorgeous Tang Dynasty costumes
-- [922] 采用超广角视角拍摄的高级时装照片
+- [922] High fashion photos shot with ultra-wide angle
 - [919] Woman reflected on iPad screen on airplane folding table
 - [916] Characters appear on giant digital billboards
 - [913] Special report on Tokyo nightlife
@@ -8939,7 +8800,6 @@
 - [861] A realistic wall calendar
 - [859] Multiple women squatting on the stage scene
 - [858] 3x3 grid Pixar style storyboard
-- [857] The Forbidden City Check-in from the series of Chinese women who want to make movies in their lifetime
 - [856] Girl sitting on the cold drink cup of Luckin Coffee
 - [855] Real-life version of the 9-square grid photo
 - [847] Miniature 3D model
@@ -8973,10 +8833,9 @@
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 - [780] Christmas Special - My Christmas is in tune with myself
 
-### poster (70)
+### poster (67)
 - [1729] Anime style digital poster
 - [1726] A hyper-realistic movie poster
-- [1720] Character teardown art poster
 - [1695] Product becomes paper glass
 - [1690] water flow identity
 - [1656] Mouth-watering ads
@@ -9010,8 +8869,6 @@
 - [1247] Super Smash Bros. game poster family portrait
 - [1221] cyber almanac
 - [1217] Brand co-branded poster
-- [1207] Dandan Noodles Premium Poster
-- [1206] Ingredients synthetic food
 - [1182] Highly detailed 3D infographic poster
 - [1142] Fantasy Adventure Comedy Poster - Dragon Hunting Secret Realm
 - [1141] Oriental Martial Arts Epic Poster-Sword Shadow Beauty
@@ -9045,14 +8902,13 @@
 - [790] iron man coca cola
 - [785] Turn your favorite characters into collectibles
 
-### product (113)
+### product (112)
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1750] A complete high-end product promotional photo
 - [1747] High-end professional tiled product photography
 - [1746] cartoon style keychain
 - [1744] Christmas Special-Christmas Skin Care Set Promotional Card
 - [1732] Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface
-- [1720] Character teardown art poster
 - [1719] Sand and Wind Product Photography
 - [1707] Blue and white porcelain style
 - [1705] Brand Love Talk
@@ -9140,7 +8996,7 @@
 - [942] Research and data visualization design
 - [938] Product development trajectory chart
 - [936] The evolution of Stark Industries' Iron Man suit
-- [922] 采用超广角视角拍摄的高级时装照片
+- [922] High fashion photos shot with ultra-wide angle
 - [915] Studio photo shoot of product
 - [906] The person in the photo is holding the product in one hand
 - [884] Be part of your own comic
@@ -9160,7 +9016,7 @@
 - [785] Turn your favorite characters into collectibles
 - [784] Visualization of gadgets and inventions from a given year
 
-### retro (80)
+### retro (78)
 - [1747] High-end professional tiled product photography
 - [1737] triptych collage depicts three consecutive moments of women
 - [1683] Retro Pixel UI Icons
@@ -9199,7 +9055,6 @@
 - [1198] Labubu and Dilireba high-end fashion cross-page blockbuster
 - [1186] style learning
 - [1173] Modern Chicago Riverside Qingming Riverside Scene Style
-- [1172] Surrealist Japanese ink painting
 - [1155] Yellowed old newspaper account
 - [1150] Beautiful 3D renderings of the handheld game console
 - [1145] Young woman sitting sideways on arcade stool
@@ -9217,7 +9072,6 @@
 - [1069] Woman's selfie
 - [1068] Woman in suit poses for suspect photo
 - [1059] Extremely close selfie
-- [1058] Hyper-realistic style real and cartoon separation effect
 - [1038] Hyper-realistic 8K portrait of an attractive woman
 - [1028] Shanghai 3D City Time Tour
 - [1021] Generate ultra-realistic AI influencers
@@ -9227,7 +9081,7 @@
 - [978] Cinematic Film Printing Master
 - [956] Y2K Millennial Hottie Retro Pixel Style
 - [955] Labubu’s 3x3 grid collage photo
-- [954] 人物的9种服装风格和背景
+- [954] 9 clothing styles and backgrounds for characters
 - [953] Each frame of the 6-panel comic has a different style
 - [951] 9 clothing styles and backgrounds for characters
 - [938] Product development trajectory chart
@@ -9242,7 +9096,7 @@
 - [800] 90s retro black and white portraits
 - [787] Five-part wide-format film collage
 
-### sci-fi (25)
+### sci-fi (24)
 - [1735] Woman extends index finger forward towards camera lens
 - [1733] First person shooter perspective
 - [1700] brand planet world
@@ -9258,7 +9112,6 @@
 - [1327] Full body realistic fashion portrait
 - [1265] Warm toned science fiction comic scene with 2077 background
 - [1249] Earth's Got Talent
-- [1172] Surrealist Japanese ink painting
 - [1111] A detailed technical illustration of a cyber warrior
 - [1069] Woman's selfie
 - [1053] Zootopia Judy and Nick
@@ -9269,7 +9122,7 @@
 - [858] 3x3 grid Pixar style storyboard
 - [830] Urban streetwear editorial collage
 
-### sculpture (28)
+### sculpture (27)
 - [1716] Christmas Special - A cool Christmas, sweet and cool all in a small space
 - [1707] Blue and white porcelain style
 - [1687] Bread shape
@@ -9291,7 +9144,6 @@
 - [1473] Colorful handmade sculptures
 - [1401] Photorealistic concept food art portrait
 - [1280] Statue of Liberty architectural blueprint
-- [1240] Traditional gongbi style ink painting
 - [1219] Aerial photography of old Beijing
 - [944] Transform subjects into clay-style 3D characters
 - [909] Animals and humans alike are transformed into neon glass creatures
@@ -9299,7 +9151,7 @@
 - [803] Woman standing next to KAWS style art sculpture
 - [791] Editorial photo for concept art magazine
 
-### toy (67)
+### toy (66)
 - [1757] custom balloons
 - [1746] cartoon style keychain
 - [1742] Christmas Special-Christmas Elf
@@ -9344,7 +9196,6 @@
 - [1232] Artist painting his own miniature puppet
 - [1209] labubu style dynamics
 - [1194] Literacy tabloid meta prompt words
-- [1172] Surrealist Japanese ink painting
 - [1135] kawaii pop art
 - [1095] Zootopia Large Plush Character Hat
 - [1062] Doraemon lectures
@@ -9368,14 +9219,13 @@
 - [807] Winter solstice poster
 - [785] Turn your favorite characters into collectibles
 
-### typography (125)
+### typography (121)
 - [1757] custom balloons
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1750] A complete high-end product promotional photo
 - [1747] High-end professional tiled product photography
 - [1744] Christmas Special-Christmas Skin Care Set Promotional Card
 - [1732] Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface
-- [1720] Character teardown art poster
 - [1715] Hand drawn style infographic card
 - [1694] custom balloons
 - [1681] character drama exaggerated style
@@ -9418,7 +9268,6 @@
 - [1217] Brand co-branded poster
 - [1210] HD magazine spread
 - [1209] labubu style dynamics
-- [1207] Dandan Noodles Premium Poster
 - [1204] minimalist cocktail photography
 - [1200] Wardrobe teardown and style analysis
 - [1198] Labubu and Dilireba high-end fashion cross-page blockbuster
@@ -9430,7 +9279,7 @@
 - [1180] City dynamic weather card
 - [1177] Hand drawn calendar illustration
 - [1175] LINE style half-length Q version emoticon pack
-- [1146] 油泼面宫格漫画图
+- [1146] Oil-splashed noodles cartoon picture
 - [1143] Professional suit style diary
 - [1142] Fantasy Adventure Comedy Poster - Dragon Hunting Secret Realm
 - [1141] Oriental Martial Arts Epic Poster-Sword Shadow Beauty
@@ -9477,10 +9326,8 @@
 - [862] Comic character walks out of screen
 - [861] A realistic wall calendar
 - [859] Multiple women squatting on the stage scene
-- [857] The Forbidden City Check-in from the series of Chinese women who want to make movies in their lifetime
 - [836] Photos of the prosperous Tang Dynasty and Paris
 - [832] High angle commercial food photography photos
-- [831] Four major Chinese festivals, manicure and four-square pattern
 - [826] Photos of Victorian Gothic Royal Family
 - [823] paper cutting art
 - [810] City rendering digital art poster
@@ -9495,7 +9342,7 @@
 - [787] Five-part wide-format film collage
 - [784] Visualization of gadgets and inventions from a given year
 
-### ui (44)
+### ui (42)
 - [1756] Simulated embroidery Su embroidery expression pack
 - [1750] A complete high-end product promotional photo
 - [1745] Cinematic augmented reality visual effects
@@ -9526,13 +9373,11 @@
 - [992] MacBook selfie (couple model)
 - [976] The characters are placed in a crowded conference scene
 - [959] The application interface shows 9 different funny effects
-- [937] Girls show pictures on their mobile phones
 - [933] A set of cyberpunk style fashion blockbusters
 - [920] A 3D game level map poster
 - [919] Woman reflected on iPad screen on airplane folding table
 - [899] Facebook profile interface
 - [863] A super realistic vertical photo
-- [857] The Forbidden City Check-in from the series of Chinese women who want to make movies in their lifetime
 - [844] Character stands on an oversized smartphone
 - [836] Photos of the prosperous Tang Dynasty and Paris
 - [830] Urban streetwear editorial collage
@@ -9541,7 +9386,7 @@
 - [792] Woman is stepping out of her mobile phone screen
 - [791] Editorial photo for concept art magazine
 
-### vehicle (240)
+### vehicle (236)
 - [1751] Ordinary objects transformed into giant monuments
 - [1746] cartoon style keychain
 - [1745] Cinematic augmented reality visual effects
@@ -9582,7 +9427,7 @@
 - [1597] City Embroidery Stickers Photo
 - [1594] Toy transporter made of slime
 - [1585] Custom plush keychain
-- [1578] Gumroad样式图标
+- [1578] Gumroad style icon
 - [1575] Surveillance-level fashion insights
 - [1566] vinyl toys
 - [1560] Famous landmarks as furniture
@@ -9658,7 +9503,6 @@
 - [1276] Incorporate comic characters into your real-life photos
 - [1272] You can actually be cute when you're angry
 - [1246] Three heroes racing against Lu Bu
-- [1240] Traditional gongbi style ink painting
 - [1224] Japanese rural bus station scene on a rainy night
 - [1221] cyber almanac
 - [1210] HD magazine spread
@@ -9698,7 +9542,6 @@
 - [1068] Woman in suit poses for suspect photo
 - [1066] Super close up portrait of young woman
 - [1059] Extremely close selfie
-- [1058] Hyper-realistic style real and cartoon separation effect
 - [1057] City top view isometric 3D cartoon miniature scene
 - [1053] Zootopia Judy and Nick
 - [1049] Selfie of a girl sticking out her tongue at night
@@ -9707,12 +9550,11 @@
 - [1039] Generate a realistic photo of a specified time and place
 - [1037] The great discovery of bilingual cognition - transportation
 - [1036] The great discovery of bilingual cognition-Underwater World
-- [1033] Realistic photos freeze JOJO style
 - [1031] Japanese girl rushes to the subway
 - [1030] Felt toys
 - [1029] Close-up of tender young woman
 - [1028] Shanghai 3D City Time Tour
-- [1026] 生成3×3照片网格照片
+- [1026] Generate 3×3 photo grid photos
 - [1023] Cyberpunk aesthetic style card
 - [1017] Artistic digital scrapbooking style
 - [1014] Refrigerator magnet prompt word template
@@ -9738,12 +9580,11 @@
 - [946] Miniature 3D cartoon scene
 - [944] Transform subjects into clay-style 3D characters
 - [942] Research and data visualization design
-- [937] Girls show pictures on their mobile phones
 - [935] Seamlessly blending two different eras
 - [934] Reality-distorting mirror selfie that incorporates multiple media elements
 - [933] A set of cyberpunk style fashion blockbusters
 - [927] Raise a wave like a rug
-- [922] 采用超广角视角拍摄的高级时装照片
+- [922] High fashion photos shot with ultra-wide angle
 - [921] Soft Drink Fortress
 - [917] Stunning split screen photos
 - [916] Characters appear on giant digital billboards
