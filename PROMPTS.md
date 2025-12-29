@@ -1,7 +1,173 @@
 # Prompt Gallery
-*Total prompts: 952*
+*Total prompts: 980*
 
 ## All Prompts
+
+### 1797. I know you're in a hurry, but don't be anxious yet
+![I know you're in a hurry, but don't be anxious yet](images/289.png)
+- Tags: emoji
+- Prompt: When others rush me, I reply: I know you are in a hurry, but please don’t rush yet.  Please design an emoticon picture for this
+
+### 1796. English word flashcard production
+![English word flashcard production](images/291.jpeg)
+- Tags: creative
+- Prompt: You are a master of making English word flashcards. You can generate a picture based on the topic words I input and expand on it. For example, if I type computer, you generate a picture related to ...
+
+### 1789. The woman stretches her hand exaggeratedly toward the camera
+![The woman stretches her hand exaggeratedly toward the camera](images/556.jpeg)
+- Tags: architecture, cartoon, landscape, vehicle
+- Model: Nano banana pro
+- Prompt: Photo taken with an extreme fisheye lens. A young woman with blond hair and twin tails, wearing a gray cardigan and a plaid skirt school uniform, jumped up excitedly at the Shibuya intersection. On...
+
+### 1788. Graffiti marker pen account
+![Graffiti marker pen account](images/562.jpeg)
+- Tags: 3d, illustration, neon, paper-craft
+- Model: Nano banana pro
+- Prompt: 9:16 Full screen fashion mood board illustration. The background is a matte paper with a concrete texture, covered in bright neon marker doodles and abstract lines of street spray paint. All elemen...
+
+### 1786. Fantasy Adventure Comedy Poster - Dragon Hunting Secret Realm
+![Fantasy Adventure Comedy Poster - Dragon Hunting Secret Realm](images/582.jpeg)
+- Tags: 3d, fantasy, landscape, logo, nature, portrait, poster, typography
+- Model: Nano banana pro
+- Prompt: A poster for the fictional fantasy adventure comedy The Dragon Realm Quest. The scene is set in an underground cave filled with strange glowing plants and ancient ruins. In the center of the pictur...
+
+### 1785. MacBook Pro laptop teardown
+![MacBook Pro laptop teardown](images/627.jpeg)
+- Tags: photography, product
+- Model: Nano banana pro
+- Prompt: The ultimate disassembly of the MacBook Pro laptop, split screen composition left and right. The left 1/3 shows a complete silver MacBook in a closed or half-open state; the right 2/3 shows an extr...
+
+### 1784. Hyper-realistic style real and cartoon separation effect
+![Hyper-realistic style real and cartoon separation effect](images/667.jpeg)
+- Tags: cartoon, character, illustration, interior, landscape, minimalist, nature, paper-craft, pixel, portrait, retro, vehicle
+- Model: Nano banana pro
+- Prompt: {   "image_generation": {     "requirements": {       "face_preservation": {         "preserve_original": true,         "accuracy_level": "100% identical to reference",         "details": [        ...
+
+### 1783. Zootopia Judy and Nick tell short stories - wait and see
+![Zootopia Judy and Nick tell short stories - wait and see](images/678.jpeg)
+- Tags: animal
+- Model: Nano banana pro
+- Prompt: The first frame: Disney's "Zootopia" 3D animation style. Officer Judy was wearing a police uniform and saw a sheep farmer sitting beside a big tree stump in a daze on the edge of the field. There i...
+
+### 1782. The great discovery of bilingual cognition - transportation
+![The great discovery of bilingual cognition - transportation](images/689.jpeg)
+- Tags: character, clay, landscape, logo, nature, toy, vehicle
+- Model: Nano banana pro
+- Prompt: [SCENE_THEME] = Transportation [TARGET_AGE] = 2–5 years  Generate a publishable children's cognitive "Vertical A4 Panoramic Claymation Diorama". Picture style: soft clay 3D, round, safe, macaron + ...
+
+### 1780. Labubu’s 3x3 grid collage photo
+![Labubu’s 3x3 grid collage photo](images/773.jpeg)
+- Tags: interior, nature, portrait, retro
+- Model: Nano banana pro
+- Prompt: Generate a high-quality 3x3 nine-square grid collage photo of Labubu. Nine independent pictures respectively show the character wearing: elegant pink and blue Tang Dynasty Hanfu (classical garden b...
+
+### 1779. Product development trajectory chart
+![Product development trajectory chart](images/790.jpeg)
+- Tags: branding, character, data-viz, futuristic, infographic, paper-craft, photography, poster, product, retro, typography
+- Model: Nano banana pro
+- Prompt: Role & Subject: A massive, encyclopedic 16:9 3D infographic poster titled "THE EVOLUTION OF [Product Name]". The visual style is a high-end fusion of museum-grade product photography and complex te...
+
+### 1777. Girls night city street shooting
+![Girls night city street shooting](images/836.jpeg)
+- Tags: fashion, landscape, minimalist, nature, portrait
+- Model: Nano banana pro
+- Prompt: Reference Figure 1 Face and body generation  1. Character and temperament 1 Character setting: A young East Asian girl with good looks, a delicate and cute face, big eyes, and a small mole under he...
+
+### 1776. A super realistic vertical photo
+![A super realistic vertical photo](images/866.jpeg)
+- Tags: branding, character, fashion, interior, landscape, logo, nature, photography, portrait, product, ui
+- Model: Nano banana pro
+- Prompt: # Image Reproduction Meta-Prompt  ## 1. Role designation (Role) You are a **Senior Portrait Photographer** and **Light and Shadow Composition Expert**. You are good at capturing natural moments (Ca...
+
+### 1774. Photos of the prosperous Tang Dynasty and Paris
+![Photos of the prosperous Tang Dynasty and Paris](images/894.jpeg)
+- Tags: fashion, landscape, nature, paper-craft, photography, portrait, typography, ui
+- Model: Nano banana pro
+- Prompt: Generate a 9:16 vertical version of the realistic photo of "The Golden Age of the Tang Dynasty and Paris": use the FACE_REF I uploaded as a reference for the identity of the character, 100% restora...
+
+### 1772. paper cutting art
+![paper cutting art](images/907.jpeg)
+- Tags: architecture, food, landscape, logo, paper-craft, portrait, typography, vehicle
+- Model: Nano banana pro
+- Prompt: Paper cut layered art: [city name in English] ([city name in local language]) day-night elegant diagonal split (top-left→bottom-right) with soft artistic transition. Core: ONE [Iconic Landmark] bis...
+
+### 1771. Christmas Special-Christmas Skin Care Set Promotional Card
+![Christmas Special-Christmas Skin Care Set Promotional Card](images/960.jpeg)
+- Tags: branding, logo, nature, photography, product, typography
+- Model: Nano banana pro
+- Prompt: Create a professional Christmas skin care product set promotional card, using a vertical composition design with a simple and high-end overall style. The background uses soft gradient colors, trans...
+
+### 1770. Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface
+![Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface](images/972.jpeg)
+- Tags: photography, portrait, product, typography, ui
+- Model: Nano banana pro
+- Prompt: Vertical social media story design (9:16 aspect ratio), Christmas makeup tutorial interface for beauty bloggers. The background is a soft, high-end pink gradient, creating a sweet and dreamy atmosp...
+
+### 1769. Childlike style illustration
+![Childlike style illustration](images/981.jpeg)
+- Tags: illustration, paper-craft
+- Model: Nano banana pro
+- Prompt: Please generate an illustration of [theme/subject]. The overall style is whimsical and childlike in children's book illustrations: outlines are sketched with loose black ink lines, and the details ...
+
+### 1767. A vertical clothing poster
+![A vertical clothing poster](images/989.jpeg)
+- Tags: character, fashion, interior, minimalist, nature, photography, portrait, poster, typography, vehicle
+- Model: Nano banana pro
+- Prompt: Using the uploaded photo as the sole character reference, generate a vertical outfit poster.  【LAYOUT HARD RULES】 - Must have exactly 6 cards only, 2 rows × 3 columns (3 columns across, 2 rows down...
+
+### 1766. High fashion studio photo collage
+![High fashion studio photo collage](images/990.jpeg)
+- Tags: fashion, landscape, nature, photography, portrait
+- Model: Nano banana pro
+- Prompt: Create a realistic high-fashion studio photo collage featuring the same woman in six to eight different poses, using the uploaded face image as the exact facial reference (same facial structure, ey...
+
+### 1765. Ultra-realistic, cinematic portraits
+![Ultra-realistic, cinematic portraits](images/991.jpeg)
+- Tags: fashion, landscape, nature, photography, portrait, retro
+- Model: Nano banana pro
+- Prompt: Ultra-realistic film-like portraits, high-end fashion 9:16 format magazine-style photography.  Hairstyle: Short hair, with windblown strands flying around the face, partially covering facial featur...
+
+### 1764. Embroidery song poster
+![Embroidery song poster](images/992.jpeg)
+- Tags: character, landscape, minimalist, photography, poster, typography, vehicle
+- Model: Nano banana pro
+- Prompt: Ultra-detailed album cover for \"[Song Title]\". Style: Huang Hai's minimalist aesthetic with HIGH-QUALITY HAND-EMBROIDERED SILK ART. Format: Vertical Poster (1:1 aspect ratio).  CRITICAL: Every el...
+
+### 1763. Full process display of professional jewelry type design
+![Full process display of professional jewelry type design](images/993.jpeg)
+- Tags: 3d, architecture, branding, landscape, logo, nature, paper-craft, photography, product
+- Model: Nano banana pro
+- Prompt: Professional {jewelry type} design full process display | {Main material} commercial-grade design process visualization, professional design system document style. [Main material]: {gold} (such as:...
+
+### 1762. encyclopedic information card
+![encyclopedic information card](images/994.jpeg)
+- Tags: food, minimalist, nature, photography, product, typography
+- Model: Nano banana pro
+- Prompt: An encyclopedic information card of [Asparagus] in a minimalist art style, Museum exhibit-level design quality, informative yet visually restrained  [Overall Composition - Golden Section Layout] -S...
+
+### 1761. Fashion designer makes sketch based on character image
+![Fashion designer makes sketch based on character image](images/995.jpeg)
+- Tags: character, fashion, logo, portrait
+- Model: Nano banana pro
+- Prompt: a fashion designer's sketch of an [elegant outfit or dress] inspired by [ character], featuring [key iconic accessory or detail]. the design includes notes in pencil and ink, emphasizing details, [...
+
+### 1760. 3D cartoon character breaks the wall
+![3D cartoon character breaks the wall](images/996.jpeg)
+- Tags: 3d, cartoon, character, vehicle
+- Model: Nano banana pro
+- Prompt: 3d cartoon of a happy [character] breaking down [type of wall or object] with [hands / body / special ability], in the style of pixar. adorable [eye description], lovely colorful soft background, v...
+
+### 1759. New Year's Day Special - Retro Cheongsam Lady Style
+![New Year's Day Special - Retro Cheongsam Lady Style](images/997.jpeg)
+- Tags: 3d, character, nature, portrait, retro
+- Model: Nano banana pro
+- Prompt: [Key: Maintain accurate facial features, retain the original facial structure, and the character in the picture is exactly the same as the uploaded reference picture] Exquisite studio portrait, the...
+
+### 1758. New Year's Day Special - Pink Swing Fairytale Style
+![New Year's Day Special - Pink Swing Fairytale Style](images/998.jpeg)
+- Tags: 3d, character, nature, portrait
+- Model: Nano banana pro
+- Prompt: [Key: Maintain accurate facial features, retain the original facial structure, and the character in the picture is exactly the same as the uploaded reference picture] Professional studio dream port...
 
 ### 1757. custom balloons
 ![custom balloons](images/22.jpeg)
@@ -5297,7 +5463,13 @@
 
 ## Tags
 
-### 3d (78)
+### 3d (84)
+- [1788] Graffiti marker pen account
+- [1786] Fantasy Adventure Comedy Poster - Dragon Hunting Secret Realm
+- [1763] Full process display of professional jewelry type design
+- [1760] 3D cartoon character breaks the wall
+- [1759] New Year's Day Special - Retro Cheongsam Lady Style
+- [1758] New Year's Day Special - Pink Swing Fairytale Style
 - [1757] custom balloons
 - [1738] Display board for residential building created by architectural illustrator
 - [1728] museum specimen photography
@@ -5377,7 +5549,8 @@
 - [799] Korean fashion closeup portrait of young woman
 - [792] Woman is stepping out of her mobile phone screen
 
-### animal (51)
+### animal (52)
+- [1783] Zootopia Judy and Nick tell short stories - wait and see
 - [1706] Melt variant text
 - [1697] Emoji turns into a flower pot
 - [1679] Put the logo into my world
@@ -5430,7 +5603,10 @@
 - [894] Dongshan Xiaohong
 - [853] Judy stands on the snow bridge
 
-### architecture (70)
+### architecture (73)
+- [1789] The woman stretches her hand exaggeratedly toward the camera
+- [1772] paper cutting art
+- [1763] Full process display of professional jewelry type design
 - [1740] Stylish Asian Fashion Blogger
 - [1738] Display board for residential building created by architectural illustrator
 - [1729] Anime style digital poster
@@ -5502,7 +5678,11 @@
 - [804] Blonde woman kneeling on yacht deck
 - [795] Collage posters from the Y2K era
 
-### branding (116)
+### branding (120)
+- [1779] Product development trajectory chart
+- [1776] A super realistic vertical photo
+- [1771] Christmas Special-Christmas Skin Care Set Promotional Card
+- [1763] Full process display of professional jewelry type design
 - [1750] A complete high-end product promotional photo
 - [1735] Woman extends index finger forward towards camera lens
 - [1707] Blue and white porcelain style
@@ -5620,7 +5800,10 @@
 - [791] Editorial photo for concept art magazine
 - [786] Ultra-realistic Macbook screen video conferencing diagram
 
-### cartoon (108)
+### cartoon (111)
+- [1789] The woman stretches her hand exaggeratedly toward the camera
+- [1784] Hyper-realistic style real and cartoon separation effect
+- [1760] 3D cartoon character breaks the wall
 - [1746] cartoon style keychain
 - [1742] Christmas Special-Christmas Elf
 - [1735] Woman extends index finger forward towards camera lens
@@ -5730,7 +5913,17 @@
 - [794] Cartoons turned into Funko Pop vinyl figures
 - [792] Woman is stepping out of her mobile phone screen
 
-### character (225)
+### character (235)
+- [1784] Hyper-realistic style real and cartoon separation effect
+- [1782] The great discovery of bilingual cognition - transportation
+- [1779] Product development trajectory chart
+- [1776] A super realistic vertical photo
+- [1767] A vertical clothing poster
+- [1764] Embroidery song poster
+- [1761] Fashion designer makes sketch based on character image
+- [1760] 3D cartoon character breaks the wall
+- [1759] New Year's Day Special - Retro Cheongsam Lady Style
+- [1758] New Year's Day Special - Pink Swing Fairytale Style
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1749] 3D rubber hose character design
 - [1746] cartoon style keychain
@@ -5957,7 +6150,8 @@
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 - [780] Christmas Special - My Christmas is in tune with myself
 
-### clay (16)
+### clay (17)
+- [1782] The great discovery of bilingual cognition - transportation
 - [1649] Cute miniature scene
 - [1642] 3D cute pastel clay icon
 - [1618] 3D cartoon sculpture style
@@ -5975,7 +6169,8 @@
 - [901] Healing fairy tale clay poster
 - [789] There is a Q-version model similar to mine.
 
-### creative (61)
+### creative (62)
+- [1796] English word flashcard production
 - [1714] Four-panel comics (Relativity)
 - [1680] mosaic mural
 - [1672] Enchant Particle Omnilight
@@ -6038,7 +6233,8 @@
 - [827] Prompt word kid caricature
 - [813] Manipulate a replica of yourself with your fingers
 
-### data-viz (10)
+### data-viz (11)
+- [1779] Product development trajectory chart
 - [1288] landmark infographic
 - [1280] Statue of Liberty architectural blueprint
 - [1248] Young Asian girl squatting in the courtyard on the concrete floor
@@ -6050,7 +6246,8 @@
 - [933] A set of cyberpunk style fashion blockbusters
 - [891] Take realistic selfies in front of the mirror in your bedroom
 
-### emoji (14)
+### emoji (15)
+- [1797] I know you're in a hurry, but don't be anxious yet
 - [1697] Emoji turns into a flower pot
 - [1642] 3D cute pastel clay icon
 - [1638] Plush form emoticon
@@ -6066,7 +6263,8 @@
 - [1192] Make people make Emoji expressions
 - [1175] LINE style half-length Q version emoticon pack
 
-### fantasy (37)
+### fantasy (38)
+- [1786] Fantasy Adventure Comedy Poster - Dragon Hunting Secret Realm
 - [1726] A hyper-realistic movie poster
 - [1666] See the world through a keyhole
 - [1663] small house made of flowers
@@ -6105,7 +6303,14 @@
 - [790] iron man coca cola
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 
-### fashion (204)
+### fashion (211)
+- [1777] Girls night city street shooting
+- [1776] A super realistic vertical photo
+- [1774] Photos of the prosperous Tang Dynasty and Paris
+- [1767] A vertical clothing poster
+- [1766] High fashion studio photo collage
+- [1765] Ultra-realistic, cinematic portraits
+- [1761] Fashion designer makes sketch based on character image
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1742] Christmas Special-Christmas Elf
 - [1740] Stylish Asian Fashion Blogger
@@ -6334,7 +6539,9 @@
 - [830] Urban streetwear editorial collage
 - [807] Winter solstice poster
 
-### food (71)
+### food (73)
+- [1772] paper cutting art
+- [1762] encyclopedic information card
 - [1739] Gallery grid view for Apple’s iOS Photos app
 - [1735] Woman extends index finger forward towards camera lens
 - [1729] Anime style digital poster
@@ -6407,7 +6614,8 @@
 - [807] Winter solstice poster
 - [795] Collage posters from the Y2K era
 
-### futuristic (54)
+### futuristic (55)
+- [1779] Product development trajectory chart
 - [1750] A complete high-end product promotional photo
 - [1710] Golden abstract integrated style
 - [1700] brand planet world
@@ -6486,7 +6694,10 @@
 - [920] A 3D game level map poster
 - [887] Tokyo Tower is occupied by a super giant cat
 
-### illustration (123)
+### illustration (126)
+- [1788] Graffiti marker pen account
+- [1784] Hyper-realistic style real and cartoon separation effect
+- [1769] Childlike style illustration
 - [1738] Display board for residential building created by architectural illustrator
 - [1737] triptych collage depicts three consecutive moments of women
 - [1735] Woman extends index finger forward towards camera lens
@@ -6611,7 +6822,8 @@
 - [802] Woman holding a wooden picture frame of herself
 - [792] Woman is stepping out of her mobile phone screen
 
-### infographic (24)
+### infographic (25)
+- [1779] Product development trajectory chart
 - [1722] Technical drawing display board
 - [1693] Flat design equilateral style
 - [1430] Recipe infographic production
@@ -6637,7 +6849,11 @@
 - [936] The evolution of Stark Industries' Iron Man suit
 - [852] Professional knowledge infographic
 
-### interior (118)
+### interior (122)
+- [1784] Hyper-realistic style real and cartoon separation effect
+- [1780] Labubu’s 3x3 grid collage photo
+- [1776] A super realistic vertical photo
+- [1767] A vertical clothing poster
 - [1746] cartoon style keychain
 - [1736] Young beautiful woman with twin tails
 - [1727] Sports girl photos
@@ -6757,7 +6973,19 @@
 - [786] Ultra-realistic Macbook screen video conferencing diagram
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 
-### landscape (312)
+### landscape (324)
+- [1789] The woman stretches her hand exaggeratedly toward the camera
+- [1786] Fantasy Adventure Comedy Poster - Dragon Hunting Secret Realm
+- [1784] Hyper-realistic style real and cartoon separation effect
+- [1782] The great discovery of bilingual cognition - transportation
+- [1777] Girls night city street shooting
+- [1776] A super realistic vertical photo
+- [1774] Photos of the prosperous Tang Dynasty and Paris
+- [1772] paper cutting art
+- [1766] High fashion studio photo collage
+- [1765] Ultra-realistic, cinematic portraits
+- [1764] Embroidery song poster
+- [1763] Full process display of professional jewelry type design
 - [1750] A complete high-end product promotional photo
 - [1746] cartoon style keychain
 - [1745] Cinematic augmented reality visual effects
@@ -7071,7 +7299,14 @@
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 - [782] Christmas Special - Christmas Sweet Girl
 
-### logo (139)
+### logo (146)
+- [1786] Fantasy Adventure Comedy Poster - Dragon Hunting Secret Realm
+- [1782] The great discovery of bilingual cognition - transportation
+- [1776] A super realistic vertical photo
+- [1772] paper cutting art
+- [1771] Christmas Special-Christmas Skin Care Set Promotional Card
+- [1763] Full process display of professional jewelry type design
+- [1761] Fashion designer makes sketch based on character image
 - [1750] A complete high-end product promotional photo
 - [1722] Technical drawing display board
 - [1704] creative advertising
@@ -7212,7 +7447,12 @@
 - [787] Five-part wide-format film collage
 - [785] Turn your favorite characters into collectibles
 
-### minimalist (208)
+### minimalist (213)
+- [1784] Hyper-realistic style real and cartoon separation effect
+- [1777] Girls night city street shooting
+- [1767] A vertical clothing poster
+- [1764] Embroidery song poster
+- [1762] encyclopedic information card
 - [1757] custom balloons
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1750] A complete high-end product promotional photo
@@ -7422,7 +7662,22 @@
 - [785] Turn your favorite characters into collectibles
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### nature (351)
+### nature (366)
+- [1786] Fantasy Adventure Comedy Poster - Dragon Hunting Secret Realm
+- [1784] Hyper-realistic style real and cartoon separation effect
+- [1782] The great discovery of bilingual cognition - transportation
+- [1780] Labubu’s 3x3 grid collage photo
+- [1777] Girls night city street shooting
+- [1776] A super realistic vertical photo
+- [1774] Photos of the prosperous Tang Dynasty and Paris
+- [1771] Christmas Special-Christmas Skin Care Set Promotional Card
+- [1767] A vertical clothing poster
+- [1766] High fashion studio photo collage
+- [1765] Ultra-realistic, cinematic portraits
+- [1763] Full process display of professional jewelry type design
+- [1762] encyclopedic information card
+- [1759] New Year's Day Special - Retro Cheongsam Lady Style
+- [1758] New Year's Day Special - Pink Swing Fairytale Style
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1750] A complete high-end product promotional photo
 - [1745] Cinematic augmented reality visual effects
@@ -7775,7 +8030,8 @@
 - [782] Christmas Special - Christmas Sweet Girl
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### neon (66)
+### neon (67)
+- [1788] Graffiti marker pen account
 - [1735] Woman extends index finger forward towards camera lens
 - [1733] First person shooter perspective
 - [1729] Anime style digital poster
@@ -7843,7 +8099,14 @@
 - [858] 3x3 grid Pixar style storyboard
 - [830] Urban streetwear editorial collage
 
-### paper-craft (118)
+### paper-craft (125)
+- [1788] Graffiti marker pen account
+- [1784] Hyper-realistic style real and cartoon separation effect
+- [1779] Product development trajectory chart
+- [1774] Photos of the prosperous Tang Dynasty and Paris
+- [1772] paper cutting art
+- [1769] Childlike style illustration
+- [1763] Full process display of professional jewelry type design
 - [1748] Displayed on mobile phone screens in Japan in the early 2000s
 - [1738] Display board for residential building created by architectural illustrator
 - [1731] Christmas special - Christmas limited photo stickers, 9 levels of sweetness
@@ -7963,7 +8226,19 @@
 - [784] Visualization of gadgets and inventions from a given year
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### photography (405)
+### photography (417)
+- [1785] MacBook Pro laptop teardown
+- [1779] Product development trajectory chart
+- [1776] A super realistic vertical photo
+- [1774] Photos of the prosperous Tang Dynasty and Paris
+- [1771] Christmas Special-Christmas Skin Care Set Promotional Card
+- [1770] Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface
+- [1767] A vertical clothing poster
+- [1766] High fashion studio photo collage
+- [1765] Ultra-realistic, cinematic portraits
+- [1764] Embroidery song poster
+- [1763] Full process display of professional jewelry type design
+- [1762] encyclopedic information card
 - [1750] A complete high-end product promotional photo
 - [1748] Displayed on mobile phone screens in Japan in the early 2000s
 - [1747] High-end professional tiled product photography
@@ -8370,7 +8645,8 @@
 - [782] Christmas Special - Christmas Sweet Girl
 - [780] Christmas Special - My Christmas is in tune with myself
 
-### pixel (34)
+### pixel (35)
+- [1784] Hyper-realistic style real and cartoon separation effect
 - [1748] Displayed on mobile phone screens in Japan in the early 2000s
 - [1735] Woman extends index finger forward towards camera lens
 - [1698] Brand Minecraft Style
@@ -8406,7 +8682,21 @@
 - [845] minimalist food photography
 - [792] Woman is stepping out of her mobile phone screen
 
-### portrait (312)
+### portrait (326)
+- [1786] Fantasy Adventure Comedy Poster - Dragon Hunting Secret Realm
+- [1784] Hyper-realistic style real and cartoon separation effect
+- [1780] Labubu’s 3x3 grid collage photo
+- [1777] Girls night city street shooting
+- [1776] A super realistic vertical photo
+- [1774] Photos of the prosperous Tang Dynasty and Paris
+- [1772] paper cutting art
+- [1770] Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface
+- [1767] A vertical clothing poster
+- [1766] High fashion studio photo collage
+- [1765] Ultra-realistic, cinematic portraits
+- [1761] Fashion designer makes sketch based on character image
+- [1759] New Year's Day Special - Retro Cheongsam Lady Style
+- [1758] New Year's Day Special - Pink Swing Fairytale Style
 - [1751] Ordinary objects transformed into giant monuments
 - [1745] Cinematic augmented reality visual effects
 - [1741] Christmas Special - Christmas Gingerbread Cross-Frame Feeding
@@ -8720,7 +9010,11 @@
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 - [780] Christmas Special - My Christmas is in tune with myself
 
-### poster (67)
+### poster (71)
+- [1786] Fantasy Adventure Comedy Poster - Dragon Hunting Secret Realm
+- [1779] Product development trajectory chart
+- [1767] A vertical clothing poster
+- [1764] Embroidery song poster
 - [1729] Anime style digital poster
 - [1726] A hyper-realistic movie poster
 - [1695] Product becomes paper glass
@@ -8789,7 +9083,14 @@
 - [790] iron man coca cola
 - [785] Turn your favorite characters into collectibles
 
-### product (110)
+### product (117)
+- [1785] MacBook Pro laptop teardown
+- [1779] Product development trajectory chart
+- [1776] A super realistic vertical photo
+- [1771] Christmas Special-Christmas Skin Care Set Promotional Card
+- [1770] Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface
+- [1763] Full process display of professional jewelry type design
+- [1762] encyclopedic information card
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1750] A complete high-end product promotional photo
 - [1747] High-end professional tiled product photography
@@ -8901,7 +9202,12 @@
 - [785] Turn your favorite characters into collectibles
 - [784] Visualization of gadgets and inventions from a given year
 
-### retro (78)
+### retro (83)
+- [1784] Hyper-realistic style real and cartoon separation effect
+- [1780] Labubu’s 3x3 grid collage photo
+- [1779] Product development trajectory chart
+- [1765] Ultra-realistic, cinematic portraits
+- [1759] New Year's Day Special - Retro Cheongsam Lady Style
 - [1747] High-end professional tiled product photography
 - [1737] triptych collage depicts three consecutive moments of women
 - [1683] Retro Pixel UI Icons
@@ -9036,7 +9342,8 @@
 - [803] Woman standing next to KAWS style art sculpture
 - [791] Editorial photo for concept art magazine
 
-### toy (66)
+### toy (67)
+- [1782] The great discovery of bilingual cognition - transportation
 - [1757] custom balloons
 - [1746] cartoon style keychain
 - [1742] Christmas Special-Christmas Elf
@@ -9104,7 +9411,16 @@
 - [807] Winter solstice poster
 - [785] Turn your favorite characters into collectibles
 
-### typography (116)
+### typography (125)
+- [1786] Fantasy Adventure Comedy Poster - Dragon Hunting Secret Realm
+- [1779] Product development trajectory chart
+- [1774] Photos of the prosperous Tang Dynasty and Paris
+- [1772] paper cutting art
+- [1771] Christmas Special-Christmas Skin Care Set Promotional Card
+- [1770] Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface
+- [1767] A vertical clothing poster
+- [1764] Embroidery song poster
+- [1762] encyclopedic information card
 - [1757] custom balloons
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1750] A complete high-end product promotional photo
@@ -9222,7 +9538,10 @@
 - [787] Five-part wide-format film collage
 - [784] Visualization of gadgets and inventions from a given year
 
-### ui (39)
+### ui (42)
+- [1776] A super realistic vertical photo
+- [1774] Photos of the prosperous Tang Dynasty and Paris
+- [1770] Christmas Special-Beauty Blogger Christmas Makeup Tutorial Interface
 - [1750] A complete high-end product promotional photo
 - [1745] Cinematic augmented reality visual effects
 - [1735] Woman extends index finger forward towards camera lens
@@ -9263,7 +9582,14 @@
 - [792] Woman is stepping out of her mobile phone screen
 - [791] Editorial photo for concept art magazine
 
-### vehicle (236)
+### vehicle (243)
+- [1789] The woman stretches her hand exaggeratedly toward the camera
+- [1784] Hyper-realistic style real and cartoon separation effect
+- [1782] The great discovery of bilingual cognition - transportation
+- [1772] paper cutting art
+- [1767] A vertical clothing poster
+- [1764] Embroidery song poster
+- [1760] 3D cartoon character breaks the wall
 - [1751] Ordinary objects transformed into giant monuments
 - [1746] cartoon style keychain
 - [1745] Cinematic augmented reality visual effects
