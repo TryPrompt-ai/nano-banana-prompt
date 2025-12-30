@@ -1,6 +1,6 @@
 # Retro Prompts
 
-> Found 82 prompts in this category.
+> Found 81 prompts in this category.
 
 ---
 
@@ -254,23 +254,6 @@ Camera: 24mm wide-angle lens, low-angle upward shooting perspective, shallow dep
 Lighting: Soft film-like lighting, warm colors, creating a sense of atmosphere. Highlights are well controlled and shadows retain detail.
 
 Color/post-production: high details, advanced color grading, natural skin texture, subtle film feel (no obvious grain). No text, no logos, no watermarks.
-```
-
----
-
-## New Year's Day Special - Retro Cheongsam Lady Style
-
-![New Year's Day Special - Retro Cheongsam Lady Style](https://opennana.com/awesome-prompt-gallery/images/997.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@songguoxiansen](https://x.com/songguoxiansen/status/2005097871977447736)
-- **Tags:** 3d, character, nature, portrait, retro
-
-**Prompt:**
-
-```
-[Key: Maintain accurate facial features, retain the original facial structure, and the character in the picture is exactly the same as the uploaded reference picture]
-Exquisite studio portrait, the character has skin as delicate and fair as gelatin, with elegant makeup emphasizing transparency and nude pink lips. She wore a traditional red phoenix embroidered cheongsam with a high slit to show off her slender legs. The cuffs and collar were embroidered with gold thread auspicious cloud patterns, and she wore a long golden tulle cape hanging from her shoulders to the ground. The hairstyle is an elegant side low bun, decorated with golden phoenix steps, red beads and long golden tassels. The hair accessories sway slightly with the movement, and wavy hair is left on one side to modify the face. She stood on the red carpet in a classic cheongsam posture, with one leg exposed from the slit, one hand on her waist to show her confidence, and the other hand holding a long golden pipe-style cigarette holder elegantly placed on her lips, her head tilted slightly to show her delicate profile, and her eyes were cold and noble. The background is a dark red velvet curtain, with gold "Happy New Year's Day" calligraphy characters and "2026" three-dimensional devices hanging in the center. Red columns, golden vases with plum blossoms, and retro phonographs are symmetrically arranged on both sides. Rembrandt light creates a classic Hollywood atmosphere, emphasizing contrast between light and dark and dramatic tension. Phase One shooting system, with strong retro colors and top studio vintage blockbuster texture.
 ```
 
 ---

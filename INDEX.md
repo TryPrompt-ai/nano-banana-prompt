@@ -3,12 +3,12 @@
 > Browse our extensive collection of prompts organized by specific styles and themes.
 
 **Total Categories:** 37
-**Total Prompts:** 4137
+**Total Prompts:** 4124
 
 ---
 
 ### [3d](tags/3d.md)
-- 78 prompts available
+- 77 prompts available
 
 ### [Animal](tags/animal.md)
 - 49 prompts available
@@ -23,7 +23,7 @@
 - 109 prompts available
 
 ### [Character](tags/character.md)
-- 227 prompts available
+- 226 prompts available
 
 ### [Clay](tags/clay.md)
 - 15 prompts available
@@ -41,7 +41,7 @@
 - 36 prompts available
 
 ### [Fashion](tags/fashion.md)
-- 207 prompts available
+- 206 prompts available
 
 ### [Felt](tags/felt.md)
 - 21 prompts available
@@ -65,7 +65,7 @@
 - 119 prompts available
 
 ### [Landscape](tags/landscape.md)
-- 313 prompts available
+- 312 prompts available
 
 ### [Logo](tags/logo.md)
 - 139 prompts available
@@ -74,22 +74,22 @@
 - 210 prompts available
 
 ### [Nature](tags/nature.md)
-- 354 prompts available
+- 352 prompts available
 
 ### [Neon](tags/neon.md)
 - 65 prompts available
 
 ### [Paper-craft](tags/paper-craft.md)
-- 118 prompts available
+- 117 prompts available
 
 ### [Photography](tags/photography.md)
-- 408 prompts available
+- 407 prompts available
 
 ### [Pixel](tags/pixel.md)
 - 35 prompts available
 
 ### [Portrait](tags/portrait.md)
-- 317 prompts available
+- 315 prompts available
 
 ### [Poster](tags/poster.md)
 - 68 prompts available
@@ -98,7 +98,7 @@
 - 109 prompts available
 
 ### [Retro](tags/retro.md)
-- 82 prompts available
+- 81 prompts available
 
 ### [Sci-fi](tags/sci-fi.md)
 - 23 prompts available
@@ -110,10 +110,10 @@
 - 63 prompts available
 
 ### [Typography](tags/typography.md)
-- 113 prompts available
+- 112 prompts available
 
 ### [Ui](tags/ui.md)
-- 38 prompts available
+- 37 prompts available
 
 ### [Vehicle](tags/vehicle.md)
 - 234 prompts available

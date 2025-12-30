@@ -1,5 +1,5 @@
 # Prompt Gallery
-*Total prompts: 950*
+*Total prompts: 948*
 
 ## All Prompts
 
@@ -63,12 +63,6 @@
 - Model: Nano banana pro
 - Prompt: # Image Reproduction Meta-Prompt  ## 1. Role designation (Role) You are a **Senior Portrait Photographer** and **Light and Shadow Composition Expert**. You are good at capturing natural moments (Ca...
 
-### 1774. Photos of the prosperous Tang Dynasty and Paris
-![Photos of the prosperous Tang Dynasty and Paris](images/894.jpeg)
-- Tags: fashion, landscape, nature, paper-craft, photography, portrait, typography, ui
-- Model: Nano banana pro
-- Prompt: Generate a 9:16 vertical version of the realistic photo of "The Golden Age of the Tang Dynasty and Paris": use the FACE_REF I uploaded as a reference for the identity of the character, 100% restora...
-
 ### 1769. Childlike style illustration
 ![Childlike style illustration](images/981.jpeg)
 - Tags: illustration, paper-craft
@@ -104,12 +98,6 @@
 - Tags: 3d, cartoon, character, vehicle
 - Model: Nano banana pro
 - Prompt: 3d cartoon of a happy [character] breaking down [type of wall or object] with [hands / body / special ability], in the style of pixar. adorable [eye description], lovely colorful soft background, v...
-
-### 1759. New Year's Day Special - Retro Cheongsam Lady Style
-![New Year's Day Special - Retro Cheongsam Lady Style](images/997.jpeg)
-- Tags: 3d, character, nature, portrait, retro
-- Model: Nano banana pro
-- Prompt: [Key: Maintain accurate facial features, retain the original facial structure, and the character in the picture is exactly the same as the uploaded reference picture] Exquisite studio portrait, the...
 
 ### 1758. New Year's Day Special - Pink Swing Fairytale Style
 ![New Year's Day Special - Pink Swing Fairytale Style](images/998.jpeg)
@@ -5288,9 +5276,8 @@
 
 ## Tags
 
-### 3d (78)
+### 3d (77)
 - [1760] 3D cartoon character breaks the wall
-- [1759] New Year's Day Special - Retro Cheongsam Lady Style
 - [1758] New Year's Day Special - Pink Swing Fairytale Style
 - [1757] custom balloons
 - [1738] Display board for residential building created by architectural illustrator
@@ -5720,14 +5707,13 @@
 - [794] Cartoons turned into Funko Pop vinyl figures
 - [792] Woman is stepping out of her mobile phone screen
 
-### character (227)
+### character (226)
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1779] Product development trajectory chart
 - [1776] A super realistic vertical photo
 - [1767] A vertical clothing poster
 - [1761] Fashion designer makes sketch based on character image
 - [1760] 3D cartoon character breaks the wall
-- [1759] New Year's Day Special - Retro Cheongsam Lady Style
 - [1758] New Year's Day Special - Pink Swing Fairytale Style
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1749] 3D rubber hose character design
@@ -6092,11 +6078,10 @@
 - [790] iron man coca cola
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 
-### fashion (207)
+### fashion (206)
 - [1805] Colorful Y2K scrapbooking poster
 - [1777] Girls night city street shooting
 - [1776] A super realistic vertical photo
-- [1774] Photos of the prosperous Tang Dynasty and Paris
 - [1767] A vertical clothing poster
 - [1766] High fashion studio photo collage
 - [1765] Ultra-realistic, cinematic portraits
@@ -6746,7 +6731,7 @@
 - [786] Ultra-realistic Macbook screen video conferencing diagram
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 
-### landscape (313)
+### landscape (312)
 - [1805] Colorful Y2K scrapbooking poster
 - [1804] Woman taking selfie while lying on her back
 - [1800] 9-square grid product display
@@ -6754,7 +6739,6 @@
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1777] Girls night city street shooting
 - [1776] A super realistic vertical photo
-- [1774] Photos of the prosperous Tang Dynasty and Paris
 - [1766] High fashion studio photo collage
 - [1765] Ultra-realistic, cinematic portraits
 - [1750] A complete high-end product promotional photo
@@ -7414,18 +7398,16 @@
 - [785] Turn your favorite characters into collectibles
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### nature (354)
+### nature (352)
 - [1805] Colorful Y2K scrapbooking poster
 - [1804] Woman taking selfie while lying on her back
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1780] Labubu’s 3x3 grid collage photo
 - [1777] Girls night city street shooting
 - [1776] A super realistic vertical photo
-- [1774] Photos of the prosperous Tang Dynasty and Paris
 - [1767] A vertical clothing poster
 - [1766] High fashion studio photo collage
 - [1765] Ultra-realistic, cinematic portraits
-- [1759] New Year's Day Special - Retro Cheongsam Lady Style
 - [1758] New Year's Day Special - Pink Swing Fairytale Style
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1750] A complete high-end product promotional photo
@@ -7837,11 +7819,10 @@
 - [858] 3x3 grid Pixar style storyboard
 - [830] Urban streetwear editorial collage
 
-### paper-craft (118)
+### paper-craft (117)
 - [1805] Colorful Y2K scrapbooking poster
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1779] Product development trajectory chart
-- [1774] Photos of the prosperous Tang Dynasty and Paris
 - [1769] Childlike style illustration
 - [1748] Displayed on mobile phone screens in Japan in the early 2000s
 - [1738] Display board for residential building created by architectural illustrator
@@ -7957,13 +7938,12 @@
 - [784] Visualization of gadgets and inventions from a given year
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### photography (408)
+### photography (407)
 - [1805] Colorful Y2K scrapbooking poster
 - [1800] 9-square grid product display
 - [1785] MacBook Pro laptop teardown
 - [1779] Product development trajectory chart
 - [1776] A super realistic vertical photo
-- [1774] Photos of the prosperous Tang Dynasty and Paris
 - [1767] A vertical clothing poster
 - [1766] High fashion studio photo collage
 - [1765] Ultra-realistic, cinematic portraits
@@ -8404,18 +8384,16 @@
 - [845] minimalist food photography
 - [792] Woman is stepping out of her mobile phone screen
 
-### portrait (317)
+### portrait (315)
 - [1805] Colorful Y2K scrapbooking poster
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1780] Labubu’s 3x3 grid collage photo
 - [1777] Girls night city street shooting
 - [1776] A super realistic vertical photo
-- [1774] Photos of the prosperous Tang Dynasty and Paris
 - [1767] A vertical clothing poster
 - [1766] High fashion studio photo collage
 - [1765] Ultra-realistic, cinematic portraits
 - [1761] Fashion designer makes sketch based on character image
-- [1759] New Year's Day Special - Retro Cheongsam Lady Style
 - [1758] New Year's Day Special - Pink Swing Fairytale Style
 - [1751] Ordinary objects transformed into giant monuments
 - [1741] Christmas Special - Christmas Gingerbread Cross-Frame Feeding
@@ -8904,13 +8882,12 @@
 - [785] Turn your favorite characters into collectibles
 - [784] Visualization of gadgets and inventions from a given year
 
-### retro (82)
+### retro (81)
 - [1805] Colorful Y2K scrapbooking poster
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1780] Labubu’s 3x3 grid collage photo
 - [1779] Product development trajectory chart
 - [1765] Ultra-realistic, cinematic portraits
-- [1759] New Year's Day Special - Retro Cheongsam Lady Style
 - [1747] High-end professional tiled product photography
 - [1737] triptych collage depicts three consecutive moments of women
 - [1683] Retro Pixel UI Icons
@@ -9108,10 +9085,9 @@
 - [807] Winter solstice poster
 - [785] Turn your favorite characters into collectibles
 
-### typography (113)
+### typography (112)
 - [1800] 9-square grid product display
 - [1779] Product development trajectory chart
-- [1774] Photos of the prosperous Tang Dynasty and Paris
 - [1767] A vertical clothing poster
 - [1757] custom balloons
 - [1754] Make professional OOTD fashion collages in magazine editorial style
@@ -9223,9 +9199,8 @@
 - [787] Five-part wide-format film collage
 - [784] Visualization of gadgets and inventions from a given year
 
-### ui (38)
+### ui (37)
 - [1776] A super realistic vertical photo
-- [1774] Photos of the prosperous Tang Dynasty and Paris
 - [1750] A complete high-end product promotional photo
 - [1735] Woman extends index finger forward towards camera lens
 - [1733] First person shooter perspective

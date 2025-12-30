@@ -1,6 +1,6 @@
 # Typography Prompts
 
-> Found 113 prompts in this category.
+> Found 112 prompts in this category.
 
 ---
 
@@ -89,46 +89,6 @@ Magnifying Inserts: Circular "Zoom-in" lenses scattered in empty spaces, showing
 Tech Specs Strip: A structured data bar at the very bottom listing precise specifications (weight, dimensions, year, material code).
 
 Technical Specs: Octane render, Unreal Engine 5 aesthetic, editorial layout, information design masterpiece, volumetric lighting, sharp focus, professional color grading. --ar 16:9 --v 6.0 --stylize 300 "Take the development history of Bubble Mart as an example"
-```
-
----
-
-## Photos of the prosperous Tang Dynasty and Paris
-
-![Photos of the prosperous Tang Dynasty and Paris](https://opennana.com/awesome-prompt-gallery/images/894.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@songguoxiansen](https://x.com/songguoxiansen/status/2001198742998016062)
-- **Tags:** fashion, landscape, nature, paper-craft, photography, portrait, typography, ui
-
-**Prompt:**
-
-```
-Generate a 9:16 vertical version of the realistic photo of "The Golden Age of the Tang Dynasty and Paris": use the FACE_REF I uploaded as a reference for the identity of the character, 100% restoration of the facial features and bones; the character is wearing a heavy-duty dress (breast-length skirt, large-sleeved shirt, peony pattern, gold ornaments) "oriented towards the imperial concubines of the Tang Dynasty (Prosperous Tang Dynasty)", and was photographed in the Trocadéro Square under the Eiffel Tower in Paris or on the banks of the Seine River. The picture has photography, styling and cover design at the COSMO fashion magazine level, maintaining the consistent design style of the magazine (English design).
-
-[INPUTS | Input] FACE_REF: The facial features reference picture I uploaded (identity locked)
-
-[ABSOLUTE PRIORITY | Identity Lock (Highest Priority)] 100% restoration of FACE_REF's facial features and bones: face shape, appearance, distance between eyes, bridge of nose, lip shape, jawline, and cheekbone structure are completely consistent and must not drift. Real skin texture: Visible fine texture and pores, don’t over-skin the skin and become internet celebrity. Image of adult woman.
-
-[SHOT TYPE | Choose one of the two scenes (the model randomly selects one, and it must be true and unified)] A) Half-body cover: from the chest to the waist, the embroidery on the head, face and upper body is the clearest, and the eyes are in sharp focus (main recommendation) B) Full-body cover: the layered dress and skirt patterns are completely presented from head to toe, and the steel structure of the iron tower is more transparent (optional) (Regardless of A/B: the "cover composition" must be maintained, with blank space for typesetting, but no torn paper/hand-painted effect.)
-
-[LOCATION | Scene (Eiffel Tower, Paris)] Eiffel Tower in Paris: classic steel structure tower background. Choose one of two weather conditions (random): 1) Rainy in Paris (the ground is slightly wet, the light is soft and high-end gray tones, and the fashion sense is strong) 2) Gorgeous dusk (the afterglow of the sunset, golden light and shadow, romantic atmosphere) The background is clean: no tourists, no modern logos, no mobile phone status bar UI, no watermark subtitles, and no guardrails.
-
-[LIGHTING & CAMERA | Photographic quality (magazine level)] Lens feel: 85mm portrait quality (half body) or 50mm/70mm (full body), shallow depth of field, the clearest eyes. Light: natural light (emphasis on ambient light) + movie-level fill light; gold jewelry has real highlights but is not explosive; silk luster is clearly discernible. Color: High-end cinematic feel, French beige/blue-gray tones and the "red, green and gold" color scheme of Tang Dynasty clothing create a strong visual tension; the overall look is clean, transparent and thick in texture.
-
-[WARDROBE | Tang Dynasty court dress (voluptuous, elegant, rich colors)] Target aesthetic: "gorgeous gold ornaments, dimples on the face, chest-length skirts, elegant silk drapes, bright red, green and gold, extremely flamboyant".
-
-Outline and layering (must reflect the characteristics of the Tang Dynasty) Inner layer: Myrobalan (tube top), exposing the neck and upper chest skin (the open style of the Tang Dynasty) Middle layer: Double-breasted blouse (straight collar), made of transparent and thin material (luo/gauze) Outer layer: Big-sleeved shirt (extremely wide sleeves, floor-length), spread out like wings Decoration: Phi silk (long ribbon), held between the arms, fluttering in the wind Bottoms: Chest-length torn skirt (skirt waist tied to the chest, wide hem, multi-color splicing or printing) Fabrics and craftsmanship (important craftsmanship must be "visible") Main fabrics: silk, brocade, gold printed yarn (a combination of lightness and heavyness) Main craftsmanship: printing and dyeing (batik/stitched), gold thread embroidery, gold weaving Pattern themes (adapted to the Tang Dynasty): Baoxiang flowers, twining peonies, auspicious beasts (lion/unicorn), group flowers (huge, full patterns) Details: flower buds (red decoration on the forehead), facial dimples (red dots at the corners of the mouth), arm hairpins (metal ornaments on the arms) Head and face (graceful and luxurious headdress of the Tang Dynasty) Core structure: towering bun (cloud bun/falling horse bun), decorated with large peonies (real flowers or silk flowers) Decoration: gold comb back (gold comb inserted in the bun), Bu Yao (swaying when walking), gold hairpin Earrings: precious gold and jade
-
-[COLOR MATRIX | Color matrix matching (must be implemented, and must be "strong Tang style")] (Adjusted to the popular colors of the Tang Dynasty: red and green contrasting colors, resplendent) Randomly select 1 set from the following three sets of "main color schemes" as the [base color/large-area main fabric color].
-
-Scheme G (azurite/emerald green base): Base color: emerald green/azurite (commonly used secondary colors) Embroidery/printing and dyeing: crimson, gold, orange, off-white Scheme A (peony red base): Base color: peony red/garnet red (the most classic Tang style) Embroidery/printing and dyeing: gold, emerald green, sapphire blue, purple Scheme R (purple base): Base color: purple/grape color (noble) Embroidery/printing and dyeing: gold, vermilion, grass green, silver
-
-[Color Execution Rules] The color contrast should be strong to reflect the atmosphere of the prosperous Tang Dynasty, but the overall tone should be unified in a sense of high-end.
-
-[POSE | Cover posture (confident, stretched, queenly)] Half body: Head raised slightly, eyes leerful, one hand stroking the hair or wearing a silk scarf Full body: Open arms to carry the large-sleeved shirt and silk scarf to show the volume of the clothing, full aura Expression: Confident, assertive, charming, and generous; don’t be shy.
-
-[OUTPUT | Output] 1 9:16 vertical realistic magazine cover-level photo Random: half-body or full body (choose one from A/B) Random: rainy or dusk (choose one from two weather conditions) Random: emerald green / peony red / purple (choose one from three color matrix) Style: Tang Dynasty palace dress direction + peony flower / gold combed hair + chest-high sleeves + silk
 ```
 
 ---
