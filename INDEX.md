@@ -3,21 +3,21 @@
 > Browse our extensive collection of prompts organized by specific styles and themes.
 
 **Total Categories:** 37
-**Total Prompts:** 4166
+**Total Prompts:** 4137
 
 ---
 
 ### [3d](tags/3d.md)
-- 79 prompts available
+- 78 prompts available
 
 ### [Animal](tags/animal.md)
 - 49 prompts available
 
 ### [Architecture](tags/architecture.md)
-- 71 prompts available
+- 69 prompts available
 
 ### [Branding](tags/branding.md)
-- 119 prompts available
+- 117 prompts available
 
 ### [Cartoon](tags/cartoon.md)
 - 109 prompts available
@@ -47,7 +47,7 @@
 - 21 prompts available
 
 ### [Food](tags/food.md)
-- 72 prompts available
+- 70 prompts available
 
 ### [Futuristic](tags/futuristic.md)
 - 53 prompts available
@@ -65,37 +65,37 @@
 - 119 prompts available
 
 ### [Landscape](tags/landscape.md)
-- 315 prompts available
+- 313 prompts available
 
 ### [Logo](tags/logo.md)
-- 142 prompts available
+- 139 prompts available
 
 ### [Minimalist](tags/minimalist.md)
-- 211 prompts available
+- 210 prompts available
 
 ### [Nature](tags/nature.md)
-- 357 prompts available
+- 354 prompts available
 
 ### [Neon](tags/neon.md)
 - 65 prompts available
 
 ### [Paper-craft](tags/paper-craft.md)
-- 120 prompts available
+- 118 prompts available
 
 ### [Photography](tags/photography.md)
-- 411 prompts available
+- 408 prompts available
 
 ### [Pixel](tags/pixel.md)
 - 35 prompts available
 
 ### [Portrait](tags/portrait.md)
-- 318 prompts available
+- 317 prompts available
 
 ### [Poster](tags/poster.md)
 - 68 prompts available
 
 ### [Product](tags/product.md)
-- 112 prompts available
+- 109 prompts available
 
 ### [Retro](tags/retro.md)
 - 82 prompts available
@@ -110,11 +110,11 @@
 - 63 prompts available
 
 ### [Typography](tags/typography.md)
-- 116 prompts available
+- 113 prompts available
 
 ### [Ui](tags/ui.md)
 - 38 prompts available
 
 ### [Vehicle](tags/vehicle.md)
-- 235 prompts available
+- 234 prompts available
 

@@ -2,7 +2,7 @@
 
 > A premium, curated collection of high-quality AI prompts for image generation. Optimized for artists, designers, and prompt engineers.
 
-**Total Prompts:** 954
+**Total Prompts:** 950
 **Last Updated:** 2025-12-30
 
 ## 🚀 Quick Navigation
@@ -545,56 +545,7 @@ Scheme G (azurite/emerald green base): Base color: emerald green/azurite (common
 
 ---
 
-### 12. paper cutting art
-
-![paper cutting art](https://opennana.com/awesome-prompt-gallery/images/907.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@berryxia](https://x.com/berryxia/status/2002015301618294794)
-- **Tags:** [Architecture](tags/architecture.md), [Food](tags/food.md), [Landscape](tags/landscape.md), [Logo](tags/logo.md), [Paper-craft](tags/paper-craft.md), [Portrait](tags/portrait.md), [Typography](tags/typography.md), [Vehicle](tags/vehicle.md)
-
-**Prompt:**
-
-```
-Paper cut layered art: [city name in English] ([city name in local language]) day-night elegant diagonal split (top-left→bottom-right) with soft artistic transition.
-Core: ONE [Iconic Landmark] bisected diagonally with elegant gradient - warm golden tones (day side: orange, peach, coral, amber, [characteristic warm color]) / cool tones with rich warm lights (night side: navy, purple, midnight blue, with abundant yellow windows, red lanterns, vibrant [characteristic] accents).
-CRITICAL AESTHETIC REQUIREMENTS:
-- Beautiful, visually stunning composition
-- Rich details and intricate paper cut patterns
-- Elegant color harmony with [urban culture] aesthetics
-- Sophisticated [cultural characteristics] decorative elements
-- High artistic value with refined craftsmanship
-Text: "[city name text]" in beautiful [language type] calligraphy/typography, split by diagonal with elegant transition, surrounded by exquisite [local decorative pattern 1], [local decorative pattern 2], and [local decorative pattern 3], strong dimensional depth with layered shadow effects.
-Day side (left/top): Brilliant golden sun with radiating warm rays, gorgeous warm amber/peach/coral sky with [characteristic atmosphere description], [city temperament] sophisticated atmosphere. Beautiful daytime elements - [characteristic food 1] with [detailed description], [characteristic food 2] with [presentation method], [special food 3] with [artistic presentation], [other food]; stunning [representative plant 1] with detailed [part] in rich [color], [representative plant 2] with [Feature description]; magnificent [Geographical feature] in bright [Color] reflection with [Detail]; [Landmark building/scene 1] with ornate details glowing in sunlight, [Featured street scene/scene] with refined [Detail], [Cultural event scene] with [Description].
-Diagonal transition: Soft gradient with twilight beauty - [Transition Color 1], [Transition Color 2], [Transition Color 3], [Transition Color 4], [Transition Color 5] - creating elegant natural flow [Transition description that reflects the characteristics of the city].
-Night side (right/bottom): Gorgeous blue/silver moon with ethereal glow and sparkling stars, rich deep navy and midnight blue sky with beautiful depth. Spectacular nighttime atmosphere with abundant warm light sources creating magical [cultural characteristics] ambiance - numerous glowing yellow windows/lights creating patterns, elegant orange street lamps [location description], beautiful traditional red lanterns [scene description], stunning purple-magenta [characteristic light], brilliant cyan-teal [landmark light], golden light from [place] glows, rich amber reflections [location]. Night elements - dazzling illuminated [night landmark 1] with [effect], magnificent glowing [night landmark 2], charming [night scene] with [atmosphere], vibrant [nightlife description].
-Unified elements (each appears once with elegant transition): [Main Landmark 1] showing beautiful gradient from day to night, [Main Landmark 2] with [Details], [Geographic Features] with [Description of Changes], [Building Groups] with [Description of Style], [Plants] with natural beauty, [Transportation], [Cultural Symbols] with [Decoration], harmonious blend of [Traditional Features] and [Modern Features].
-Craft technique: 10-12 distinct paper layers with EXTREME pronounced depth and dimension, very thick visible edges (4-6mm thickness showing dimension), dramatic shadows creating powerful 3D sculptural relief effect, each element shows intricate multi-layer construction with refined details, ornate decorative patterns throughout ([pattern 1], [pattern 2], [pattern 3]), side-lighting creating stunning dimensional effect [emphasis feature].
-Format: landscape orientation, no border, no frame, elegant soft diagonal transition (clear enough to show duality but refined and artistic), sophisticated visual balance, BEAUTIFUL and STUNNING overall aesthetic capturing [urban characteristics].
-The artwork should be visually gorgeous, [temperament adjective 1], [temperament adjective 2] - capturing [city core character description].
-
- {Display a character display of Van Gogh drawn in this style, using 4K output 9:16 Friday is all about elements related to Van Gogh}
-```
-
----
-
-### 13. Christmas Special-Christmas Skin Care Set Promotional Card
-
-![Christmas Special-Christmas Skin Care Set Promotional Card](https://opennana.com/awesome-prompt-gallery/images/960.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@songguoxiansen](https://x.com/songguoxiansen/status/2003096613359853946)
-- **Tags:** [Branding](tags/branding.md), [Logo](tags/logo.md), [Nature](tags/nature.md), [Photography](tags/photography.md), [Product](tags/product.md), [Typography](tags/typography.md)
-
-**Prompt:**
-
-```
-Create a professional Christmas skin care product set promotional card, using a vertical composition design with a simple and high-end overall style. The background uses soft gradient colors, transitioning from icy white at the top to light pink at the bottom, creating a fresh and elegant atmosphere. In the upper center of the screen, a set of high-end skin care product gift boxes are carefully placed. The gift boxes are packaged in matte white, with exquisite snowflake texture and brand logo (Dior) embossed on the surface. The gift box is open, revealing three skin care product bottles of different sizes inside. The bottle body design is simple and modern, with golden bottle caps. Christmas decoration elements are cleverly placed around the product: a few fresh pine branches, small golden bells, a few red berries, and scattered small gift boxes. All props are carefully lit to present a high-end product photography quality. The Chinese title "Christmas Gift·Rejuvenation" is written in slim and elegant font on the top of the card. The promotion information is marked in eye-catching red fonts below the product, "Limited gift box, 20% off, and 5 free facial masks with purchase." The text at the bottom is in the style of a call-to-action button, "Buy now, limited quantity," and the validity period of the event is "December 15-26." The overall design emphasizes the perfect combination of product texture and festive atmosphere. Aspect ratio 9:16
-```
-
----
-
-### 14. Childlike style illustration
+### 12. Childlike style illustration
 
 ![Childlike style illustration](https://opennana.com/awesome-prompt-gallery/images/981.jpeg)
 
@@ -610,7 +561,7 @@ Please generate an illustration of [theme/subject]. The overall style is whimsic
 
 ---
 
-### 15. A vertical clothing poster
+### 13. A vertical clothing poster
 
 ![A vertical clothing poster](https://opennana.com/awesome-prompt-gallery/images/989.jpeg)
 
@@ -668,7 +619,7 @@ NEGATIVE:
 
 ---
 
-### 16. High fashion studio photo collage
+### 14. High fashion studio photo collage
 
 ![High fashion studio photo collage](https://opennana.com/awesome-prompt-gallery/images/990.jpeg)
 
@@ -710,7 +661,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### 17. Ultra-realistic, cinematic portraits
+### 15. Ultra-realistic, cinematic portraits
 
 ![Ultra-realistic, cinematic portraits](https://opennana.com/awesome-prompt-gallery/images/991.jpeg)
 
@@ -744,305 +695,7 @@ Color/post-production: high details, advanced color grading, natural skin textur
 
 ---
 
-### 18. Full process display of professional jewelry type design
-
-![Full process display of professional jewelry type design](https://opennana.com/awesome-prompt-gallery/images/993.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@yyyole](https://x.com/yyyole/status/2004766562360942975)
-- **Tags:** [3d](tags/3d.md), [Architecture](tags/architecture.md), [Branding](tags/branding.md), [Landscape](tags/landscape.md), [Logo](tags/logo.md), [Nature](tags/nature.md), [Paper-craft](tags/paper-craft.md), [Photography](tags/photography.md), [Product](tags/product.md)
-
-**Prompt:**
-
-```
-Professional {jewelry type} design full process display | {Main material} commercial-grade design process visualization, professional design system document style.
-[Main material]: {gold} (such as: tiger eye stone, jadeite, southern red agate)
-[Jewelry Type]: {Bracelet} (such as: bracelets, pendants, rings, earrings
-[Intelligent configuration of auxiliary materials]: Automatic matching according to the main materials (metal accessories, spacers, elastic cords, etc.)
-
-Professional jewelry design full process display diagram | Complete design process from concept to finished product
-
-Project information section (upper left corner)
-Project name: "{Main Material} {Jewelry Type} Design Plan"
-Designer signature column (muyang)
-Item number and date
-Reserved space for brand logo
-Golden decorative wire frame
-
-Phase 1: CONCEPT DESIGN
-Visual presentation:
-Mood Board: {Main Materials} Raw stone photos, texture close-ups, color extraction
-Hand-drawn sketches: 3-4 design options, pencil sketch style
-Integration of cultural elements (such as tiger eye stone → Oriental auspicious animal pattern)
-Scale mark, key dimension remarks
-Label content:
-Description of design concept (bilingual in Chinese and English)
-Target customer group positioning
-budget range estimate
-
-The second stage: material selection MATERIAL CURATION
-Main material display area:
-{Main material} Comparison between raw ore and finished beads
-4-6 quality grading display (AAAAAA→A grade)
-Close-up of texture under microscope
-Color card comparison (Pantone color number marking)
-Professional jewelry tray presentation
-Auxiliary material intelligent matching area:
-Metal accessories: Choose warm color main materials (tiger eye stone, southern red) according to the tonality of the main material → 18K rose gold/red copper
-Cold color main materials (lapis lazuli, aquamarine) → 925 silver/platinum
-Neutral main material (obsidian, agate) → stainless steel/titanium steel
-Spacer beads/matching beads: coordinated size ratio (1/3-1/2 of the main bead diameter)
-Material comparison (such as tiger eye stone with clam/coconut shell)
-Quantity ratio suggestions
-Stringing material: bracelet→elastic cord (gram weight marked)
-Necklace→Stainless Steel Wire/K Gold Chain
-Transparent display boxes arranged in compartments
-Lighting: soft light from the top + warm light from the side to highlight the luster of the material
-
-The third stage: TECHNICAL DRAWING
-CAD professional drawing:
-Three views (front view/side view/top view), accurate to 0.1mm
-Cross-sectional view showing the internal structure (such as the location of the spacer bead perforation)
-Dimension line (arrow + number)
-Bead arrangement sequence diagram
-Details of rope knotting process nodes
-Blueprint background + white wireframe, architectural drawing style
-Parameter table:
-| Parts | Dimensions | Quantity | Material |
-| {Main material} Main beads | Ø{X}mm | {N} pieces | Natural {Main material} |
-| Spacer beads | Ø{Y}mm | {M} pieces | {auxiliary materials} |
-| Accessories | - | 1 set | {Metal material} |
-
-The fourth stage: PROTOTYPING
-Production process:
-Bead selection and matching: craftsmen use calipers to measure and compare color differences
-Grinding and polishing: grinder/hand polishing table
-Puncture inspection: professional light see-through hole
-Trial adjustment: wrist/neck model display, circumference adjustment
-Detail close-up: metal buckle installation process, macro photography
-Environment settings:
-Traditional workbench (wood/marble top)
-Display of professional jewelry tools (tweezers, magnifying glasses, measuring tools)
-Warm color work light lighting
-Close-up of craftsman's hands (showing craftsmanship)
-
-The fifth stage: quality control inspection QUALITY CONTROL
-Detection scenario:
-Detect the authenticity of {main material} under ultraviolet light
-Electronic scale for accurate weighing (gram weight display)
-Vernier caliper to check dimensions
-Tensile test elastic cord strength
-Close-up of inspection report (certificate number, test data)
-Split screen display:
-Left: Testing equipment operation
-Right: Enlarged display of test results
-Bottom: Qualification seal/quality inspection signature
-Color tone: cool color technology sense, white laboratory environment
-
-Stage Six: Packaging Presentation PACKAGING
-Packaging system display:
-Inner packaging: customized velvet bag/brocade box, brand hot stamping logo
-Outer packaging: art gift box, {main material} texture printing
-Accessories: Material certificate card
-Maintenance instructions (with pictures and texts)
-Brand Story Card
-Wipes/sealed bags
-Composition: explosion pattern unfolds, layer by layer
-
-Stage 7: FINAL SHOWCASE
-
-Group A-Product Photography:
-Pure white background suspended shooting, 360° full angle
-Close-up: {Main Material} Cat Eye Effect/Crystal Texture
-Reflective details on metal hardware
-Size reference (coin/ruler)
-Professional studio four-point lighting
-Group B-scenario application:
-Real wrist/neck wear
-Lifestyle scenes (coffee table, desk, outdoor)
-Different light environments (natural light/night scene lighting)
-Dynamic display (hand movements form light tracks)
-Group C - details zoomed in:
-100x Macro: {Main Material} Internal Structure
-Metal interface process close-up
-Knotted rope braid texture
-Brand engraved details
-
-Overall visual specifications
-layout architecture
-Horizontal timeline: 7-stage equal-width distribution, 21:9 movie ratio
-Process arrow: three-dimensional metal texture, gradient luminous effect
-Information level: Level 1 title: bold Chinese + thin English, gold
-Secondary heading: boldface, size 12
-Text annotation: Song Dynasty/Siyuan Heidi, No. 9
-color system
-Background tone: #F8F6F0 ivory white
-Main material color: extracted according to the natural color of {main material} (tiger eye stone → amber golden brown)
-Metal color: K gold #D4AF37
-Silver #C0C0C0
-Rose gold #B76E79
-Accent color: Sepia #3E2723 (text/border)
-photography standards
-Resolution: Minimum 4K (3840×2160)
-Depth of field: F8-F11 keeps all stages clear
-Color temperature: 5500K standard daylight
-Format: RAW original film post-production, retaining maximum details
-```
-
----
-
-### 19. encyclopedic information card
-
-![encyclopedic information card](https://opennana.com/awesome-prompt-gallery/images/994.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@yyyole](https://x.com/yyyole/status/2005135811185180757)
-- **Tags:** [Food](tags/food.md), [Minimalist](tags/minimalist.md), [Nature](tags/nature.md), [Photography](tags/photography.md), [Product](tags/product.md), [Typography](tags/typography.md)
-
-**Prompt:**
-
-```
-An encyclopedic information card of [Asparagus] in a minimalist art style,
-Museum exhibit-level design quality, informative yet visually restrained
-
-[Overall Composition - Golden Section Layout]
--Screen ratio: 2:3 vertical or 3:4 square
-- Three major visual areas:
-  * Top display area (30%): large-scale food photography + elegant title layout
-  * Central information area (60%): multi-level information module grid system
-  * Bottom comment area (10%): source annotation + design details
-
-[Top display area - visual focus]
-• Ingredient names: extra large font size, thin line/Song font, widened font spacing
-• Latin scientific name: small italic, gray tone
-• Food classification labels: minimalist capsule shape labels
-• Main image: close-up of ingredients with background removed, studio lighting, slight shadows
-• Small map illustration of origin
-• Current quarter timeline line graph
-
-[Central Core Information Area - 9 modules]
-
-1. Detailed explanation of nutritional ingredients
-   - Donut chart: proportion of calories, protein, carbohydrates, and fat
-   - Bar chart: Vitamin A/C/E/K content comparison
-   - List of mineral trace elements (calcium, iron, zinc, etc.)
-   - Accurate labeling of nutritional data per 100g
-   - GI value (glycemic index) visual scale
-
-2. Health efficacy map
-   - Human body outline diagram to mark the beneficial areas
-   - Icon display of 5-6 main functions
-   - Indication of effectiveness level (⭐⭐⭐⭐⭐)
-   - Small annotation of scientific research sources
-
-3. Cooking method matrix
-   - 8-10 cooking method icon grid
-   - Optimal temperature/time parameters for each method
-   - Nutrient retention percentage display
-   - Recommendation index star rating
-   - Difficulty level color coding
-
-4. Eating Guide for Four Seasons
-   - Circular time wheel design
-   - Mark the best consumption month
-   - Description of efficacy changes in different seasons
-   - Seasonal matching suggestions
-
-5. Golden matching matrix
-   - 9-square grid with small icons of ingredients
-   - A short note on the reason for the combination
-   - Synergy/competition warning
-   - Examples of classic dish recipes
-   - Nutritional complementary relationship connection diagram
-
-6. Suitable crowd portraits
-   - Crowd icons (children/pregnant women/elderly people/athletes, etc.)
-   - Recommendation level color coding
-   - Dosage recommendations for special populations
-   - Age classification guide
-
-7. Taboos and precautions
-   - Red warning box design
-   -Clear list of unsuitable groups of people
-   - Allergen labeling
-   -Drug interaction tips
-   - Maximum intake warning line
-
-8. Purchasing and storage guide
-   - Key points for judging freshness (color/feel/smell)
-   - Illustration of quality grade classification
-   - Optimal storage of temperature/humidity data
-   - Shelf life timeline
-   - Refrigerated/frozen/normal temperature icon guide
-
-9. Expansion of interesting knowledge
-   - Historical stories (origins/legends)
-   - Nicknames around the world
-   - Visualization of annual production data
-   - Explanation of organic/GMO labeling
-   - Sustainability rating
-
-[Visual System - Minimalist Art Aesthetics]
-
-Color scheme:
-- Main color: extracted from the natural color of the ingredients themselves
-- Secondary color: earth tone (off-white/oat/linen/graphite gray)
-- Accent colors: limit the use of 1-2 high-purity colors
-- Background: pure white or very light gray (#FAFAFA)
-- Text: dark gray instead of pure black (#2C2C2C)
-
-Font system:
-- Title: Ultra-thin line sans serif font (Helvetica Neue UltraLight)
-- Text: modern geometric font (DIN/Futura)
-- Data: Monospace font (Roboto Mono)
-- Chinese: Siyuan Black Body Light/Fangzheng Lanting Black
-- Font size level: 6-level font size system (48/32/24/16/12/10pt)
-
-Icon system:
-- Unified 2pt line width
-- Rounded corner consistency (2px)
-- 24x24px grid alignment
-- stroke rather than fill takes precedence
-- Utilize negative space
-
-Layout system:
-- 12 column grid system
-- 8pt baseline grid alignment
-- Module spacing: 24pt/32pt/48pt
-- Margins: Margins starting from 48pt
-- Card rounded corners: 8-12px
-- Subtle dividing line: 0.5pt, 15% transparency
-
-Texture details:
-- Micro gradient background (3-5% color value change)
-- Soft drop shadow (0 4px 24px rgba(0,0,0,0.04))
-- Frosted glass effect (backdrop-filter: blur(20px))
-- Subtle height differences between elements (altitude system)
-- Light fill of data area (5% transparency)
-
-[Information Visualization Principles]
-- Data Charts: Edward Tufte’s Minimalistic Data Ink Principles
-- Remove unnecessary decorations
-- Chart grid lines are very light (10% transparency)
-- Accurate labeling of data points
-- Trend lines are smooth and natural
-
-[Creating a sense of breathing]
-- Space between modules ≥ 25% of module content width
-- Text line spacing 1.6-1.8 times
-- Paragraph spacing ≥ 2 lines high
-- Rules for leaving blank space in image and text combinations
-
-Style keywords:
-Swiss internationalist graphic design, Japanese wabi-sabi aesthetics, Bauhaus functionalism,
-Scandinavian minimalism, Dieter Rams design philosophy,
-MUJI visual language, Kinfolk magazine aesthetics,
-Apple product design language, essence of Google Material Design
-```
-
----
-
-### 20. Fashion designer makes sketch based on character image
+### 16. Fashion designer makes sketch based on character image
 
 ![Fashion designer makes sketch based on character image](https://opennana.com/awesome-prompt-gallery/images/995.jpeg)
 
@@ -1058,7 +711,87 @@ a fashion designer's sketch of an [elegant outfit or dress] inspired by [ charac
 
 ---
 
+### 17. 3D cartoon character breaks the wall
+
+![3D cartoon character breaks the wall](https://opennana.com/awesome-prompt-gallery/images/996.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@CharaspowerAI](https://x.com/CharaspowerAI/status/2004968032745951651)
+- **Tags:** [3d](tags/3d.md), [Cartoon](tags/cartoon.md), [Character](tags/character.md), [Vehicle](tags/vehicle.md)
+
+**Prompt:**
+
+```
+3d cartoon of a happy [character] breaking down [type of wall or object] with [hands / body / special ability], in the style of pixar. adorable [eye description], lovely colorful soft background, vibrant colors, very cute face, high detail, octane render, depth of field, cinematic lighting.
+```
+
+---
+
+### 18. New Year's Day Special - Retro Cheongsam Lady Style
+
+![New Year's Day Special - Retro Cheongsam Lady Style](https://opennana.com/awesome-prompt-gallery/images/997.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@songguoxiansen](https://x.com/songguoxiansen/status/2005097871977447736)
+- **Tags:** [3d](tags/3d.md), [Character](tags/character.md), [Nature](tags/nature.md), [Portrait](tags/portrait.md), [Retro](tags/retro.md)
+
+**Prompt:**
+
+```
+[Key: Maintain accurate facial features, retain the original facial structure, and the character in the picture is exactly the same as the uploaded reference picture]
+Exquisite studio portrait, the character has skin as delicate and fair as gelatin, with elegant makeup emphasizing transparency and nude pink lips. She wore a traditional red phoenix embroidered cheongsam with a high slit to show off her slender legs. The cuffs and collar were embroidered with gold thread auspicious cloud patterns, and she wore a long golden tulle cape hanging from her shoulders to the ground. The hairstyle is an elegant side low bun, decorated with golden phoenix steps, red beads and long golden tassels. The hair accessories sway slightly with the movement, and wavy hair is left on one side to modify the face. She stood on the red carpet in a classic cheongsam posture, with one leg exposed from the slit, one hand on her waist to show her confidence, and the other hand holding a long golden pipe-style cigarette holder elegantly placed on her lips, her head tilted slightly to show her delicate profile, and her eyes were cold and noble. The background is a dark red velvet curtain, with gold "Happy New Year's Day" calligraphy characters and "2026" three-dimensional devices hanging in the center. Red columns, golden vases with plum blossoms, and retro phonographs are symmetrically arranged on both sides. Rembrandt light creates a classic Hollywood atmosphere, emphasizing contrast between light and dark and dramatic tension. Phase One shooting system, with strong retro colors and top studio vintage blockbuster texture.
+```
+
+---
+
+### 19. New Year's Day Special - Pink Swing Fairytale Style
+
+![New Year's Day Special - Pink Swing Fairytale Style](https://opennana.com/awesome-prompt-gallery/images/998.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@songguoxiansen](https://x.com/songguoxiansen/status/2005268799512309855)
+- **Tags:** [3d](tags/3d.md), [Character](tags/character.md), [Nature](tags/nature.md), [Portrait](tags/portrait.md)
+
+**Prompt:**
+
+```
+[Key: Maintain accurate facial features, retain the original facial structure, and the character in the picture is exactly the same as the uploaded reference picture]
+Professional studio dream portrait, the character shows moist and fair skin like pearls, with light makeup highlighting natural rosiness and peach lip color. She wore a gradient pink-gold gauze dress with hand-embroidered gold stars and red flowers on the skirt, and a white feather shawl on the shoulders. The hairstyle is a romantic half-up and half-up style, with the back half braided into a delicate fishbone braid and coiled into a flower shape, decorated with a golden star-and-moon hair crown, small red roses and pearl hair chains, while the front half of the curly hair hangs down naturally. She was sitting on a suspended golden swing, lightly holding the rope with both hands, one leg hanging naturally and the other slightly bent, her body slightly leaning back as if on a swing, her skirt fluttering with her movements, her head tilted to the side with a sweet smile and dreamy eyes. The background is a pure white gradient to pink-gold background cloth, with gold and red star decorations, "2026" three-dimensional number pendants, transparent balloon bunches hanging above, and pink and gold petals scattered on the ground. The soft box lights from multiple angles to create a dreamy soft focus effect, and the top light creates a fairy halo. Shot with Hasselblad X2D-100C, with shallow depth of field, pink and dreamy tones, and a high-end studio fairy tale style texture.
+```
+
+---
+
+### 20. custom balloons
+
+![custom balloons](https://opennana.com/awesome-prompt-gallery/images/22.jpeg)
+
+- **Model:** None
+- **Source:** [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1924121078559125841)
+- **Tags:** [3d](tags/3d.md), [Minimalist](tags/minimalist.md), [Toy](tags/toy.md), [Typography](tags/typography.md)
+
+**Prompt:**
+
+```
+A highly realistic 3D installation art: the letter Z is designed in the shape of an inflatable balloon. The overall shape is like a smooth and curved "Z" path, consisting of two oblique lines and a corner. The edges are slightly curled, full of soft air pressure.
+
+The angle of view is an orthogonal projection with a frontal and slightly upward angle (about 10°). The subject is placed in the center of the picture, occupying almost the entire frame. The background is pure black, creating a focused stage effect similar to a theater spotlight.
+
+The material is high-elastic glossy PVC and the surface is coated with high-gloss varnish. The main color is soft bright pink (#FF96AC), and the shadow part gradually changes to lavender pink. The surface has both specular highlights and soft diffuse reflection, presenting a silky, full and tense visual texture.
+
+A metal spiral air nozzle (silver gray) can be seen in the lower left corner. It is small but very realistic, suggesting that it is an inflatable object. A string of black warning text and safety icons are printed at the end of the lower right stroke, typed in the "ZHOGUE" style, echoing the visual language of inflatable toys.
+
+The main light source comes from about 35° from the upper left, showing a clear hard-edged spotlight effect: an oval-shaped white highlight is formed in the top corner and central diagonal area, and the inward-folded shadow area has soft pink-purple internal reflection.
+
+The fill light comes from the rear right and gently strokes the top and turning edges to separate the form from the black background. The overall light ratio is about 1:2, maintaining the transparency and three-dimensionality of the color. The color temperature of the bright area is cooler, creating a contrast between warm and cold and further highlighting the texture.
+
+The surface of the balloon is slightly bulging, and there are sharp creases in the corners and turning areas, bringing visual tension of softness and geometry. The deepest turning point casts a slender shadow, as if it is about to burst; there is a slight tugging sensation at the lower end, as if the tail of a balloon is about to be pulled.
+
+The overall concept combines the letter structure and the material language of inflatable toys. Through exaggerated volume, real light and minimalist stage sense, it creates a visual impact of "letters can breathe", presenting the collision of rational geometry and perceptual touch.
+```
+
+---
+
 
 > [!TIP]
-> **[View All 954 Prompts in the Index →](INDEX.md)**
+> **[View All 950 Prompts in the Index →](INDEX.md)**
 

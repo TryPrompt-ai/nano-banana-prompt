@@ -1,6 +1,6 @@
 # Vehicle Prompts
 
-> Found 235 prompts in this category.
+> Found 234 prompts in this category.
 
 ---
 
@@ -138,39 +138,6 @@ Photo taken with an extreme fisheye lens. A young woman with blond hair and twin
     }
   }
 }
-```
-
----
-
-## paper cutting art
-
-![paper cutting art](https://opennana.com/awesome-prompt-gallery/images/907.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@berryxia](https://x.com/berryxia/status/2002015301618294794)
-- **Tags:** architecture, food, landscape, logo, paper-craft, portrait, typography, vehicle
-
-**Prompt:**
-
-```
-Paper cut layered art: [city name in English] ([city name in local language]) day-night elegant diagonal split (top-left→bottom-right) with soft artistic transition.
-Core: ONE [Iconic Landmark] bisected diagonally with elegant gradient - warm golden tones (day side: orange, peach, coral, amber, [characteristic warm color]) / cool tones with rich warm lights (night side: navy, purple, midnight blue, with abundant yellow windows, red lanterns, vibrant [characteristic] accents).
-CRITICAL AESTHETIC REQUIREMENTS:
-- Beautiful, visually stunning composition
-- Rich details and intricate paper cut patterns
-- Elegant color harmony with [urban culture] aesthetics
-- Sophisticated [cultural characteristics] decorative elements
-- High artistic value with refined craftsmanship
-Text: "[city name text]" in beautiful [language type] calligraphy/typography, split by diagonal with elegant transition, surrounded by exquisite [local decorative pattern 1], [local decorative pattern 2], and [local decorative pattern 3], strong dimensional depth with layered shadow effects.
-Day side (left/top): Brilliant golden sun with radiating warm rays, gorgeous warm amber/peach/coral sky with [characteristic atmosphere description], [city temperament] sophisticated atmosphere. Beautiful daytime elements - [characteristic food 1] with [detailed description], [characteristic food 2] with [presentation method], [special food 3] with [artistic presentation], [other food]; stunning [representative plant 1] with detailed [part] in rich [color], [representative plant 2] with [Feature description]; magnificent [Geographical feature] in bright [Color] reflection with [Detail]; [Landmark building/scene 1] with ornate details glowing in sunlight, [Featured street scene/scene] with refined [Detail], [Cultural event scene] with [Description].
-Diagonal transition: Soft gradient with twilight beauty - [Transition Color 1], [Transition Color 2], [Transition Color 3], [Transition Color 4], [Transition Color 5] - creating elegant natural flow [Transition description that reflects the characteristics of the city].
-Night side (right/bottom): Gorgeous blue/silver moon with ethereal glow and sparkling stars, rich deep navy and midnight blue sky with beautiful depth. Spectacular nighttime atmosphere with abundant warm light sources creating magical [cultural characteristics] ambiance - numerous glowing yellow windows/lights creating patterns, elegant orange street lamps [location description], beautiful traditional red lanterns [scene description], stunning purple-magenta [characteristic light], brilliant cyan-teal [landmark light], golden light from [place] glows, rich amber reflections [location]. Night elements - dazzling illuminated [night landmark 1] with [effect], magnificent glowing [night landmark 2], charming [night scene] with [atmosphere], vibrant [nightlife description].
-Unified elements (each appears once with elegant transition): [Main Landmark 1] showing beautiful gradient from day to night, [Main Landmark 2] with [Details], [Geographic Features] with [Description of Changes], [Building Groups] with [Description of Style], [Plants] with natural beauty, [Transportation], [Cultural Symbols] with [Decoration], harmonious blend of [Traditional Features] and [Modern Features].
-Craft technique: 10-12 distinct paper layers with EXTREME pronounced depth and dimension, very thick visible edges (4-6mm thickness showing dimension), dramatic shadows creating powerful 3D sculptural relief effect, each element shows intricate multi-layer construction with refined details, ornate decorative patterns throughout ([pattern 1], [pattern 2], [pattern 3]), side-lighting creating stunning dimensional effect [emphasis feature].
-Format: landscape orientation, no border, no frame, elegant soft diagonal transition (clear enough to show duality but refined and artistic), sophisticated visual balance, BEAUTIFUL and STUNNING overall aesthetic capturing [urban characteristics].
-The artwork should be visually gorgeous, [temperament adjective 1], [temperament adjective 2] - capturing [city core character description].
-
- {Display a character display of Van Gogh drawn in this style, using 4K output 9:16 Friday is all about elements related to Van Gogh}
 ```
 
 ---

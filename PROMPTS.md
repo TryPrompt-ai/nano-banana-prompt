@@ -1,5 +1,5 @@
 # Prompt Gallery
-*Total prompts: 954*
+*Total prompts: 950*
 
 ## All Prompts
 
@@ -69,18 +69,6 @@
 - Model: Nano banana pro
 - Prompt: Generate a 9:16 vertical version of the realistic photo of "The Golden Age of the Tang Dynasty and Paris": use the FACE_REF I uploaded as a reference for the identity of the character, 100% restora...
 
-### 1772. paper cutting art
-![paper cutting art](images/907.jpeg)
-- Tags: architecture, food, landscape, logo, paper-craft, portrait, typography, vehicle
-- Model: Nano banana pro
-- Prompt: Paper cut layered art: [city name in English] ([city name in local language]) day-night elegant diagonal split (top-left→bottom-right) with soft artistic transition. Core: ONE [Iconic Landmark] bis...
-
-### 1771. Christmas Special-Christmas Skin Care Set Promotional Card
-![Christmas Special-Christmas Skin Care Set Promotional Card](images/960.jpeg)
-- Tags: branding, logo, nature, photography, product, typography
-- Model: Nano banana pro
-- Prompt: Create a professional Christmas skin care product set promotional card, using a vertical composition design with a simple and high-end overall style. The background uses soft gradient colors, trans...
-
 ### 1769. Childlike style illustration
 ![Childlike style illustration](images/981.jpeg)
 - Tags: illustration, paper-craft
@@ -104,18 +92,6 @@
 - Tags: fashion, landscape, nature, photography, portrait, retro
 - Model: Nano banana pro
 - Prompt: Ultra-realistic film-like portraits, high-end fashion 9:16 format magazine-style photography.  Hairstyle: Short hair, with windblown strands flying around the face, partially covering facial featur...
-
-### 1763. Full process display of professional jewelry type design
-![Full process display of professional jewelry type design](images/993.jpeg)
-- Tags: 3d, architecture, branding, landscape, logo, nature, paper-craft, photography, product
-- Model: Nano banana pro
-- Prompt: Professional {jewelry type} design full process display | {Main material} commercial-grade design process visualization, professional design system document style. [Main material]: {gold} (such as:...
-
-### 1762. encyclopedic information card
-![encyclopedic information card](images/994.jpeg)
-- Tags: food, minimalist, nature, photography, product, typography
-- Model: Nano banana pro
-- Prompt: An encyclopedic information card of [Asparagus] in a minimalist art style, Museum exhibit-level design quality, informative yet visually restrained  [Overall Composition - Golden Section Layout] -S...
 
 ### 1761. Fashion designer makes sketch based on character image
 ![Fashion designer makes sketch based on character image](images/995.jpeg)
@@ -5312,8 +5288,7 @@
 
 ## Tags
 
-### 3d (79)
-- [1763] Full process display of professional jewelry type design
+### 3d (78)
 - [1760] 3D cartoon character breaks the wall
 - [1759] New Year's Day Special - Retro Cheongsam Lady Style
 - [1758] New Year's Day Special - Pink Swing Fairytale Style
@@ -5444,10 +5419,8 @@
 - [894] Dongshan Xiaohong
 - [853] Judy stands on the snow bridge
 
-### architecture (71)
+### architecture (69)
 - [1789] The woman stretches her hand exaggeratedly toward the camera
-- [1772] paper cutting art
-- [1763] Full process display of professional jewelry type design
 - [1740] Stylish Asian Fashion Blogger
 - [1738] Display board for residential building created by architectural illustrator
 - [1729] Anime style digital poster
@@ -5517,12 +5490,10 @@
 - [804] Blonde woman kneeling on yacht deck
 - [795] Collage posters from the Y2K era
 
-### branding (119)
+### branding (117)
 - [1800] 9-square grid product display
 - [1779] Product development trajectory chart
 - [1776] A super realistic vertical photo
-- [1771] Christmas Special-Christmas Skin Care Set Promotional Card
-- [1763] Full process display of professional jewelry type design
 - [1750] A complete high-end product promotional photo
 - [1735] Woman extends index finger forward towards camera lens
 - [1707] Blue and white porcelain style
@@ -6353,9 +6324,7 @@
 - [830] Urban streetwear editorial collage
 - [807] Winter solstice poster
 
-### food (72)
-- [1772] paper cutting art
-- [1762] encyclopedic information card
+### food (70)
 - [1739] Gallery grid view for Apple’s iOS Photos app
 - [1735] Woman extends index finger forward towards camera lens
 - [1729] Anime style digital poster
@@ -6777,7 +6746,7 @@
 - [786] Ultra-realistic Macbook screen video conferencing diagram
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 
-### landscape (315)
+### landscape (313)
 - [1805] Colorful Y2K scrapbooking poster
 - [1804] Woman taking selfie while lying on her back
 - [1800] 9-square grid product display
@@ -6786,10 +6755,8 @@
 - [1777] Girls night city street shooting
 - [1776] A super realistic vertical photo
 - [1774] Photos of the prosperous Tang Dynasty and Paris
-- [1772] paper cutting art
 - [1766] High fashion studio photo collage
 - [1765] Ultra-realistic, cinematic portraits
-- [1763] Full process display of professional jewelry type design
 - [1750] A complete high-end product promotional photo
 - [1746] cartoon style keychain
 - [1737] triptych collage depicts three consecutive moments of women
@@ -7094,13 +7061,10 @@
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 - [782] Christmas Special - Christmas Sweet Girl
 
-### logo (142)
+### logo (139)
 - [1805] Colorful Y2K scrapbooking poster
 - [1800] 9-square grid product display
 - [1776] A super realistic vertical photo
-- [1772] paper cutting art
-- [1771] Christmas Special-Christmas Skin Care Set Promotional Card
-- [1763] Full process display of professional jewelry type design
 - [1761] Fashion designer makes sketch based on character image
 - [1750] A complete high-end product promotional photo
 - [1722] Technical drawing display board
@@ -7238,13 +7202,12 @@
 - [787] Five-part wide-format film collage
 - [785] Turn your favorite characters into collectibles
 
-### minimalist (211)
+### minimalist (210)
 - [1804] Woman taking selfie while lying on her back
 - [1800] 9-square grid product display
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1777] Girls night city street shooting
 - [1767] A vertical clothing poster
-- [1762] encyclopedic information card
 - [1757] custom balloons
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1750] A complete high-end product promotional photo
@@ -7451,7 +7414,7 @@
 - [785] Turn your favorite characters into collectibles
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### nature (357)
+### nature (354)
 - [1805] Colorful Y2K scrapbooking poster
 - [1804] Woman taking selfie while lying on her back
 - [1784] Hyper-realistic style real and cartoon separation effect
@@ -7459,12 +7422,9 @@
 - [1777] Girls night city street shooting
 - [1776] A super realistic vertical photo
 - [1774] Photos of the prosperous Tang Dynasty and Paris
-- [1771] Christmas Special-Christmas Skin Care Set Promotional Card
 - [1767] A vertical clothing poster
 - [1766] High fashion studio photo collage
 - [1765] Ultra-realistic, cinematic portraits
-- [1763] Full process display of professional jewelry type design
-- [1762] encyclopedic information card
 - [1759] New Year's Day Special - Retro Cheongsam Lady Style
 - [1758] New Year's Day Special - Pink Swing Fairytale Style
 - [1754] Make professional OOTD fashion collages in magazine editorial style
@@ -7877,14 +7837,12 @@
 - [858] 3x3 grid Pixar style storyboard
 - [830] Urban streetwear editorial collage
 
-### paper-craft (120)
+### paper-craft (118)
 - [1805] Colorful Y2K scrapbooking poster
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1779] Product development trajectory chart
 - [1774] Photos of the prosperous Tang Dynasty and Paris
-- [1772] paper cutting art
 - [1769] Childlike style illustration
-- [1763] Full process display of professional jewelry type design
 - [1748] Displayed on mobile phone screens in Japan in the early 2000s
 - [1738] Display board for residential building created by architectural illustrator
 - [1731] Christmas special - Christmas limited photo stickers, 9 levels of sweetness
@@ -7999,19 +7957,16 @@
 - [784] Visualization of gadgets and inventions from a given year
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### photography (411)
+### photography (408)
 - [1805] Colorful Y2K scrapbooking poster
 - [1800] 9-square grid product display
 - [1785] MacBook Pro laptop teardown
 - [1779] Product development trajectory chart
 - [1776] A super realistic vertical photo
 - [1774] Photos of the prosperous Tang Dynasty and Paris
-- [1771] Christmas Special-Christmas Skin Care Set Promotional Card
 - [1767] A vertical clothing poster
 - [1766] High fashion studio photo collage
 - [1765] Ultra-realistic, cinematic portraits
-- [1763] Full process display of professional jewelry type design
-- [1762] encyclopedic information card
 - [1750] A complete high-end product promotional photo
 - [1748] Displayed on mobile phone screens in Japan in the early 2000s
 - [1747] High-end professional tiled product photography
@@ -8449,14 +8404,13 @@
 - [845] minimalist food photography
 - [792] Woman is stepping out of her mobile phone screen
 
-### portrait (318)
+### portrait (317)
 - [1805] Colorful Y2K scrapbooking poster
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1780] Labubu’s 3x3 grid collage photo
 - [1777] Girls night city street shooting
 - [1776] A super realistic vertical photo
 - [1774] Photos of the prosperous Tang Dynasty and Paris
-- [1772] paper cutting art
 - [1767] A vertical clothing poster
 - [1766] High fashion studio photo collage
 - [1765] Ultra-realistic, cinematic portraits
@@ -8839,14 +8793,11 @@
 - [790] iron man coca cola
 - [785] Turn your favorite characters into collectibles
 
-### product (112)
+### product (109)
 - [1800] 9-square grid product display
 - [1785] MacBook Pro laptop teardown
 - [1779] Product development trajectory chart
 - [1776] A super realistic vertical photo
-- [1771] Christmas Special-Christmas Skin Care Set Promotional Card
-- [1763] Full process display of professional jewelry type design
-- [1762] encyclopedic information card
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1750] A complete high-end product promotional photo
 - [1747] High-end professional tiled product photography
@@ -9157,14 +9108,11 @@
 - [807] Winter solstice poster
 - [785] Turn your favorite characters into collectibles
 
-### typography (116)
+### typography (113)
 - [1800] 9-square grid product display
 - [1779] Product development trajectory chart
 - [1774] Photos of the prosperous Tang Dynasty and Paris
-- [1772] paper cutting art
-- [1771] Christmas Special-Christmas Skin Care Set Promotional Card
 - [1767] A vertical clothing poster
-- [1762] encyclopedic information card
 - [1757] custom balloons
 - [1754] Make professional OOTD fashion collages in magazine editorial style
 - [1750] A complete high-end product promotional photo
@@ -9315,10 +9263,9 @@
 - [792] Woman is stepping out of her mobile phone screen
 - [791] Editorial photo for concept art magazine
 
-### vehicle (235)
+### vehicle (234)
 - [1789] The woman stretches her hand exaggeratedly toward the camera
 - [1784] Hyper-realistic style real and cartoon separation effect
-- [1772] paper cutting art
 - [1767] A vertical clothing poster
 - [1760] 3D cartoon character breaks the wall
 - [1751] Ordinary objects transformed into giant monuments
