@@ -3,140 +3,177 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>🍌 Nano Banana Prompt Gallery</title>
+  <title>🍌 Nano Banana | Premium AI Prompt Gallery</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="A curated gallery of high-quality English AI prompts for image generation.">
+  <meta name="description" content="A curated collection of high-quality, professional AI prompts for image generation. Optimized for artists and engineers.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  
+  <!-- SEO & Social Sharing -->
+  <meta property="og:title" content="🍌 Nano Banana | AI Prompt Gallery">
+  <meta property="og:description" content="Premium curated AI image prompts. Boost your creativity today.">
+  <meta property="og:image" content="https://opennana.com/awesome-prompt-gallery/cover.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
   <style>
     :root {
-      /* Light mode colors */
+      /* Refined color palette */
       --theme-color: #6366f1;
+      --theme-color-soft: rgba(99, 102, 241, 0.1);
       --theme-color-dark: #4f46e5;
       --accent-color: #f59e0b;
-      --sidebar-background: #f9fafb;
-      --code-background: #f3f4f6;
+      --bg-color: #ffffff;
+      --sidebar-background: #f8fafc;
+      --code-background: #f1f5f9;
+      --text-main: #1e293b;
+      --text-muted: #64748b;
     }
 
     [data-theme="dark"] {
-      /* Dark mode colors */
+      --bg-color: #0f172a;
       --theme-color: #818cf8;
+      --theme-color-soft: rgba(129, 140, 248, 0.15);
       --theme-color-dark: #6366f1;
       --accent-color: #fbbf24;
-      --sidebar-background: #1f2937;
-      --code-background: #374151;
+      --sidebar-background: #1e293b;
+      --code-background: #334155;
+      --text-main: #f1f5f9;
+      --text-muted: #94a3b8;
+    }
+
+    body {
+      font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      color: var(--text-main);
+      background-color: var(--bg-color);
+      -webkit-font-smoothing: antialiased;
     }
 
     /* Enhanced sidebar */
     .sidebar {
-      background-color: var(--sidebar-background);
-      border-right: 1px solid rgba(0, 0, 0, 0.07);
+      background-color: var(--sidebar-background) !important;
+      border-right: 1px solid rgba(0, 0, 0, 0.05) !important;
+      padding-top: 20px;
     }
 
     .sidebar-nav li>a {
       font-weight: 400;
-      transition: all 0.2s ease;
+      color: var(--text-muted);
+      border-radius: 8px;
+      margin: 2px 10px;
+      padding: 8px 12px !important;
+      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
     }
 
     .sidebar-nav li>a:hover {
-      color: var(--theme-color);
-      transform: translateX(2px);
+      color: var(--theme-color) !important;
+      background: var(--theme-color-soft);
+      transform: translateX(4px);
     }
 
     .sidebar-nav li.active>a {
       font-weight: 600;
-      color: var(--theme-color);
-      border-right: 3px solid var(--theme-color);
+      color: var(--theme-color) !important;
+      background: var(--theme-color-soft);
+      border-right: 4px solid var(--theme-color);
     }
 
-    /* Code blocks */
-    .markdown-section pre>code {
-      border-radius: 8px;
-      font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
-      font-size: 14px;
-      line-height: 1.6;
-      background: var(--code-background);
-    }
-
-    .markdown-section code {
-      border-radius: 4px;
-      padding: 2px 6px;
-      background: var(--code-background);
-      color: var(--accent-color);
-      font-family: 'JetBrains Mono', 'Fira Code', monospace;
-    }
-
-    /* Images */
-    .markdown-section img {
-      border-radius: 12px;
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
-      margin: 20px 0;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-
-    .markdown-section img:hover {
-      transform: scale(1.02);
-      box-shadow: 0 12px 32px rgba(0, 0, 0, 0.18);
-    }
-
-    /* Search box */
-    .search input {
-      border: 2px solid rgba(0, 0, 0, 0.1);
-      border-radius: 8px;
-      transition: all 0.2s ease;
-    }
-
-    .search input:focus {
-      border-color: var(--theme-color);
-      box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
-    }
-
-    /* Copy button enhancement */
-    .docsify-copy-code-button {
-      background: var(--theme-color) !important;
-      color: white !important;
-      border-radius: 6px !important;
-      font-size: 12px !important;
-      transition: all 0.2s ease !important;
-    }
-
-    .docsify-copy-code-button:hover {
-      background: var(--theme-color-dark) !important;
-      transform: translateY(-1px);
-    }
-
-    /* Headers */
+    /* Typography */
     .markdown-section h1 {
+      font-weight: 700;
+      letter-spacing: -0.02em;
       color: var(--theme-color);
-      border-bottom: 2px solid var(--theme-color);
-      padding-bottom: 0.5rem;
+      margin-bottom: 30px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid var(--theme-color-soft);
     }
 
     .markdown-section h2 {
+      font-weight: 600;
       color: var(--theme-color-dark);
+      margin-top: 45px;
     }
 
-    /* Links */
-    .markdown-section a {
-      color: var(--theme-color);
-      text-decoration: none;
-      border-bottom: 1px solid transparent;
-      transition: border-color 0.2s ease;
+    .markdown-section p, .markdown-section li {
+      line-height: 1.7;
+      font-size: 16px;
     }
 
-    .markdown-section a:hover {
-      border-bottom-color: var(--theme-color);
+    /* Image Gallery Cards */
+    .markdown-section img {
+      border-radius: 16px;
+      box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.15);
+      margin: 24px 0;
+      width: 100%;
+      max-width: 800px;
+      transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.4s ease;
+      display: block;
     }
 
-    /* App name styling */
-    .app-name {
-      font-size: 1.5rem;
+    .markdown-section img:hover {
+      transform: scale(1.03) translateY(-5px);
+      box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.25);
+    }
+
+    /* Code blocks / Prompts */
+    .markdown-section pre {
+      background: var(--code-background) !important;
+      border-radius: 12px;
+      border: 1px solid rgba(0, 0, 0, 0.05);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .markdown-section pre>code {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 14px;
+      line-height: 1.5;
+      padding: 20px !important;
+    }
+
+    .markdown-section code:not(pre code) {
+      color: var(--accent-color);
+      background: var(--theme-color-soft);
+      padding: 0.2em 0.4em;
+      border-radius: 6px;
+      font-weight: 500;
+    }
+
+    /* Search enhancement */
+    .search input {
+      background: var(--bg-color) !important;
+      border: 1px solid rgba(0, 0, 0, 0.1) !important;
+      border-radius: 12px !important;
+      padding: 10px 15px !important;
+      margin: 10px !important;
+      width: calc(100% - 20px) !important;
+    }
+
+    /* Modern App Name */
+    .app-name-link {
+      font-size: 1.4rem;
       font-weight: 700;
-      background: linear-gradient(135deg, var(--theme-color), var(--accent-color));
+      text-decoration: none !important;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px 0;
+    }
+
+    .app-name-link span {
+      background: linear-gradient(135deg, #6366f1 0%, #a855f7 50%, #f59e0b 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-clip: text;
+    }
+
+    /* Custom tip/alert styles */
+    .markdown-section .tip {
+      border-left-color: var(--accent-color) !important;
+      background-color: rgba(245, 158, 11, 0.05) !important;
+      border-radius: 0 12px 12px 0;
     }
   </style>
 </head>
