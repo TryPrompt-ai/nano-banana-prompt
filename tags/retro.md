@@ -4,6 +4,34 @@
 
 ---
 
+## Watch the fireworks show from the top of the mountain
+
+![Watch the fireworks show from the top of the mountain](https://opennana.com/awesome-prompt-gallery/images/1000.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [Unknown](#)
+- **Tags:** 3d, animal, architecture, branding, cartoon, character, clay, data-viz, fantasy, fashion, felt, food, futuristic, gaming, illustration, infographic, interior, landscape, logo, minimalist, nature, neon, paper-craft, photography, pixel, portrait, poster, product, retro, sci-fi, sculpture, toy, typography, ui, vehicle
+
+**Prompt:**
+
+```
+{
+  "template_name": "New Year City Skyline Celebration",
+  "description": "A cinematic shot of a child overlooking a city skyline with custom fireworks effects.",
+  "prompt_template": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with {city_fireworks_effect}. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape.",
+  "input_variables": {
+    "city_fireworks_effect": {
+      "type": "string",
+      "description": "Description of the style, shape, and vibe of the fireworks.",
+      "default_value": "a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks"
+    }
+  },
+  "full_prompt_example": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape."
+}
+```
+
+---
+
 ## Colorful Y2K scrapbooking poster
 
 ![Colorful Y2K scrapbooking poster](https://opennana.com/awesome-prompt-gallery/images/694.jpeg)
@@ -1173,35 +1201,6 @@ A captivating black and white close-up portrait of a beautiful young Asian woman
 
 ```
 A medium shot of the 14 fluffy characters sitting squeezed together side-by-side on a worn beige fabric sofa and on the floor. They are all facing forwards, watching a vintage, wooden-boxed television set placed on a low wooden table in front of the sofa. The room is dimly lit, with warm light from a window on the left and the glow from the TV illuminating the creatures' faces and fluffy textures. The background is a cozy, slightly cluttered living room with a braided rug, a bookshelf with old books, and rustic kitchen elements in the background. The overall atmosphere is warm, cozy, and amused.
-```
-
----
-
-## Three heroes racing against Lu Bu
-
-![Three heroes racing against Lu Bu](https://opennana.com/awesome-prompt-gallery/images/475.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@dotey](https://x.com/dotey/status/1991790313799606651)
-- **Tags:** illustration, retro, vehicle
-
-**Prompt:**
-
-```
-Draw a humorous ink illustration that mixes ancient and modern times, with the theme of "Three Heroes Racing Against Lu Bu":
-
-The picture is at dusk, the sky is gorgeous with clouds, and the large white space highlights the artistic conception;
-Liu Bei, Guan Yu, and Zhang Fei were riding in a speeding red double-cab BMW car that was drifting sharply on the dusty ancient battlefield——
-
-Liu Bei was sitting in the driving seat, holding the steering wheel with both hands, his expression focused and serious;
-Guan Yu was sitting in the passenger seat with a leisurely look on his face, holding a comb in front of the rearview mirror to comb his long, flowing beard.
-Zhang Fei looked arrogant in the back row and raised his middle finger from the window towards the pursuer behind him. His gesture was exaggerated and the comedy effect was obvious;
-The body and tires of the BMW sedan are exaggerated and stretched in perspective, clearly reflecting the strong sense of dynamics brought about by high-speed elegance;
-
-In the distance behind, Lu Bu wears a golden crown with pheasant feathers, ancient armor, and flying helmet ribbons. He rides a retro red Harley-Davidson motorcycle and chases the BMW. He holds up the Fang Tian painted halberd and roars. His movements and expressions are extremely exaggerated and full of dramatic conflicts;
-
-The whole painting adopts traditional freehand ink brushstrokes and light color smudges, the colors are soft and elegant, and the ink levels are rich and delicate;
-The traditional Zhuyin ("Jade Seal") inscription is retained in the appropriate position of the picture, combined with appropriate white space processing, to create a wonderful fusion effect of strong classical humor and modern elements.
 ```
 
 ---

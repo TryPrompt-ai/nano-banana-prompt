@@ -1,6 +1,411 @@
 # Logo Prompts
 
-> Found 139 prompts in this category.
+> Found 149 prompts in this category.
+
+---
+
+## City top view isometric 3D cartoon miniature scene
+
+![City top view isometric 3D cartoon miniature scene](https://opennana.com/awesome-prompt-gallery/images/592.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@TechieBySA](https://x.com/TechieBySA/status/1993995980405100598)
+- **Tags:** architecture, cartoon, landscape, logo, minimalist, nature, vehicle
+
+**Prompt:**
+
+```
+Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadows. Integrate the current weather conditions directly into the city environment to create an immersive atmospheric mood.
+Use a clean, minimalistic composition with a soft, solid-colored background.
+
+At the top-center, place the title “[CITY]” in large bold text, a prominent weather icon beneath it, then the date (small text) and temperature (medium text).
+All text must be centered with consistent spacing, and may subtly overlap the tops of the buildings.
+Square 1080x1080 dimension.
+```
+
+---
+
+## Watch the fireworks show from the top of the mountain
+
+![Watch the fireworks show from the top of the mountain](https://opennana.com/awesome-prompt-gallery/images/1000.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [Unknown](#)
+- **Tags:** 3d, animal, architecture, branding, cartoon, character, clay, data-viz, fantasy, fashion, felt, food, futuristic, gaming, illustration, infographic, interior, landscape, logo, minimalist, nature, neon, paper-craft, photography, pixel, portrait, poster, product, retro, sci-fi, sculpture, toy, typography, ui, vehicle
+
+**Prompt:**
+
+```
+{
+  "template_name": "New Year City Skyline Celebration",
+  "description": "A cinematic shot of a child overlooking a city skyline with custom fireworks effects.",
+  "prompt_template": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with {city_fireworks_effect}. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape.",
+  "input_variables": {
+    "city_fireworks_effect": {
+      "type": "string",
+      "description": "Description of the style, shape, and vibe of the fireworks.",
+      "default_value": "a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks"
+    }
+  },
+  "full_prompt_example": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape."
+}
+```
+
+---
+
+## Hong Kong Victoria Harbor Fireworks Show
+
+![Hong Kong Victoria Harbor Fireworks Show](https://opennana.com/awesome-prompt-gallery/images/1001.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@LufzzLiz](https://x.com/LufzzLiz/status/2005286056850251802)
+- **Tags:** character, fashion, logo, nature, portrait
+
+**Prompt:**
+
+```
+{
+  "template_name": "New Year City Skyline Celebration (Character Customized Version)",
+  "description": "A cinematic shot of a child overlooking the city skyline. Supports character customization, perspective switching (front/back) and custom actions based on reference images. The picture includes customized firework special effects and huge "2026" words. New global composition settings: adopt a bird's-eye perspective, with a 60-degree angle between the lens and the character to ensure that the character does not block the city night view; the character's clothing style echoes the culture or landmark elements of the target city.",
+  "prompt_template": "A stunning movie-style shot, using a bird's-eye perspective composition, the lens and the characters are at a 60-degree angle, cleverly avoiding the blocking of the background by the characters, and fully showing the magnificent city skyline. Based on the image of the child in the reference picture, the character appears in the picture with {view_orientation}, wearing a funny party hat, wearing festival clothes that echo the culture or landmarks of {target_city_short}, standing On top of a towering mountain. The character's current action is: {character_action}. The background is a breathtaking cityscape of {target_city}, with iconic city landmarks clearly visible under the starry night sky. Huge, shining golden fireworks clearly spell out "8K" in the center. The resolution, photorealism, and film grain create a dreamy, grand and hopeful atmosphere, showing a highly detailed urban night scene. ",
+  "input_variables": {
+    "target_city": {
+      "type": "string",
+      "description": "City name and description of major landmarks of the celebration.",
+      "default_value": "Shanghai night view, the Oriental Pearl Tower, the Bund and the winding Huangpu River"
+    },
+    "target_city_short": {
+      "type": "string",
+      "description": "The abbreviation or keyword of the target city, used to describe clothing style matching (such as 'Shanghai', 'Paris', 'Tokyo', etc.).",
+      "default_value": "Shanghai"
+    },
+    "city_fireworks_effect": {
+      "type": "string",
+      "description": "Description of the style, shape, color and atmosphere of the fireworks.",
+      "default_value": "A spectacular Disney-style fireworks show featuring Mickey Mouse-shaped fireworks, fairy-tale pastel colors, sparkling magic dust and dreamy cascading sparkles"
+    },
+    "view_orientation": {
+      "type": "string",
+      "description": "The orientation of the character relative to the camera. Recommended: 'Back silhouette' or 'Front (with surprised smile)'.",
+      "default_value": "Back silhouette"
+    },
+    "character_action": {
+      "type": "string",
+      "description": "The specific body movements of the character.",
+      "default_value": "Raise your hands above your head, open to the sky, lean back slightly, full of surprise and excitement"
+    }
+  },
+  "full_prompt_example": "A stunning movie-style shot, using a bird's-eye view composition, with a 60-degree angle between the lens and the character, cleverly avoiding the character's obstruction of the background, and completely showing the magnificent city skyline. Based on the image of the child in the reference picture, the character appears in silhouette from the back, wearing a funny party hat and festive clothing that echoes Shanghai culture or landmarks, standing on the top of a towering mountain. The character's current actions are: raising his hands above his head, opening his body to the sky, The body leans back slightly, full of wonder and excitement. In the background is the breathtaking night view of Shanghai, with the Oriental Pearl Tower, the Bund and the winding Huangpu River clearly visible under the starry night sky. The entire sky is illuminated by a spectacular Disney-style fireworks. The show lights up, featuring Mickey Mouse-shaped fireworks, fairy-tale pastel colors, sparkling magic dust and dreamy cascading sparkles, with the words "2026" clearly spelled out in the center. The resolution, photorealism, and cinematic graininess create a dreamy, grand and hopeful atmosphere, showing a highly detailed urban night scene. "
+}
+City: Victoria Harbor, Hong Kong
+Character: Reference picture｜Front shot. Clothing needs to be replaced to be consistent with the background city
+Action: Put your hands over your shoulders to show your heart
+```
+
+---
+
+## 2026 Realistic Studio Fashion Portraits
+
+![2026 Realistic Studio Fashion Portraits](https://opennana.com/awesome-prompt-gallery/images/1008.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@xmiiru_](https://x.com/xmiiru_/status/2005530723847934103)
+- **Tags:** branding, fashion, landscape, logo, paper-craft, photography, portrait
+
+**Prompt:**
+
+```
+{
+  "type": "image_prompt",
+  "description": "High-resolution photorealistic studio fashion portrait",
+  "subject": {
+    "gender": "adult woman",
+    "hair": "long light brown hair with golden blonde highlights, loose curls",
+    "expression": "playful, cheeky, thinking face, lips pursed",
+    "pose": "looking off to the side, shoulders relaxed"
+  },
+  "outfit": {
+    "hat": "gold shimmering party hat",
+    "dress": "gold sequin party dress with modern asymmetric neckline cutout"
+  },
+  "props": {
+    "balloons": "gold foil balloons shaped as numbers 20 and 26, one in each hand, raised near shoulders"
+  },
+  "environment": {
+    "setting": "clean studio",
+    "background": "neutral beige backdrop",
+    "lighting": "soft studio lighting with gentle shadows"
+  },
+  "details": {
+    "realism": "editorial-quality photorealism",
+    "textures": "visible skin texture, detailed hair strands, sharp sequin detail",
+    "materials": "metallic balloon shine with realistic creases and highlights"
+  },
+  "constraints": [
+    "no text",
+    "no logos",
+    "no branding",
+    "no watermarks"
+  ]
+}
+```
+
+---
+
+## Mini branded night light design
+
+![Mini branded night light design](https://opennana.com/awesome-prompt-gallery/images/1012.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@underwoodxie96](https://x.com/underwoodxie96/status/2005266319772684676)
+- **Tags:** branding, logo, poster, typography
+
+**Prompt:**
+
+```
+The creative poster features a box of fries transformed into a nightlight in the center. The golden fries act as light, reflecting off the wall behind the outlet and casting a yellow glow on the McDonald's logo. Below the logo, the words "open 24 hours" are displayed in tiny white print, directly announcing McDonald's 24-hour operation with its most recognizable element. The bottom right corner displays the McDonald's logo, and at the bottom center, in tiny print, is the word "Underwood Dessert."
+```
+
+---
+
+## The integration of virtual and reality
+
+![The integration of virtual and reality](https://opennana.com/awesome-prompt-gallery/images/1014.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@berryxia](https://x.com/berryxia/status/2005233233605398681)
+- **Tags:** branding, fashion, food, logo, neon, photography, poster, product, typography, vehicle
+
+**Prompt:**
+
+```
+A premium vertical split concept poster for [brand name] [product name], showing ONE [product] split in half - left side realistic, right side deconstructed.
+
+TOP SECTION - BRANDING:
+- [Brand Name] official logo at top center ([Brand Color])
+- "[product name]" in large bold [font style] font in [color]
+- Subtitle: "[Product Slogan]" in elegant serif font
+- Optional secondary tagline
+
+CENTRAL DESIGN - ONE SINGLE [PRODUCT] SPLIT VERTICALLY DOWN THE MIDDLE:
+
+LEFT HALF OF THE [PRODUCT] (50%): Ultra-realistic photographic half
+- Left 50% of the [product] shown in ultra-realistic photography style
+- Photorealistic [Key material 1: such as metal/leather/food] texture visible on left edge
+- Half of [Key Feature 1: Such as screen/bread/surface] with realistic reflections
+- Left portion of [key feature 2: such as keyboard/accessories/layers] showing individual details
+- Half of [Key Feature 3] visible with material accuracy
+- Professional product photography lighting
+- Perfect vertical cut through the exact center of the [product]
+- Every detail ultra-realistic: [Material detail list]
+- [Optional: smoke/water droplets/halo] effect for atmosphere
+
+RIGHT HALF OF THE [PRODUCT] (50%): Stylized [tech/culinary/artistic] deconstruction
+- Right 50% of the [product] exploding into [destructuring type] components
+- [Component 1] floating away individually [specific description]
+- [Component 2] fragments showing [internal structure/glow effect]
+- [Component 3] pieces with glowing [color] [Elements: such as chips/ingredients/parts]
+- [Component 4] separating geometrically
+- [Internal structure] and internal components visible
+- [Brand Element/Logo] piece glowing independently
+- [Warm golden/Cool blue/Neon multi-color] tech/artistic lighting effects
+- Geometric [tech lines/motion lines/artistic trails], [holographic patterns/particle effects/ingredient splashes]
+- Components floating outward in organized dynamic composition
+- Illustrated/stylized art treatment (not photorealistic)
+- [Based on type: technological circuits/food deconstruction/fashion elements/mechanical parts]
+
+THE SPLIT: Clean vertical line down the exact center of the [product], one continuous [product] transitioning seamlessly from realistic (left) to deconstructed [style] art (right)
+
+BACKGROUND: [Dark/Light] gradient ([Color Value 1] to [Color Value 2]) with [carbon fiber/wood/concrete/fabric] texture and [Color] light particles
+
+LIGHTING: Left side = professional studio lighting with [warm/cool/natural] tone | Right side = [warm/cool/neon] glow with [color] accents creating dramatic contrast
+
+VERTICAL DIVIDING LINE: Subtle [golden/silver/blue/red] glow ([color value]) marking the center split of the [product]
+
+BOTTOM SECTION - PRODUCT FEATURES (arranged horizontally with icons):
+- "[Feature 1]" with [icon description] icon
+- "[Feature 2]" with [icon description] icon
+- "[Feature 3]" with [icon description] icon
+- "[Feature 4]" with [icon description] icon
+Typography in [font style] font with decorative divider lines
+
+COLOR PALETTE: [Main Color List]
+
+COMPOSITION: One single [product] centered vertically, split perfectly down the middle - left half ultra-realistic photography, right half exploding into stylized [deconstructed type] components
+
+STYLE: Seamless transition from photorealistic product to illustrated [tech/culinary/fashion/mechanical] deconstruction within ONE unified [product]
+
+MOOD: [Premium/Appetizing/Innovative/Nostalgic], [dramatic/elegant/energetic], official brand advertising quality
+
+TEXT STYLE: Mix of bold display fonts and elegant serifs, [brand color] colors
+
+Quality: Commercial advertising standard, 4K resolution, dramatic visual impact
+```
+
+---
+
+## One hand holds a slender vertical hollow bookmark
+
+![One hand holds a slender vertical hollow bookmark](https://opennana.com/awesome-prompt-gallery/images/1022.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@firatbilal](https://x.com/firatbilal/status/2003553245499916501)
+- **Tags:** 3d, architecture, illustration, landscape, logo, paper-craft, photography
+
+**Prompt:**
+
+```
+Your city
+{
+  "image_request": {
+    "subject": "A person's hand holding a long, narrow vertical die-cut bookmark",
+    "bookmark_design": {
+      "style": "Intricate layered paper-cut illustration, 3D depth, whimsical artistic style",
+      "content": "Iconic landmarks and symbols of {{location}} depicted inside the bookmark frame, some elements slightly popping out of the edges (die-cut)",
+      "artistic_elements": "Delicate textures, vibrant colors, miniature architectural details"
+    },
+    "background": {
+      "setting": "A romantic, cinematic wide shot of the actual {{location}} skyline and scenery",
+      "depth_of_field": "Soft bokeh, blurred background to emphasize the bookmark in focus",
+      "time_of_day": "{{time_of_day}}",
+      "lighting_effects": "Atmospheric lighting matching the {{time_of_day}}, golden hour glows, city lights, or soft daylight"
+    },
+    "composition": {
+      "framing": "Close-up on the hand and bookmark, centered vertically",
+      "vibe": "Nostalgic, aesthetic, travel-inspired, poetic",
+      "color_palette": "Harmonized colors between the bookmark's art and the real-world background"
+    },
+    "technical_specs": {
+      "quality": "8k resolution, highly detailed, photorealistic hand, sharp focus on bookmark",
+      "aspect_ratio": "3:4"
+    }
+  },
+  "variables": {
+    "location": ["Istanbul", "Paris", "Tokyo", "London", "Rome"],
+    "time_of_day": ["Sunrise", "Sunset", "Night with city lights", "Bright daylight"]
+  }
+}
+```
+
+---
+
+## Branded product packaging
+
+![Branded product packaging](https://opennana.com/awesome-prompt-gallery/images/1023.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@AmirMushich](https://x.com/AmirMushich/status/2003478037032239127)
+- **Tags:** branding, food, logo, product, typography
+
+**Prompt:**
+
+```
+Ideal food brand: [Insert food brand name here]
+
+Task: Serve as a graphic design expert specializing in military packaging design. Create a high-fidelity image of a fictional Military Ready to Eat (MRE) ration based on the "desired food brands" provided above.
+
+Phase One: Brand Research
+
+Find out the official logo of the food brand you want.
+
+Find the two most dominant colors of the brand.
+
+Color A (primary color): Main background color.
+
+Color B (secondary color): The color used for fonts and icons.
+
+Phase 2: Visual Execution (Image Generation)
+
+Generates a close-up image of a single-serve MRE (ready-to-eat ration) bag with a clean, pure white background. The design must meet the following strict constraints:
+
+Size and shape: The size of the bag must be exactly the same as the standard US military MRE (Individual Soldier Ration) size. It should be a tall, vertical rectangle (not a square or a small snack bag). The bag should look thick and heavy, with the outline of the vacuum seal clearly visible and a slight bulge where the food is contained.
+
+Materials & Color: Thick, durable matte plastic with reinforced embossed heat seal on top and bottom. The overall color of the packaging must be color A. All text and logos must be printed in B color.
+
+Logo Placement: Place the brand's original, unmodified logo in the upper left corner (replacing the Department of Defense seal).
+
+Primary Branding: "MRE" must be printed in a large bold serif font in the center of the bag at an upward angle of 45 degrees.
+
+Typography and layout design:
+
+Top right: "Ready-to-eat meals, personal packs" in bold sans serif font.
+
+Upper left corner (below the logo): Tagline "Warrior Recommended, Warrior Tested, Warrior Approved™".
+
+Bottom right: Lists "Menu [random number]" followed by the Desired Food brand's famous signature dishes, all in bold capital letters.
+
+Bottom center: Brand name as manufacturer, followed by a false address, a "Property of the United States Government" legal disclaimer, and a "Flameless Ration Heater" aviation safety warning on the very bottom edge.
+
+Details: Print the words "Peelable Seal" and a small upward arrow in the top center of the bag. Make sure the top and bottom indentations are clearly visible.
+```
+
+---
+
+## Photo of spectacular fireworks bursting over cityscape
+
+![Photo of spectacular fireworks bursting over cityscape](https://opennana.com/awesome-prompt-gallery/images/1026.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@TechieBySA](https://x.com/TechieBySA/status/2004894710729478277)
+- **Tags:** landscape, logo, nature, photography
+
+**Prompt:**
+
+```
+Create a spectacular fireworks display photograph over a waterfront cityscape at night. The fireworks should burst in the exact shape and form of the uploaded logo, perfectly replicating its distinctive design, proportions, colors, and silhouette. Match every color from the logo precisely in the fireworks - placing each color exactly where it appears in the original logo design. The logo shape should be clearly recognizable and detailed in the fireworks formation against the dark sky. The scene should include a city silhouette in the background, smoke trails from the fireworks, and colorful reflections dancing on the water below. Photorealistic style with professional long exposure photography techniques, sharp focus on the fireworks burst, cinematic composition, 4K quality.
+```
+
+---
+
+## Vertical full body festival poster
+
+![Vertical full body festival poster](https://opennana.com/awesome-prompt-gallery/images/1027.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@hellokaton](https://x.com/hellokaton/status/2003484504347079156)
+- **Tags:** branding, cartoon, fashion, landscape, logo, paper-craft, photography, portrait, poster, vehicle
+
+**Prompt:**
+
+```
+{
+    "language": "en",
+    "task": "image_edit",
+    "consistency_id": "user_subject_sassy_santa",
+    "input_images": [
+        {
+            "image": "{{USER_REFERENCE_IMAGE}}",
+            "use_as": "subject_identity",
+            "priority": "high"
+        }
+    ],
+    "prompt": "Create a full-body vertical 3:4 festive poster. Use the person from the uploaded reference image as the ONLY human subject (could be male or female). Preserve identity strongly: same face structure, hairstyle, skin tone, and overall likeness. Preserve the subject’s gender presentation from the reference; do not gender-swap.\n\nPOSE (LOCK THIS): a grounded swagger power-stance with BOTH FEET ON THE FLOOR (no raised leg). Wide stance, feet apart. Weight mostly on the back leg. The front foot is planted closer to the camera to create forced-perspective enlargement of the sneaker, but the sole stays fully on the ground. Knees slightly bent. Hips subtly cocked. Upper body slightly leaned back with shoulders rolled back and chest subtly forward.\n\nARMS & FACE (LOCK THIS): arms firmly and tightly crossed over the chest (no hands-on-hips). Chin slightly raised. Slight head tilt. A smug, confident, sassy expression (subtle smirk / “too cool” attitude).\n\nWARDROBE: rich red velvet Santa suit with clean white fur trim, Santa hat, white gloves, stylish black sunglasses. Keep modern clean white sneakers.\n\nSCENE: seamless bright red studio backdrop with a soft spotlight gradient behind the subject. Metallic silver confetti floating throughout the scene.\n\nREINDEER: place one realistic reindeer on the subject’s right side (camera-right), full body visible, antlers prominent, facing the camera with a cute/curious look. The reindeer wears a cozy red-and-green knitted scarf.\n\nLIGHTING & CAMERA: crisp commercial studio lighting, high detail textures (velvet, fur trim, knit scarf, reindeer fur). Low-angle wide lens look (about 20–28mm), camera near knee height, slight upward tilt. Sharp focus on subject and reindeer, mild depth of field for a premium poster feel. Photorealistic, clean, no text.",
+    "style_parameters": {
+        "render_style": "photorealistic",
+        "mood": "festive, playful, swagger, comedic",
+        "camera_look": "low-angle wide lens, forced perspective"
+    },
+    "composition": {
+        "shot_type": "full_body",
+        "camera_angle": "low_angle",
+        "subject_position": "center_left",
+        "secondary_subject_position": "right",
+        "background": "solid red seamless with subtle spotlight gradient",
+        "foreground_elements": "silver confetti"
+    },
+    "technical_specifications": {
+        "aspect_ratio": "3:4",
+        "resolution": "4k",
+        "detail_level": "high",
+        "sharpness": "high"
+    },
+    "negative_prompt": "raised leg, knee up, kicking, stepping forward mid-air, walking pose, running pose, sitting, crouching, hands on hips, hands in pockets, text, watermark, logo, brand mark, extra people, duplicate face, face distortion, different identity, gender swap, body-type change, extra limbs, extra fingers, bad hands, deformed feet, melted sunglasses, blurry subject, low resolution, cartoon, anime, painterly look, harsh artifacts",
+    "output_settings": {
+        "format": "jpg",
+        "quality": "high"
+    }
+}
+```
 
 ---
 

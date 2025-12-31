@@ -1,6 +1,601 @@
 # Landscape Prompts
 
-> Found 312 prompts in this category.
+> Found 323 prompts in this category.
+
+---
+
+## City top view isometric 3D cartoon miniature scene
+
+![City top view isometric 3D cartoon miniature scene](https://opennana.com/awesome-prompt-gallery/images/592.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@TechieBySA](https://x.com/TechieBySA/status/1993995980405100598)
+- **Tags:** architecture, cartoon, landscape, logo, minimalist, nature, vehicle
+
+**Prompt:**
+
+```
+Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadows. Integrate the current weather conditions directly into the city environment to create an immersive atmospheric mood.
+Use a clean, minimalistic composition with a soft, solid-colored background.
+
+At the top-center, place the title “[CITY]” in large bold text, a prominent weather icon beneath it, then the date (small text) and temperature (medium text).
+All text must be centered with consistent spacing, and may subtly overlap the tops of the buildings.
+Square 1080x1080 dimension.
+```
+
+---
+
+## Watch the fireworks show from the top of the mountain
+
+![Watch the fireworks show from the top of the mountain](https://opennana.com/awesome-prompt-gallery/images/1000.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [Unknown](#)
+- **Tags:** 3d, animal, architecture, branding, cartoon, character, clay, data-viz, fantasy, fashion, felt, food, futuristic, gaming, illustration, infographic, interior, landscape, logo, minimalist, nature, neon, paper-craft, photography, pixel, portrait, poster, product, retro, sci-fi, sculpture, toy, typography, ui, vehicle
+
+**Prompt:**
+
+```
+{
+  "template_name": "New Year City Skyline Celebration",
+  "description": "A cinematic shot of a child overlooking a city skyline with custom fireworks effects.",
+  "prompt_template": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with {city_fireworks_effect}. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape.",
+  "input_variables": {
+    "city_fireworks_effect": {
+      "type": "string",
+      "description": "Description of the style, shape, and vibe of the fireworks.",
+      "default_value": "a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks"
+    }
+  },
+  "full_prompt_example": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape."
+}
+```
+
+---
+
+## 3x3 grid collage of young woman in winter forest
+
+![3x3 grid collage of young woman in winter forest](https://opennana.com/awesome-prompt-gallery/images/1004.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@oggii_0](https://x.com/oggii_0/status/2005494640347336753)
+- **Tags:** fashion, landscape, photography, vehicle
+
+**Prompt:**
+
+```
+{
+  "subject": "3x3 grid collage of young woman in winter forest",
+  "clothing": "Brown teddy coat, white crop top, grey sweatpants, beige boots, brown beanie",
+  "hair": "Long wavy brown, wearing beanie",
+  "face": "Happy, laughing, smiling, candid expressions",
+  "accessories": "Black SUV car in background",
+  "environment": "Snowy forest road, pine trees, winter day",
+  "lighting": "Soft overcast daylight",
+  "camera": "Collage of full body, close-up, high angle, and rear view shots",
+  "style": "Lifestyle collage, social media photo dump, energetic, winter travel, photorealistic"
+}
+```
+
+---
+
+## The woman seemed to emerge from the newly developed photo
+
+![The woman seemed to emerge from the newly developed photo](https://opennana.com/awesome-prompt-gallery/images/1005.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@hellokaton](https://x.com/hellokaton/status/2003381235331268757)
+- **Tags:** 3d, cartoon, fashion, food, landscape, nature, photography, portrait, vehicle
+
+**Prompt:**
+
+```
+{
+    "subject": {
+        "description": "A hyper-realistic optical-illusion photograph. The woman from the uploaded reference portrait appears to be emerging from a freshly developed instant photo (Polaroid-style) lying on a small cafe table. In the instant photo frame, her full outfit is visible; in reality, her upper body and head rise out of the glossy print, casting a real shadow onto the table.",
+        "reference_image_rules": {
+            "use_uploaded_reference_portrait": true,
+            "preserve_identity": true,
+            "preserve_hairline_and_facial_structure": true,
+            "no_face_morphing": true
+        },
+        "age": "20s",
+        "expression": {
+            "eyes": {
+                "look": "Playful and confident",
+                "direction": "Looking at the viewer"
+            },
+            "mouth": {
+                "position": "Pouting or blowing a kiss",
+                "energy": "Chic and charming"
+            },
+            "overall": "Lifelike, engaging interaction"
+        },
+        "hair": {
+            "style": "Long, loose waves",
+            "effect": "Realistic shine, slight wind movement"
+        },
+        "pose": {
+            "position": "Upper torso emerging out of the instant photo, one hand slightly forward as if stepping into reality",
+            "overall": "Energetic, spontaneous, full of life"
+        },
+        "clothing": {
+            "top": "High-neck knit turtleneck, premium textile detail",
+            "bottom": "Mini skirt and leather boots (boots visible clearly inside the instant photo)"
+        }
+    },
+    "mirror_rules": "All handwritten annotations must be perfectly legible and NOT mirrored. Keep printed text on the instant photo frame readable.",
+    "props": {
+        "instant_photo": {
+            "look": "Glossy Polaroid print with subtle fingerprint smudges and micro-scratches",
+            "frame_text": "Small printed caption line at the bottom of the frame (readable, not mirrored)"
+        },
+        "annotations_on_print": [
+            {
+                "text": "leather boots",
+                "style": "white handwritten marker",
+                "arrow_to": "boots inside the print"
+            },
+            {
+                "text": "clean turtleneck",
+                "style": "white handwritten marker",
+                "arrow_to": "top inside the print"
+            },
+            {
+                "text": "mini skirt",
+                "style": "white handwritten marker",
+                "arrow_to": "skirt inside the print"
+            }
+        ]
+    },
+    "photography": {
+        "camera_style": "DSLR photorealism, macro lens for print texture",
+        "shot_type": "Forced-perspective composite realism",
+        "angle": "Top-down 3/4 angle, close and intimate POV",
+        "aspect_ratio": "3:4",
+        "lighting": "Soft overcast daylight, natural shadows",
+        "depth_of_field": "Shallow DOF, the instant photo and her face sharp, background cafe bokeh"
+    },
+    "background": {
+        "setting": "Paris sidewalk cafe in autumn",
+        "elements": [
+            "small espresso cup",
+            "fallen leaves",
+            "stone pavement",
+            "soft distant pedestrians bokeh"
+        ]
+    },
+    "the_vibe": {
+        "mood": "Fashion-forward, viral illusion",
+        "story": "OOTD breakdown escaping the photo",
+        "authenticity": "Photoreal texture, not CGI"
+    },
+    "constraints": {
+        "must_keep": [
+            "Use uploaded reference portrait identity",
+            "Photorealistic skin texture",
+            "Instant photo looks physically real",
+            "Handwritten annotations readable",
+            "Strong pop-out illusion with real shadows"
+        ],
+        "avoid": [
+            "3D render style",
+            "cartoon",
+            "plastic skin",
+            "blurred or mirrored text",
+            "fake glossy CGI print"
+        ]
+    },
+    "negative_prompt": [
+        "3d",
+        "render",
+        "cgi",
+        "cartoon",
+        "anime",
+        "plastic skin",
+        "illegible text",
+        "mirrored text",
+        "oversharpened halos",
+        "uncanny face"
+    ]
+}
+```
+
+---
+
+## 2026 Realistic Studio Fashion Portraits
+
+![2026 Realistic Studio Fashion Portraits](https://opennana.com/awesome-prompt-gallery/images/1008.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@xmiiru_](https://x.com/xmiiru_/status/2005530723847934103)
+- **Tags:** branding, fashion, landscape, logo, paper-craft, photography, portrait
+
+**Prompt:**
+
+```
+{
+  "type": "image_prompt",
+  "description": "High-resolution photorealistic studio fashion portrait",
+  "subject": {
+    "gender": "adult woman",
+    "hair": "long light brown hair with golden blonde highlights, loose curls",
+    "expression": "playful, cheeky, thinking face, lips pursed",
+    "pose": "looking off to the side, shoulders relaxed"
+  },
+  "outfit": {
+    "hat": "gold shimmering party hat",
+    "dress": "gold sequin party dress with modern asymmetric neckline cutout"
+  },
+  "props": {
+    "balloons": "gold foil balloons shaped as numbers 20 and 26, one in each hand, raised near shoulders"
+  },
+  "environment": {
+    "setting": "clean studio",
+    "background": "neutral beige backdrop",
+    "lighting": "soft studio lighting with gentle shadows"
+  },
+  "details": {
+    "realism": "editorial-quality photorealism",
+    "textures": "visible skin texture, detailed hair strands, sharp sequin detail",
+    "materials": "metallic balloon shine with realistic creases and highlights"
+  },
+  "constraints": [
+    "no text",
+    "no logos",
+    "no branding",
+    "no watermarks"
+  ]
+}
+```
+
+---
+
+## Girl in strapless dress holding white wine glass
+
+![Girl in strapless dress holding white wine glass](https://opennana.com/awesome-prompt-gallery/images/1009.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@KeorUnreal](https://x.com/KeorUnreal/status/2005369201914151024?referrer=grok.com)
+- **Tags:** food, landscape, nature
+
+**Prompt:**
+
+```
+{
+  "request_parameters": {
+    "aspect_ratio": "9:16",
+    "identity_preservation": {
+      "mode": "strict",
+      "target": "reference_face_retention",
+      "features": "natural_likeness_only"
+    }
+  },
+  "visual_composition": {
+    "subject": {
+      "entity": "Woman",
+      "pose": {
+        "body": "Seated on warm-toned banquette",
+        "orientation": "Sophisticated profile",
+        "gaze": "Looking to front"
+      },
+      "wardrobe": {
+        "primary": "Fitted short glitter white strapless dress",
+        "accents": "Deep necklace and stockings"
+      },
+      "interactions": {
+        "right_hand": "Holding white wine glass",
+        "left_hand": "Holding clutch bag"
+      }
+    },
+    "environment": {
+      "setting": "Elegant french restaurant",
+      "atmosphere": "High-end evening",
+      "architectural_details": ["Gold accents", "Mirrors", "Fine dining table"]
+    }
+  },
+  "technical_direction": {
+    "lighting": {
+      "source": "Warm tungsten",
+      "shading": "Soft shadows",
+      "skin_finish": "Subtle glow"
+    },
+    "optics": {
+      "lens_emulation": "35mm prime",
+      "depth_of_field": "Shallow bokeh",
+      "focus_points": ["Face", "Wine glass"]
+    },
+    "post_processing": {
+"vibe": "High-end editorial",
+      "color_grading": "Realistic / Cinematic",
+      "texture": [
+        "Natural skin grain",
+        "Gentle film grain"
+      ]
+    }
+  },
+  "quality_assurance": {
+    "negative_prompt_array": [
+      "over-sharpening",
+      "AI artifacts",
+      "deformed glass",
+      "extra fingers",
+      "warped jewelry",
+      "weird reflections",
+      "text",
+      "watermark",
+      "low-resolution",
+      "distorted facial features"
+    ]
+  }
+}
+```
+
+---
+
+## Woman with long blond curly hair and fair complexion
+
+![Woman with long blond curly hair and fair complexion](https://opennana.com/awesome-prompt-gallery/images/1010.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@lexx_aura](https://x.com/lexx_aura/status/2004591904386580688?referrer=grok.com)
+- **Tags:** data-viz, interior, landscape, nature, photography, portrait, typography
+
+**Prompt:**
+
+```
+{
+  "prompt_data": {
+    "subject": {
+      "description": "Young woman with long, wavy blonde hair and a light fair skin",
+      "features": "Natural skin texture with visible tan lines on the chest, slight flush on cheeks, soft smile, navel piercing, light freckles.",
+      "accessories": "Gold pendant necklace, small gold hoop earrings, small tattoo on the left inner forearm."
+    },
+    "clothing": {
+      "outfit": "Matching yellow two-piece loungewear set.",
+      "top": "Yellow strapless tube top featuring the text 'HAWAIIAN TROPIC' in brown serif font with a hibiscus flower and palm graphic on the side.",
+      "bottoms": "Matching yellow shorts visible at the waist and thigh area."
+    },
+    "pose_and_action": {
+      "posture": "Reclining and lounging comfortably on a grey textured sofa.",
+      "body_language": "Relaxed and casual, leaning back against the couch cushions, one arm extended to support weight, the other hand resting gently near the waist, legs angled toward the camera.",
+      "expression": "Friendly, relaxed, and engaging eye contact."
+    },
+    "environment": {
+      "setting": "Modern living room interior.",
+      "furniture": "Dark grey fabric sofa with a textured weave.",
+      "background": "Grey walls with decorative panel molding (wainscoting).",
+      "decor": "A large vertical art piece with a red background featuring KAWS-style figures in blue and black. A second framed abstract art piece with gold and black tones. A modern linear wall sconce light."
+    },
+    "lighting": {
+      "type": "Soft, diffused indoor mix.",
+      "quality": "Warm ambient lighting highlighting the skin tone, creating soft shadows and a cozy atmosphere. Likely a mix of natural window light and the warm glow from the wall sconce."
+    },
+    "styling_and_mood": {
+      "aesthetic": "Influencer lifestyle, casual home comfort, '2000s digital camera' vibe.",
+      "mood": "Chill, playful, confident, comfortable."
+    },
+    "camera_specifications": {
+      "angle": "Eye-level, slightly angled from the side.",
+      "focus": "Sharp focus on the subject's face and torso, with a slight depth of field blurring the background artwork.",
+      "lens_suggestion": "35mm or 50mm portrait lens.",
+      "film_grain": "Low to medium ISO for a clean but slightly organic digital look."
+    },
+    "technical_modifiers": [
+      "Ultra Photorealistic",
+      "8k resolution",
+      "Raw photo",
+      "Hyper-detailed skin texture",
+      "Subsurface scattering",
+      "Volumetric lighting",
+      "Nano Banana Pro optimized",
+      "Masterpiece"
+    ]
+  }
+} 2:3
+```
+
+---
+
+## Girl in dark red dress holding white wine
+
+![Girl in dark red dress holding white wine](https://opennana.com/awesome-prompt-gallery/images/1011.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@YaseenK7212](https://x.com/YaseenK7212/status/2005332751759675820)
+- **Tags:** food, interior, landscape, nature, vehicle
+
+**Prompt:**
+
+```
+{
+  "request_parameters": {
+    "aspect_ratio": "9:16",
+    "identity_preservation": {
+      "mode": "strict",
+      "target": "reference_face_retention",
+      "features": "natural_likeness_only"
+    }
+  },
+  "visual_composition": {
+    "subject": {
+      "entity": "Woman",
+      "pose": {
+        "body": "Seated on a warm-toned banquette",
+        "orientation": "Sophisticated profile",
+        "gaze": "Looking toward the side"
+      },
+      "wardrobe": {
+        "primary": "Fitted deep red strapless dress",
+        "accents": "Matching draped scarf detail"
+      },
+      "interactions": {
+        "right_hand": "Holding a white wine glass",
+        "left_hand": "Holding a clutch bag"
+      }
+    },
+    "environment": {
+      "setting": "Elegant restaurant interior",
+      "atmosphere": "High-end upscale evening",
+      "architectural_details": [
+        "Gold accents",
+        "Strategic mirrors",
+        "Fine dining table setting"
+      ]
+    }
+  },
+  "technical_direction": {
+    "lighting": {
+      "source": "Warm tungsten",
+      "shading": "Soft shadows",
+      "skin_finish": "Subtle glow"
+    },
+    "optics": {
+      "lens_emulation": "35mm prime",
+      "depth_of_field": "Shallow (bokeh background)",
+      "focus_points": [
+        "Facial features",
+        "Wine glass"
+      ]
+    },
+    "post_processing": {
+      "vibe": "High-end editorial",
+      "color_grading": "Realistic / Cinematic",
+      "texture": [
+        "Natural skin grain",
+        "Gentle film grain"
+      ]
+    }
+  },
+  "quality_assurance": {
+    "negative_prompt_array": [
+      "over-sharpening",
+      "AI artifacts",
+      "deformed glass",
+      "extra fingers",
+      "warped jewelry",
+      "weird reflections",
+      "text",
+      "watermark",
+      "low-resolution",
+      "distorted facial features"
+    ]
+  }
+}
+```
+
+---
+
+## One hand holds a slender vertical hollow bookmark
+
+![One hand holds a slender vertical hollow bookmark](https://opennana.com/awesome-prompt-gallery/images/1022.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@firatbilal](https://x.com/firatbilal/status/2003553245499916501)
+- **Tags:** 3d, architecture, illustration, landscape, logo, paper-craft, photography
+
+**Prompt:**
+
+```
+Your city
+{
+  "image_request": {
+    "subject": "A person's hand holding a long, narrow vertical die-cut bookmark",
+    "bookmark_design": {
+      "style": "Intricate layered paper-cut illustration, 3D depth, whimsical artistic style",
+      "content": "Iconic landmarks and symbols of {{location}} depicted inside the bookmark frame, some elements slightly popping out of the edges (die-cut)",
+      "artistic_elements": "Delicate textures, vibrant colors, miniature architectural details"
+    },
+    "background": {
+      "setting": "A romantic, cinematic wide shot of the actual {{location}} skyline and scenery",
+      "depth_of_field": "Soft bokeh, blurred background to emphasize the bookmark in focus",
+      "time_of_day": "{{time_of_day}}",
+      "lighting_effects": "Atmospheric lighting matching the {{time_of_day}}, golden hour glows, city lights, or soft daylight"
+    },
+    "composition": {
+      "framing": "Close-up on the hand and bookmark, centered vertically",
+      "vibe": "Nostalgic, aesthetic, travel-inspired, poetic",
+      "color_palette": "Harmonized colors between the bookmark's art and the real-world background"
+    },
+    "technical_specs": {
+      "quality": "8k resolution, highly detailed, photorealistic hand, sharp focus on bookmark",
+      "aspect_ratio": "3:4"
+    }
+  },
+  "variables": {
+    "location": ["Istanbul", "Paris", "Tokyo", "London", "Rome"],
+    "time_of_day": ["Sunrise", "Sunset", "Night with city lights", "Bright daylight"]
+  }
+}
+```
+
+---
+
+## Photo of spectacular fireworks bursting over cityscape
+
+![Photo of spectacular fireworks bursting over cityscape](https://opennana.com/awesome-prompt-gallery/images/1026.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@TechieBySA](https://x.com/TechieBySA/status/2004894710729478277)
+- **Tags:** landscape, logo, nature, photography
+
+**Prompt:**
+
+```
+Create a spectacular fireworks display photograph over a waterfront cityscape at night. The fireworks should burst in the exact shape and form of the uploaded logo, perfectly replicating its distinctive design, proportions, colors, and silhouette. Match every color from the logo precisely in the fireworks - placing each color exactly where it appears in the original logo design. The logo shape should be clearly recognizable and detailed in the fireworks formation against the dark sky. The scene should include a city silhouette in the background, smoke trails from the fireworks, and colorful reflections dancing on the water below. Photorealistic style with professional long exposure photography techniques, sharp focus on the fireworks burst, cinematic composition, 4K quality.
+```
+
+---
+
+## Vertical full body festival poster
+
+![Vertical full body festival poster](https://opennana.com/awesome-prompt-gallery/images/1027.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@hellokaton](https://x.com/hellokaton/status/2003484504347079156)
+- **Tags:** branding, cartoon, fashion, landscape, logo, paper-craft, photography, portrait, poster, vehicle
+
+**Prompt:**
+
+```
+{
+    "language": "en",
+    "task": "image_edit",
+    "consistency_id": "user_subject_sassy_santa",
+    "input_images": [
+        {
+            "image": "{{USER_REFERENCE_IMAGE}}",
+            "use_as": "subject_identity",
+            "priority": "high"
+        }
+    ],
+    "prompt": "Create a full-body vertical 3:4 festive poster. Use the person from the uploaded reference image as the ONLY human subject (could be male or female). Preserve identity strongly: same face structure, hairstyle, skin tone, and overall likeness. Preserve the subject’s gender presentation from the reference; do not gender-swap.\n\nPOSE (LOCK THIS): a grounded swagger power-stance with BOTH FEET ON THE FLOOR (no raised leg). Wide stance, feet apart. Weight mostly on the back leg. The front foot is planted closer to the camera to create forced-perspective enlargement of the sneaker, but the sole stays fully on the ground. Knees slightly bent. Hips subtly cocked. Upper body slightly leaned back with shoulders rolled back and chest subtly forward.\n\nARMS & FACE (LOCK THIS): arms firmly and tightly crossed over the chest (no hands-on-hips). Chin slightly raised. Slight head tilt. A smug, confident, sassy expression (subtle smirk / “too cool” attitude).\n\nWARDROBE: rich red velvet Santa suit with clean white fur trim, Santa hat, white gloves, stylish black sunglasses. Keep modern clean white sneakers.\n\nSCENE: seamless bright red studio backdrop with a soft spotlight gradient behind the subject. Metallic silver confetti floating throughout the scene.\n\nREINDEER: place one realistic reindeer on the subject’s right side (camera-right), full body visible, antlers prominent, facing the camera with a cute/curious look. The reindeer wears a cozy red-and-green knitted scarf.\n\nLIGHTING & CAMERA: crisp commercial studio lighting, high detail textures (velvet, fur trim, knit scarf, reindeer fur). Low-angle wide lens look (about 20–28mm), camera near knee height, slight upward tilt. Sharp focus on subject and reindeer, mild depth of field for a premium poster feel. Photorealistic, clean, no text.",
+    "style_parameters": {
+        "render_style": "photorealistic",
+        "mood": "festive, playful, swagger, comedic",
+        "camera_look": "low-angle wide lens, forced perspective"
+    },
+    "composition": {
+        "shot_type": "full_body",
+        "camera_angle": "low_angle",
+        "subject_position": "center_left",
+        "secondary_subject_position": "right",
+        "background": "solid red seamless with subtle spotlight gradient",
+        "foreground_elements": "silver confetti"
+    },
+    "technical_specifications": {
+        "aspect_ratio": "3:4",
+        "resolution": "4k",
+        "detail_level": "high",
+        "sharpness": "high"
+    },
+    "negative_prompt": "raised leg, knee up, kicking, stepping forward mid-air, walking pose, running pose, sitting, crouching, hands on hips, hands in pockets, text, watermark, logo, brand mark, extra people, duplicate face, face distortion, different identity, gender swap, body-type change, extra limbs, extra fingers, bad hands, deformed feet, melted sunglasses, blurry subject, low resolution, cartoon, anime, painterly look, harsh artifacts",
+    "output_settings": {
+        "format": "jpg",
+        "quality": "high"
+    }
+}
+```
 
 ---
 

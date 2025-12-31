@@ -1,6 +1,270 @@
 # Interior Prompts
 
-> Found 119 prompts in this category.
+> Found 123 prompts in this category.
+
+---
+
+## Watch the fireworks show from the top of the mountain
+
+![Watch the fireworks show from the top of the mountain](https://opennana.com/awesome-prompt-gallery/images/1000.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [Unknown](#)
+- **Tags:** 3d, animal, architecture, branding, cartoon, character, clay, data-viz, fantasy, fashion, felt, food, futuristic, gaming, illustration, infographic, interior, landscape, logo, minimalist, nature, neon, paper-craft, photography, pixel, portrait, poster, product, retro, sci-fi, sculpture, toy, typography, ui, vehicle
+
+**Prompt:**
+
+```
+{
+  "template_name": "New Year City Skyline Celebration",
+  "description": "A cinematic shot of a child overlooking a city skyline with custom fireworks effects.",
+  "prompt_template": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with {city_fireworks_effect}. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape.",
+  "input_variables": {
+    "city_fireworks_effect": {
+      "type": "string",
+      "description": "Description of the style, shape, and vibe of the fireworks.",
+      "default_value": "a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks"
+    }
+  },
+  "full_prompt_example": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape."
+}
+```
+
+---
+
+## Woman with long blond curly hair and fair complexion
+
+![Woman with long blond curly hair and fair complexion](https://opennana.com/awesome-prompt-gallery/images/1010.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@lexx_aura](https://x.com/lexx_aura/status/2004591904386580688?referrer=grok.com)
+- **Tags:** data-viz, interior, landscape, nature, photography, portrait, typography
+
+**Prompt:**
+
+```
+{
+  "prompt_data": {
+    "subject": {
+      "description": "Young woman with long, wavy blonde hair and a light fair skin",
+      "features": "Natural skin texture with visible tan lines on the chest, slight flush on cheeks, soft smile, navel piercing, light freckles.",
+      "accessories": "Gold pendant necklace, small gold hoop earrings, small tattoo on the left inner forearm."
+    },
+    "clothing": {
+      "outfit": "Matching yellow two-piece loungewear set.",
+      "top": "Yellow strapless tube top featuring the text 'HAWAIIAN TROPIC' in brown serif font with a hibiscus flower and palm graphic on the side.",
+      "bottoms": "Matching yellow shorts visible at the waist and thigh area."
+    },
+    "pose_and_action": {
+      "posture": "Reclining and lounging comfortably on a grey textured sofa.",
+      "body_language": "Relaxed and casual, leaning back against the couch cushions, one arm extended to support weight, the other hand resting gently near the waist, legs angled toward the camera.",
+      "expression": "Friendly, relaxed, and engaging eye contact."
+    },
+    "environment": {
+      "setting": "Modern living room interior.",
+      "furniture": "Dark grey fabric sofa with a textured weave.",
+      "background": "Grey walls with decorative panel molding (wainscoting).",
+      "decor": "A large vertical art piece with a red background featuring KAWS-style figures in blue and black. A second framed abstract art piece with gold and black tones. A modern linear wall sconce light."
+    },
+    "lighting": {
+      "type": "Soft, diffused indoor mix.",
+      "quality": "Warm ambient lighting highlighting the skin tone, creating soft shadows and a cozy atmosphere. Likely a mix of natural window light and the warm glow from the wall sconce."
+    },
+    "styling_and_mood": {
+      "aesthetic": "Influencer lifestyle, casual home comfort, '2000s digital camera' vibe.",
+      "mood": "Chill, playful, confident, comfortable."
+    },
+    "camera_specifications": {
+      "angle": "Eye-level, slightly angled from the side.",
+      "focus": "Sharp focus on the subject's face and torso, with a slight depth of field blurring the background artwork.",
+      "lens_suggestion": "35mm or 50mm portrait lens.",
+      "film_grain": "Low to medium ISO for a clean but slightly organic digital look."
+    },
+    "technical_modifiers": [
+      "Ultra Photorealistic",
+      "8k resolution",
+      "Raw photo",
+      "Hyper-detailed skin texture",
+      "Subsurface scattering",
+      "Volumetric lighting",
+      "Nano Banana Pro optimized",
+      "Masterpiece"
+    ]
+  }
+} 2:3
+```
+
+---
+
+## Girl in dark red dress holding white wine
+
+![Girl in dark red dress holding white wine](https://opennana.com/awesome-prompt-gallery/images/1011.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@YaseenK7212](https://x.com/YaseenK7212/status/2005332751759675820)
+- **Tags:** food, interior, landscape, nature, vehicle
+
+**Prompt:**
+
+```
+{
+  "request_parameters": {
+    "aspect_ratio": "9:16",
+    "identity_preservation": {
+      "mode": "strict",
+      "target": "reference_face_retention",
+      "features": "natural_likeness_only"
+    }
+  },
+  "visual_composition": {
+    "subject": {
+      "entity": "Woman",
+      "pose": {
+        "body": "Seated on a warm-toned banquette",
+        "orientation": "Sophisticated profile",
+        "gaze": "Looking toward the side"
+      },
+      "wardrobe": {
+        "primary": "Fitted deep red strapless dress",
+        "accents": "Matching draped scarf detail"
+      },
+      "interactions": {
+        "right_hand": "Holding a white wine glass",
+        "left_hand": "Holding a clutch bag"
+      }
+    },
+    "environment": {
+      "setting": "Elegant restaurant interior",
+      "atmosphere": "High-end upscale evening",
+      "architectural_details": [
+        "Gold accents",
+        "Strategic mirrors",
+        "Fine dining table setting"
+      ]
+    }
+  },
+  "technical_direction": {
+    "lighting": {
+      "source": "Warm tungsten",
+      "shading": "Soft shadows",
+      "skin_finish": "Subtle glow"
+    },
+    "optics": {
+      "lens_emulation": "35mm prime",
+      "depth_of_field": "Shallow (bokeh background)",
+      "focus_points": [
+        "Facial features",
+        "Wine glass"
+      ]
+    },
+    "post_processing": {
+      "vibe": "High-end editorial",
+      "color_grading": "Realistic / Cinematic",
+      "texture": [
+        "Natural skin grain",
+        "Gentle film grain"
+      ]
+    }
+  },
+  "quality_assurance": {
+    "negative_prompt_array": [
+      "over-sharpening",
+      "AI artifacts",
+      "deformed glass",
+      "extra fingers",
+      "warped jewelry",
+      "weird reflections",
+      "text",
+      "watermark",
+      "low-resolution",
+      "distorted facial features"
+    ]
+  }
+}
+```
+
+---
+
+## Handsome 9-square hippocampus photo
+
+![Handsome 9-square hippocampus photo](https://opennana.com/awesome-prompt-gallery/images/1020.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@msjiaozhu](https://x.com/msjiaozhu/status/2004194584797315341)
+- **Tags:** fashion, interior, minimalist, paper-craft, portrait
+
+**Prompt:**
+
+```
+{
+ "project_type": "Nine-grid Trendy Star Portrait Collage",
+ "aspect_ratio": "3:4",
+ "visual_style": {
+   "color_palette": "Black and white, Monochrome, High key, Bright grayscale, Clean whites, Light grays",
+   "background": "Studio background, seamless white paper, light gray concrete wall, minimalist bright space, no dark voids",
+   "lighting": [
+     "Soft frontal lighting",
+     "Butterfly lighting",
+     "Studio lighting",
+     "Flattering beauty dish light",
+     "No backlighting",
+     "No harsh shadows on face"
+   ],
+   "mood": "Trendy, Cool, Confident, Star quality, Fashion editorial, Energetic, Edgy"
+ },
+ "subject_description": {
+   "identity_consistency": "Consistent facial features across all 9 panels (based on input reference)",
+   "hair_and_grooming": [
+     "Varied trendy hairstyles",
+     "Cool messy undercut",
+     "Styled quiff",
+     "Textured crop",
+     "Slicked back modern",
+     "Designer stubble",
+     "Masculine scruff",
+     "Well-groomed beard"
+   ],
+   "styling": [
+     "Fashion forward",
+     "Streetwear vibe",
+     "Leather jacket collar",
+     "Designer hoodie",
+     "Minimalist layers",
+     "Statement accessories (e.g., single earring)"
+   ],
+   "expressions/poses": [
+     "Confident smirk",
+     "Looking off-camera coolly",
+     "Hand running through hair",
+     "Slight jaw clench",
+     "Direct confident gaze",
+     "Dynamic poses"
+   ]
+ },
+ "composition": {
+   "layout": "9-grid collage, Dynamic layout (not perfectly uniform), Mix of close-ups and medium shots",
+   "style": "Fashion magazine contact sheet, Editorial spread"
+ },
+ "technical_specs": {
+   "camera_emulation": "Medium format fashion camera",
+   "film_stock": "Kodak T-Max 400 (fine grain, sharp)",
+   "resolution": "8k, masterpiece, sharp focus"
+ },
+ "negative_prompt": [
+   "Dark background",
+   "Black void background",
+   "Backlit",
+   "Silhouette",
+   "Harsh shadows",
+   "Underexposed",
+   "Old fashioned",
+   "Dull",
+   "Uniform grid",
+   "Same hairstyle in all",
+   "Clean shaven (unless specified)"
+ ]
+}
+```
 
 ---
 

@@ -1,6 +1,96 @@
 # Illustration Prompts
 
-> Found 123 prompts in this category.
+> Found 125 prompts in this category.
+
+---
+
+## Gorillaz style
+
+![Gorillaz style](https://opennana.com/awesome-prompt-gallery/images/215.png)
+
+- **Model:** None
+- **Source:** [@azed_ai](https://x.com/azed_ai/status/1942586412920103180)
+- **Tags:** illustration
+
+**Prompt:**
+
+```
+Restyle this image into a gritty Gorillaz-style illustration, bold thick black outlines, sharp angular edges, flat expressive lighting, stylized high-contrast shadows, dirty distressed surface textures, muted color palette: washed-out teals, olive greens, rusty reds, mustard yellows, dusty browns, raw grungy urban atmosphere, comic book flatness mixed with painterly grit, hand-drawn finish with faded gradients, graphic novel aesthetic
+with a rebellious, animated tone, dark stylish tone, full of attitude.
+```
+
+---
+
+## Watch the fireworks show from the top of the mountain
+
+![Watch the fireworks show from the top of the mountain](https://opennana.com/awesome-prompt-gallery/images/1000.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [Unknown](#)
+- **Tags:** 3d, animal, architecture, branding, cartoon, character, clay, data-viz, fantasy, fashion, felt, food, futuristic, gaming, illustration, infographic, interior, landscape, logo, minimalist, nature, neon, paper-craft, photography, pixel, portrait, poster, product, retro, sci-fi, sculpture, toy, typography, ui, vehicle
+
+**Prompt:**
+
+```
+{
+  "template_name": "New Year City Skyline Celebration",
+  "description": "A cinematic shot of a child overlooking a city skyline with custom fireworks effects.",
+  "prompt_template": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with {city_fireworks_effect}. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape.",
+  "input_variables": {
+    "city_fireworks_effect": {
+      "type": "string",
+      "description": "Description of the style, shape, and vibe of the fireworks.",
+      "default_value": "a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks"
+    }
+  },
+  "full_prompt_example": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape."
+}
+```
+
+---
+
+## One hand holds a slender vertical hollow bookmark
+
+![One hand holds a slender vertical hollow bookmark](https://opennana.com/awesome-prompt-gallery/images/1022.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@firatbilal](https://x.com/firatbilal/status/2003553245499916501)
+- **Tags:** 3d, architecture, illustration, landscape, logo, paper-craft, photography
+
+**Prompt:**
+
+```
+Your city
+{
+  "image_request": {
+    "subject": "A person's hand holding a long, narrow vertical die-cut bookmark",
+    "bookmark_design": {
+      "style": "Intricate layered paper-cut illustration, 3D depth, whimsical artistic style",
+      "content": "Iconic landmarks and symbols of {{location}} depicted inside the bookmark frame, some elements slightly popping out of the edges (die-cut)",
+      "artistic_elements": "Delicate textures, vibrant colors, miniature architectural details"
+    },
+    "background": {
+      "setting": "A romantic, cinematic wide shot of the actual {{location}} skyline and scenery",
+      "depth_of_field": "Soft bokeh, blurred background to emphasize the bookmark in focus",
+      "time_of_day": "{{time_of_day}}",
+      "lighting_effects": "Atmospheric lighting matching the {{time_of_day}}, golden hour glows, city lights, or soft daylight"
+    },
+    "composition": {
+      "framing": "Close-up on the hand and bookmark, centered vertically",
+      "vibe": "Nostalgic, aesthetic, travel-inspired, poetic",
+      "color_palette": "Harmonized colors between the bookmark's art and the real-world background"
+    },
+    "technical_specs": {
+      "quality": "8k resolution, highly detailed, photorealistic hand, sharp focus on bookmark",
+      "aspect_ratio": "3:4"
+    }
+  },
+  "variables": {
+    "location": ["Istanbul", "Paris", "Tokyo", "London", "Rome"],
+    "time_of_day": ["Sunrise", "Sunset", "Night with city lights", "Bright daylight"]
+  }
+}
+```
 
 ---
 
@@ -1955,35 +2045,6 @@ A photograph of a crowded subway train in Tokyo, hyper-realistic style. Sitting 
 
 ```
 Add clean, minimal white line-drawing illustrations of people into this photo. Match the perspective, lighting, and scale of the scene. The illustrated figures should interact naturally and meaningfully with the environment, reflecting the mood, purpose, and activity of the space. Keep the drawings simple, fluid, and expressive, with no facial details. Maintain a modern, warm, and slightly whimsical tone that complements the overall aesthetic. Do not obscure any original elements. The illustrated figures should feel like friendly, imaginative additions that blend seamlessly with the context of the scene.
-```
-
----
-
-## Three heroes racing against Lu Bu
-
-![Three heroes racing against Lu Bu](https://opennana.com/awesome-prompt-gallery/images/475.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@dotey](https://x.com/dotey/status/1991790313799606651)
-- **Tags:** illustration, retro, vehicle
-
-**Prompt:**
-
-```
-Draw a humorous ink illustration that mixes ancient and modern times, with the theme of "Three Heroes Racing Against Lu Bu":
-
-The picture is at dusk, the sky is gorgeous with clouds, and the large white space highlights the artistic conception;
-Liu Bei, Guan Yu, and Zhang Fei were riding in a speeding red double-cab BMW car that was drifting sharply on the dusty ancient battlefield——
-
-Liu Bei was sitting in the driving seat, holding the steering wheel with both hands, his expression focused and serious;
-Guan Yu was sitting in the passenger seat with a leisurely look on his face, holding a comb in front of the rearview mirror to comb his long, flowing beard.
-Zhang Fei looked arrogant in the back row and raised his middle finger from the window towards the pursuer behind him. His gesture was exaggerated and the comedy effect was obvious;
-The body and tires of the BMW sedan are exaggerated and stretched in perspective, clearly reflecting the strong sense of dynamics brought about by high-speed elegance;
-
-In the distance behind, Lu Bu wears a golden crown with pheasant feathers, ancient armor, and flying helmet ribbons. He rides a retro red Harley-Davidson motorcycle and chases the BMW. He holds up the Fang Tian painted halberd and roars. His movements and expressions are extremely exaggerated and full of dramatic conflicts;
-
-The whole painting adopts traditional freehand ink brushstrokes and light color smudges, the colors are soft and elegant, and the ink levels are rich and delicate;
-The traditional Zhuyin ("Jade Seal") inscription is retained in the appropriate position of the picture, combined with appropriate white space processing, to create a wonderful fusion effect of strong classical humor and modern elements.
 ```
 
 ---

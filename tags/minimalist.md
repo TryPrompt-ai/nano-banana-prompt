@@ -1,6 +1,244 @@
 # Minimalist Prompts
 
-> Found 210 prompts in this category.
+> Found 216 prompts in this category.
+
+---
+
+## Cute cartoon soul
+
+![Cute cartoon soul](https://opennana.com/awesome-prompt-gallery/images/230.jpeg)
+
+- **Model:** None
+- **Source:** [@松果先森](https://x.com/songguoxiansen/status/1945032571114402108)
+- **Tags:** cartoon, character, minimalist, vehicle
+
+**Prompt:**
+
+```
+A cute cartoon ghost is the absolute main subject of the picture. It has a pure white body with a smooth and rounded contour, and two simple black oval eyes, with no extra features. This ghost is floating quietly in the very center of the picture. The background is a pure, bright purple, creating a simple, modern, and friendly atmosphere. The composition is a centered close-up, and the aspect ratio is 1:1 square. There is no text in the entire image. The image style is typical flat design and vector art, minimalist, much like an app icon or a logo, characterized by clean lines and solid color blocks, without any gradients or textural details. The image quality required is high-resolution with clean, sharp edges. The overall feeling it gives is one of a cute, simple, and modern piece of digital art.
+```
+
+---
+
+## City top view isometric 3D cartoon miniature scene
+
+![City top view isometric 3D cartoon miniature scene](https://opennana.com/awesome-prompt-gallery/images/592.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@TechieBySA](https://x.com/TechieBySA/status/1993995980405100598)
+- **Tags:** architecture, cartoon, landscape, logo, minimalist, nature, vehicle
+
+**Prompt:**
+
+```
+Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadows. Integrate the current weather conditions directly into the city environment to create an immersive atmospheric mood.
+Use a clean, minimalistic composition with a soft, solid-colored background.
+
+At the top-center, place the title “[CITY]” in large bold text, a prominent weather icon beneath it, then the date (small text) and temperature (medium text).
+All text must be centered with consistent spacing, and may subtly overlap the tops of the buildings.
+Square 1080x1080 dimension.
+```
+
+---
+
+## Watch the fireworks show from the top of the mountain
+
+![Watch the fireworks show from the top of the mountain](https://opennana.com/awesome-prompt-gallery/images/1000.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [Unknown](#)
+- **Tags:** 3d, animal, architecture, branding, cartoon, character, clay, data-viz, fantasy, fashion, felt, food, futuristic, gaming, illustration, infographic, interior, landscape, logo, minimalist, nature, neon, paper-craft, photography, pixel, portrait, poster, product, retro, sci-fi, sculpture, toy, typography, ui, vehicle
+
+**Prompt:**
+
+```
+{
+  "template_name": "New Year City Skyline Celebration",
+  "description": "A cinematic shot of a child overlooking a city skyline with custom fireworks effects.",
+  "prompt_template": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with {city_fireworks_effect}. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape.",
+  "input_variables": {
+    "city_fireworks_effect": {
+      "type": "string",
+      "description": "Description of the style, shape, and vibe of the fireworks.",
+      "default_value": "a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks"
+    }
+  },
+  "full_prompt_example": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape."
+}
+```
+
+---
+
+## Multi-angle close-up photo poster
+
+![Multi-angle close-up photo poster](https://opennana.com/awesome-prompt-gallery/images/1018.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@lijigang](https://x.com/lijigang/status/2004514549404516664)
+- **Tags:** minimalist, nature, neon, photography, portrait, poster
+
+**Prompt:**
+
+```
+1. The tone of the picture
+   
+Core temperament: Japanese airy photos, fresh and beautiful, high-key photography
+
+Keywords: Soft Focus, Dreamy Atmosphere, Clean Minimalism, Portrait Photography, Natural Light
+
+2. Visual logic
+   
+Space construction:
+- Perspective: A mixture of head-up perspective and macro close-up.
+- Layout: minimalist composition, with the subject prominent and the background blank or weakened.
+- Depth of field: Shallow depth of field, the background is blurred to emphasize the isolation between the subject and the environment.
+  
+3. Visual rendering
+   
+Imaging texture:
+- Light and shadow: extremely soft diffused light, simulating natural window light. There are no dead black shadows, the overall picture is transparent, and the highlights are slightly overexposed to create a dreamy feel.
+- Material: Delicate and realistic photographic texture, but with a slight "soft filter" effect on skin and fabric processing.
+- Clarity: soft edges, non-sharp digital rendering, pursuing the natural graininess of film photography.
+  
+4. Color system
+   
+Core main colors:
+- Sakura Pink: #F2C4CE (as the main visual color, soft and pink)
+- Creamy White: #F9F6F0 (as an ambient tone, warm white)
+- Light Wood: #D8C6A8 (as a natural embellishment, wood color)
+- Color logic: low saturation, high brightness. The overall color temperature is warm, creating a warm and harmless visual psychology.
+  
+5. Negative constraints
+   
+Absolutely prohibited:
+- Low-key dark lighting and strong contrast between light and dark are strictly prohibited.
+- Hard edge shadows are strictly prohibited.
+- Dirty, rough, and cyberpunk noise is strictly prohibited.
+- Highly saturated neon colors or artificial plastic textures are strictly prohibited.
+- Two-dimensional strokes or vector flattening are strictly prohibited.
+- No text is allowed.
+
+6. Screen content
+   
+Please generate a multi-angle close-up photo poster:
+
+On a snowy day, a man and a woman who were in love for the first time were having fun on the school playground.
+```
+
+---
+
+## Realistic fashion portrait in Vogue magazine cover style
+
+![Realistic fashion portrait in Vogue magazine cover style](https://opennana.com/awesome-prompt-gallery/images/1019.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@underwoodxie96](https://x.com/underwoodxie96/status/2004221776755376606)
+- **Tags:** fashion, minimalist, nature, photography, portrait
+
+**Prompt:**
+
+```
+Create a realistic Vogue magazine cover–style fashion portrait using the uploaded face as the original face reference (100% face identity preservation).
+
+A young elegant woman posing confidently, maintaining her original facial features and natural beauty. She is winking with her left eye and making a playful duck-face expression. Both hands are raised, forming a love/heart gesture near her face.
+
+She is surrounded by multiple DSLR cameras and smartphones held around her, as if paparazzi and photographers are capturing her from all directions. Some phones show her live image on their screens.
+
+Appearance & styling: flawless glowing skin, natural makeup with glossy pink lips, soft blush, subtle highlights. Light brown hair styled in a low, neat updo with a few loose strands.
+
+Outfit & accessories: elegant minimalist beige-white strapless evening dress, Louis Vuitton necklace, diamond ring, luxury fashion jewelry.
+
+Photography style: close-up to half-body fashion portrait, Vogue editorial aesthetic, cinematic professional studio lighting, soft HDR background, shallow depth of field, realistic skin texture, ultra-detailed, 8K quality.
+
+Camera & lens look: professional DSLR look, 85mm lens feel, f/1.8 aperture, crisp focus with smooth background bokeh.
+
+Composition: Vogue magazine layout with large bold logo at the top, editorial fashion cover framing, clean and elegant design.
+
+Mood & vibe: playful yet luxurious, high-fashion beauty editorial, realistic, not AI-looking, photographed by a professional fashion photographer.
+```
+
+---
+
+## Handsome 9-square hippocampus photo
+
+![Handsome 9-square hippocampus photo](https://opennana.com/awesome-prompt-gallery/images/1020.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@msjiaozhu](https://x.com/msjiaozhu/status/2004194584797315341)
+- **Tags:** fashion, interior, minimalist, paper-craft, portrait
+
+**Prompt:**
+
+```
+{
+ "project_type": "Nine-grid Trendy Star Portrait Collage",
+ "aspect_ratio": "3:4",
+ "visual_style": {
+   "color_palette": "Black and white, Monochrome, High key, Bright grayscale, Clean whites, Light grays",
+   "background": "Studio background, seamless white paper, light gray concrete wall, minimalist bright space, no dark voids",
+   "lighting": [
+     "Soft frontal lighting",
+     "Butterfly lighting",
+     "Studio lighting",
+     "Flattering beauty dish light",
+     "No backlighting",
+     "No harsh shadows on face"
+   ],
+   "mood": "Trendy, Cool, Confident, Star quality, Fashion editorial, Energetic, Edgy"
+ },
+ "subject_description": {
+   "identity_consistency": "Consistent facial features across all 9 panels (based on input reference)",
+   "hair_and_grooming": [
+     "Varied trendy hairstyles",
+     "Cool messy undercut",
+     "Styled quiff",
+     "Textured crop",
+     "Slicked back modern",
+     "Designer stubble",
+     "Masculine scruff",
+     "Well-groomed beard"
+   ],
+   "styling": [
+     "Fashion forward",
+     "Streetwear vibe",
+     "Leather jacket collar",
+     "Designer hoodie",
+     "Minimalist layers",
+     "Statement accessories (e.g., single earring)"
+   ],
+   "expressions/poses": [
+     "Confident smirk",
+     "Looking off-camera coolly",
+     "Hand running through hair",
+     "Slight jaw clench",
+     "Direct confident gaze",
+     "Dynamic poses"
+   ]
+ },
+ "composition": {
+   "layout": "9-grid collage, Dynamic layout (not perfectly uniform), Mix of close-ups and medium shots",
+   "style": "Fashion magazine contact sheet, Editorial spread"
+ },
+ "technical_specs": {
+   "camera_emulation": "Medium format fashion camera",
+   "film_stock": "Kodak T-Max 400 (fine grain, sharp)",
+   "resolution": "8k, masterpiece, sharp focus"
+ },
+ "negative_prompt": [
+   "Dark background",
+   "Black void background",
+   "Backlit",
+   "Silhouette",
+   "Harsh shadows",
+   "Underexposed",
+   "Old fashioned",
+   "Dull",
+   "Uniform grid",
+   "Same hairstyle in all",
+   "Clean shaven (unless specified)"
+ ]
+}
+```
 
 ---
 

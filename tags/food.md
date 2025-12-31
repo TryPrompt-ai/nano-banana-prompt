@@ -1,6 +1,473 @@
 # Food Prompts
 
-> Found 70 prompts in this category.
+> Found 77 prompts in this category.
+
+---
+
+## Watch the fireworks show from the top of the mountain
+
+![Watch the fireworks show from the top of the mountain](https://opennana.com/awesome-prompt-gallery/images/1000.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [Unknown](#)
+- **Tags:** 3d, animal, architecture, branding, cartoon, character, clay, data-viz, fantasy, fashion, felt, food, futuristic, gaming, illustration, infographic, interior, landscape, logo, minimalist, nature, neon, paper-craft, photography, pixel, portrait, poster, product, retro, sci-fi, sculpture, toy, typography, ui, vehicle
+
+**Prompt:**
+
+```
+{
+  "template_name": "New Year City Skyline Celebration",
+  "description": "A cinematic shot of a child overlooking a city skyline with custom fireworks effects.",
+  "prompt_template": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with {city_fireworks_effect}. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape.",
+  "input_variables": {
+    "city_fireworks_effect": {
+      "type": "string",
+      "description": "Description of the style, shape, and vibe of the fireworks.",
+      "default_value": "a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks"
+    }
+  },
+  "full_prompt_example": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape."
+}
+```
+
+---
+
+## The woman seemed to emerge from the newly developed photo
+
+![The woman seemed to emerge from the newly developed photo](https://opennana.com/awesome-prompt-gallery/images/1005.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@hellokaton](https://x.com/hellokaton/status/2003381235331268757)
+- **Tags:** 3d, cartoon, fashion, food, landscape, nature, photography, portrait, vehicle
+
+**Prompt:**
+
+```
+{
+    "subject": {
+        "description": "A hyper-realistic optical-illusion photograph. The woman from the uploaded reference portrait appears to be emerging from a freshly developed instant photo (Polaroid-style) lying on a small cafe table. In the instant photo frame, her full outfit is visible; in reality, her upper body and head rise out of the glossy print, casting a real shadow onto the table.",
+        "reference_image_rules": {
+            "use_uploaded_reference_portrait": true,
+            "preserve_identity": true,
+            "preserve_hairline_and_facial_structure": true,
+            "no_face_morphing": true
+        },
+        "age": "20s",
+        "expression": {
+            "eyes": {
+                "look": "Playful and confident",
+                "direction": "Looking at the viewer"
+            },
+            "mouth": {
+                "position": "Pouting or blowing a kiss",
+                "energy": "Chic and charming"
+            },
+            "overall": "Lifelike, engaging interaction"
+        },
+        "hair": {
+            "style": "Long, loose waves",
+            "effect": "Realistic shine, slight wind movement"
+        },
+        "pose": {
+            "position": "Upper torso emerging out of the instant photo, one hand slightly forward as if stepping into reality",
+            "overall": "Energetic, spontaneous, full of life"
+        },
+        "clothing": {
+            "top": "High-neck knit turtleneck, premium textile detail",
+            "bottom": "Mini skirt and leather boots (boots visible clearly inside the instant photo)"
+        }
+    },
+    "mirror_rules": "All handwritten annotations must be perfectly legible and NOT mirrored. Keep printed text on the instant photo frame readable.",
+    "props": {
+        "instant_photo": {
+            "look": "Glossy Polaroid print with subtle fingerprint smudges and micro-scratches",
+            "frame_text": "Small printed caption line at the bottom of the frame (readable, not mirrored)"
+        },
+        "annotations_on_print": [
+            {
+                "text": "leather boots",
+                "style": "white handwritten marker",
+                "arrow_to": "boots inside the print"
+            },
+            {
+                "text": "clean turtleneck",
+                "style": "white handwritten marker",
+                "arrow_to": "top inside the print"
+            },
+            {
+                "text": "mini skirt",
+                "style": "white handwritten marker",
+                "arrow_to": "skirt inside the print"
+            }
+        ]
+    },
+    "photography": {
+        "camera_style": "DSLR photorealism, macro lens for print texture",
+        "shot_type": "Forced-perspective composite realism",
+        "angle": "Top-down 3/4 angle, close and intimate POV",
+        "aspect_ratio": "3:4",
+        "lighting": "Soft overcast daylight, natural shadows",
+        "depth_of_field": "Shallow DOF, the instant photo and her face sharp, background cafe bokeh"
+    },
+    "background": {
+        "setting": "Paris sidewalk cafe in autumn",
+        "elements": [
+            "small espresso cup",
+            "fallen leaves",
+            "stone pavement",
+            "soft distant pedestrians bokeh"
+        ]
+    },
+    "the_vibe": {
+        "mood": "Fashion-forward, viral illusion",
+        "story": "OOTD breakdown escaping the photo",
+        "authenticity": "Photoreal texture, not CGI"
+    },
+    "constraints": {
+        "must_keep": [
+            "Use uploaded reference portrait identity",
+            "Photorealistic skin texture",
+            "Instant photo looks physically real",
+            "Handwritten annotations readable",
+            "Strong pop-out illusion with real shadows"
+        ],
+        "avoid": [
+            "3D render style",
+            "cartoon",
+            "plastic skin",
+            "blurred or mirrored text",
+            "fake glossy CGI print"
+        ]
+    },
+    "negative_prompt": [
+        "3d",
+        "render",
+        "cgi",
+        "cartoon",
+        "anime",
+        "plastic skin",
+        "illegible text",
+        "mirrored text",
+        "oversharpened halos",
+        "uncanny face"
+    ]
+}
+```
+
+---
+
+## Hyperrealistic top-down macro photography
+
+![Hyperrealistic top-down macro photography](https://opennana.com/awesome-prompt-gallery/images/1006.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@Arminn_Ai](https://x.com/Arminn_Ai/status/2005681873612165251)
+- **Tags:** food, nature, paper-craft, photography
+
+**Prompt:**
+
+```
+Hyper-realistic top-down macro photography. A long, light green WhatsApp speech bubble acting as a dining table. Two real living humans (shrunk to tiny scale) are sitting at opposite ends. They are NOT plastic figures; they have visible skin texture, natural hair, and realistic clothing folds. They are eating real food that looks freshly cooked, not play-doh. The text inside reads: "INSERT TEXT". Bottom right has a timestamp '3:33 PM' and blue ticks. The background is completely filled with a high-density, seamless WhatsApp doodle pattern (line art icons) covering the entire surface edge-to-edge with no empty spaces, resembling the original dense WhatsApp wallpaper. Professional studio lighting, 8k resolution, sharp focus.
+```
+
+---
+
+## Girl in strapless dress holding white wine glass
+
+![Girl in strapless dress holding white wine glass](https://opennana.com/awesome-prompt-gallery/images/1009.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@KeorUnreal](https://x.com/KeorUnreal/status/2005369201914151024?referrer=grok.com)
+- **Tags:** food, landscape, nature
+
+**Prompt:**
+
+```
+{
+  "request_parameters": {
+    "aspect_ratio": "9:16",
+    "identity_preservation": {
+      "mode": "strict",
+      "target": "reference_face_retention",
+      "features": "natural_likeness_only"
+    }
+  },
+  "visual_composition": {
+    "subject": {
+      "entity": "Woman",
+      "pose": {
+        "body": "Seated on warm-toned banquette",
+        "orientation": "Sophisticated profile",
+        "gaze": "Looking to front"
+      },
+      "wardrobe": {
+        "primary": "Fitted short glitter white strapless dress",
+        "accents": "Deep necklace and stockings"
+      },
+      "interactions": {
+        "right_hand": "Holding white wine glass",
+        "left_hand": "Holding clutch bag"
+      }
+    },
+    "environment": {
+      "setting": "Elegant french restaurant",
+      "atmosphere": "High-end evening",
+      "architectural_details": ["Gold accents", "Mirrors", "Fine dining table"]
+    }
+  },
+  "technical_direction": {
+    "lighting": {
+      "source": "Warm tungsten",
+      "shading": "Soft shadows",
+      "skin_finish": "Subtle glow"
+    },
+    "optics": {
+      "lens_emulation": "35mm prime",
+      "depth_of_field": "Shallow bokeh",
+      "focus_points": ["Face", "Wine glass"]
+    },
+    "post_processing": {
+"vibe": "High-end editorial",
+      "color_grading": "Realistic / Cinematic",
+      "texture": [
+        "Natural skin grain",
+        "Gentle film grain"
+      ]
+    }
+  },
+  "quality_assurance": {
+    "negative_prompt_array": [
+      "over-sharpening",
+      "AI artifacts",
+      "deformed glass",
+      "extra fingers",
+      "warped jewelry",
+      "weird reflections",
+      "text",
+      "watermark",
+      "low-resolution",
+      "distorted facial features"
+    ]
+  }
+}
+```
+
+---
+
+## Girl in dark red dress holding white wine
+
+![Girl in dark red dress holding white wine](https://opennana.com/awesome-prompt-gallery/images/1011.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@YaseenK7212](https://x.com/YaseenK7212/status/2005332751759675820)
+- **Tags:** food, interior, landscape, nature, vehicle
+
+**Prompt:**
+
+```
+{
+  "request_parameters": {
+    "aspect_ratio": "9:16",
+    "identity_preservation": {
+      "mode": "strict",
+      "target": "reference_face_retention",
+      "features": "natural_likeness_only"
+    }
+  },
+  "visual_composition": {
+    "subject": {
+      "entity": "Woman",
+      "pose": {
+        "body": "Seated on a warm-toned banquette",
+        "orientation": "Sophisticated profile",
+        "gaze": "Looking toward the side"
+      },
+      "wardrobe": {
+        "primary": "Fitted deep red strapless dress",
+        "accents": "Matching draped scarf detail"
+      },
+      "interactions": {
+        "right_hand": "Holding a white wine glass",
+        "left_hand": "Holding a clutch bag"
+      }
+    },
+    "environment": {
+      "setting": "Elegant restaurant interior",
+      "atmosphere": "High-end upscale evening",
+      "architectural_details": [
+        "Gold accents",
+        "Strategic mirrors",
+        "Fine dining table setting"
+      ]
+    }
+  },
+  "technical_direction": {
+    "lighting": {
+      "source": "Warm tungsten",
+      "shading": "Soft shadows",
+      "skin_finish": "Subtle glow"
+    },
+    "optics": {
+      "lens_emulation": "35mm prime",
+      "depth_of_field": "Shallow (bokeh background)",
+      "focus_points": [
+        "Facial features",
+        "Wine glass"
+      ]
+    },
+    "post_processing": {
+      "vibe": "High-end editorial",
+      "color_grading": "Realistic / Cinematic",
+      "texture": [
+        "Natural skin grain",
+        "Gentle film grain"
+      ]
+    }
+  },
+  "quality_assurance": {
+    "negative_prompt_array": [
+      "over-sharpening",
+      "AI artifacts",
+      "deformed glass",
+      "extra fingers",
+      "warped jewelry",
+      "weird reflections",
+      "text",
+      "watermark",
+      "low-resolution",
+      "distorted facial features"
+    ]
+  }
+}
+```
+
+---
+
+## The integration of virtual and reality
+
+![The integration of virtual and reality](https://opennana.com/awesome-prompt-gallery/images/1014.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@berryxia](https://x.com/berryxia/status/2005233233605398681)
+- **Tags:** branding, fashion, food, logo, neon, photography, poster, product, typography, vehicle
+
+**Prompt:**
+
+```
+A premium vertical split concept poster for [brand name] [product name], showing ONE [product] split in half - left side realistic, right side deconstructed.
+
+TOP SECTION - BRANDING:
+- [Brand Name] official logo at top center ([Brand Color])
+- "[product name]" in large bold [font style] font in [color]
+- Subtitle: "[Product Slogan]" in elegant serif font
+- Optional secondary tagline
+
+CENTRAL DESIGN - ONE SINGLE [PRODUCT] SPLIT VERTICALLY DOWN THE MIDDLE:
+
+LEFT HALF OF THE [PRODUCT] (50%): Ultra-realistic photographic half
+- Left 50% of the [product] shown in ultra-realistic photography style
+- Photorealistic [Key material 1: such as metal/leather/food] texture visible on left edge
+- Half of [Key Feature 1: Such as screen/bread/surface] with realistic reflections
+- Left portion of [key feature 2: such as keyboard/accessories/layers] showing individual details
+- Half of [Key Feature 3] visible with material accuracy
+- Professional product photography lighting
+- Perfect vertical cut through the exact center of the [product]
+- Every detail ultra-realistic: [Material detail list]
+- [Optional: smoke/water droplets/halo] effect for atmosphere
+
+RIGHT HALF OF THE [PRODUCT] (50%): Stylized [tech/culinary/artistic] deconstruction
+- Right 50% of the [product] exploding into [destructuring type] components
+- [Component 1] floating away individually [specific description]
+- [Component 2] fragments showing [internal structure/glow effect]
+- [Component 3] pieces with glowing [color] [Elements: such as chips/ingredients/parts]
+- [Component 4] separating geometrically
+- [Internal structure] and internal components visible
+- [Brand Element/Logo] piece glowing independently
+- [Warm golden/Cool blue/Neon multi-color] tech/artistic lighting effects
+- Geometric [tech lines/motion lines/artistic trails], [holographic patterns/particle effects/ingredient splashes]
+- Components floating outward in organized dynamic composition
+- Illustrated/stylized art treatment (not photorealistic)
+- [Based on type: technological circuits/food deconstruction/fashion elements/mechanical parts]
+
+THE SPLIT: Clean vertical line down the exact center of the [product], one continuous [product] transitioning seamlessly from realistic (left) to deconstructed [style] art (right)
+
+BACKGROUND: [Dark/Light] gradient ([Color Value 1] to [Color Value 2]) with [carbon fiber/wood/concrete/fabric] texture and [Color] light particles
+
+LIGHTING: Left side = professional studio lighting with [warm/cool/natural] tone | Right side = [warm/cool/neon] glow with [color] accents creating dramatic contrast
+
+VERTICAL DIVIDING LINE: Subtle [golden/silver/blue/red] glow ([color value]) marking the center split of the [product]
+
+BOTTOM SECTION - PRODUCT FEATURES (arranged horizontally with icons):
+- "[Feature 1]" with [icon description] icon
+- "[Feature 2]" with [icon description] icon
+- "[Feature 3]" with [icon description] icon
+- "[Feature 4]" with [icon description] icon
+Typography in [font style] font with decorative divider lines
+
+COLOR PALETTE: [Main Color List]
+
+COMPOSITION: One single [product] centered vertically, split perfectly down the middle - left half ultra-realistic photography, right half exploding into stylized [deconstructed type] components
+
+STYLE: Seamless transition from photorealistic product to illustrated [tech/culinary/fashion/mechanical] deconstruction within ONE unified [product]
+
+MOOD: [Premium/Appetizing/Innovative/Nostalgic], [dramatic/elegant/energetic], official brand advertising quality
+
+TEXT STYLE: Mix of bold display fonts and elegant serifs, [brand color] colors
+
+Quality: Commercial advertising standard, 4K resolution, dramatic visual impact
+```
+
+---
+
+## Branded product packaging
+
+![Branded product packaging](https://opennana.com/awesome-prompt-gallery/images/1023.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@AmirMushich](https://x.com/AmirMushich/status/2003478037032239127)
+- **Tags:** branding, food, logo, product, typography
+
+**Prompt:**
+
+```
+Ideal food brand: [Insert food brand name here]
+
+Task: Serve as a graphic design expert specializing in military packaging design. Create a high-fidelity image of a fictional Military Ready to Eat (MRE) ration based on the "desired food brands" provided above.
+
+Phase One: Brand Research
+
+Find out the official logo of the food brand you want.
+
+Find the two most dominant colors of the brand.
+
+Color A (primary color): Main background color.
+
+Color B (secondary color): The color used for fonts and icons.
+
+Phase 2: Visual Execution (Image Generation)
+
+Generates a close-up image of a single-serve MRE (ready-to-eat ration) bag with a clean, pure white background. The design must meet the following strict constraints:
+
+Size and shape: The size of the bag must be exactly the same as the standard US military MRE (Individual Soldier Ration) size. It should be a tall, vertical rectangle (not a square or a small snack bag). The bag should look thick and heavy, with the outline of the vacuum seal clearly visible and a slight bulge where the food is contained.
+
+Materials & Color: Thick, durable matte plastic with reinforced embossed heat seal on top and bottom. The overall color of the packaging must be color A. All text and logos must be printed in B color.
+
+Logo Placement: Place the brand's original, unmodified logo in the upper left corner (replacing the Department of Defense seal).
+
+Primary Branding: "MRE" must be printed in a large bold serif font in the center of the bag at an upward angle of 45 degrees.
+
+Typography and layout design:
+
+Top right: "Ready-to-eat meals, personal packs" in bold sans serif font.
+
+Upper left corner (below the logo): Tagline "Warrior Recommended, Warrior Tested, Warrior Approved™".
+
+Bottom right: Lists "Menu [random number]" followed by the Desired Food brand's famous signature dishes, all in bold capital letters.
+
+Bottom center: Brand name as manufacturer, followed by a false address, a "Property of the United States Government" legal disclaimer, and a "Flameless Ration Heater" aviation safety warning on the very bottom edge.
+
+Details: Print the words "Peelable Seal" and a small upward arrow in the top center of the bag. Make sure the top and bottom indentations are clearly visible.
+```
 
 ---
 

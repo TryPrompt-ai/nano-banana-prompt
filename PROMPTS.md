@@ -1,7 +1,159 @@
 # Prompt Gallery
-*Total prompts: 948*
+*Total prompts: 973*
 
 ## All Prompts
+
+### 1851. Gorillaz style
+![Gorillaz style](images/215.png)
+- Tags: illustration
+- Prompt: Restyle this image into a gritty Gorillaz-style illustration, bold thick black outlines, sharp angular edges, flat expressive lighting, stylized high-contrast shadows, dirty distressed surface text...
+
+### 1850. Cute cartoon soul
+![Cute cartoon soul](images/230.jpeg)
+- Tags: cartoon, character, minimalist, vehicle
+- Prompt: A cute cartoon ghost is the absolute main subject of the picture. It has a pure white body with a smooth and rounded contour, and two simple black oval eyes, with no extra features. This ghost is f...
+
+### 1849. Convert Mosaic Style Photos
+![Convert Mosaic Style Photos](images/244.png)
+- Tags: nature
+- Prompt: Transform this image into a refined low-poly mosaic style. Preserve the original structure and recognizable details, especially facial features and contours. Use small, high-density polygons to mai...
+
+### 1848. a pencil sketch
+![a pencil sketch](images/248.png)
+- Tags: character, paper-craft
+- Prompt: A pencil drawing of [Your character], with detailed lines and shading on white paper, capturing the energy and strength in his muscular body [with element effects] around  the character, in a dynam...
+
+### 1840. Stylized 3D character caricature
+![Stylized 3D character caricature](images/524.jpeg)
+- Tags: character, portrait, vehicle
+- Model: Nano banana pro
+- Prompt: A highly stylized 3D caricature of the person in the uploaded image, with expressive facial features, and playful exaggeration. Rendered in a smooth, polished style with clean materials and soft am...
+
+### 1836. City top view isometric 3D cartoon miniature scene
+![City top view isometric 3D cartoon miniature scene](images/592.jpeg)
+- Tags: architecture, cartoon, landscape, logo, minimalist, nature, vehicle
+- Model: Nano banana pro
+- Prompt: Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials...
+
+### 1835. Watch the fireworks show from the top of the mountain
+![Watch the fireworks show from the top of the mountain](images/1000.jpeg)
+- Tags: 3d, animal, architecture, branding, cartoon, character, clay, data-viz, fantasy, fashion, felt, food, futuristic, gaming, illustration, infographic, interior, landscape, logo, minimalist, nature, neon, paper-craft, photography, pixel, portrait, poster, product, retro, sci-fi, sculpture, toy, typography, ui, vehicle
+- Model: Nano banana pro
+- Prompt: {   "template_name": "New Year City Skyline Celebration",   "description": "A cinematic shot of a child overlooking a city skyline with custom fireworks effects.",   "prompt_template": "A stunning ...
+
+### 1834. Hong Kong Victoria Harbor Fireworks Show
+![Hong Kong Victoria Harbor Fireworks Show](images/1001.jpeg)
+- Tags: character, fashion, logo, nature, portrait
+- Model: Nano banana pro
+- Prompt: {   "template_name": "New Year City Skyline Celebration (Character Customized Version)",   "description": "A cinematic shot of a child overlooking the city skyline. Supports character customization...
+
+### 1831. 3x3 grid collage of young woman in winter forest
+![3x3 grid collage of young woman in winter forest](images/1004.jpeg)
+- Tags: fashion, landscape, photography, vehicle
+- Model: Nano banana pro
+- Prompt: {   "subject": "3x3 grid collage of young woman in winter forest",   "clothing": "Brown teddy coat, white crop top, grey sweatpants, beige boots, brown beanie",   "hair": "Long wavy brown, wearing ...
+
+### 1830. The woman seemed to emerge from the newly developed photo
+![The woman seemed to emerge from the newly developed photo](images/1005.jpeg)
+- Tags: 3d, cartoon, fashion, food, landscape, nature, photography, portrait, vehicle
+- Model: Nano banana pro
+- Prompt: {     "subject": {         "description": "A hyper-realistic optical-illusion photograph. The woman from the uploaded reference portrait appears to be emerging from a freshly developed instant phot...
+
+### 1829. Hyperrealistic top-down macro photography
+![Hyperrealistic top-down macro photography](images/1006.jpeg)
+- Tags: food, nature, paper-craft, photography
+- Model: Nano banana pro
+- Prompt: Hyper-realistic top-down macro photography. A long, light green WhatsApp speech bubble acting as a dining table. Two real living humans (shrunk to tiny scale) are sitting at opposite ends. They are...
+
+### 1827. 2026 Realistic Studio Fashion Portraits
+![2026 Realistic Studio Fashion Portraits](images/1008.jpeg)
+- Tags: branding, fashion, landscape, logo, paper-craft, photography, portrait
+- Model: Nano banana pro
+- Prompt: {   "type": "image_prompt",   "description": "High-resolution photorealistic studio fashion portrait",   "subject": {     "gender": "adult woman",     "hair": "long light brown hair with golden blo...
+
+### 1826. Girl in strapless dress holding white wine glass
+![Girl in strapless dress holding white wine glass](images/1009.jpeg)
+- Tags: food, landscape, nature
+- Model: Nano banana pro
+- Prompt: {   "request_parameters": {     "aspect_ratio": "9:16",     "identity_preservation": {       "mode": "strict",       "target": "reference_face_retention",       "features": "natural_likeness_only" ...
+
+### 1825. Woman with long blond curly hair and fair complexion
+![Woman with long blond curly hair and fair complexion](images/1010.jpeg)
+- Tags: data-viz, interior, landscape, nature, photography, portrait, typography
+- Model: Nano banana pro
+- Prompt: {   "prompt_data": {     "subject": {       "description": "Young woman with long, wavy blonde hair and a light fair skin",       "features": "Natural skin texture with visible tan lines on the che...
+
+### 1824. Girl in dark red dress holding white wine
+![Girl in dark red dress holding white wine](images/1011.jpeg)
+- Tags: food, interior, landscape, nature, vehicle
+- Model: Nano banana pro
+- Prompt: {   "request_parameters": {     "aspect_ratio": "9:16",     "identity_preservation": {       "mode": "strict",       "target": "reference_face_retention",       "features": "natural_likeness_only" ...
+
+### 1823. Mini branded night light design
+![Mini branded night light design](images/1012.jpeg)
+- Tags: branding, logo, poster, typography
+- Model: Nano banana pro
+- Prompt: The creative poster features a box of fries transformed into a nightlight in the center. The golden fries act as light, reflecting off the wall behind the outlet and casting a yellow glow on the Mc...
+
+### 1822. Fireworks outline the shape of the theme over the waterside city
+![Fireworks outline the shape of the theme over the waterside city](images/1013.jpeg)
+- Tags: nature, photography
+- Model: Nano banana pro
+- Prompt: Fireworks form the shape of [SUBJECT] in the night sky above a waterfront city. The design is inspired by the colors, proportions, and silhouette of [SUBJECT], clearly readable and visually strikin...
+
+### 1821. The integration of virtual and reality
+![The integration of virtual and reality](images/1014.jpeg)
+- Tags: branding, fashion, food, logo, neon, photography, poster, product, typography, vehicle
+- Model: Nano banana pro
+- Prompt: A premium vertical split concept poster for [brand name] [product name], showing ONE [product] split in half - left side realistic, right side deconstructed.  TOP SECTION - BRANDING: - [Brand Name]...
+
+### 1817. Multi-angle close-up photo poster
+![Multi-angle close-up photo poster](images/1018.jpeg)
+- Tags: minimalist, nature, neon, photography, portrait, poster
+- Model: Nano banana pro
+- Prompt: 1. The tone of the picture     Core temperament: Japanese airy photos, fresh and beautiful, high-key photography  Keywords: Soft Focus, Dreamy Atmosphere, Clean Minimalism, Portrait Photography, Na...
+
+### 1816. Realistic fashion portrait in Vogue magazine cover style
+![Realistic fashion portrait in Vogue magazine cover style](images/1019.jpeg)
+- Tags: fashion, minimalist, nature, photography, portrait
+- Model: Nano banana pro
+- Prompt: Create a realistic Vogue magazine cover–style fashion portrait using the uploaded face as the original face reference (100% face identity preservation).  A young elegant woman posing confidently, m...
+
+### 1815. Handsome 9-square hippocampus photo
+![Handsome 9-square hippocampus photo](images/1020.jpeg)
+- Tags: fashion, interior, minimalist, paper-craft, portrait
+- Model: Nano banana pro
+- Prompt: {  "project_type": "Nine-grid Trendy Star Portrait Collage",  "aspect_ratio": "3:4",  "visual_style": {    "color_palette": "Black and white, Monochrome, High key, Bright grayscale, Clean whites, L...
+
+### 1813. One hand holds a slender vertical hollow bookmark
+![One hand holds a slender vertical hollow bookmark](images/1022.jpeg)
+- Tags: 3d, architecture, illustration, landscape, logo, paper-craft, photography
+- Model: Nano banana pro
+- Prompt: Your city {   "image_request": {     "subject": "A person's hand holding a long, narrow vertical die-cut bookmark",     "bookmark_design": {       "style": "Intricate layered paper-cut illustration...
+
+### 1812. Branded product packaging
+![Branded product packaging](images/1023.jpeg)
+- Tags: branding, food, logo, product, typography
+- Model: Nano banana pro
+- Prompt: Ideal food brand: [Insert food brand name here]  Task: Serve as a graphic design expert specializing in military packaging design. Create a high-fidelity image of a fictional Military Ready to Eat ...
+
+### 1810. A human hand holds a long and narrow vertical die-cut bookmark
+![A human hand holds a long and narrow vertical die-cut bookmark](images/1025.jpeg)
+- Tags: architecture
+- Model: Nano banana pro
+- Prompt: {   "image_request": {     "subject": "A human hand holds a long, narrow vertical die-cut bookmark",     "bookmark_design": {       "style": "surreal style",       "content": "A surreal medium shot...
+
+### 1809. Photo of spectacular fireworks bursting over cityscape
+![Photo of spectacular fireworks bursting over cityscape](images/1026.jpeg)
+- Tags: landscape, logo, nature, photography
+- Model: Nano banana pro
+- Prompt: Create a spectacular fireworks display photograph over a waterfront cityscape at night. The fireworks should burst in the exact shape and form of the uploaded logo, perfectly replicating its distin...
+
+### 1808. Vertical full body festival poster
+![Vertical full body festival poster](images/1027.jpeg)
+- Tags: branding, cartoon, fashion, landscape, logo, paper-craft, photography, portrait, poster, vehicle
+- Model: Nano banana pro
+- Prompt: {     "language": "en",     "task": "image_edit",     "consistency_id": "user_subject_sassy_santa",     "input_images": [         {             "image": "{{USER_REFERENCE_IMAGE}}",             "use...
 
 ### 1805. Colorful Y2K scrapbooking poster
 ![Colorful Y2K scrapbooking poster](images/694.jpeg)
@@ -2646,12 +2798,6 @@
 - Model: Nano banana pro
 - Prompt: Draw a family portrait for the Super Smash Bros. game poster, keeping the style consistent with the game. aspect 9:16 2k
 
-### 1246. Three heroes racing against Lu Bu
-![Three heroes racing against Lu Bu](images/475.jpeg)
-- Tags: illustration, retro, vehicle
-- Model: Nano banana pro
-- Prompt: Draw a humorous ink illustration that mixes ancient and modern times, with the theme of "Three Heroes Racing Against Lu Bu":  The picture is at dusk, the sky is gorgeous with clouds, and the large ...
-
 ### 1245. Recipe - Tomato Scrambled Eggs
 ![Recipe - Tomato Scrambled Eggs](images/476.jpeg)
 - Tags: food, illustration, infographic, landscape, paper-craft, typography
@@ -5276,7 +5422,10 @@
 
 ## Tags
 
-### 3d (77)
+### 3d (80)
+- [1835] Watch the fireworks show from the top of the mountain
+- [1830] The woman seemed to emerge from the newly developed photo
+- [1813] One hand holds a slender vertical hollow bookmark
 - [1760] 3D cartoon character breaks the wall
 - [1758] New Year's Day Special - Pink Swing Fairytale Style
 - [1757] custom balloons
@@ -5355,7 +5504,8 @@
 - [799] Korean fashion closeup portrait of young woman
 - [792] Woman is stepping out of her mobile phone screen
 
-### animal (49)
+### animal (50)
+- [1835] Watch the fireworks show from the top of the mountain
 - [1706] Melt variant text
 - [1697] Emoji turns into a flower pot
 - [1679] Put the logo into my world
@@ -5406,7 +5556,11 @@
 - [894] Dongshan Xiaohong
 - [853] Judy stands on the snow bridge
 
-### architecture (69)
+### architecture (73)
+- [1836] City top view isometric 3D cartoon miniature scene
+- [1835] Watch the fireworks show from the top of the mountain
+- [1813] One hand holds a slender vertical hollow bookmark
+- [1810] A human hand holds a long and narrow vertical die-cut bookmark
 - [1789] The woman stretches her hand exaggeratedly toward the camera
 - [1740] Stylish Asian Fashion Blogger
 - [1738] Display board for residential building created by architectural illustrator
@@ -5477,7 +5631,13 @@
 - [804] Blonde woman kneeling on yacht deck
 - [795] Collage posters from the Y2K era
 
-### branding (117)
+### branding (123)
+- [1835] Watch the fireworks show from the top of the mountain
+- [1827] 2026 Realistic Studio Fashion Portraits
+- [1823] Mini branded night light design
+- [1821] The integration of virtual and reality
+- [1812] Branded product packaging
+- [1808] Vertical full body festival poster
 - [1800] 9-square grid product display
 - [1779] Product development trajectory chart
 - [1776] A super realistic vertical photo
@@ -5596,7 +5756,12 @@
 - [791] Editorial photo for concept art magazine
 - [786] Ultra-realistic Macbook screen video conferencing diagram
 
-### cartoon (109)
+### cartoon (114)
+- [1850] Cute cartoon soul
+- [1836] City top view isometric 3D cartoon miniature scene
+- [1835] Watch the fireworks show from the top of the mountain
+- [1830] The woman seemed to emerge from the newly developed photo
+- [1808] Vertical full body festival poster
 - [1789] The woman stretches her hand exaggeratedly toward the camera
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1760] 3D cartoon character breaks the wall
@@ -5707,7 +5872,12 @@
 - [794] Cartoons turned into Funko Pop vinyl figures
 - [792] Woman is stepping out of her mobile phone screen
 
-### character (226)
+### character (231)
+- [1850] Cute cartoon soul
+- [1848] a pencil sketch
+- [1840] Stylized 3D character caricature
+- [1835] Watch the fireworks show from the top of the mountain
+- [1834] Hong Kong Victoria Harbor Fireworks Show
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1779] Product development trajectory chart
 - [1776] A super realistic vertical photo
@@ -5935,7 +6105,8 @@
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 - [780] Christmas Special - My Christmas is in tune with myself
 
-### clay (15)
+### clay (16)
+- [1835] Watch the fireworks show from the top of the mountain
 - [1649] Cute miniature scene
 - [1642] 3D cute pastel clay icon
 - [1618] 3D cartoon sculpture style
@@ -6013,7 +6184,9 @@
 - [827] Prompt word kid caricature
 - [813] Manipulate a replica of yourself with your fingers
 
-### data-viz (10)
+### data-viz (12)
+- [1835] Watch the fireworks show from the top of the mountain
+- [1825] Woman with long blond curly hair and fair complexion
 - [1779] Product development trajectory chart
 - [1288] landmark infographic
 - [1280] Statue of Liberty architectural blueprint
@@ -6040,7 +6213,8 @@
 - [1192] Make people make Emoji expressions
 - [1175] LINE style half-length Q version emoticon pack
 
-### fantasy (36)
+### fantasy (37)
+- [1835] Watch the fireworks show from the top of the mountain
 - [1726] A hyper-realistic movie poster
 - [1666] See the world through a keyhole
 - [1663] small house made of flowers
@@ -6078,7 +6252,16 @@
 - [790] iron man coca cola
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 
-### fashion (206)
+### fashion (215)
+- [1835] Watch the fireworks show from the top of the mountain
+- [1834] Hong Kong Victoria Harbor Fireworks Show
+- [1831] 3x3 grid collage of young woman in winter forest
+- [1830] The woman seemed to emerge from the newly developed photo
+- [1827] 2026 Realistic Studio Fashion Portraits
+- [1821] The integration of virtual and reality
+- [1816] Realistic fashion portrait in Vogue magazine cover style
+- [1815] Handsome 9-square hippocampus photo
+- [1808] Vertical full body festival poster
 - [1805] Colorful Y2K scrapbooking poster
 - [1777] Girls night city street shooting
 - [1776] A super realistic vertical photo
@@ -6286,7 +6469,8 @@
 - [787] Five-part wide-format film collage
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### felt (21)
+### felt (22)
+- [1835] Watch the fireworks show from the top of the mountain
 - [1626] Turn your logo into a felt texture
 - [1613] embroidery style
 - [1585] Custom plush keychain
@@ -6309,7 +6493,14 @@
 - [830] Urban streetwear editorial collage
 - [807] Winter solstice poster
 
-### food (70)
+### food (77)
+- [1835] Watch the fireworks show from the top of the mountain
+- [1830] The woman seemed to emerge from the newly developed photo
+- [1829] Hyperrealistic top-down macro photography
+- [1826] Girl in strapless dress holding white wine glass
+- [1824] Girl in dark red dress holding white wine
+- [1821] The integration of virtual and reality
+- [1812] Branded product packaging
 - [1739] Gallery grid view for Apple’s iOS Photos app
 - [1735] Woman extends index finger forward towards camera lens
 - [1729] Anime style digital poster
@@ -6381,7 +6572,8 @@
 - [807] Winter solstice poster
 - [795] Collage posters from the Y2K era
 
-### futuristic (53)
+### futuristic (54)
+- [1835] Watch the fireworks show from the top of the mountain
 - [1779] Product development trajectory chart
 - [1750] A complete high-end product promotional photo
 - [1710] Golden abstract integrated style
@@ -6436,7 +6628,8 @@
 - [830] Urban streetwear editorial collage
 - [806] TV news studio scene
 
-### gaming (21)
+### gaming (22)
+- [1835] Watch the fireworks show from the top of the mountain
 - [1733] First person shooter perspective
 - [1711] Create your own GTA character
 - [1698] Brand Minecraft Style
@@ -6459,7 +6652,10 @@
 - [920] A 3D game level map poster
 - [887] Tokyo Tower is occupied by a super giant cat
 
-### illustration (123)
+### illustration (125)
+- [1851] Gorillaz style
+- [1835] Watch the fireworks show from the top of the mountain
+- [1813] One hand holds a slender vertical hollow bookmark
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1769] Childlike style illustration
 - [1738] Display board for residential building created by architectural illustrator
@@ -6521,7 +6717,6 @@
 - [1318] Digital comics of a middle-aged man
 - [1276] Incorporate comic characters into your real-life photos
 - [1273] Add sketched people to your real photos
-- [1246] Three heroes racing against Lu Bu
 - [1245] Recipe - Tomato Scrambled Eggs
 - [1243] Panoramic character depth concept exploded view
 - [1222] Chengdu tourist map
@@ -6584,7 +6779,8 @@
 - [802] Woman holding a wooden picture frame of herself
 - [792] Woman is stepping out of her mobile phone screen
 
-### infographic (24)
+### infographic (25)
+- [1835] Watch the fireworks show from the top of the mountain
 - [1779] Product development trajectory chart
 - [1722] Technical drawing display board
 - [1693] Flat design equilateral style
@@ -6610,7 +6806,11 @@
 - [936] The evolution of Stark Industries' Iron Man suit
 - [852] Professional knowledge infographic
 
-### interior (119)
+### interior (123)
+- [1835] Watch the fireworks show from the top of the mountain
+- [1825] Woman with long blond curly hair and fair complexion
+- [1824] Girl in dark red dress holding white wine
+- [1815] Handsome 9-square hippocampus photo
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1780] Labubu’s 3x3 grid collage photo
 - [1776] A super realistic vertical photo
@@ -6731,7 +6931,18 @@
 - [786] Ultra-realistic Macbook screen video conferencing diagram
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 
-### landscape (312)
+### landscape (323)
+- [1836] City top view isometric 3D cartoon miniature scene
+- [1835] Watch the fireworks show from the top of the mountain
+- [1831] 3x3 grid collage of young woman in winter forest
+- [1830] The woman seemed to emerge from the newly developed photo
+- [1827] 2026 Realistic Studio Fashion Portraits
+- [1826] Girl in strapless dress holding white wine glass
+- [1825] Woman with long blond curly hair and fair complexion
+- [1824] Girl in dark red dress holding white wine
+- [1813] One hand holds a slender vertical hollow bookmark
+- [1809] Photo of spectacular fireworks bursting over cityscape
+- [1808] Vertical full body festival poster
 - [1805] Colorful Y2K scrapbooking poster
 - [1804] Woman taking selfie while lying on her back
 - [1800] 9-square grid product display
@@ -7045,7 +7256,17 @@
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 - [782] Christmas Special - Christmas Sweet Girl
 
-### logo (139)
+### logo (149)
+- [1836] City top view isometric 3D cartoon miniature scene
+- [1835] Watch the fireworks show from the top of the mountain
+- [1834] Hong Kong Victoria Harbor Fireworks Show
+- [1827] 2026 Realistic Studio Fashion Portraits
+- [1823] Mini branded night light design
+- [1821] The integration of virtual and reality
+- [1813] One hand holds a slender vertical hollow bookmark
+- [1812] Branded product packaging
+- [1809] Photo of spectacular fireworks bursting over cityscape
+- [1808] Vertical full body festival poster
 - [1805] Colorful Y2K scrapbooking poster
 - [1800] 9-square grid product display
 - [1776] A super realistic vertical photo
@@ -7186,7 +7407,13 @@
 - [787] Five-part wide-format film collage
 - [785] Turn your favorite characters into collectibles
 
-### minimalist (210)
+### minimalist (216)
+- [1850] Cute cartoon soul
+- [1836] City top view isometric 3D cartoon miniature scene
+- [1835] Watch the fireworks show from the top of the mountain
+- [1817] Multi-angle close-up photo poster
+- [1816] Realistic fashion portrait in Vogue magazine cover style
+- [1815] Handsome 9-square hippocampus photo
 - [1804] Woman taking selfie while lying on her back
 - [1800] 9-square grid product display
 - [1784] Hyper-realistic style real and cartoon separation effect
@@ -7398,7 +7625,20 @@
 - [785] Turn your favorite characters into collectibles
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### nature (352)
+### nature (365)
+- [1849] Convert Mosaic Style Photos
+- [1836] City top view isometric 3D cartoon miniature scene
+- [1835] Watch the fireworks show from the top of the mountain
+- [1834] Hong Kong Victoria Harbor Fireworks Show
+- [1830] The woman seemed to emerge from the newly developed photo
+- [1829] Hyperrealistic top-down macro photography
+- [1826] Girl in strapless dress holding white wine glass
+- [1825] Woman with long blond curly hair and fair complexion
+- [1824] Girl in dark red dress holding white wine
+- [1822] Fireworks outline the shape of the theme over the waterside city
+- [1817] Multi-angle close-up photo poster
+- [1816] Realistic fashion portrait in Vogue magazine cover style
+- [1809] Photo of spectacular fireworks bursting over cityscape
 - [1805] Colorful Y2K scrapbooking poster
 - [1804] Woman taking selfie while lying on her back
 - [1784] Hyper-realistic style real and cartoon separation effect
@@ -7752,7 +7992,10 @@
 - [782] Christmas Special - Christmas Sweet Girl
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### neon (65)
+### neon (68)
+- [1835] Watch the fireworks show from the top of the mountain
+- [1821] The integration of virtual and reality
+- [1817] Multi-angle close-up photo poster
 - [1805] Colorful Y2K scrapbooking poster
 - [1735] Woman extends index finger forward towards camera lens
 - [1733] First person shooter perspective
@@ -7819,7 +8062,14 @@
 - [858] 3x3 grid Pixar style storyboard
 - [830] Urban streetwear editorial collage
 
-### paper-craft (117)
+### paper-craft (124)
+- [1848] a pencil sketch
+- [1835] Watch the fireworks show from the top of the mountain
+- [1829] Hyperrealistic top-down macro photography
+- [1827] 2026 Realistic Studio Fashion Portraits
+- [1815] Handsome 9-square hippocampus photo
+- [1813] One hand holds a slender vertical hollow bookmark
+- [1808] Vertical full body festival poster
 - [1805] Colorful Y2K scrapbooking poster
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1779] Product development trajectory chart
@@ -7938,7 +8188,20 @@
 - [784] Visualization of gadgets and inventions from a given year
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### photography (407)
+### photography (420)
+- [1835] Watch the fireworks show from the top of the mountain
+- [1831] 3x3 grid collage of young woman in winter forest
+- [1830] The woman seemed to emerge from the newly developed photo
+- [1829] Hyperrealistic top-down macro photography
+- [1827] 2026 Realistic Studio Fashion Portraits
+- [1825] Woman with long blond curly hair and fair complexion
+- [1822] Fireworks outline the shape of the theme over the waterside city
+- [1821] The integration of virtual and reality
+- [1817] Multi-angle close-up photo poster
+- [1816] Realistic fashion portrait in Vogue magazine cover style
+- [1813] One hand holds a slender vertical hollow bookmark
+- [1809] Photo of spectacular fireworks bursting over cityscape
+- [1808] Vertical full body festival poster
 - [1805] Colorful Y2K scrapbooking poster
 - [1800] 9-square grid product display
 - [1785] MacBook Pro laptop teardown
@@ -8347,7 +8610,8 @@
 - [782] Christmas Special - Christmas Sweet Girl
 - [780] Christmas Special - My Christmas is in tune with myself
 
-### pixel (35)
+### pixel (36)
+- [1835] Watch the fireworks show from the top of the mountain
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1748] Displayed on mobile phone screens in Japan in the early 2000s
 - [1735] Woman extends index finger forward towards camera lens
@@ -8384,7 +8648,17 @@
 - [845] minimalist food photography
 - [792] Woman is stepping out of her mobile phone screen
 
-### portrait (315)
+### portrait (325)
+- [1840] Stylized 3D character caricature
+- [1835] Watch the fireworks show from the top of the mountain
+- [1834] Hong Kong Victoria Harbor Fireworks Show
+- [1830] The woman seemed to emerge from the newly developed photo
+- [1827] 2026 Realistic Studio Fashion Portraits
+- [1825] Woman with long blond curly hair and fair complexion
+- [1817] Multi-angle close-up photo poster
+- [1816] Realistic fashion portrait in Vogue magazine cover style
+- [1815] Handsome 9-square hippocampus photo
+- [1808] Vertical full body festival poster
 - [1805] Colorful Y2K scrapbooking poster
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1780] Labubu’s 3x3 grid collage photo
@@ -8701,7 +8975,12 @@
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 - [780] Christmas Special - My Christmas is in tune with myself
 
-### poster (68)
+### poster (73)
+- [1835] Watch the fireworks show from the top of the mountain
+- [1823] Mini branded night light design
+- [1821] The integration of virtual and reality
+- [1817] Multi-angle close-up photo poster
+- [1808] Vertical full body festival poster
 - [1805] Colorful Y2K scrapbooking poster
 - [1779] Product development trajectory chart
 - [1767] A vertical clothing poster
@@ -8771,7 +9050,10 @@
 - [790] iron man coca cola
 - [785] Turn your favorite characters into collectibles
 
-### product (109)
+### product (112)
+- [1835] Watch the fireworks show from the top of the mountain
+- [1821] The integration of virtual and reality
+- [1812] Branded product packaging
 - [1800] 9-square grid product display
 - [1785] MacBook Pro laptop teardown
 - [1779] Product development trajectory chart
@@ -8883,6 +9165,7 @@
 - [784] Visualization of gadgets and inventions from a given year
 
 ### retro (81)
+- [1835] Watch the fireworks show from the top of the mountain
 - [1805] Colorful Y2K scrapbooking poster
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1780] Labubu’s 3x3 grid collage photo
@@ -8919,7 +9202,6 @@
 - [1321] Young East Asian Female K-Pop Idol Style
 - [1261] Fixed reference picture pose to generate pictures
 - [1255] 14 furry little guys squeezed side by side on the sofa
-- [1246] Three heroes racing against Lu Bu
 - [1238] Zhuge Liannu’s retro-style engineering explosion
 - [1210] HD magazine spread
 - [1209] labubu style dynamics
@@ -8965,7 +9247,8 @@
 - [800] 90s retro black and white portraits
 - [787] Five-part wide-format film collage
 
-### sci-fi (23)
+### sci-fi (24)
+- [1835] Watch the fireworks show from the top of the mountain
 - [1735] Woman extends index finger forward towards camera lens
 - [1733] First person shooter perspective
 - [1700] brand planet world
@@ -8990,7 +9273,8 @@
 - [858] 3x3 grid Pixar style storyboard
 - [830] Urban streetwear editorial collage
 
-### sculpture (28)
+### sculpture (29)
+- [1835] Watch the fireworks show from the top of the mountain
 - [1800] 9-square grid product display
 - [1716] Christmas Special - A cool Christmas, sweet and cool all in a small space
 - [1707] Blue and white porcelain style
@@ -9020,7 +9304,8 @@
 - [803] Woman standing next to KAWS style art sculpture
 - [791] Editorial photo for concept art magazine
 
-### toy (63)
+### toy (64)
+- [1835] Watch the fireworks show from the top of the mountain
 - [1757] custom balloons
 - [1746] cartoon style keychain
 - [1742] Christmas Special-Christmas Elf
@@ -9085,7 +9370,12 @@
 - [807] Winter solstice poster
 - [785] Turn your favorite characters into collectibles
 
-### typography (112)
+### typography (117)
+- [1835] Watch the fireworks show from the top of the mountain
+- [1825] Woman with long blond curly hair and fair complexion
+- [1823] Mini branded night light design
+- [1821] The integration of virtual and reality
+- [1812] Branded product packaging
 - [1800] 9-square grid product display
 - [1779] Product development trajectory chart
 - [1767] A vertical clothing poster
@@ -9199,7 +9489,8 @@
 - [787] Five-part wide-format film collage
 - [784] Visualization of gadgets and inventions from a given year
 
-### ui (37)
+### ui (38)
+- [1835] Watch the fireworks show from the top of the mountain
 - [1776] A super realistic vertical photo
 - [1750] A complete high-end product promotional photo
 - [1735] Woman extends index finger forward towards camera lens
@@ -9238,7 +9529,16 @@
 - [792] Woman is stepping out of her mobile phone screen
 - [791] Editorial photo for concept art magazine
 
-### vehicle (234)
+### vehicle (242)
+- [1850] Cute cartoon soul
+- [1840] Stylized 3D character caricature
+- [1836] City top view isometric 3D cartoon miniature scene
+- [1835] Watch the fireworks show from the top of the mountain
+- [1831] 3x3 grid collage of young woman in winter forest
+- [1830] The woman seemed to emerge from the newly developed photo
+- [1824] Girl in dark red dress holding white wine
+- [1821] The integration of virtual and reality
+- [1808] Vertical full body festival poster
 - [1789] The woman stretches her hand exaggeratedly toward the camera
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1767] A vertical clothing poster
@@ -9357,7 +9657,6 @@
 - [1280] Statue of Liberty architectural blueprint
 - [1276] Incorporate comic characters into your real-life photos
 - [1272] You can actually be cute when you're angry
-- [1246] Three heroes racing against Lu Bu
 - [1224] Japanese rural bus station scene on a rainy night
 - [1221] cyber almanac
 - [1210] HD magazine spread

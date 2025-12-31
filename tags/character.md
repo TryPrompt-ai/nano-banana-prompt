@@ -1,6 +1,133 @@
 # Character Prompts
 
-> Found 226 prompts in this category.
+> Found 231 prompts in this category.
+
+---
+
+## Cute cartoon soul
+
+![Cute cartoon soul](https://opennana.com/awesome-prompt-gallery/images/230.jpeg)
+
+- **Model:** None
+- **Source:** [@松果先森](https://x.com/songguoxiansen/status/1945032571114402108)
+- **Tags:** cartoon, character, minimalist, vehicle
+
+**Prompt:**
+
+```
+A cute cartoon ghost is the absolute main subject of the picture. It has a pure white body with a smooth and rounded contour, and two simple black oval eyes, with no extra features. This ghost is floating quietly in the very center of the picture. The background is a pure, bright purple, creating a simple, modern, and friendly atmosphere. The composition is a centered close-up, and the aspect ratio is 1:1 square. There is no text in the entire image. The image style is typical flat design and vector art, minimalist, much like an app icon or a logo, characterized by clean lines and solid color blocks, without any gradients or textural details. The image quality required is high-resolution with clean, sharp edges. The overall feeling it gives is one of a cute, simple, and modern piece of digital art.
+```
+
+---
+
+## a pencil sketch
+
+![a pencil sketch](https://opennana.com/awesome-prompt-gallery/images/248.png)
+
+- **Model:** None
+- **Source:** [@CharaspowerAI](https://x.com/CharaspowerAI/status/1895481600592269400)
+- **Tags:** character, paper-craft
+
+**Prompt:**
+
+```
+A pencil drawing of [Your character], with detailed lines and shading on white paper, capturing the energy and strength in his muscular body [with element effects] around  the character, in a dynamic pose,   tattoo design on paper, manga art style, dark background, high contrast, strong shadows, light and shadow effects, black ink drawing,  dynamic pose
+```
+
+---
+
+## Stylized 3D character caricature
+
+![Stylized 3D character caricature](https://opennana.com/awesome-prompt-gallery/images/524.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@rovvmut_](https://x.com/rovvmut_/status/1993255617855729818)
+- **Tags:** character, portrait, vehicle
+
+**Prompt:**
+
+```
+A highly stylized 3D caricature of the person in the uploaded image, with expressive facial features, and playful exaggeration. Rendered in a smooth, polished style with clean materials and soft ambient lighting. Bold color background to emphasize the character’s charm and presence.
+```
+
+---
+
+## Watch the fireworks show from the top of the mountain
+
+![Watch the fireworks show from the top of the mountain](https://opennana.com/awesome-prompt-gallery/images/1000.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [Unknown](#)
+- **Tags:** 3d, animal, architecture, branding, cartoon, character, clay, data-viz, fantasy, fashion, felt, food, futuristic, gaming, illustration, infographic, interior, landscape, logo, minimalist, nature, neon, paper-craft, photography, pixel, portrait, poster, product, retro, sci-fi, sculpture, toy, typography, ui, vehicle
+
+**Prompt:**
+
+```
+{
+  "template_name": "New Year City Skyline Celebration",
+  "description": "A cinematic shot of a child overlooking a city skyline with custom fireworks effects.",
+  "prompt_template": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with {city_fireworks_effect}. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape.",
+  "input_variables": {
+    "city_fireworks_effect": {
+      "type": "string",
+      "description": "Description of the style, shape, and vibe of the fireworks.",
+      "default_value": "a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks"
+    }
+  },
+  "full_prompt_example": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape."
+}
+```
+
+---
+
+## Hong Kong Victoria Harbor Fireworks Show
+
+![Hong Kong Victoria Harbor Fireworks Show](https://opennana.com/awesome-prompt-gallery/images/1001.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@LufzzLiz](https://x.com/LufzzLiz/status/2005286056850251802)
+- **Tags:** character, fashion, logo, nature, portrait
+
+**Prompt:**
+
+```
+{
+  "template_name": "New Year City Skyline Celebration (Character Customized Version)",
+  "description": "A cinematic shot of a child overlooking the city skyline. Supports character customization, perspective switching (front/back) and custom actions based on reference images. The picture includes customized firework special effects and huge "2026" words. New global composition settings: adopt a bird's-eye perspective, with a 60-degree angle between the lens and the character to ensure that the character does not block the city night view; the character's clothing style echoes the culture or landmark elements of the target city.",
+  "prompt_template": "A stunning movie-style shot, using a bird's-eye perspective composition, the lens and the characters are at a 60-degree angle, cleverly avoiding the blocking of the background by the characters, and fully showing the magnificent city skyline. Based on the image of the child in the reference picture, the character appears in the picture with {view_orientation}, wearing a funny party hat, wearing festival clothes that echo the culture or landmarks of {target_city_short}, standing On top of a towering mountain. The character's current action is: {character_action}. The background is a breathtaking cityscape of {target_city}, with iconic city landmarks clearly visible under the starry night sky. Huge, shining golden fireworks clearly spell out "8K" in the center. The resolution, photorealism, and film grain create a dreamy, grand and hopeful atmosphere, showing a highly detailed urban night scene. ",
+  "input_variables": {
+    "target_city": {
+      "type": "string",
+      "description": "City name and description of major landmarks of the celebration.",
+      "default_value": "Shanghai night view, the Oriental Pearl Tower, the Bund and the winding Huangpu River"
+    },
+    "target_city_short": {
+      "type": "string",
+      "description": "The abbreviation or keyword of the target city, used to describe clothing style matching (such as 'Shanghai', 'Paris', 'Tokyo', etc.).",
+      "default_value": "Shanghai"
+    },
+    "city_fireworks_effect": {
+      "type": "string",
+      "description": "Description of the style, shape, color and atmosphere of the fireworks.",
+      "default_value": "A spectacular Disney-style fireworks show featuring Mickey Mouse-shaped fireworks, fairy-tale pastel colors, sparkling magic dust and dreamy cascading sparkles"
+    },
+    "view_orientation": {
+      "type": "string",
+      "description": "The orientation of the character relative to the camera. Recommended: 'Back silhouette' or 'Front (with surprised smile)'.",
+      "default_value": "Back silhouette"
+    },
+    "character_action": {
+      "type": "string",
+      "description": "The specific body movements of the character.",
+      "default_value": "Raise your hands above your head, open to the sky, lean back slightly, full of surprise and excitement"
+    }
+  },
+  "full_prompt_example": "A stunning movie-style shot, using a bird's-eye view composition, with a 60-degree angle between the lens and the character, cleverly avoiding the character's obstruction of the background, and completely showing the magnificent city skyline. Based on the image of the child in the reference picture, the character appears in silhouette from the back, wearing a funny party hat and festive clothing that echoes Shanghai culture or landmarks, standing on the top of a towering mountain. The character's current actions are: raising his hands above his head, opening his body to the sky, The body leans back slightly, full of wonder and excitement. In the background is the breathtaking night view of Shanghai, with the Oriental Pearl Tower, the Bund and the winding Huangpu River clearly visible under the starry night sky. The entire sky is illuminated by a spectacular Disney-style fireworks. The show lights up, featuring Mickey Mouse-shaped fireworks, fairy-tale pastel colors, sparkling magic dust and dreamy cascading sparkles, with the words "2026" clearly spelled out in the center. The resolution, photorealism, and cinematic graininess create a dreamy, grand and hopeful atmosphere, showing a highly detailed urban night scene. "
+}
+City: Victoria Harbor, Hong Kong
+Character: Reference picture｜Front shot. Clothing needs to be replaced to be consistent with the background city
+Action: Put your hands over your shoulders to show your heart
+```
 
 ---
 

@@ -3,118 +3,118 @@
 > Browse our extensive collection of prompts organized by specific styles and themes.
 
 **Total Categories:** 37
-**Total Prompts:** 4124
+**Total Prompts:** 4277
 
 ---
 
 ### [3d](tags/3d.md)
-- 77 prompts available
+- 80 prompts available
 
 ### [Animal](tags/animal.md)
-- 49 prompts available
+- 50 prompts available
 
 ### [Architecture](tags/architecture.md)
-- 69 prompts available
+- 73 prompts available
 
 ### [Branding](tags/branding.md)
-- 117 prompts available
+- 123 prompts available
 
 ### [Cartoon](tags/cartoon.md)
-- 109 prompts available
+- 114 prompts available
 
 ### [Character](tags/character.md)
-- 226 prompts available
+- 231 prompts available
 
 ### [Clay](tags/clay.md)
-- 15 prompts available
+- 16 prompts available
 
 ### [Creative](tags/creative.md)
 - 59 prompts available
 
 ### [Data-viz](tags/data-viz.md)
-- 10 prompts available
+- 12 prompts available
 
 ### [Emoji](tags/emoji.md)
 - 13 prompts available
 
 ### [Fantasy](tags/fantasy.md)
-- 36 prompts available
+- 37 prompts available
 
 ### [Fashion](tags/fashion.md)
-- 206 prompts available
+- 215 prompts available
 
 ### [Felt](tags/felt.md)
-- 21 prompts available
+- 22 prompts available
 
 ### [Food](tags/food.md)
-- 70 prompts available
+- 77 prompts available
 
 ### [Futuristic](tags/futuristic.md)
-- 53 prompts available
+- 54 prompts available
 
 ### [Gaming](tags/gaming.md)
-- 21 prompts available
+- 22 prompts available
 
 ### [Illustration](tags/illustration.md)
-- 123 prompts available
+- 125 prompts available
 
 ### [Infographic](tags/infographic.md)
-- 24 prompts available
+- 25 prompts available
 
 ### [Interior](tags/interior.md)
-- 119 prompts available
+- 123 prompts available
 
 ### [Landscape](tags/landscape.md)
-- 312 prompts available
+- 323 prompts available
 
 ### [Logo](tags/logo.md)
-- 139 prompts available
+- 149 prompts available
 
 ### [Minimalist](tags/minimalist.md)
-- 210 prompts available
+- 216 prompts available
 
 ### [Nature](tags/nature.md)
-- 352 prompts available
+- 365 prompts available
 
 ### [Neon](tags/neon.md)
-- 65 prompts available
-
-### [Paper-craft](tags/paper-craft.md)
-- 117 prompts available
-
-### [Photography](tags/photography.md)
-- 407 prompts available
-
-### [Pixel](tags/pixel.md)
-- 35 prompts available
-
-### [Portrait](tags/portrait.md)
-- 315 prompts available
-
-### [Poster](tags/poster.md)
 - 68 prompts available
 
+### [Paper-craft](tags/paper-craft.md)
+- 124 prompts available
+
+### [Photography](tags/photography.md)
+- 420 prompts available
+
+### [Pixel](tags/pixel.md)
+- 36 prompts available
+
+### [Portrait](tags/portrait.md)
+- 325 prompts available
+
+### [Poster](tags/poster.md)
+- 73 prompts available
+
 ### [Product](tags/product.md)
-- 109 prompts available
+- 112 prompts available
 
 ### [Retro](tags/retro.md)
 - 81 prompts available
 
 ### [Sci-fi](tags/sci-fi.md)
-- 23 prompts available
+- 24 prompts available
 
 ### [Sculpture](tags/sculpture.md)
-- 28 prompts available
+- 29 prompts available
 
 ### [Toy](tags/toy.md)
-- 63 prompts available
+- 64 prompts available
 
 ### [Typography](tags/typography.md)
-- 112 prompts available
+- 117 prompts available
 
 ### [Ui](tags/ui.md)
-- 37 prompts available
+- 38 prompts available
 
 ### [Vehicle](tags/vehicle.md)
-- 234 prompts available
+- 242 prompts available
 
