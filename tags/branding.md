@@ -1,6 +1,6 @@
 # Branding Prompts
 
-> Found 123 prompts in this category.
+> Found 120 prompts in this category.
 
 ---
 
@@ -2834,22 +2834,6 @@ Create a highly detailed miniature hyper-realistic scene of tiny characters real
 
 ---
 
-## Brand co-branded poster
-
-![Brand co-branded poster](https://opennana.com/awesome-prompt-gallery/images/504.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991761772454224349)
-- **Tags:** branding, character, futuristic, gaming, landscape, logo, neon, poster, typography
-
-**Prompt:**
-
-```
-Aspect ratio 16:9, official game linkage poster, masterpiece, vibrant "Zero" anime style.  Scene: Four stylish anime characters (a pink-haired girl in a black jacket is the visual center, a silver-haired girl, a white-haired boy, and a black-haired boy) pose in a futuristic city night, each holding a glass of Coke.  Environment: This is a nighttime street in a futuristic city, where the entire scene is dominated by huge, glowing neon signs.  A large, unmissable neon sign featuring a stylized "ZZZ" logo is the absolute focal point of the background, shining brightly behind the protagonists. Other neon signs reading "Coca-Cola" are equally eye-catching, bathing the entire scene in vivid purple and blue light.  Special effects: Fruits such as strawberries and lemons are encased in transparent bubbles and float, with glowing pink and blue energy swirling across the frame.  Text elements: Upper left corner: Displaying the logo of "Zero Zero" and "Coke", connected by "X".  Bottom center: A large block of eye-catching Chinese text "Zero Zero X Coke: Awakening of powers, double happiness!". The font is bold, stylized word art with white fill and thick purple-pink gradient strokes.  Below the Chinese: There is "LIMITED COLLAB" in white capital letters in a black rectangular frame.  Art style: Highly detailed, clean lines, cinematic light effects from giant neon signs, dynamic compositions.  Negative warning words: blurry, low quality, broken human structure, hand deformity, ugly, watermark, signature, garbled text, deformed letters
-```
-
----
-
 ## Convert die-cutting line drawing to 3D product visualization
 
 ![Convert die-cutting line drawing to 3D product visualization](https://opennana.com/awesome-prompt-gallery/images/594.png)
@@ -3151,22 +3135,6 @@ Aspect ratio 16:9, official game linkage poster, masterpiece, vibrant "Zero" ani
     "product_placement_area": "Coat texture or boots"
   }
 }
-```
-
----
-
-## Poisoning late at night is the greatest disrespect for weight loss
-
-![Poisoning late at night is the greatest disrespect for weight loss](https://opennana.com/awesome-prompt-gallery/images/633.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@songguoxiansen](https://x.com/songguoxiansen/status/1991530558992859379)
-- **Tags:** branding
-
-**Prompt:**
-
-```
-Macrophobia style, Hollywood disaster movie texture. A huge bucket of braised beef noodles fell from the sky and hit a busy intersection. The original brand name on the noodle bucket became a huge warning: "Putting poison late at night is the greatest disrespect for weight loss." The large LED screen of the high-rise building next to it cooperatively displayed: "Stop it! Eat this meal and reduce it tomorrow!".
 ```
 
 ---
@@ -3698,64 +3666,6 @@ The user will provide **[Work Title] + [Character Name]**.
     "aspect_ratio": "2.39:1_cinematic"
   }
 }
-```
-
----
-
-## Research and data visualization design
-
-![Research and data visualization design](https://opennana.com/awesome-prompt-gallery/images/786.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@op7418](https://x.com/op7418/status/1997715077789897182)
-- **Tags:** branding, infographic, minimalist, paper-craft, product, typography, vehicle
-
-**Prompt:**
-
-```
-[Core mission instructions]
-You are an AI expert with real-time web search capabilities and top-notch data visualization design capabilities. Please follow these two steps:
-Research stage: Immediately conduct a comprehensive online survey on the [2025 China New Energy Vehicles] specified by the user. Collect public reputation, market popularity, professional reviews and user feedback data on different sub-products, models or works in this field.
-
-Visualization stage: Based on your research results, design a professional infographic (Infographic). You need to accurately classify the specific items you have investigated into the five "from ramming to pulling" visual grade modules defined below.
-
-[User-specified target areas/products]
-[Fill in the content you need to research here, for example: popular smartphones in 2024, sugar-free tea drink brands on the market, Marvel movies in the past ten years, code editors commonly used by programmers]
-
-[Image design requirements]
-Overall style:
-A clearly structured and modern modular infographic using a "Bento Grid" layout. The background is clean and concise, focusing on content presentation. Visually, it must reflect a strong sense of hierarchy from high to low.
-
-Hierarchical structure and visual definition (strictly implement the following five levels):
-
-Level 1 (highest level): Hāng
-Survey filling criteria: According to the survey, the product/work is currently recognized as the "son of the version" in this field, has a dominant level of popularity, and is an undisputed top product/work.
-
-Visual expression: occupying the top or largest layout module of the screen. The color tone is extremely explosive bursting red and brilliant gold, with visual special effects of halo or energy overflow. The font size is the largest and boldest. The module needs to display the name or high-quality image of the representative product that has been researched, and be accompanied by a minimalist phrase of praise (such as "the whole network is popular", "a masterpiece").
-
-Level 2: Top
-
-Survey filling standards: Hard-core powerhouse, although it may not be as popular as "Tang", it has an excellent reputation and is the first choice of high-quality projects among experts.
-
-Visual representation: Located on the second floor. The color palette is a solid, premium burnt orange and metallic silver. The module design looks solid and rich in texture. Display representative and powerful products.
-
-Level 3: People are better than others
-
-Research filling criteria: excellent choice, online taste, the backbone of the product that will definitely not make you lose money after buying/watching it, which represents a certain degree of connoisseurship.
-
-Visual representation: located in the middle level. The color palette is bright, clean lemon yellow and cool gray. The design style is modern and refreshing. Display representative high-quality middle-class products.
-
-Level 4: NPC
-
-Research filling criteria: products with a public face that have no memorable points, industrial assembly line products that are just a few, have no merit and are easy to be forgotten. The specific product or brand or person’s name must be written and do not be vague.
-
-Visual presentation: located in the lower middle level. The shades are bland bread/beige or cardboard brown. Modular design appears ordinary, repetitive and lacks personality. Showcasing products that are very mediocre.
-
-Level 5 (bottom level): Finished
-
-Survey filling standards: The recognized "lightning rods", "IQ tax", catastrophic failure products or even existence that is worse than nothing found in the survey must be written with the specific product or brand or the name of the person without being vague.
-
-Visual performance: squeezed at the bottom or corner of the screen, the visual space is compressed. The color tone is hopelessly black and pale, with obvious digital glitches, broken or decayed visual effects. Display products that are known to have flipped over, along with warning phrases (e.g., "Run away," "Big mistake").
 ```
 
 ---

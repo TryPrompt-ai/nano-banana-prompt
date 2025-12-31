@@ -1,6 +1,6 @@
 # Illustration Prompts
 
-> Found 125 prompts in this category.
+> Found 122 prompts in this category.
 
 ---
 
@@ -2196,43 +2196,6 @@ When the user provides an image or description:
 
 ---
 
-## Chengdu tourist map
-
-![Chengdu tourist map](https://opennana.com/awesome-prompt-gallery/images/499.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991679696744976723)
-- **Tags:** architecture, illustration, minimalist, paper-craft, typography
-
-**Prompt:**
-
-```
-The aspect ratio is 16:9, a charming and exquisite hand-drawn tourist map of Chengdu, with the style of the Studio Ghibli art set. The entire composition is a watercolor and pen pastel illustration on a textured, aged parchment paper. The overall aesthetic is whimsical, vibrant and lived-in.
-
-Map layout and style:
-The map shows Chengdu's core landmarks in a stylized isometric view, depicted as cute, detailed miniature buildings and icons (e.g., pandas at the Panda Base, lanterns in Jinli, teahouses in People's Park). The layout is organic and free-flowing rather than based on a rigid grid.
-
-Crucial Typography Challenges (Hard Section):
-All text must be presented in a graceful, slightly imperfect handwritten calligraphy style (Xingkai) that looks like it was written with the same pen used to draw the illustrations.
-1. **Main title:** The main title "Chengdu Slow Travel Picture" is artistically written on a flowing ribbon at the top.
-2. **Interesting labels with angles:** Next to each landmark icon, its name is written in a playful, slightly slanted manner (for example: "Kuanzhai Alley", "Wuhou Temple", "Du Fu Thatched Cottage"). The text needs to feel organically placed, not rigid horizontal lines.
-3. **Text that curves along the path:** A stylized Jinjiang River runs through the map. The name of the river, "Jinjiang", needs to be written elegantly along the winding path of the river. This is a critical testing point.
-4. **Integrated Annotations:** The map is dotted with small, whimsical annotations that combine text and icons. For example:
-    - A note that reads "Eat hot pot!" with a tiny red pepper drawn next to it.
-    - A "Have tea!" label with a steaming miniature teacup icon next to it.
-    - The area name "Jinjiang District" is written in a hand-drawn cloud shape.
-5. **Hand-drawn legend:** In one corner, there is a hand-drawn "legend" box with small icons (such as tea cups, panda faces, temple roofs) and their corresponding hand-written labels.
-6. **Seal:** A red, hand-cut seal with the word "Rong" (abbreviation for Chengdu) printed on it, is stamped in the corner and slightly overlaps the frame.
-
-Aesthetics:
-A masterpiece of illustrative cartography. The blend of text and illustrations must be seamless. Watercolor effects should be soft, with visible water stains and textures, while pen lines should be confident and vivid. The overall feel is warm, inviting and full of character.
-
-Negative cue words:
-Computer font, computer generated text, straight lines, rigid grid, perfect alignment, only horizontal text, text overlay, photo, 3D, minimalist, generic icons, misspellings, garbled characters, watermarks.
-```
-
----
-
 ## Illustrations of Chang'an in the Tang Dynasty
 
 ![Illustrations of Chang'an in the Tang Dynasty](https://opennana.com/awesome-prompt-gallery/images/501.jpeg)
@@ -2433,78 +2396,6 @@ High quality, fine texture, glowing effect, fantasy style.
 
 ```
 Please generate a children's literacy tabloid "Amusement Park", vertical format A4, learning tabloid format, suitable for children aged 5-9 years old to read words and recognize objects by looking at pictures. 1. Tabloid title area (top) Centered headline at the top: "Amusement Park Literacy Tabloid" Style: cross tabloid / children's learning report Text requirements: large characters, eye-catching, cartoon handwriting, colorful strokes Decoration: add sticker-style decorations related to amusement parks around, bright colors 2. Main body of the tabloid (middle main screen) The center of the screen is a cartoon illustration-style "amusement park" scene: Overall atmosphere: bright, warm, positive Composition: The boundaries of objects are clear, easy to correspond to text, and not too crowded. Scene partition and core content Core area A (main object): expresses the core activities of the amusement park (children playing on the rides). Core area B (supporting facilities): displays related tools or items (ticket sales, snacks, instruction facilities). Core area C (environmental background): reflects environmental features (entrance, street signs, colorful flags, green space, etc.). Theme characters: 1 cute cartoon character (identity: amusement park staff/tourists and children). Action: Natural interaction related to the scene (such as smiling and giving directions, waving to welcome, playing with children). 3. Required Drawing Objects and Literacy List (Generated Content) Please be sure to clearly draw the following objects in the picture and reserve space for labeling them: 1. Core roles and facilities: gōng zuò rén yuán staff shòu piào chù ticket office guò shān chē roller coaster mó tiān lún Ferris wheel xuán zhuǎn mǎ carousel 2. Common items/tools: piào ticket qì qiú balloon bīng jī líng ice cream bào mǐ huā popcorn táng hú lu candied haws miàn jù mask wán jù toy xiǎo qí zi small flag 3. Environment and decoration: rù kǒu entrance chū kǒu exit zhǐ shì pái signboard cǎi qí colorful flag guǎng chǎng square (Note: The number of objects in the picture is not limited to this, but the above list must be used as the key depiction object; a total of 18 typical nouns, suitable for children aged 5–9 to read.) 4. Literacy labeling rules Label the objects in the above list with Chinese literacy labels: Format: two-line system (the first line has pinyin with tones, the second line has simplified Chinese characters). Style: Colorful small sticker style, with black or dark text on a white background, clear and readable. Layout: The label is close to the corresponding object and does not block the main body. 5. Painting style parameters Style: children’s picture book style + literacy tabloid style Color: High Saturation, Warm Tone Quality: 8k resolution, high detail, vector illustration style, clean lines.
-```
-
----
-
-## Highly detailed 3D infographic poster
-
-![Highly detailed 3D infographic poster](https://opennana.com/awesome-prompt-gallery/images/541.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@cnyzgkc](https://x.com/cnyzgkc/status/1994003408207139013)
-- **Tags:** 3d, character, food, illustration, infographic, landscape, poster, typography
-
-**Prompt:**
-
-```
-Please create a high-detailed 3D infographic poster in Chinese to introduce the production process of traditional Indonesian tempeh. The poster should include a cute 3D chef character Koki Cubby (chubby, cute, wearing a white chef hat and apron, with rich expressions and bright colors).
-Every step of the production process should have Koki Cubby's help or explanation.
-Poster colors: white, leaf green, soybean yellow, tempeh brown.
-Visual style: 3D semi-realistic food illustrations + cute characters, soft light, high details.
-Headline:
-“The process of making tempeh – from soybean to finished product”
-Main picture:
-A realistic 3D tempeh box, wrapped in banana leaves or translucent plastic, with clear textured tempeh slices and white yeast (Rhizopus) threads inside. Koki Cubby stood nearby, pointing at the finished tempeh.
-Soybean picking and sorting (3D scene)
-• 3D illustration of dried soybeans placed on a wooden table.
-• Chef Kubi holds a spatula to check the quality of the soybeans.
-• Text: “Choose high-quality, clean, undamaged soybeans.”
-Soy Soak (3D Bowl)
-• The soybeans are soaked in a large bowl of water and can be seen swelling.
-• 3D blisters.
-• Chef Kubi stirs the water with a spatula.
-• Text: “Soak for 6-12 hours to allow the soybeans to swell.”
-• Boiling (3D pot steaming)
-• A large pot of soybeans is boiling.
-• 3D hot steam details.
-• Chef Cubby holds a kitchen timer.
-• Text: “Cook until tender to kill harmful bacteria.”
-• Soybean peeling and deflation
-• Squeeze and rub the soybeans to remove the skin.
-• Use a small 3D filter or do it manually.
-• Chef Cubby is helping remove soybean hulls.
-• Text: “Removing soybean hulls aids yeast fermentation.”
-Soybean screening and drying
-• Drain wet soybeans in a large sieve.
-• Chef Cubby blows dry with a small fan or absorbs the moisture with a towel.
-• Text: “Make sure soybeans are dry—too much moisture can inhibit fermentation.”
-• Added tempeh yeast (Rhizopus)
-• A bowl of 3D yeast is in the form of white fine powder.
-• Chef Cubby spreads the yeast evenly over the soybeans.
-• Text: “Mix the tempeh yeast until smooth.”
-• Wraps (leaves/plastic bags)
-• Place soybeans in a banana leaf or perforated plastic bag.
-• Little Chef Kirby presses with his little hands to make it fold neatly.
-• Text: “Wrap tightly for perfect fermentation.”
-Tempeh fermentation (24-48 hours)
-• Place tempeh on a ventilated wooden rack.
-• The texture of tempeh starts to turn white due to the action of Rhizopus fungus.
-• Little Chef Kirby sat waiting, looking at the thermometer.
-• Text: “Ferment at 30-32°C.”
-Tempeh fermentation completed
-• Tempeh is firm and white in texture with thick, neat yeast fibers.
-• Realistic 3D tempeh slices show off their internal textures.
-• Little Chef Kirby gives a thumbs up.
-• Text: “Tempeh is ready to cook—delicious, healthy, and packed with protein!”
-poster style
-• 3D infographic with simple panels, small icons and connected timelines.
-• Soft white-green gradient background.
-• Soy and tempeh with a subtle glow.
-• Modern sans serif font.
-• 4K high resolution.
-• Concise, professional and educational, suitable for children and adults.
-Change the food in this prompt word to xiaolongbao
 ```
 
 ---
@@ -3685,72 +3576,6 @@ NEGATIVE PROMPT:
 - cartoon, anime, CGI character, illustration, painting look
 - low quality, pixelation, noise
 - harsh direct sunlight or overexposed lighting
-```
-
----
-
-## A movie poster template
-
-![A movie poster template](https://opennana.com/awesome-prompt-gallery/images/742.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@sundyme](https://x.com/sundyme/status/1996572954931437867)
-- **Tags:** animal, character, felt, illustration, landscape, minimalist, photography, pixel, poster, product, toy, typography
-
-**Prompt:**
-
-```
-Please design a poster for the movie "" in this style. Regenerate pictures based on generated prompt words
-Style description template:
-{
-  "style_template_en_v2": {
-    "style_name": "3D Q-Version Healing Toy Movie Poster (Optimized)",
-    "style_description": "A highly tactile 3D digital rendering style mimicking macro product photography of premium designer toy collectibles. It transforms movie characters and scenes into cute, Q-version miniature dioramas. The core aesthetic relies on the contrast between matte resin/vinyl surfaces and soft, flocked plush textures, bathed in warm, diffused light to create a calm, healing atmosphere with clean poster typography.",
-
-    "style_prompt": {
-      "positive": "A tactile 3D digital render mimicking high-end product photography of collectible designer toys presented as a movie poster. Cute Q-version proportions. The defining feature is mixed materials: smooth matte resin or vinyl for bodies/hard objects contrasting with soft, fuzzy flocked plush textures (like felt or velvet) on clothing, hair, moss, or animals. The setting is a miniature natural diorama. Lighting is soft, warm, and diffused with gentle dappled shadows (komorebi effect), creating a calm, healing (healing) atmosphere. Shallow depth of field, macro lens effect, bokeh background. Clean bilingual typography.",
-      "negative": "2D illustration, painting, pixel art, low poly, rough sketch, realistic human proportions, harsh direct lighting, hard dark shadows, glossy plastic shine, metallic reflections, noisy grain, blurry textures, distressed or grungy look, aggressive mood, dark themes, excessive ornamental decoration on text elements."
-    },
-
-    "composition_guidelines": {
-      "top_element": {
-        "content_goal": "Stylized Bilingual Movie Title",
-        "visual_directive": {
-          "position": "Top center, prominent placement.",
-          "font_style": "Cute, decorative serif or rounded font that echoes the movie's theme (e.g., integrating tiny leaves, clouds, or icons relevant to the film).",
-          "structure": "Large Chinese title above smaller English subtitle."
-        }
-      },
-      "center_element": {
-        "content_goal": "Main Character(s) in Miniature Diorama",
-        "visual_directive": {
-          "subject_style": "Cute, proportional Q-version toy figurines.",
-          "material_focus": "Emphasize the contrast between matte skin/armor versus flocked clothing/hair.",
-          "environment": "A self-contained, soft-focus miniature environment diorama (e.g., on a floating island, a windowsill, inside a glass cloche) that tells the movie's story gently."
-        }
-      },
-      "bottom_element": {
-        "content_goal": "Healing Interpretation Quote",
-        "visual_directive": {
-          "position": "Bottom center, grounding the composition.",
-          "font_style": "Refined, clean serif or elegant handwritten style. Small and subtle.",
-          "decoration_style": "Minimalist. Clean text only. Avoid excessive scrolls, banners, ornate lines, or complex decorative borders surrounding the text (as per recent optimization)."
-        }
-      }
-    },
-
-    "rendering_and_atmosphere": {
-      "lighting_style": "Soft, warm, diffused natural light. Golden hour feel. Gentle, non-harsh shadows. Dappled light effects are highly encouraged.",
-      "camera_lens": "Macro photography aesthetic. Very shallow depth of field, focusing sharply on the toy textures while blurring the foreground and background into soft bokeh.",
-      "emotional_mood": "Warm, calm, cozy, safe, nostalgic, and healing."
-    },
-
-    "usage_notes": {
-      "best_suited_for": "Transforming emotionally resonant or even slightly dark movies into comforting, collectible merchandise forms.",
-      "key_success_factor": "The success of this style hinges on the convincing rendering of the 'flocked/fuzzy' texture against the 'smooth matte' texture. The lighting must be gentle to sell the 'healing' vibe."
-    }
-  }
-}
 ```
 
 ---

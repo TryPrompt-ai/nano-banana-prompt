@@ -1,6 +1,6 @@
 # Typography Prompts
 
-> Found 117 prompts in this category.
+> Found 108 prompts in this category.
 
 ---
 
@@ -1341,43 +1341,6 @@ A two-panel technical blueprint diagram in clean monochrome line-art, matching t
 
 ---
 
-## Chengdu tourist map
-
-![Chengdu tourist map](https://opennana.com/awesome-prompt-gallery/images/499.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991679696744976723)
-- **Tags:** architecture, illustration, minimalist, paper-craft, typography
-
-**Prompt:**
-
-```
-The aspect ratio is 16:9, a charming and exquisite hand-drawn tourist map of Chengdu, with the style of the Studio Ghibli art set. The entire composition is a watercolor and pen pastel illustration on a textured, aged parchment paper. The overall aesthetic is whimsical, vibrant and lived-in.
-
-Map layout and style:
-The map shows Chengdu's core landmarks in a stylized isometric view, depicted as cute, detailed miniature buildings and icons (e.g., pandas at the Panda Base, lanterns in Jinli, teahouses in People's Park). The layout is organic and free-flowing rather than based on a rigid grid.
-
-Crucial Typography Challenges (Hard Section):
-All text must be presented in a graceful, slightly imperfect handwritten calligraphy style (Xingkai) that looks like it was written with the same pen used to draw the illustrations.
-1. **Main title:** The main title "Chengdu Slow Travel Picture" is artistically written on a flowing ribbon at the top.
-2. **Interesting labels with angles:** Next to each landmark icon, its name is written in a playful, slightly slanted manner (for example: "Kuanzhai Alley", "Wuhou Temple", "Du Fu Thatched Cottage"). The text needs to feel organically placed, not rigid horizontal lines.
-3. **Text that curves along the path:** A stylized Jinjiang River runs through the map. The name of the river, "Jinjiang", needs to be written elegantly along the winding path of the river. This is a critical testing point.
-4. **Integrated Annotations:** The map is dotted with small, whimsical annotations that combine text and icons. For example:
-    - A note that reads "Eat hot pot!" with a tiny red pepper drawn next to it.
-    - A "Have tea!" label with a steaming miniature teacup icon next to it.
-    - The area name "Jinjiang District" is written in a hand-drawn cloud shape.
-5. **Hand-drawn legend:** In one corner, there is a hand-drawn "legend" box with small icons (such as tea cups, panda faces, temple roofs) and their corresponding hand-written labels.
-6. **Seal:** A red, hand-cut seal with the word "Rong" (abbreviation for Chengdu) printed on it, is stamped in the corner and slightly overlaps the frame.
-
-Aesthetics:
-A masterpiece of illustrative cartography. The blend of text and illustrations must be seamless. Watercolor effects should be soft, with visible water stains and textures, while pen lines should be confident and vivid. The overall feel is warm, inviting and full of character.
-
-Negative cue words:
-Computer font, computer generated text, straight lines, rigid grid, perfect alignment, only horizontal text, text overlay, photo, 3D, minimalist, generic icons, misspellings, garbled characters, watermarks.
-```
-
----
-
 ## cyber almanac
 
 ![cyber almanac](https://opennana.com/awesome-prompt-gallery/images/500.jpeg)
@@ -1441,54 +1404,6 @@ The color palette is rich and ornate (cinnabar, lime green, azurite, gold leaf).
 
 **Negative cue words:**
 English, roman alphabet, 3D, modern map, grid layout, geometric shapes, computer font, western art style, cartoon, simple, minimalist, white space, watermark, bad calligraphy, gibberish.
-```
-
----
-
-## Aerial photography of old Beijing
-
-![Aerial photography of old Beijing](https://opennana.com/awesome-prompt-gallery/images/502.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991684492474409440)
-- **Tags:** architecture, cartoon, futuristic, landscape, nature, paper-craft, sculpture, typography, ui
-
-**Prompt:**
-
-```
-The aspect ratio is 16:9, a masterpiece of subtle subtlety and visual intelligence. A drone aerial view of the urban fabric of old Beijing. The core concept is that the Chinese character "Hu" integrates perfectly and seamlessly into the entire urban landscape.
-
-**The fusion of typography and architecture (the ultimate subtlety):**
-- **No physical height difference:** The "Hu" character is not an independent, towering or massive structure. The walls that make up its strokes are completely consistent in height, material and style with the walls of all surrounding alleys and courtyards**. It is within the texture, not above it.
-- **"Light and Shadow Sculpture":** The form of Chinese characters is not highlighted by structure, but is presented by **master-level, atmospheric light and shadow**. A low angle of the afternoon sun (Raking Light) sweeps across the entire scene. Light catches just the edges of the walls that make up the shape of the “Hu” character, subtly brightening it while casting deep, well-defined shadows within its “strokes” (i.e. the alley). This word is revealed by light, not built by cement.
-- **"Atmosphere Perspective":** A thin layer of morning mist or mist that sticks to the ground permeates the surrounding courtyards and alleys, slightly softening the edges of the details. However, the paths and courtyards that form the shape of the character "Hu" are subtly clearer and more contrasting, creating a natural visual focus that allows hidden shapes to emerge in the eye of the gazer.
-
-**Elegant font layout:**
-Keep the refined and artistic font design.
-- **Main Title:** The title "Zi Li Jing Cheng" is arranged in a strong single column vertically on the right side. The background area has been cleverly treated to a semi-transparent, subtle faded effect to ensure the text is readable without being obtrusive. The font is an elegant "New Song Dynasty" style. A very thin vertical line runs parallel to the text.
-- **Information label:** The label text ("Gray Tile", "Guohuai") is in small, delicate handwriting. They are connected to the object by a needle-thin hand-drawn curve like a pencil drawing on a drawing. **No boxes, no glowing effect. **
-
-**Aesthetics:**
-The overall tone is tranquil, thought-provoking and far-reaching. The color tone is an elegant "high-end gray", mainly low-saturation colors, and the only color embellishment comes from the warm caress of the sun. The picture has a "secret in plain sight" aura, rewarding the viewer's patience and insight. It is a hyper-realistic rendering with a profound painterly and philosophical atmosphere.
-
-**Negative cue words:**
-Towering walls, sculptural Chinese characters, huge structures, overly obvious Chinese character shapes, average lighting, flat lighting, glowing boxes, futuristic UI, sans serif fonts, abstract, 2D, bright colors, cartoons, bad calligraphy, watermarks.
-```
-
----
-
-## Brand co-branded poster
-
-![Brand co-branded poster](https://opennana.com/awesome-prompt-gallery/images/504.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991761772454224349)
-- **Tags:** branding, character, futuristic, gaming, landscape, logo, neon, poster, typography
-
-**Prompt:**
-
-```
-Aspect ratio 16:9, official game linkage poster, masterpiece, vibrant "Zero" anime style.  Scene: Four stylish anime characters (a pink-haired girl in a black jacket is the visual center, a silver-haired girl, a white-haired boy, and a black-haired boy) pose in a futuristic city night, each holding a glass of Coke.  Environment: This is a nighttime street in a futuristic city, where the entire scene is dominated by huge, glowing neon signs.  A large, unmissable neon sign featuring a stylized "ZZZ" logo is the absolute focal point of the background, shining brightly behind the protagonists. Other neon signs reading "Coca-Cola" are equally eye-catching, bathing the entire scene in vivid purple and blue light.  Special effects: Fruits such as strawberries and lemons are encased in transparent bubbles and float, with glowing pink and blue energy swirling across the frame.  Text elements: Upper left corner: Displaying the logo of "Zero Zero" and "Coke", connected by "X".  Bottom center: A large block of eye-catching Chinese text "Zero Zero X Coke: Awakening of powers, double happiness!". The font is bold, stylized word art with white fill and thick purple-pink gradient strokes.  Below the Chinese: There is "LIMITED COLLAB" in white capital letters in a black rectangular frame.  Art style: Highly detailed, clean lines, cinematic light effects from giant neon signs, dynamic compositions.  Negative warning words: blurry, low quality, broken human structure, hand deformity, ugly, watermark, signature, garbled text, deformed letters
 ```
 
 ---
@@ -1839,78 +1754,6 @@ Please generate a children's literacy tabloid "Amusement Park", vertical format 
 
 ```
 Ultra-realistic 8K flat-lay photo in strict knolling style. Top-down 90º shot of the object from the attached image, fully disassembled into 8–12 key parts and arranged in a clean grid or radial pattern on a minimalist wooden or matte gray table. Even spacing, perfect alignment, no overlaps, no extra objects. Soft, diffused multi-source lighting with subtle shadows, neutral color balance and crisp focus across the whole frame. Highly detailed real-world materials (metal, plastic, rubber grips, circuit boards, screws). For every part, add a thin white rectangular frame and a short, sharp English label in clean sans-serif text, placed beside the component without covering it; annotations must be legible but unobtrusive.
-```
-
----
-
-## Highly detailed 3D infographic poster
-
-![Highly detailed 3D infographic poster](https://opennana.com/awesome-prompt-gallery/images/541.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@cnyzgkc](https://x.com/cnyzgkc/status/1994003408207139013)
-- **Tags:** 3d, character, food, illustration, infographic, landscape, poster, typography
-
-**Prompt:**
-
-```
-Please create a high-detailed 3D infographic poster in Chinese to introduce the production process of traditional Indonesian tempeh. The poster should include a cute 3D chef character Koki Cubby (chubby, cute, wearing a white chef hat and apron, with rich expressions and bright colors).
-Every step of the production process should have Koki Cubby's help or explanation.
-Poster colors: white, leaf green, soybean yellow, tempeh brown.
-Visual style: 3D semi-realistic food illustrations + cute characters, soft light, high details.
-Headline:
-“The process of making tempeh – from soybean to finished product”
-Main picture:
-A realistic 3D tempeh box, wrapped in banana leaves or translucent plastic, with clear textured tempeh slices and white yeast (Rhizopus) threads inside. Koki Cubby stood nearby, pointing at the finished tempeh.
-Soybean picking and sorting (3D scene)
-• 3D illustration of dried soybeans placed on a wooden table.
-• Chef Kubi holds a spatula to check the quality of the soybeans.
-• Text: “Choose high-quality, clean, undamaged soybeans.”
-Soy Soak (3D Bowl)
-• The soybeans are soaked in a large bowl of water and can be seen swelling.
-• 3D blisters.
-• Chef Kubi stirs the water with a spatula.
-• Text: “Soak for 6-12 hours to allow the soybeans to swell.”
-• Boiling (3D pot steaming)
-• A large pot of soybeans is boiling.
-• 3D hot steam details.
-• Chef Cubby holds a kitchen timer.
-• Text: “Cook until tender to kill harmful bacteria.”
-• Soybean peeling and deflation
-• Squeeze and rub the soybeans to remove the skin.
-• Use a small 3D filter or do it manually.
-• Chef Cubby is helping remove soybean hulls.
-• Text: “Removing soybean hulls aids yeast fermentation.”
-Soybean screening and drying
-• Drain wet soybeans in a large sieve.
-• Chef Cubby blows dry with a small fan or absorbs the moisture with a towel.
-• Text: “Make sure soybeans are dry—too much moisture can inhibit fermentation.”
-• Added tempeh yeast (Rhizopus)
-• A bowl of 3D yeast is in the form of white fine powder.
-• Chef Cubby spreads the yeast evenly over the soybeans.
-• Text: “Mix the tempeh yeast until smooth.”
-• Wraps (leaves/plastic bags)
-• Place soybeans in a banana leaf or perforated plastic bag.
-• Little Chef Kirby presses with his little hands to make it fold neatly.
-• Text: “Wrap tightly for perfect fermentation.”
-Tempeh fermentation (24-48 hours)
-• Place tempeh on a ventilated wooden rack.
-• The texture of tempeh starts to turn white due to the action of Rhizopus fungus.
-• Little Chef Kirby sat waiting, looking at the thermometer.
-• Text: “Ferment at 30-32°C.”
-Tempeh fermentation completed
-• Tempeh is firm and white in texture with thick, neat yeast fibers.
-• Realistic 3D tempeh slices show off their internal textures.
-• Little Chef Kirby gives a thumbs up.
-• Text: “Tempeh is ready to cook—delicious, healthy, and packed with protein!”
-poster style
-• 3D infographic with simple panels, small icons and connected timelines.
-• Soft white-green gradient background.
-• Soy and tempeh with a subtle glow.
-• Modern sans serif font.
-• 4K high resolution.
-• Concise, professional and educational, suitable for children and adults.
-Change the food in this prompt word to xiaolongbao
 ```
 
 ---
@@ -2623,22 +2466,6 @@ Use a square 1080×1080 composition.Use a clean, neutral background. Ensure no e
 
 ---
 
-## Shanghai 3D City Time Tour
-
-![Shanghai 3D City Time Tour](https://opennana.com/awesome-prompt-gallery/images/700.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@servasyy](https://x.com/servasyy/status/1995412825003708860)
-- **Tags:** 3d, architecture, futuristic, landscape, neon, paper-craft, photography, portrait, retro, typography, vehicle
-
-**Prompt:**
-
-```
-A stunning hyper-realistic 3D render of Shanghai's architectural evolution displayed as detailed miniature model diorama on a large circular floating platform, like a round disc divided into four distinct quadrants. ALL buildings are rendered as tangible 3D miniature models with physical depth and dimension, not flat backgrounds. The circular platform has thick layered edges resembling geological strata in shades of brown, beige, and turquoise blue. First quadrant (top-left): 3D miniature models of traditional Shikumen stone-gate houses with gray tiled roofs, wooden window frames, gray brick walls, red paper lanterns, tiny vintage bicycles and rickshaws as 3D models, miniature human figures. Second quadrant (top-right): 3D miniature models of The Bund architecture - Art Deco Peace Hotel with green copper roof (3D model), neoclassical HSBC Building dome (3D model), Gothic customs house tower clock (3D model), cream and golden facades, tiny 1930s cars as 3D models, miniature pedestrian figures. Third quadrant (bottom-right): 3D miniature models of modern Pudong skyline - Oriental Pearl Tower with pink spheres (detailed 3D model), Jin Mao Tower (3D model), Shanghai Tower twisted glass form (3D model), Shanghai World Financial Center (3D model), all skyscrapers rendered as physical miniature 3D models with depth, tiny modern vehicles, contemporary miniature figures. Fourth quadrant (bottom-left): 3D miniature models of future sustainable architecture - vertical forest towers covered in tiny green plants (3D models), transparent solar panel buildings (3D models), organic curved parametric structures (3D models), elevated hyperloop stations (3D models), tiny drones and flying vehicles as 3D models, miniature futuristic figures. The circular platform floats above realistic 3D rendered Huangpu River water with reflections. Traditional wooden sampan boats (3D models) transform into sleek modern cruise ships (detailed 3D models). Platform edges show beautiful wave-like geological strata texture. Background features atmospheric misty Shanghai skyline silhouettes transitioning from warm dawn orange through pink-purple twilight to deep night blue with stars. Lighting transitions across quadrants: warm sepia tone for Shikumen, golden hour sunlight for Bund, vibrant electric blue neon for modern Pudong, holographic cyan-magenta glow for future section. At top center: elegant bilingual typography "Shanghai" SHANGHAI" combining traditional calligraphy with modern sans-serif, subtitle "Architectural Journey Time" and "Architectural Journey Through Time". Ultra-realistic 3D rendering style, architectural professional miniature photography, tilt-shift lens effect creating miniature appearance, all elements have physical 3D depth and dimension, hyper-detailed textures showing model craftsmanship, 4K resolution, museum-quality diorama presentation, dramatic studio lighting with depth and atmosphere, every building is a tactile 3D miniature model not a flat image.
-```
-
----
-
 ## Children's hand drawn travel diary style
 
 ![Children's hand drawn travel diary style](https://opennana.com/awesome-prompt-gallery/images/703.jpeg)
@@ -2726,72 +2553,6 @@ III. Overall Art Style Requirements
 
 ```
 A vertical portrait photo with a 9:16 aspect ratio showing a clean, stand-alone premium glossy fashion magazine cover. At the top of the magazine is the title "SONGGUO" in a huge black slab serif font, exuding a luxury brand vibe. The main visual is the hyper-realistic high fashion blockbuster of Judy Hopps from "Zootopia". She strikes a confident, intense supermodel pose, delicately holding a natural pine cone in her hand. Judy wears an extremely revealing, eye-catching, and expensive couture outfit (such as a bright emerald silk coat with gold embroidered structures) that is ornately designed and has nothing to do with the visual elements of the pine cone. Below the main title is a very brief subtitle: "JUDY x SONGGUO". The bottom corner of the cover contains the issue number "ISSUE 2025", today's date, a realistic barcode and the price "$25.00". The background is a clean, neutral premium studio gradient background. Movie-level studio lighting, extremely high definition, 8k resolution, rich texture.
-```
-
----
-
-## A movie poster template
-
-![A movie poster template](https://opennana.com/awesome-prompt-gallery/images/742.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@sundyme](https://x.com/sundyme/status/1996572954931437867)
-- **Tags:** animal, character, felt, illustration, landscape, minimalist, photography, pixel, poster, product, toy, typography
-
-**Prompt:**
-
-```
-Please design a poster for the movie "" in this style. Regenerate pictures based on generated prompt words
-Style description template:
-{
-  "style_template_en_v2": {
-    "style_name": "3D Q-Version Healing Toy Movie Poster (Optimized)",
-    "style_description": "A highly tactile 3D digital rendering style mimicking macro product photography of premium designer toy collectibles. It transforms movie characters and scenes into cute, Q-version miniature dioramas. The core aesthetic relies on the contrast between matte resin/vinyl surfaces and soft, flocked plush textures, bathed in warm, diffused light to create a calm, healing atmosphere with clean poster typography.",
-
-    "style_prompt": {
-      "positive": "A tactile 3D digital render mimicking high-end product photography of collectible designer toys presented as a movie poster. Cute Q-version proportions. The defining feature is mixed materials: smooth matte resin or vinyl for bodies/hard objects contrasting with soft, fuzzy flocked plush textures (like felt or velvet) on clothing, hair, moss, or animals. The setting is a miniature natural diorama. Lighting is soft, warm, and diffused with gentle dappled shadows (komorebi effect), creating a calm, healing (healing) atmosphere. Shallow depth of field, macro lens effect, bokeh background. Clean bilingual typography.",
-      "negative": "2D illustration, painting, pixel art, low poly, rough sketch, realistic human proportions, harsh direct lighting, hard dark shadows, glossy plastic shine, metallic reflections, noisy grain, blurry textures, distressed or grungy look, aggressive mood, dark themes, excessive ornamental decoration on text elements."
-    },
-
-    "composition_guidelines": {
-      "top_element": {
-        "content_goal": "Stylized Bilingual Movie Title",
-        "visual_directive": {
-          "position": "Top center, prominent placement.",
-          "font_style": "Cute, decorative serif or rounded font that echoes the movie's theme (e.g., integrating tiny leaves, clouds, or icons relevant to the film).",
-          "structure": "Large Chinese title above smaller English subtitle."
-        }
-      },
-      "center_element": {
-        "content_goal": "Main Character(s) in Miniature Diorama",
-        "visual_directive": {
-          "subject_style": "Cute, proportional Q-version toy figurines.",
-          "material_focus": "Emphasize the contrast between matte skin/armor versus flocked clothing/hair.",
-          "environment": "A self-contained, soft-focus miniature environment diorama (e.g., on a floating island, a windowsill, inside a glass cloche) that tells the movie's story gently."
-        }
-      },
-      "bottom_element": {
-        "content_goal": "Healing Interpretation Quote",
-        "visual_directive": {
-          "position": "Bottom center, grounding the composition.",
-          "font_style": "Refined, clean serif or elegant handwritten style. Small and subtle.",
-          "decoration_style": "Minimalist. Clean text only. Avoid excessive scrolls, banners, ornate lines, or complex decorative borders surrounding the text (as per recent optimization)."
-        }
-      }
-    },
-
-    "rendering_and_atmosphere": {
-      "lighting_style": "Soft, warm, diffused natural light. Golden hour feel. Gentle, non-harsh shadows. Dappled light effects are highly encouraged.",
-      "camera_lens": "Macro photography aesthetic. Very shallow depth of field, focusing sharply on the toy textures while blurring the foreground and background into soft bokeh.",
-      "emotional_mood": "Warm, calm, cozy, safe, nostalgic, and healing."
-    },
-
-    "usage_notes": {
-      "best_suited_for": "Transforming emotionally resonant or even slightly dark movies into comforting, collectible merchandise forms.",
-      "key_success_factor": "The success of this style hinges on the convincing rendering of the 'flocked/fuzzy' texture against the 'smooth matte' texture. The lighting must be gentle to sell the 'healing' vibe."
-    }
-  }
-}
 ```
 
 ---
@@ -2912,64 +2673,6 @@ Composition: perfectly centered layout, square 1080x1080, ultra-clean, high-clar
 
 ---
 
-## Research and data visualization design
-
-![Research and data visualization design](https://opennana.com/awesome-prompt-gallery/images/786.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@op7418](https://x.com/op7418/status/1997715077789897182)
-- **Tags:** branding, infographic, minimalist, paper-craft, product, typography, vehicle
-
-**Prompt:**
-
-```
-[Core mission instructions]
-You are an AI expert with real-time web search capabilities and top-notch data visualization design capabilities. Please follow these two steps:
-Research stage: Immediately conduct a comprehensive online survey on the [2025 China New Energy Vehicles] specified by the user. Collect public reputation, market popularity, professional reviews and user feedback data on different sub-products, models or works in this field.
-
-Visualization stage: Based on your research results, design a professional infographic (Infographic). You need to accurately classify the specific items you have investigated into the five "from ramming to pulling" visual grade modules defined below.
-
-[User-specified target areas/products]
-[Fill in the content you need to research here, for example: popular smartphones in 2024, sugar-free tea drink brands on the market, Marvel movies in the past ten years, code editors commonly used by programmers]
-
-[Image design requirements]
-Overall style:
-A clearly structured and modern modular infographic using a "Bento Grid" layout. The background is clean and concise, focusing on content presentation. Visually, it must reflect a strong sense of hierarchy from high to low.
-
-Hierarchical structure and visual definition (strictly implement the following five levels):
-
-Level 1 (highest level): Hāng
-Survey filling criteria: According to the survey, the product/work is currently recognized as the "son of the version" in this field, has a dominant level of popularity, and is an undisputed top product/work.
-
-Visual expression: occupying the top or largest layout module of the screen. The color tone is extremely explosive bursting red and brilliant gold, with visual special effects of halo or energy overflow. The font size is the largest and boldest. The module needs to display the name or high-quality image of the representative product that has been researched, and be accompanied by a minimalist phrase of praise (such as "the whole network is popular", "a masterpiece").
-
-Level 2: Top
-
-Survey filling standards: Hard-core powerhouse, although it may not be as popular as "Tang", it has an excellent reputation and is the first choice of high-quality projects among experts.
-
-Visual representation: Located on the second floor. The color palette is a solid, premium burnt orange and metallic silver. The module design looks solid and rich in texture. Display representative and powerful products.
-
-Level 3: People are better than others
-
-Research filling criteria: excellent choice, online taste, the backbone of the product that will definitely not make you lose money after buying/watching it, which represents a certain degree of connoisseurship.
-
-Visual representation: located in the middle level. The color palette is bright, clean lemon yellow and cool gray. The design style is modern and refreshing. Display representative high-quality middle-class products.
-
-Level 4: NPC
-
-Research filling criteria: products with a public face that have no memorable points, industrial assembly line products that are just a few, have no merit and are easy to be forgotten. The specific product or brand or person’s name must be written and do not be vague.
-
-Visual presentation: located in the lower middle level. The shades are bland bread/beige or cardboard brown. Modular design appears ordinary, repetitive and lacks personality. Showcasing products that are very mediocre.
-
-Level 5 (bottom level): Finished
-
-Survey filling standards: The recognized "lightning rods", "IQ tax", catastrophic failure products or even existence that is worse than nothing found in the survey must be written with the specific product or brand or the name of the person without being vague.
-
-Visual performance: squeezed at the bottom or corner of the screen, the visual space is compressed. The color tone is hopelessly black and pale, with obvious digital glitches, broken or decayed visual effects. Display products that are known to have flipped over, along with warning phrases (e.g., "Run away," "Big mistake").
-```
-
----
-
 ## The evolution of Stark Industries' Iron Man suit
 
 ![The evolution of Stark Industries' Iron Man suit](https://opennana.com/awesome-prompt-gallery/images/792.jpeg)
@@ -3040,49 +2743,6 @@ Style and Rendering: Nintendo-style clay. Colors are bright and saturated.
 
 ---
 
-## Cute sleep report poster
-
-![Cute sleep report poster](https://opennana.com/awesome-prompt-gallery/images/811.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@op7418](https://x.com/op7418/status/1997274785232101723)
-- **Tags:** 3d, landscape, nature, poster, typography
-
-**Prompt:**
-
-```
-Task: Poster design, sleep data visualization art. Step 1: Analyze [uploaded Apple Watch sleep data screenshot] and extract the duration ratio of the four stages of wakefulness, REM, core, and deep sleep
-
-Picture description: The main body of the picture is a three-dimensional, vertical rectangular transparent glass container (similar to a delicate trophy base or a geological sampling tube), placed on a deep solid color background. The interior of the container is made up of four different colors of miniature landscapes stacked layer by layer. The vertical thickness of each layer must be generated according to the proportion of the [upload data] time (for example: if the core sleep time is the longest, then the blue layer should be the thickest).
-
-Landscape layering details (top to bottom):
-Top layer (very thin or based on wake time): Wake - Orange
-It appears as dry desert surface or noise texture, symbolizing the activity and chaos of consciousness.
-Second layer: rapid eye movement layer (REM - light blue)
-Appears as a dreamy sky layer filled with floating clouds, bubbles or surreal objects. The material is transparent and light.
-The third layer: core sleep layer (Core - dark blue)
-It is expressed as a soft and comfortable ocean ball accumulation layer or layered down material, giving people a stable and stable feeling.
-Bottom layer: deep sleep layer (Deep - violet)
-It appears as a hard, thick crystal mine or a stack of glowing energy blocks. This is the foundation, and the thicker it is, the better your sleep quality is.
-
-Protagonist (user image): On the top edge of the glass container (at the mouth of the bottle), there is a Q-version 3D villain sitting.
-Action: The villain's legs hang naturally and he sits on it leisurely.
-Status: If the sleep score is high, the villain can have a fully charged green battery icon on top of his head with a pleasant expression; if the score is low, the villain can look dejected or holding a cup of coffee.
-Equipment: The villain must wear a miniature smart watch on his wrist.
-
-Lighting and Rendering: Use C4D or Blender style 3D rendering. Emphasize the refractive index of the glass container and the physical texture of the various layers of materials (sand, clouds, ocean balls, crystals). The background is high-end black or midnight blue, and the lighting focuses on highlighting the transparency inside the container and the shimmer of the underlying layer.
-
-Bottom layout: concise data display.
-
-Main title: My Sleep Strata
-
-Core data: total sleep duration | sleep score
-
-Legend: Use four small dots of corresponding colors to mark the name and specific duration of each layer.
-```
-
----
-
 ## Cute clay style themed poster
 
 ![Cute clay style themed poster](https://opennana.com/awesome-prompt-gallery/images/821.jpeg)
@@ -3143,78 +2803,6 @@ Written on falling leaves.
 Written on the mottled wall.
 Written on a ball of paper thrown to the ground.
 Written on the monitor screen.
-```
-
----
-
-## Floating Tai Chi cute 3D cartoon scene
-
-![Floating Tai Chi cute 3D cartoon scene](https://opennana.com/awesome-prompt-gallery/images/825.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@eviljer](https://x.com/eviljer/status/1998428061394751825)
-- **Tags:** 3d, architecture, cartoon, character, landscape, logo, nature, portrait, poster, typography, vehicle
-
-**Prompt:**
-
-```
-A clear, floating cute 3D cartoon diorama scene in a circular composition with rotational symmetry, echoing a yin-yang layout:
-
-Scene:
-- a single floating circular emblem viewed from isometric bird's-eye perspective (45° angle looking down).
-- one swirling half of the circle shows [Subject]'s most iconic defining scene or aspect (primary realm).
-- the opposite swirling half is the contrasting opposite realm, occupying the complementary yin-yang territory.
-- both realms share the same gravity direction and isometric orientation.
-- each half may be a continuous shared landmass OR two structurally separate diorama units that curve around each other, forming a recognizable yin-yang composition.
-
-Interpret narrative essence:
-- treat [Subject] as ONE overarching theme or entity with TWO conflicting aspects.
-- let each realm embody one aspect in a clear, visual way: the first half leans into aspect A, the opposite half leans into aspect B.
-- use characters only where they naturally serve the contrast: they may appear in one realm, both realms, or take different forms — repetition is optional, never a strict requirement.
-- place 2 distinct symbolic objects, each rooted naturally in its own world, echoing each other across the curve to suggest what was abandoned or gained between these two aspects.
-
-Yin-yang relationship:
-- design the two realms as interlocking, yin-yang-like shapes inside the circle: interlocking territories that echo yin-yang flow.
-- place the most focal element of each realm at its "yin-yang eye" position — the visual anchor point within each half's territory.
-- the two realms should feel spatially intimate and cohesive — bring them closer together to create a unified, compact circular emblem rather than loosely scattered islands.
-- the two halves are typically structurally separate with a subtle atmospheric gap, but may share ground where narrative calls for it — when adjoining, boundaries flow naturally through lighting, color temperature, and ground material shifts.
-- edge treatment: encourage organic overflow at key points — tall structures gently break the circular silhouette, ground edges fade atmospherically rather than clip sharply.
-
-Composition:
-- clean, dramatic circular multiverse — the circle reads as one unified, spatially compact emblem, with two interlocking narrative poles sitting close and relating to each other.
-- amplify contrast between the two realms: maximize visual tension to make the duality unmistakable.
-- vast open view: the scene extends naturally to its edges without boundary walls, fences, or enclosures — the horizon remains visible and unobstructed.
-
-Shadow:
-BARELY visible, extremely soft non-contact shadow with expansive fadeout — extends well beyond the diorama's footprint with a gentle gradient that blurs into the background. Viewed from bird's-eye perspective, nearly circular in shape.
-
-Render:
-- C4D. high poly with soft shading, rounded edges and bevels.
-- realistic PBR materials with tactile authenticity — avoid glossy plastic or resin appearance.
-- intricate textures, delicate detail, vivid harmonized colors. SSS texture:true.
-- CRITICAL: ground planes must remain flat and level with natural material textures appropriate to each realm.
-
-Background:
-- a single unified, clean, subtle gradient sky as the shared environment of both realms, providing generous breathing space around the circular diorama.
-
-Typography (top-center, cinematic poster-style design):
-- a prominent title "[Subject]" in a slim elegant serif (remove the brackets).
-- beneath it, a poetic, insightful subtitle that distills the story’s deepest truth or tension into one profound line.
-- create clear visual hierarchy through scale and weight contrast; allow auto line wrap and slight overlap with the top of the circle if needed.
-
-Enhance:
-- professional cinematic lighting, shaped to emphasize the contrast between the two realms while keeping both legible.
-- if characters are present, use dynamic, emotionally expressive poses that clearly align with the aspect of their realm.
-- strong sense of visual depth within each realm.
-
-Scene / lighting / cultural aesthetics:
-- contextually appropriate to [Subject].
-
-Negative:
-- [cropped elements at canvas edges, plastic/resin, hard cartoon outlines, underexposed, creepy, ceiling].
-
-ar=1:1
-[Subject] =
 ```
 
 ---

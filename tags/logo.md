@@ -1,6 +1,6 @@
 # Logo Prompts
 
-> Found 149 prompts in this category.
+> Found 147 prompts in this category.
 
 ---
 
@@ -2966,22 +2966,6 @@ Create a highly detailed miniature hyper-realistic scene of tiny characters real
 
 ---
 
-## Brand co-branded poster
-
-![Brand co-branded poster](https://opennana.com/awesome-prompt-gallery/images/504.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991761772454224349)
-- **Tags:** branding, character, futuristic, gaming, landscape, logo, neon, poster, typography
-
-**Prompt:**
-
-```
-Aspect ratio 16:9, official game linkage poster, masterpiece, vibrant "Zero" anime style.  Scene: Four stylish anime characters (a pink-haired girl in a black jacket is the visual center, a silver-haired girl, a white-haired boy, and a black-haired boy) pose in a futuristic city night, each holding a glass of Coke.  Environment: This is a nighttime street in a futuristic city, where the entire scene is dominated by huge, glowing neon signs.  A large, unmissable neon sign featuring a stylized "ZZZ" logo is the absolute focal point of the background, shining brightly behind the protagonists. Other neon signs reading "Coca-Cola" are equally eye-catching, bathing the entire scene in vivid purple and blue light.  Special effects: Fruits such as strawberries and lemons are encased in transparent bubbles and float, with glowing pink and blue energy swirling across the frame.  Text elements: Upper left corner: Displaying the logo of "Zero Zero" and "Coke", connected by "X".  Bottom center: A large block of eye-catching Chinese text "Zero Zero X Coke: Awakening of powers, double happiness!". The font is bold, stylized word art with white fill and thick purple-pink gradient strokes.  Below the Chinese: There is "LIMITED COLLAB" in white capital letters in a black rectangular frame.  Art style: Highly detailed, clean lines, cinematic light effects from giant neon signs, dynamic compositions.  Negative warning words: blurry, low quality, broken human structure, hand deformity, ugly, watermark, signature, garbled text, deformed letters
-```
-
----
-
 ## last supper
 
 ![last supper](https://opennana.com/awesome-prompt-gallery/images/511.jpeg)
@@ -4566,78 +4550,6 @@ Materials & Textures: All elements feature hyper-realistic textures (e.g., [list
 Lighting: [ATMOSPHERE NAME]: [describe light sources and mood, e.g., warm golden sunlight, harsh fluorescent light, moody noir shadows], creating cinematic depth within the glass enclosure.
 Background: A clean, solid neutral grey background completely isolating the cube. No table texture, no blurred room surroundings, no external clutter.
 Camera: A detailed macro photograph from a slightly elevated isometric three-quarter view, centering on the front glass corner. High aperture to keep the entire miniature in focus.
-```
-
----
-
-## Floating Tai Chi cute 3D cartoon scene
-
-![Floating Tai Chi cute 3D cartoon scene](https://opennana.com/awesome-prompt-gallery/images/825.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@eviljer](https://x.com/eviljer/status/1998428061394751825)
-- **Tags:** 3d, architecture, cartoon, character, landscape, logo, nature, portrait, poster, typography, vehicle
-
-**Prompt:**
-
-```
-A clear, floating cute 3D cartoon diorama scene in a circular composition with rotational symmetry, echoing a yin-yang layout:
-
-Scene:
-- a single floating circular emblem viewed from isometric bird's-eye perspective (45° angle looking down).
-- one swirling half of the circle shows [Subject]'s most iconic defining scene or aspect (primary realm).
-- the opposite swirling half is the contrasting opposite realm, occupying the complementary yin-yang territory.
-- both realms share the same gravity direction and isometric orientation.
-- each half may be a continuous shared landmass OR two structurally separate diorama units that curve around each other, forming a recognizable yin-yang composition.
-
-Interpret narrative essence:
-- treat [Subject] as ONE overarching theme or entity with TWO conflicting aspects.
-- let each realm embody one aspect in a clear, visual way: the first half leans into aspect A, the opposite half leans into aspect B.
-- use characters only where they naturally serve the contrast: they may appear in one realm, both realms, or take different forms — repetition is optional, never a strict requirement.
-- place 2 distinct symbolic objects, each rooted naturally in its own world, echoing each other across the curve to suggest what was abandoned or gained between these two aspects.
-
-Yin-yang relationship:
-- design the two realms as interlocking, yin-yang-like shapes inside the circle: interlocking territories that echo yin-yang flow.
-- place the most focal element of each realm at its "yin-yang eye" position — the visual anchor point within each half's territory.
-- the two realms should feel spatially intimate and cohesive — bring them closer together to create a unified, compact circular emblem rather than loosely scattered islands.
-- the two halves are typically structurally separate with a subtle atmospheric gap, but may share ground where narrative calls for it — when adjoining, boundaries flow naturally through lighting, color temperature, and ground material shifts.
-- edge treatment: encourage organic overflow at key points — tall structures gently break the circular silhouette, ground edges fade atmospherically rather than clip sharply.
-
-Composition:
-- clean, dramatic circular multiverse — the circle reads as one unified, spatially compact emblem, with two interlocking narrative poles sitting close and relating to each other.
-- amplify contrast between the two realms: maximize visual tension to make the duality unmistakable.
-- vast open view: the scene extends naturally to its edges without boundary walls, fences, or enclosures — the horizon remains visible and unobstructed.
-
-Shadow:
-BARELY visible, extremely soft non-contact shadow with expansive fadeout — extends well beyond the diorama's footprint with a gentle gradient that blurs into the background. Viewed from bird's-eye perspective, nearly circular in shape.
-
-Render:
-- C4D. high poly with soft shading, rounded edges and bevels.
-- realistic PBR materials with tactile authenticity — avoid glossy plastic or resin appearance.
-- intricate textures, delicate detail, vivid harmonized colors. SSS texture:true.
-- CRITICAL: ground planes must remain flat and level with natural material textures appropriate to each realm.
-
-Background:
-- a single unified, clean, subtle gradient sky as the shared environment of both realms, providing generous breathing space around the circular diorama.
-
-Typography (top-center, cinematic poster-style design):
-- a prominent title "[Subject]" in a slim elegant serif (remove the brackets).
-- beneath it, a poetic, insightful subtitle that distills the story’s deepest truth or tension into one profound line.
-- create clear visual hierarchy through scale and weight contrast; allow auto line wrap and slight overlap with the top of the circle if needed.
-
-Enhance:
-- professional cinematic lighting, shaped to emphasize the contrast between the two realms while keeping both legible.
-- if characters are present, use dynamic, emotionally expressive poses that clearly align with the aspect of their realm.
-- strong sense of visual depth within each realm.
-
-Scene / lighting / cultural aesthetics:
-- contextually appropriate to [Subject].
-
-Negative:
-- [cropped elements at canvas edges, plastic/resin, hard cartoon outlines, underexposed, creepy, ceiling].
-
-ar=1:1
-[Subject] =
 ```
 
 ---

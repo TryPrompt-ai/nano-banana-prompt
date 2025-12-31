@@ -1,6 +1,6 @@
 # Poster Prompts
 
-> Found 73 prompts in this category.
+> Found 67 prompts in this category.
 
 ---
 
@@ -1277,94 +1277,6 @@ Negative words: 3D, photo, modern font, horizontal text, minimalist, simple, blu
 
 ---
 
-## Brand co-branded poster
-
-![Brand co-branded poster](https://opennana.com/awesome-prompt-gallery/images/504.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991761772454224349)
-- **Tags:** branding, character, futuristic, gaming, landscape, logo, neon, poster, typography
-
-**Prompt:**
-
-```
-Aspect ratio 16:9, official game linkage poster, masterpiece, vibrant "Zero" anime style.  Scene: Four stylish anime characters (a pink-haired girl in a black jacket is the visual center, a silver-haired girl, a white-haired boy, and a black-haired boy) pose in a futuristic city night, each holding a glass of Coke.  Environment: This is a nighttime street in a futuristic city, where the entire scene is dominated by huge, glowing neon signs.  A large, unmissable neon sign featuring a stylized "ZZZ" logo is the absolute focal point of the background, shining brightly behind the protagonists. Other neon signs reading "Coca-Cola" are equally eye-catching, bathing the entire scene in vivid purple and blue light.  Special effects: Fruits such as strawberries and lemons are encased in transparent bubbles and float, with glowing pink and blue energy swirling across the frame.  Text elements: Upper left corner: Displaying the logo of "Zero Zero" and "Coke", connected by "X".  Bottom center: A large block of eye-catching Chinese text "Zero Zero X Coke: Awakening of powers, double happiness!". The font is bold, stylized word art with white fill and thick purple-pink gradient strokes.  Below the Chinese: There is "LIMITED COLLAB" in white capital letters in a black rectangular frame.  Art style: Highly detailed, clean lines, cinematic light effects from giant neon signs, dynamic compositions.  Negative warning words: blurry, low quality, broken human structure, hand deformity, ugly, watermark, signature, garbled text, deformed letters
-```
-
----
-
-## Highly detailed 3D infographic poster
-
-![Highly detailed 3D infographic poster](https://opennana.com/awesome-prompt-gallery/images/541.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@cnyzgkc](https://x.com/cnyzgkc/status/1994003408207139013)
-- **Tags:** 3d, character, food, illustration, infographic, landscape, poster, typography
-
-**Prompt:**
-
-```
-Please create a high-detailed 3D infographic poster in Chinese to introduce the production process of traditional Indonesian tempeh. The poster should include a cute 3D chef character Koki Cubby (chubby, cute, wearing a white chef hat and apron, with rich expressions and bright colors).
-Every step of the production process should have Koki Cubby's help or explanation.
-Poster colors: white, leaf green, soybean yellow, tempeh brown.
-Visual style: 3D semi-realistic food illustrations + cute characters, soft light, high details.
-Headline:
-“The process of making tempeh – from soybean to finished product”
-Main picture:
-A realistic 3D tempeh box, wrapped in banana leaves or translucent plastic, with clear textured tempeh slices and white yeast (Rhizopus) threads inside. Koki Cubby stood nearby, pointing at the finished tempeh.
-Soybean picking and sorting (3D scene)
-• 3D illustration of dried soybeans placed on a wooden table.
-• Chef Kubi holds a spatula to check the quality of the soybeans.
-• Text: “Choose high-quality, clean, undamaged soybeans.”
-Soy Soak (3D Bowl)
-• The soybeans are soaked in a large bowl of water and can be seen swelling.
-• 3D blisters.
-• Chef Kubi stirs the water with a spatula.
-• Text: “Soak for 6-12 hours to allow the soybeans to swell.”
-• Boiling (3D pot steaming)
-• A large pot of soybeans is boiling.
-• 3D hot steam details.
-• Chef Cubby holds a kitchen timer.
-• Text: “Cook until tender to kill harmful bacteria.”
-• Soybean peeling and deflation
-• Squeeze and rub the soybeans to remove the skin.
-• Use a small 3D filter or do it manually.
-• Chef Cubby is helping remove soybean hulls.
-• Text: “Removing soybean hulls aids yeast fermentation.”
-Soybean screening and drying
-• Drain wet soybeans in a large sieve.
-• Chef Cubby blows dry with a small fan or absorbs the moisture with a towel.
-• Text: “Make sure soybeans are dry—too much moisture can inhibit fermentation.”
-• Added tempeh yeast (Rhizopus)
-• A bowl of 3D yeast is in the form of white fine powder.
-• Chef Cubby spreads the yeast evenly over the soybeans.
-• Text: “Mix the tempeh yeast until smooth.”
-• Wraps (leaves/plastic bags)
-• Place soybeans in a banana leaf or perforated plastic bag.
-• Little Chef Kirby presses with his little hands to make it fold neatly.
-• Text: “Wrap tightly for perfect fermentation.”
-Tempeh fermentation (24-48 hours)
-• Place tempeh on a ventilated wooden rack.
-• The texture of tempeh starts to turn white due to the action of Rhizopus fungus.
-• Little Chef Kirby sat waiting, looking at the thermometer.
-• Text: “Ferment at 30-32°C.”
-Tempeh fermentation completed
-• Tempeh is firm and white in texture with thick, neat yeast fibers.
-• Realistic 3D tempeh slices show off their internal textures.
-• Little Chef Kirby gives a thumbs up.
-• Text: “Tempeh is ready to cook—delicious, healthy, and packed with protein!”
-poster style
-• 3D infographic with simple panels, small icons and connected timelines.
-• Soft white-green gradient background.
-• Soy and tempeh with a subtle glow.
-• Modern sans serif font.
-• 4K high resolution.
-• Concise, professional and educational, suitable for children and adults.
-Change the food in this prompt word to xiaolongbao
-```
-
----
-
 ## Oriental Martial Arts Epic Poster-Sword Shadow Beauty
 
 ![Oriental Martial Arts Epic Poster-Sword Shadow Beauty](https://opennana.com/awesome-prompt-gallery/images/583.jpeg)
@@ -1537,72 +1449,6 @@ negative_prompt": "no realism that breaks Y2K aesthetic, no modern 2020s clothin
 
 ---
 
-## A movie poster template
-
-![A movie poster template](https://opennana.com/awesome-prompt-gallery/images/742.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@sundyme](https://x.com/sundyme/status/1996572954931437867)
-- **Tags:** animal, character, felt, illustration, landscape, minimalist, photography, pixel, poster, product, toy, typography
-
-**Prompt:**
-
-```
-Please design a poster for the movie "" in this style. Regenerate pictures based on generated prompt words
-Style description template:
-{
-  "style_template_en_v2": {
-    "style_name": "3D Q-Version Healing Toy Movie Poster (Optimized)",
-    "style_description": "A highly tactile 3D digital rendering style mimicking macro product photography of premium designer toy collectibles. It transforms movie characters and scenes into cute, Q-version miniature dioramas. The core aesthetic relies on the contrast between matte resin/vinyl surfaces and soft, flocked plush textures, bathed in warm, diffused light to create a calm, healing atmosphere with clean poster typography.",
-
-    "style_prompt": {
-      "positive": "A tactile 3D digital render mimicking high-end product photography of collectible designer toys presented as a movie poster. Cute Q-version proportions. The defining feature is mixed materials: smooth matte resin or vinyl for bodies/hard objects contrasting with soft, fuzzy flocked plush textures (like felt or velvet) on clothing, hair, moss, or animals. The setting is a miniature natural diorama. Lighting is soft, warm, and diffused with gentle dappled shadows (komorebi effect), creating a calm, healing (healing) atmosphere. Shallow depth of field, macro lens effect, bokeh background. Clean bilingual typography.",
-      "negative": "2D illustration, painting, pixel art, low poly, rough sketch, realistic human proportions, harsh direct lighting, hard dark shadows, glossy plastic shine, metallic reflections, noisy grain, blurry textures, distressed or grungy look, aggressive mood, dark themes, excessive ornamental decoration on text elements."
-    },
-
-    "composition_guidelines": {
-      "top_element": {
-        "content_goal": "Stylized Bilingual Movie Title",
-        "visual_directive": {
-          "position": "Top center, prominent placement.",
-          "font_style": "Cute, decorative serif or rounded font that echoes the movie's theme (e.g., integrating tiny leaves, clouds, or icons relevant to the film).",
-          "structure": "Large Chinese title above smaller English subtitle."
-        }
-      },
-      "center_element": {
-        "content_goal": "Main Character(s) in Miniature Diorama",
-        "visual_directive": {
-          "subject_style": "Cute, proportional Q-version toy figurines.",
-          "material_focus": "Emphasize the contrast between matte skin/armor versus flocked clothing/hair.",
-          "environment": "A self-contained, soft-focus miniature environment diorama (e.g., on a floating island, a windowsill, inside a glass cloche) that tells the movie's story gently."
-        }
-      },
-      "bottom_element": {
-        "content_goal": "Healing Interpretation Quote",
-        "visual_directive": {
-          "position": "Bottom center, grounding the composition.",
-          "font_style": "Refined, clean serif or elegant handwritten style. Small and subtle.",
-          "decoration_style": "Minimalist. Clean text only. Avoid excessive scrolls, banners, ornate lines, or complex decorative borders surrounding the text (as per recent optimization)."
-        }
-      }
-    },
-
-    "rendering_and_atmosphere": {
-      "lighting_style": "Soft, warm, diffused natural light. Golden hour feel. Gentle, non-harsh shadows. Dappled light effects are highly encouraged.",
-      "camera_lens": "Macro photography aesthetic. Very shallow depth of field, focusing sharply on the toy textures while blurring the foreground and background into soft bokeh.",
-      "emotional_mood": "Warm, calm, cozy, safe, nostalgic, and healing."
-    },
-
-    "usage_notes": {
-      "best_suited_for": "Transforming emotionally resonant or even slightly dark movies into comforting, collectible merchandise forms.",
-      "key_success_factor": "The success of this style hinges on the convincing rendering of the 'flocked/fuzzy' texture against the 'smooth matte' texture. The lighting must be gentle to sell the 'healing' vibe."
-    }
-  }
-}
-```
-
----
-
 ## The evolution of Stark Industries' Iron Man suit
 
 ![The evolution of Stark Industries' Iron Man suit](https://opennana.com/awesome-prompt-gallery/images/792.jpeg)
@@ -1714,49 +1560,6 @@ Style and Rendering: Nintendo-style clay. Colors are bright and saturated.
 
 ---
 
-## Cute sleep report poster
-
-![Cute sleep report poster](https://opennana.com/awesome-prompt-gallery/images/811.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@op7418](https://x.com/op7418/status/1997274785232101723)
-- **Tags:** 3d, landscape, nature, poster, typography
-
-**Prompt:**
-
-```
-Task: Poster design, sleep data visualization art. Step 1: Analyze [uploaded Apple Watch sleep data screenshot] and extract the duration ratio of the four stages of wakefulness, REM, core, and deep sleep
-
-Picture description: The main body of the picture is a three-dimensional, vertical rectangular transparent glass container (similar to a delicate trophy base or a geological sampling tube), placed on a deep solid color background. The interior of the container is made up of four different colors of miniature landscapes stacked layer by layer. The vertical thickness of each layer must be generated according to the proportion of the [upload data] time (for example: if the core sleep time is the longest, then the blue layer should be the thickest).
-
-Landscape layering details (top to bottom):
-Top layer (very thin or based on wake time): Wake - Orange
-It appears as dry desert surface or noise texture, symbolizing the activity and chaos of consciousness.
-Second layer: rapid eye movement layer (REM - light blue)
-Appears as a dreamy sky layer filled with floating clouds, bubbles or surreal objects. The material is transparent and light.
-The third layer: core sleep layer (Core - dark blue)
-It is expressed as a soft and comfortable ocean ball accumulation layer or layered down material, giving people a stable and stable feeling.
-Bottom layer: deep sleep layer (Deep - violet)
-It appears as a hard, thick crystal mine or a stack of glowing energy blocks. This is the foundation, and the thicker it is, the better your sleep quality is.
-
-Protagonist (user image): On the top edge of the glass container (at the mouth of the bottle), there is a Q-version 3D villain sitting.
-Action: The villain's legs hang naturally and he sits on it leisurely.
-Status: If the sleep score is high, the villain can have a fully charged green battery icon on top of his head with a pleasant expression; if the score is low, the villain can look dejected or holding a cup of coffee.
-Equipment: The villain must wear a miniature smart watch on his wrist.
-
-Lighting and Rendering: Use C4D or Blender style 3D rendering. Emphasize the refractive index of the glass container and the physical texture of the various layers of materials (sand, clouds, ocean balls, crystals). The background is high-end black or midnight blue, and the lighting focuses on highlighting the transparency inside the container and the shimmer of the underlying layer.
-
-Bottom layout: concise data display.
-
-Main title: My Sleep Strata
-
-Core data: total sleep duration | sleep score
-
-Legend: Use four small dots of corresponding colors to mark the name and specific duration of each layer.
-```
-
----
-
 ## Cute clay style themed poster
 
 ![Cute clay style themed poster](https://opennana.com/awesome-prompt-gallery/images/821.jpeg)
@@ -1821,78 +1624,6 @@ Written on the monitor screen.
 
 ---
 
-## Floating Tai Chi cute 3D cartoon scene
-
-![Floating Tai Chi cute 3D cartoon scene](https://opennana.com/awesome-prompt-gallery/images/825.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@eviljer](https://x.com/eviljer/status/1998428061394751825)
-- **Tags:** 3d, architecture, cartoon, character, landscape, logo, nature, portrait, poster, typography, vehicle
-
-**Prompt:**
-
-```
-A clear, floating cute 3D cartoon diorama scene in a circular composition with rotational symmetry, echoing a yin-yang layout:
-
-Scene:
-- a single floating circular emblem viewed from isometric bird's-eye perspective (45° angle looking down).
-- one swirling half of the circle shows [Subject]'s most iconic defining scene or aspect (primary realm).
-- the opposite swirling half is the contrasting opposite realm, occupying the complementary yin-yang territory.
-- both realms share the same gravity direction and isometric orientation.
-- each half may be a continuous shared landmass OR two structurally separate diorama units that curve around each other, forming a recognizable yin-yang composition.
-
-Interpret narrative essence:
-- treat [Subject] as ONE overarching theme or entity with TWO conflicting aspects.
-- let each realm embody one aspect in a clear, visual way: the first half leans into aspect A, the opposite half leans into aspect B.
-- use characters only where they naturally serve the contrast: they may appear in one realm, both realms, or take different forms — repetition is optional, never a strict requirement.
-- place 2 distinct symbolic objects, each rooted naturally in its own world, echoing each other across the curve to suggest what was abandoned or gained between these two aspects.
-
-Yin-yang relationship:
-- design the two realms as interlocking, yin-yang-like shapes inside the circle: interlocking territories that echo yin-yang flow.
-- place the most focal element of each realm at its "yin-yang eye" position — the visual anchor point within each half's territory.
-- the two realms should feel spatially intimate and cohesive — bring them closer together to create a unified, compact circular emblem rather than loosely scattered islands.
-- the two halves are typically structurally separate with a subtle atmospheric gap, but may share ground where narrative calls for it — when adjoining, boundaries flow naturally through lighting, color temperature, and ground material shifts.
-- edge treatment: encourage organic overflow at key points — tall structures gently break the circular silhouette, ground edges fade atmospherically rather than clip sharply.
-
-Composition:
-- clean, dramatic circular multiverse — the circle reads as one unified, spatially compact emblem, with two interlocking narrative poles sitting close and relating to each other.
-- amplify contrast between the two realms: maximize visual tension to make the duality unmistakable.
-- vast open view: the scene extends naturally to its edges without boundary walls, fences, or enclosures — the horizon remains visible and unobstructed.
-
-Shadow:
-BARELY visible, extremely soft non-contact shadow with expansive fadeout — extends well beyond the diorama's footprint with a gentle gradient that blurs into the background. Viewed from bird's-eye perspective, nearly circular in shape.
-
-Render:
-- C4D. high poly with soft shading, rounded edges and bevels.
-- realistic PBR materials with tactile authenticity — avoid glossy plastic or resin appearance.
-- intricate textures, delicate detail, vivid harmonized colors. SSS texture:true.
-- CRITICAL: ground planes must remain flat and level with natural material textures appropriate to each realm.
-
-Background:
-- a single unified, clean, subtle gradient sky as the shared environment of both realms, providing generous breathing space around the circular diorama.
-
-Typography (top-center, cinematic poster-style design):
-- a prominent title "[Subject]" in a slim elegant serif (remove the brackets).
-- beneath it, a poetic, insightful subtitle that distills the story’s deepest truth or tension into one profound line.
-- create clear visual hierarchy through scale and weight contrast; allow auto line wrap and slight overlap with the top of the circle if needed.
-
-Enhance:
-- professional cinematic lighting, shaped to emphasize the contrast between the two realms while keeping both legible.
-- if characters are present, use dynamic, emotionally expressive poses that clearly align with the aspect of their realm.
-- strong sense of visual depth within each realm.
-
-Scene / lighting / cultural aesthetics:
-- contextually appropriate to [Subject].
-
-Negative:
-- [cropped elements at canvas edges, plastic/resin, hard cartoon outlines, underexposed, creepy, ceiling].
-
-ar=1:1
-[Subject] =
-```
-
----
-
 ## Generate scene posters for any movie, TV series or novel
 
 ![Generate scene posters for any movie, TV series or novel](https://opennana.com/awesome-prompt-gallery/images/826.jpeg)
@@ -1911,28 +1642,6 @@ First, please use your knowledge base to search the content of this film, TV ser
 Regarding the background, don’t use a simple plain white background. Please create a void environment with light water ink smudges and flowing light and fog around the model. The colors are elegant, so that the picture looks breathable and deep, and highlights the preciousness of the central model.
 
 The last thing is the typesetting at the bottom, please generate Chinese text. Write the title of the novel in the center, and the font should have a design that matches the style of the original work. Under the book title, a classic description or line about the scene in the original book is automatically retrieved and formatted, and the font uses an elegant serif. The overall layout should be as delicate and balanced as a high-end museum collection nameplate.
-```
-
----
-
-## Healing fairy tale clay poster
-
-![Healing fairy tale clay poster](https://opennana.com/awesome-prompt-gallery/images/828.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@sundyme](https://x.com/sundyme/status/1999479601744015847)
-- **Tags:** 3d, character, clay, felt, landscape, nature, poster, vehicle
-
-**Prompt:**
-
-```
-Rendered as a complete Poster design (suggested aspect ratio 3:4 or 9:16 for a full vertical poster). The overall visual style is a Soft-Focus Healing Style combining a Wes Anderson aesthetic, characterized by dreamy, cozy, warm and soft volumetric lighting. 4K Resolution, high aesthetic value.
-
-[SCENE & MATERIAL STYLE]The entire scene is rendered with a distinctive material mix of Soft Matte Clay and a little soft Felt, creating fluffy and tactile textures throughout the composition. The color palette is dominated by soft Pastel colors (Morandi/Macaron tones).
-
-[TEXT INTEGRATION]The scene integrates a creatively formed main title using environmental elements (e.g., formed by clouds, branches, or clay objects). It also includes a small, delicate, thin-stroke handwritten Chinese slogan that blends softly into the environment, appearing as part of the scene's texture rather than an overlay.
-
-Generate a list (Einstein):
 ```
 
 ---

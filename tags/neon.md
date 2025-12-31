@@ -1,6 +1,6 @@
 # Neon Prompts
 
-> Found 68 prompts in this category.
+> Found 66 prompts in this category.
 
 ---
 
@@ -1399,22 +1399,6 @@ Grainy 35mm film photo from 1975. A construction worker is installing a large gl
 
 ---
 
-## Brand co-branded poster
-
-![Brand co-branded poster](https://opennana.com/awesome-prompt-gallery/images/504.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991761772454224349)
-- **Tags:** branding, character, futuristic, gaming, landscape, logo, neon, poster, typography
-
-**Prompt:**
-
-```
-Aspect ratio 16:9, official game linkage poster, masterpiece, vibrant "Zero" anime style.  Scene: Four stylish anime characters (a pink-haired girl in a black jacket is the visual center, a silver-haired girl, a white-haired boy, and a black-haired boy) pose in a futuristic city night, each holding a glass of Coke.  Environment: This is a nighttime street in a futuristic city, where the entire scene is dominated by huge, glowing neon signs.  A large, unmissable neon sign featuring a stylized "ZZZ" logo is the absolute focal point of the background, shining brightly behind the protagonists. Other neon signs reading "Coca-Cola" are equally eye-catching, bathing the entire scene in vivid purple and blue light.  Special effects: Fruits such as strawberries and lemons are encased in transparent bubbles and float, with glowing pink and blue energy swirling across the frame.  Text elements: Upper left corner: Displaying the logo of "Zero Zero" and "Coke", connected by "X".  Bottom center: A large block of eye-catching Chinese text "Zero Zero X Coke: Awakening of powers, double happiness!". The font is bold, stylized word art with white fill and thick purple-pink gradient strokes.  Below the Chinese: There is "LIMITED COLLAB" in white capital letters in a black rectangular frame.  Art style: Highly detailed, clean lines, cinematic light effects from giant neon signs, dynamic compositions.  Negative warning words: blurry, low quality, broken human structure, hand deformity, ugly, watermark, signature, garbled text, deformed letters
-```
-
----
-
 ## HD magazine spread
 
 ![HD magazine spread](https://opennana.com/awesome-prompt-gallery/images/512.jpeg)
@@ -1949,22 +1933,6 @@ DO NOT: Add any text, logos, tags, watermarks, symbols, numbers or other text el
     "style": "No cinematic dramatic shadows (must be flat lit), no warm vintage tones, no painting, no illustration."
   }
 }
-```
-
----
-
-## Shanghai 3D City Time Tour
-
-![Shanghai 3D City Time Tour](https://opennana.com/awesome-prompt-gallery/images/700.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@servasyy](https://x.com/servasyy/status/1995412825003708860)
-- **Tags:** 3d, architecture, futuristic, landscape, neon, paper-craft, photography, portrait, retro, typography, vehicle
-
-**Prompt:**
-
-```
-A stunning hyper-realistic 3D render of Shanghai's architectural evolution displayed as detailed miniature model diorama on a large circular floating platform, like a round disc divided into four distinct quadrants. ALL buildings are rendered as tangible 3D miniature models with physical depth and dimension, not flat backgrounds. The circular platform has thick layered edges resembling geological strata in shades of brown, beige, and turquoise blue. First quadrant (top-left): 3D miniature models of traditional Shikumen stone-gate houses with gray tiled roofs, wooden window frames, gray brick walls, red paper lanterns, tiny vintage bicycles and rickshaws as 3D models, miniature human figures. Second quadrant (top-right): 3D miniature models of The Bund architecture - Art Deco Peace Hotel with green copper roof (3D model), neoclassical HSBC Building dome (3D model), Gothic customs house tower clock (3D model), cream and golden facades, tiny 1930s cars as 3D models, miniature pedestrian figures. Third quadrant (bottom-right): 3D miniature models of modern Pudong skyline - Oriental Pearl Tower with pink spheres (detailed 3D model), Jin Mao Tower (3D model), Shanghai Tower twisted glass form (3D model), Shanghai World Financial Center (3D model), all skyscrapers rendered as physical miniature 3D models with depth, tiny modern vehicles, contemporary miniature figures. Fourth quadrant (bottom-left): 3D miniature models of future sustainable architecture - vertical forest towers covered in tiny green plants (3D models), transparent solar panel buildings (3D models), organic curved parametric structures (3D models), elevated hyperloop stations (3D models), tiny drones and flying vehicles as 3D models, miniature futuristic figures. The circular platform floats above realistic 3D rendered Huangpu River water with reflections. Traditional wooden sampan boats (3D models) transform into sleek modern cruise ships (detailed 3D models). Platform edges show beautiful wave-like geological strata texture. Background features atmospheric misty Shanghai skyline silhouettes transitioning from warm dawn orange through pink-purple twilight to deep night blue with stars. Lighting transitions across quadrants: warm sepia tone for Shikumen, golden hour sunlight for Bund, vibrant electric blue neon for modern Pudong, holographic cyan-magenta glow for future section. At top center: elegant bilingual typography "Shanghai" SHANGHAI" combining traditional calligraphy with modern sans-serif, subtitle "Architectural Journey Time" and "Architectural Journey Through Time". Ultra-realistic 3D rendering style, architectural professional miniature photography, tilt-shift lens effect creating miniature appearance, all elements have physical 3D depth and dimension, hyper-detailed textures showing model craftsmanship, 4K resolution, museum-quality diorama presentation, dramatic studio lighting with depth and atmosphere, every building is a tactile 3D miniature model not a flat image.
 ```
 
 ---

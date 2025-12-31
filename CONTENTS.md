@@ -2,7 +2,7 @@
 
 > A complete list of all prompts in the gallery.
 
-**Total Prompts:** 973
+**Total Prompts:** 960
 
 ---
 
@@ -2075,1553 +2075,1507 @@
 
 ## C
 
-558. [Chengdu tourist map](tags/architecture.md#chengdu-tourist-map)
-559. [cyber almanac](tags/food.md#cyber-almanac)
+558. [cyber almanac](tags/food.md#cyber-almanac)
 
 ## I
 
-560. [Illustrations of Chang'an in the Tang Dynasty](tags/cartoon.md#illustrations-of-chang'an-in-the-tang-dynasty)
-
-## A
-
-561. [Aerial photography of old Beijing](tags/architecture.md#aerial-photography-of-old-beijing)
+559. [Illustrations of Chang'an in the Tang Dynasty](tags/cartoon.md#illustrations-of-chang'an-in-the-tang-dynasty)
 
 ## D
 
-562. [Decomposed diagram of horizontal throwing motion trajectory and velocity displacement](tags/creative.md#decomposed-diagram-of-horizontal-throwing-motion-trajectory-and-velocity-displacement)
-
-## B
-
-563. [Brand co-branded poster](tags/branding.md#brand-co-branded-poster)
+560. [Decomposed diagram of horizontal throwing motion trajectory and velocity displacement](tags/creative.md#decomposed-diagram-of-horizontal-throwing-motion-trajectory-and-velocity-displacement)
 
 ## S
 
-564. [Solve math problems](tags/paper-craft.md#solve-math-problems)
+561. [Solve math problems](tags/paper-craft.md#solve-math-problems)
 
 ## A
 
-565. [A brand new Instagram account](tags/food.md#a-brand-new-instagram-account)
+562. [A brand new Instagram account](tags/food.md#a-brand-new-instagram-account)
 
 ## T
 
-566. [Timeline of Chinese dynasties](tags/infographic.md#timeline-of-chinese-dynasties)
+563. [Timeline of Chinese dynasties](tags/infographic.md#timeline-of-chinese-dynasties)
 
 ## W
 
-567. [Woman beach movie style portrait](tags/nature.md#woman-beach-movie-style-portrait)
+564. [Woman beach movie style portrait](tags/nature.md#woman-beach-movie-style-portrait)
 
 ## H
 
-568. [Hayao Miyazaki's character walks into the Last Supper](tags/character.md#hayao-miyazaki's-character-walks-into-the-last-supper)
+565. [Hayao Miyazaki's character walks into the Last Supper](tags/character.md#hayao-miyazaki's-character-walks-into-the-last-supper)
 
 ## L
 
-569. [last supper](tags/character.md#last-supper)
+566. [last supper](tags/character.md#last-supper)
 
 ## H
 
-570. [HD magazine spread](tags/character.md#hd-magazine-spread)
+567. [HD magazine spread](tags/character.md#hd-magazine-spread)
 
 ## L
 
-571. [labubu style dynamics](tags/character.md#labubu-style-dynamics)
+568. [labubu style dynamics](tags/character.md#labubu-style-dynamics)
 
 ## R
 
-572. [Replica picture prompt words](tags/fashion.md#replica-picture-prompt-words)
+569. [Replica picture prompt words](tags/fashion.md#replica-picture-prompt-words)
 
 ## A
 
-573. [Animation to live action](tags/character.md#animation-to-live-action)
+570. [Animation to live action](tags/character.md#animation-to-live-action)
 
 ## M
 
-574. [minimalist cocktail photography](tags/minimalist.md#minimalist-cocktail-photography)
+571. [minimalist cocktail photography](tags/minimalist.md#minimalist-cocktail-photography)
 
 ## H
 
-575. [High end studio photos](tags/minimalist.md#high-end-studio-photos)
+572. [High end studio photos](tags/minimalist.md#high-end-studio-photos)
 
 ## D
 
-576. [dragon ball cards](tags/futuristic.md#dragon-ball-cards)
+573. [dragon ball cards](tags/futuristic.md#dragon-ball-cards)
 
 ## H
 
-577. [Hand drawn isometric illustration of landmarks](tags/infographic.md#hand-drawn-isometric-illustration-of-landmarks)
+574. [Hand drawn isometric illustration of landmarks](tags/infographic.md#hand-drawn-isometric-illustration-of-landmarks)
 
 ## W
 
-578. [Wardrobe teardown and style analysis](tags/character.md#wardrobe-teardown-and-style-analysis)
+575. [Wardrobe teardown and style analysis](tags/character.md#wardrobe-teardown-and-style-analysis)
 
 ## P
 
-579. [Photorealistic close-up selfie of a young woman](tags/fashion.md#photorealistic-close-up-selfie-of-a-young-woman)
+576. [Photorealistic close-up selfie of a young woman](tags/fashion.md#photorealistic-close-up-selfie-of-a-young-woman)
 
 ## L
 
-580. [Labubu and Dilireba high-end fashion cross-page blockbuster](tags/landscape.md#labubu-and-dilireba-high-end-fashion-cross-page-blockbuster)
+577. [Labubu and Dilireba high-end fashion cross-page blockbuster](tags/landscape.md#labubu-and-dilireba-high-end-fashion-cross-page-blockbuster)
 
 ## F
 
-581. [fortune chart](tags/typography.md#fortune-chart)
+578. [fortune chart](tags/typography.md#fortune-chart)
 
 ## M
 
-582. [Minecraft Mysterious Age Information Card](tags/illustration.md#minecraft-mysterious-age-information-card)
+579. [Minecraft Mysterious Age Information Card](tags/illustration.md#minecraft-mysterious-age-information-card)
 
 ## L
 
-583. [Large oil painting portrait](tags/fashion.md#large-oil-painting-portrait)
-584. [Literacy tabloid meta prompt words](tags/cartoon.md#literacy-tabloid-meta-prompt-words)
+580. [Large oil painting portrait](tags/fashion.md#large-oil-painting-portrait)
+581. [Literacy tabloid meta prompt words](tags/cartoon.md#literacy-tabloid-meta-prompt-words)
 
 ## B
 
-585. [Battle of Changping infographic](tags/infographic.md#battle-of-changping-infographic)
+582. [Battle of Changping infographic](tags/infographic.md#battle-of-changping-infographic)
 
 ## M
 
-586. [Make people make Emoji expressions](tags/emoji.md#make-people-make-emoji-expressions)
-587. [Markdown to infographic](tags/infographic.md#markdown-to-infographic)
+583. [Make people make Emoji expressions](tags/emoji.md#make-people-make-emoji-expressions)
+584. [Markdown to infographic](tags/infographic.md#markdown-to-infographic)
 
 ## B
 
-588. [Baking bread flow chart](tags/creative.md#baking-bread-flow-chart)
+585. [Baking bread flow chart](tags/creative.md#baking-bread-flow-chart)
 
 ## F
 
-589. [Four seasons infographic](tags/infographic.md#four-seasons-infographic)
+586. [Four seasons infographic](tags/infographic.md#four-seasons-infographic)
 
 ## C
 
-590. [Convert paper into a picture of the professor's whiteboard](tags/infographic.md#convert-paper-into-a-picture-of-the-professor's-whiteboard)
+587. [Convert paper into a picture of the professor's whiteboard](tags/infographic.md#convert-paper-into-a-picture-of-the-professor's-whiteboard)
 
 ## H
 
-591. [Hyper-realistic 3D realistic pictures made of food](tags/architecture.md#hyper-realistic-3d-realistic-pictures-made-of-food)
+588. [Hyper-realistic 3D realistic pictures made of food](tags/architecture.md#hyper-realistic-3d-realistic-pictures-made-of-food)
 
 ## S
 
-592. [style learning](tags/retro.md#style-learning)
+589. [style learning](tags/retro.md#style-learning)
 
 ## C
 
-593. [Create a movie storyboard](tags/creative.md#create-a-movie-storyboard)
+590. [Create a movie storyboard](tags/creative.md#create-a-movie-storyboard)
 
 ## G
 
-594. [Generate cinematic images based on lyrics](tags/creative.md#generate-cinematic-images-based-on-lyrics)
+591. [Generate cinematic images based on lyrics](tags/creative.md#generate-cinematic-images-based-on-lyrics)
 
 ## I
 
-595. [Item disassembly diagram](tags/minimalist.md#item-disassembly-diagram)
-
-## H
-
-596. [Highly detailed 3D infographic poster](tags/3d.md#highly-detailed-3d-infographic-poster)
+592. [Item disassembly diagram](tags/minimalist.md#item-disassembly-diagram)
 
 ## F
 
-597. [Fashion design manuscript](tags/3d.md#fashion-design-manuscript)
+593. [Fashion design manuscript](tags/3d.md#fashion-design-manuscript)
 
 ## C
 
-598. [City dynamic weather card](tags/architecture.md#city-dynamic-weather-card)
+594. [City dynamic weather card](tags/architecture.md#city-dynamic-weather-card)
 
 ## T
 
-599. [Turn articles into blackboard newspapers](tags/cartoon.md#turn-articles-into-blackboard-newspapers)
-600. [Turn articles into cartoon infographics](tags/cartoon.md#turn-articles-into-cartoon-infographics)
+595. [Turn articles into blackboard newspapers](tags/cartoon.md#turn-articles-into-blackboard-newspapers)
+596. [Turn articles into cartoon infographics](tags/cartoon.md#turn-articles-into-cartoon-infographics)
 
 ## H
 
-601. [Hand drawn calendar illustration](tags/character.md#hand-drawn-calendar-illustration)
+597. [Hand drawn calendar illustration](tags/character.md#hand-drawn-calendar-illustration)
 
 ## L
 
-602. [LINE style half-length Q version emoticon pack](tags/character.md#line-style-half-length-q-version-emoticon-pack)
+598. [LINE style half-length Q version emoticon pack](tags/character.md#line-style-half-length-q-version-emoticon-pack)
 
 ## F
 
-603. [Fashion style concept exploded illustration in hand drawn style](tags/character.md#fashion-style-concept-exploded-illustration-in-hand-drawn-style)
+599. [Fashion style concept exploded illustration in hand drawn style](tags/character.md#fashion-style-concept-exploded-illustration-in-hand-drawn-style)
 
 ## M
 
-604. [Modern Chicago Riverside Qingming Riverside Scene Style](tags/architecture.md#modern-chicago-riverside-qingming-riverside-scene-style)
-605. [Musk taught Einstein how to take pictures](tags/creative.md#musk-taught-einstein-how-to-take-pictures)
+600. [Musk taught Einstein how to take pictures](tags/creative.md#musk-taught-einstein-how-to-take-pictures)
 
 ## P
 
-606. [Pink star card blows bubbles](tags/paper-craft.md#pink-star-card-blows-bubbles)
+601. [Pink star card blows bubbles](tags/paper-craft.md#pink-star-card-blows-bubbles)
 
 ## T
 
-607. [Take a photo with Deadpool at Avengers Tower](tags/character.md#take-a-photo-with-deadpool-at-avengers-tower)
+602. [Take a photo with Deadpool at Avengers Tower](tags/character.md#take-a-photo-with-deadpool-at-avengers-tower)
 
 ## C
 
-608. [career map picture](tags/gaming.md#career-map-picture)
+603. [career map picture](tags/gaming.md#career-map-picture)
 
 ## A
 
-609. [Astronaut sits next to the crescent moon and fishes for stars](tags/creative.md#astronaut-sits-next-to-the-crescent-moon-and-fishes-for-stars)
+604. [Astronaut sits next to the crescent moon and fishes for stars](tags/creative.md#astronaut-sits-next-to-the-crescent-moon-and-fishes-for-stars)
 
 ## D
 
-610. [Don’t tell others to be kind without their suffering](tags/creative.md#don’t-tell-others-to-be-kind-without-their-suffering)
+605. [Don’t tell others to be kind without their suffering](tags/creative.md#don’t-tell-others-to-be-kind-without-their-suffering)
 
 ## N
 
-611. [National Level 1 Wastelanding License](tags/creative.md#national-level-1-wastelanding-license)
+606. [National Level 1 Wastelanding License](tags/creative.md#national-level-1-wastelanding-license)
 
 ## M
 
-612. [Mario Luigi repairs Princess Peach's kitchen](tags/creative.md#mario-luigi-repairs-princess-peach's-kitchen)
+607. [Mario Luigi repairs Princess Peach's kitchen](tags/creative.md#mario-luigi-repairs-princess-peach's-kitchen)
 
 ## B
 
-613. [Behind-the-scenes photos of celebrities](tags/nature.md#behind-the-scenes-photos-of-celebrities)
-614. [Bruce Lee and Master Yoda use martial arts to make friends](tags/creative.md#bruce-lee-and-master-yoda-use-martial-arts-to-make-friends)
+608. [Behind-the-scenes photos of celebrities](tags/nature.md#behind-the-scenes-photos-of-celebrities)
+609. [Bruce Lee and Master Yoda use martial arts to make friends](tags/creative.md#bruce-lee-and-master-yoda-use-martial-arts-to-make-friends)
 
 ## H
 
-615. [hello earthlings](tags/creative.md#hello-earthlings)
+610. [hello earthlings](tags/creative.md#hello-earthlings)
 
 ## G
 
-616. [Golden Retriever Live](tags/food.md#golden-retriever-live)
+611. [Golden Retriever Live](tags/food.md#golden-retriever-live)
 
 ## Y
 
-617. [Yellowed old newspaper account](tags/fashion.md#yellowed-old-newspaper-account)
+612. [Yellowed old newspaper account](tags/fashion.md#yellowed-old-newspaper-account)
 
 ## G
 
-618. [Game character tries to crawl from TV screen to living room](tags/character.md#game-character-tries-to-crawl-from-tv-screen-to-living-room)
+613. [Game character tries to crawl from TV screen to living room](tags/character.md#game-character-tries-to-crawl-from-tv-screen-to-living-room)
 
 ## I
 
-619. [It's morning. Let's have a video conference first.](tags/creative.md#it's-morning.-let's-have-a-video-conference-first.)
+614. [It's morning. Let's have a video conference first.](tags/creative.md#it's-morning.-let's-have-a-video-conference-first.)
 
 ## C
 
-620. [Cream watercolor diary](tags/fashion.md#cream-watercolor-diary)
+615. [Cream watercolor diary](tags/fashion.md#cream-watercolor-diary)
 
 ## S
 
-621. [Sunny girl wearing white knitted top](tags/fashion.md#sunny-girl-wearing-white-knitted-top)
+616. [Sunny girl wearing white knitted top](tags/fashion.md#sunny-girl-wearing-white-knitted-top)
 
 ## B
 
-622. [Beautiful 3D renderings of the handheld game console](tags/gaming.md#beautiful-3d-renderings-of-the-handheld-game-console)
+617. [Beautiful 3D renderings of the handheld game console](tags/gaming.md#beautiful-3d-renderings-of-the-handheld-game-console)
 
 ## M
 
-623. [maximalist pop art layer](tags/animal.md#maximalist-pop-art-layer)
+618. [maximalist pop art layer](tags/animal.md#maximalist-pop-art-layer)
 
 ## P
 
-624. [Pixar style 3D animated scenes](tags/architecture.md#pixar-style-3d-animated-scenes)
-625. [Pixar style 3D animated scenes](tags/architecture.md#pixar-style-3d-animated-scenes)
+619. [Pixar style 3D animated scenes](tags/architecture.md#pixar-style-3d-animated-scenes)
+620. [Pixar style 3D animated scenes](tags/architecture.md#pixar-style-3d-animated-scenes)
 
 ## O
 
-626. [Oil-splashed noodles cartoon picture](tags/typography.md#oil-splashed-noodles-cartoon-picture)
+621. [Oil-splashed noodles cartoon picture](tags/typography.md#oil-splashed-noodles-cartoon-picture)
 
 ## Y
 
-627. [Young woman sitting sideways on arcade stool](tags/3d.md#young-woman-sitting-sideways-on-arcade-stool)
+622. [Young woman sitting sideways on arcade stool](tags/3d.md#young-woman-sitting-sideways-on-arcade-stool)
 
 ## J
 
-628. [Japanese woman expresses her feelings through fisheye lens](tags/landscape.md#japanese-woman-expresses-her-feelings-through-fisheye-lens)
+623. [Japanese woman expresses her feelings through fisheye lens](tags/landscape.md#japanese-woman-expresses-her-feelings-through-fisheye-lens)
 
 ## P
 
-629. [Professional suit style diary](tags/fashion.md#professional-suit-style-diary)
+624. [Professional suit style diary](tags/fashion.md#professional-suit-style-diary)
 
 ## O
 
-630. [Oriental Martial Arts Epic Poster-Sword Shadow Beauty](tags/fantasy.md#oriental-martial-arts-epic-poster-sword-shadow-beauty)
+625. [Oriental Martial Arts Epic Poster-Sword Shadow Beauty](tags/fantasy.md#oriental-martial-arts-epic-poster-sword-shadow-beauty)
 
 ## R
 
-631. [retro anime fantasy](tags/nature.md#retro-anime-fantasy)
+626. [retro anime fantasy](tags/nature.md#retro-anime-fantasy)
 
 ## C
 
-632. [Camera teardown](tags/photography.md#camera-teardown)
+627. [Camera teardown](tags/photography.md#camera-teardown)
 
 ## F
 
-633. [Fresh blue wallet](tags/illustration.md#fresh-blue-wallet)
+628. [Fresh blue wallet](tags/illustration.md#fresh-blue-wallet)
 
 ## I
 
-634. [iPhone 16 Pro Max teardown](tags/minimalist.md#iphone-16-pro-max-teardown)
+629. [iPhone 16 Pro Max teardown](tags/minimalist.md#iphone-16-pro-max-teardown)
 
 ## M
 
-635. [Metal neon wallet](tags/3d.md#metal-neon-wallet)
+630. [Metal neon wallet](tags/3d.md#metal-neon-wallet)
 
 ## K
 
-636. [kawaii pop art](tags/cartoon.md#kawaii-pop-art)
+631. [kawaii pop art](tags/cartoon.md#kawaii-pop-art)
 
 ## F
 
-637. [Fictional English Movie Poster - A Taste of Memories](tags/landscape.md#fictional-english-movie-poster---a-taste-of-memories)
+632. [Fictional English Movie Poster - A Taste of Memories](tags/landscape.md#fictional-english-movie-poster---a-taste-of-memories)
 
 ## R
 
-638. [Real person to 3D comic](tags/character.md#real-person-to-3d-comic)
+633. [Real person to 3D comic](tags/character.md#real-person-to-3d-comic)
 
 ## D
 
-639. [Die-cutting lines become a reality](tags/3d.md#die-cutting-lines-become-a-reality)
+634. [Die-cutting lines become a reality](tags/3d.md#die-cutting-lines-become-a-reality)
 
 ## C
 
-640. [Convert die-cutting line drawing to 3D product visualization](tags/branding.md#convert-die-cutting-line-drawing-to-3d-product-visualization)
-641. [Collage of four women's fashion life scenes](tags/branding.md#collage-of-four-women's-fashion-life-scenes)
+635. [Convert die-cutting line drawing to 3D product visualization](tags/branding.md#convert-die-cutting-line-drawing-to-3d-product-visualization)
+636. [Collage of four women's fashion life scenes](tags/branding.md#collage-of-four-women's-fashion-life-scenes)
 
 ## 3
 
-642. [3X3 Woman Portrait Photo Collage](tags/character.md#3x3-woman-portrait-photo-collage)
+637. [3X3 Woman Portrait Photo Collage](tags/character.md#3x3-woman-portrait-photo-collage)
 
 ## P
 
-643. [Polaroid photos tell stories](tags/character.md#polaroid-photos-tell-stories)
-644. [Polaroid photos tell stories](tags/character.md#polaroid-photos-tell-stories)
+638. [Polaroid photos tell stories](tags/character.md#polaroid-photos-tell-stories)
+639. [Polaroid photos tell stories](tags/character.md#polaroid-photos-tell-stories)
 
 ## T
 
-645. [The girl makes a heart shape with her hands](tags/landscape.md#the-girl-makes-a-heart-shape-with-her-hands)
-646. [Take selfies with Zootopia characters](tags/animal.md#take-selfies-with-zootopia-characters)
+640. [The girl makes a heart shape with her hands](tags/landscape.md#the-girl-makes-a-heart-shape-with-her-hands)
+641. [Take selfies with Zootopia characters](tags/animal.md#take-selfies-with-zootopia-characters)
 
 ## P
 
-647. [Professional Studio Photography Photos](tags/3d.md#professional-studio-photography-photos)
+642. [Professional Studio Photography Photos](tags/3d.md#professional-studio-photography-photos)
 
 ## T
 
-648. [The girl wearing a mask made a gesture](tags/3d.md#the-girl-wearing-a-mask-made-a-gesture)
+643. [The girl wearing a mask made a gesture](tags/3d.md#the-girl-wearing-a-mask-made-a-gesture)
 
 ## A
 
-649. [A candid photo of a Korean pop star](tags/photography.md#a-candid-photo-of-a-korean-pop-star)
+644. [A candid photo of a Korean pop star](tags/photography.md#a-candid-photo-of-a-korean-pop-star)
 
 ## N
 
-650. [Night smear shutter exposure](tags/vehicle.md#night-smear-shutter-exposure)
+645. [Night smear shutter exposure](tags/vehicle.md#night-smear-shutter-exposure)
 
 ## B
 
-651. [Beach photo shoot](tags/character.md#beach-photo-shoot)
+646. [Beach photo shoot](tags/character.md#beach-photo-shoot)
 
 ## U
 
-652. [Ultra-realistic street scene portraits](tags/fashion.md#ultra-realistic-street-scene-portraits)
+647. [Ultra-realistic street scene portraits](tags/fashion.md#ultra-realistic-street-scene-portraits)
 
 ## 9
 
-653. [9 professional lighting effects for photos](tags/character.md#9-professional-lighting-effects-for-photos)
+648. [9 professional lighting effects for photos](tags/character.md#9-professional-lighting-effects-for-photos)
 
 ## A
 
-654. [A group of lively and fashionable young people](tags/fashion.md#a-group-of-lively-and-fashionable-young-people)
+649. [A group of lively and fashionable young people](tags/fashion.md#a-group-of-lively-and-fashionable-young-people)
 
 ## F
 
-655. [Fashion selfie portrait of young woman](tags/architecture.md#fashion-selfie-portrait-of-young-woman)
+650. [Fashion selfie portrait of young woman](tags/architecture.md#fashion-selfie-portrait-of-young-woman)
 
 ## A
 
-656. [A confident and elegant young woman](tags/3d.md#a-confident-and-elegant-young-woman)
-657. [A vibrant mixed media masterpiece](tags/animal.md#a-vibrant-mixed-media-masterpiece)
-658. [A man was dolled up in a picture frame](tags/photography.md#a-man-was-dolled-up-in-a-picture-frame)
+651. [A confident and elegant young woman](tags/3d.md#a-confident-and-elegant-young-woman)
+652. [A vibrant mixed media masterpiece](tags/animal.md#a-vibrant-mixed-media-masterpiece)
+653. [A man was dolled up in a picture frame](tags/photography.md#a-man-was-dolled-up-in-a-picture-frame)
 
 ## W
 
-659. [Woman sitting on the floor ready to drink coke](tags/fashion.md#woman-sitting-on-the-floor-ready-to-drink-coke)
+654. [Woman sitting on the floor ready to drink coke](tags/fashion.md#woman-sitting-on-the-floor-ready-to-drink-coke)
 
 ## A
 
-660. [A detailed technical illustration of a cyber warrior](tags/futuristic.md#a-detailed-technical-illustration-of-a-cyber-warrior)
+655. [A detailed technical illustration of a cyber warrior](tags/futuristic.md#a-detailed-technical-illustration-of-a-cyber-warrior)
 
 ## H
 
-661. [Heartwarming moments between humans and robots](tags/3d.md#heartwarming-moments-between-humans-and-robots)
+656. [Heartwarming moments between humans and robots](tags/3d.md#heartwarming-moments-between-humans-and-robots)
 
 ## G
 
-662. [Girl sitting on the woven sofa with her back to the audience](tags/interior.md#girl-sitting-on-the-woven-sofa-with-her-back-to-the-audience)
+657. [Girl sitting on the woven sofa with her back to the audience](tags/interior.md#girl-sitting-on-the-woven-sofa-with-her-back-to-the-audience)
 
 ## A
 
-663. [A coherent collage of four fashion life scenes](tags/branding.md#a-coherent-collage-of-four-fashion-life-scenes)
-664. [A collage of four fashion life scenes](tags/branding.md#a-collage-of-four-fashion-life-scenes)
+658. [A coherent collage of four fashion life scenes](tags/branding.md#a-coherent-collage-of-four-fashion-life-scenes)
+659. [A collage of four fashion life scenes](tags/branding.md#a-collage-of-four-fashion-life-scenes)
 
 ## R
 
-665. [Realistic Hong Kong retro portraits with 90s movie quality](tags/interior.md#realistic-hong-kong-retro-portraits-with-90s-movie-quality)
+660. [Realistic Hong Kong retro portraits with 90s movie quality](tags/interior.md#realistic-hong-kong-retro-portraits-with-90s-movie-quality)
 
 ## S
 
-666. [Super realistic portrait of sexy big mouth character](tags/fashion.md#super-realistic-portrait-of-sexy-big-mouth-character)
+661. [Super realistic portrait of sexy big mouth character](tags/fashion.md#super-realistic-portrait-of-sexy-big-mouth-character)
 
 ## O
 
-667. [One hand holding the product in the uploaded image](tags/minimalist.md#one-hand-holding-the-product-in-the-uploaded-image)
+662. [One hand holding the product in the uploaded image](tags/minimalist.md#one-hand-holding-the-product-in-the-uploaded-image)
 
 ## I
 
-668. [Indoor movie portrait of confident mature woman](tags/interior.md#indoor-movie-portrait-of-confident-mature-woman)
+663. [Indoor movie portrait of confident mature woman](tags/interior.md#indoor-movie-portrait-of-confident-mature-woman)
 
 ## E
 
-669. [Evaluate the work](tags/creative.md#evaluate-the-work)
+664. [Evaluate the work](tags/creative.md#evaluate-the-work)
 
 ## H
 
-670. [Hand drawn beauty science chart](tags/cartoon.md#hand-drawn-beauty-science-chart)
+665. [Hand drawn beauty science chart](tags/cartoon.md#hand-drawn-beauty-science-chart)
 
 ## A
 
-671. [Add candy monsters around characters](tags/cartoon.md#add-candy-monsters-around-characters)
+666. [Add candy monsters around characters](tags/cartoon.md#add-candy-monsters-around-characters)
 
 ## B
 
-672. [Black and white ink painting style-lone boat and coir raincoat](tags/minimalist.md#black-and-white-ink-painting-style-lone-boat-and-coir-raincoat)
+667. [Black and white ink painting style-lone boat and coir raincoat](tags/minimalist.md#black-and-white-ink-painting-style-lone-boat-and-coir-raincoat)
 
 ## F
 
-673. [First person perspective photo of holding hands](tags/photography.md#first-person-perspective-photo-of-holding-hands)
+668. [First person perspective photo of holding hands](tags/photography.md#first-person-perspective-photo-of-holding-hands)
 
 ## O
 
-674. [One picture generates 9 shots of different scenes](tags/landscape.md#one-picture-generates-9-shots-of-different-scenes)
+669. [One picture generates 9 shots of different scenes](tags/landscape.md#one-picture-generates-9-shots-of-different-scenes)
 
 ## Z
 
-675. [Zootopia Large Plush Character Hat](tags/animal.md#zootopia-large-plush-character-hat)
+670. [Zootopia Large Plush Character Hat](tags/animal.md#zootopia-large-plush-character-hat)
 
 ## D
 
-676. [Draw a picture based on an ancient poem](tags/creative.md#draw-a-picture-based-on-an-ancient-poem)
+671. [Draw a picture based on an ancient poem](tags/creative.md#draw-a-picture-based-on-an-ancient-poem)
 
 ## J
 
-677. [Japanese izakaya dog skewers](tags/creative.md#japanese-izakaya-dog-skewers)
-
-## P
-
-678. [Poisoning late at night is the greatest disrespect for weight loss](tags/branding.md#poisoning-late-at-night-is-the-greatest-disrespect-for-weight-loss)
+672. [Japanese izakaya dog skewers](tags/creative.md#japanese-izakaya-dog-skewers)
 
 ## C
 
-679. [Combination of ink painting style and realistic photography](tags/photography.md#combination-of-ink-painting-style-and-realistic-photography)
+673. [Combination of ink painting style and realistic photography](tags/photography.md#combination-of-ink-painting-style-and-realistic-photography)
 
 ## D
 
-680. [Draw a picture based on an ancient poem](tags/creative.md#draw-a-picture-based-on-an-ancient-poem)
+674. [Draw a picture based on an ancient poem](tags/creative.md#draw-a-picture-based-on-an-ancient-poem)
 
 ## 3
 
-681. [3D three-dimensional book illustration](tags/3d.md#3d-three-dimensional-book-illustration)
+675. [3D three-dimensional book illustration](tags/3d.md#3d-three-dimensional-book-illustration)
 
 ## B
 
-682. [Beautiful woman with fair complexion bathing in morning light](tags/nature.md#beautiful-woman-with-fair-complexion-bathing-in-morning-light)
+676. [Beautiful woman with fair complexion bathing in morning light](tags/nature.md#beautiful-woman-with-fair-complexion-bathing-in-morning-light)
 
 ## C
 
-683. [Cute idol close-up portrait](tags/landscape.md#cute-idol-close-up-portrait)
+677. [Cute idol close-up portrait](tags/landscape.md#cute-idol-close-up-portrait)
 
 ## W
 
-684. [Wearing an off-shoulder white knitted top](tags/photography.md#wearing-an-off-shoulder-white-knitted-top)
+678. [Wearing an off-shoulder white knitted top](tags/photography.md#wearing-an-off-shoulder-white-knitted-top)
 
 ## 3
 
-685. [3x3 grid composition for taking photos](tags/character.md#3x3-grid-composition-for-taking-photos)
+679. [3x3 grid composition for taking photos](tags/character.md#3x3-grid-composition-for-taking-photos)
 
 ## L
 
-686. [luffy classroom art](tags/character.md#luffy-classroom-art)
+680. [luffy classroom art](tags/character.md#luffy-classroom-art)
 
 ## B
 
-687. [Blackboard Artwork-Pirate Empress](tags/character.md#blackboard-artwork-pirate-empress)
+681. [Blackboard Artwork-Pirate Empress](tags/character.md#blackboard-artwork-pirate-empress)
 
 ## M
 
-688. [Modern vector poster portrait](tags/nature.md#modern-vector-poster-portrait)
+682. [Modern vector poster portrait](tags/nature.md#modern-vector-poster-portrait)
 
 ## H
 
-689. [Highly collectible chess pieces](tags/character.md#highly-collectible-chess-pieces)
+683. [Highly collectible chess pieces](tags/character.md#highly-collectible-chess-pieces)
 
 ## O
 
-690. [One face with six emotions](tags/character.md#one-face-with-six-emotions)
+684. [One face with six emotions](tags/character.md#one-face-with-six-emotions)
 
 ## Y
 
-691. [Young woman sitting in shopping cart](tags/branding.md#young-woman-sitting-in-shopping-cart)
+685. [Young woman sitting in shopping cart](tags/branding.md#young-woman-sitting-in-shopping-cart)
 
 ## 3
 
-692. [3D explosion assembly drawing floating in the air](tags/infographic.md#3d-explosion-assembly-drawing-floating-in-the-air)
+686. [3D explosion assembly drawing floating in the air](tags/infographic.md#3d-explosion-assembly-drawing-floating-in-the-air)
 
 ## C
 
-693. [Cinematic photos](tags/architecture.md#cinematic-photos)
+687. [Cinematic photos](tags/architecture.md#cinematic-photos)
 
 ## A
 
-694. [An ultra-realistic 8K portrait](tags/portrait.md#an-ultra-realistic-8k-portrait)
-695. [A mini version of myself is standing in the cavity of the head](tags/fantasy.md#a-mini-version-of-myself-is-standing-in-the-cavity-of-the-head)
+688. [An ultra-realistic 8K portrait](tags/portrait.md#an-ultra-realistic-8k-portrait)
+689. [A mini version of myself is standing in the cavity of the head](tags/fantasy.md#a-mini-version-of-myself-is-standing-in-the-cavity-of-the-head)
 
 ## M
 
-696. [matcha girl](tags/landscape.md#matcha-girl)
+690. [matcha girl](tags/landscape.md#matcha-girl)
 
 ## C
 
-697. [Cinematic realistic images of characters](tags/fashion.md#cinematic-realistic-images-of-characters)
+691. [Cinematic realistic images of characters](tags/fashion.md#cinematic-realistic-images-of-characters)
 
 ## H
 
-698. [Hyper-realistic travel ads](tags/3d.md#hyper-realistic-travel-ads)
+692. [Hyper-realistic travel ads](tags/3d.md#hyper-realistic-travel-ads)
 
 ## C
 
-699. [Close-up of human hand holding a huge vertical pill](tags/landscape.md#close-up-of-human-hand-holding-a-huge-vertical-pill)
+693. [Close-up of human hand holding a huge vertical pill](tags/landscape.md#close-up-of-human-hand-holding-a-huge-vertical-pill)
 
 ## G
 
-700. [Google DeepMind performs a neat display of items](tags/creative.md#google-deepmind-performs-a-neat-display-of-items)
+694. [Google DeepMind performs a neat display of items](tags/creative.md#google-deepmind-performs-a-neat-display-of-items)
 
 ## W
 
-701. [Woman's selfie](tags/character.md#woman's-selfie)
-702. [Woman in suit poses for suspect photo](tags/cartoon.md#woman-in-suit-poses-for-suspect-photo)
+695. [Woman's selfie](tags/character.md#woman's-selfie)
+696. [Woman in suit poses for suspect photo](tags/cartoon.md#woman-in-suit-poses-for-suspect-photo)
 
 ## 3
 
-703. [3x3 photo sticker style collage](tags/animal.md#3x3-photo-sticker-style-collage)
+697. [3x3 photo sticker style collage](tags/animal.md#3x3-photo-sticker-style-collage)
 
 ## S
 
-704. [Super close up portrait of young woman](tags/3d.md#super-close-up-portrait-of-young-woman)
+698. [Super close up portrait of young woman](tags/3d.md#super-close-up-portrait-of-young-woman)
 
 ## C
 
-705. [Close-up of modern and avant-garde girls](tags/character.md#close-up-of-modern-and-avant-garde-girls)
+699. [Close-up of modern and avant-garde girls](tags/character.md#close-up-of-modern-and-avant-garde-girls)
 
 ## A
 
-706. [Aerial images generated based on latitude and longitude](tags/portrait.md#aerial-images-generated-based-on-latitude-and-longitude)
+700. [Aerial images generated based on latitude and longitude](tags/portrait.md#aerial-images-generated-based-on-latitude-and-longitude)
 
 ## C
 
-707. [Cake made of city landmarks](tags/3d.md#cake-made-of-city-landmarks)
+701. [Cake made of city landmarks](tags/3d.md#cake-made-of-city-landmarks)
 
 ## D
 
-708. [Doraemon lectures](tags/3d.md#doraemon-lectures)
+702. [Doraemon lectures](tags/3d.md#doraemon-lectures)
 
 ## M
 
-709. [Multi-picture style reference](tags/food.md#multi-picture-style-reference)
+703. [Multi-picture style reference](tags/food.md#multi-picture-style-reference)
 
 ## P
 
-710. [Photos of delivery staff](tags/logo.md#photos-of-delivery-staff)
+704. [Photos of delivery staff](tags/logo.md#photos-of-delivery-staff)
 
 ## E
 
-711. [Extremely close selfie](tags/character.md#extremely-close-selfie)
+705. [Extremely close selfie](tags/character.md#extremely-close-selfie)
 
 ## C
 
-712. [City top view isometric 3D cartoon miniature scene](tags/architecture.md#city-top-view-isometric-3d-cartoon-miniature-scene)
+706. [City top view isometric 3D cartoon miniature scene](tags/architecture.md#city-top-view-isometric-3d-cartoon-miniature-scene)
 
 ## W
 
-713. [Woman takes selfie in mirror at Disney store](tags/fashion.md#woman-takes-selfie-in-mirror-at-disney-store)
+707. [Woman takes selfie in mirror at Disney store](tags/fashion.md#woman-takes-selfie-in-mirror-at-disney-store)
 
 ## Y
 
-714. [Young woman taking selfie in mirror next to Judy](tags/animal.md#young-woman-taking-selfie-in-mirror-next-to-judy)
+708. [Young woman taking selfie in mirror next to Judy](tags/animal.md#young-woman-taking-selfie-in-mirror-next-to-judy)
 
 ## H
 
-715. [Horoscope card](tags/illustration.md#horoscope-card)
+709. [Horoscope card](tags/illustration.md#horoscope-card)
 
 ## 3
 
-716. [3×3 beauty e-commerce advertising production](tags/photography.md#3×3-beauty-e-commerce-advertising-production)
+710. [3×3 beauty e-commerce advertising production](tags/photography.md#3×3-beauty-e-commerce-advertising-production)
 
 ## A
 
-717. [A double-storey house on the mountainside of Wudang Mountain](tags/architecture.md#a-double-storey-house-on-the-mountainside-of-wudang-mountain)
+711. [A double-storey house on the mountainside of Wudang Mountain](tags/architecture.md#a-double-storey-house-on-the-mountainside-of-wudang-mountain)
 
 ## S
 
-718. [Soft blurred side close-up of the same face](tags/character.md#soft-blurred-side-close-up-of-the-same-face)
-719. [Selfie of a girl sticking out her tongue at night](tags/fashion.md#selfie-of-a-girl-sticking-out-her-tongue-at-night)
+712. [Soft blurred side close-up of the same face](tags/character.md#soft-blurred-side-close-up-of-the-same-face)
+713. [Selfie of a girl sticking out her tongue at night](tags/fashion.md#selfie-of-a-girl-sticking-out-her-tongue-at-night)
 
 ## M
 
-720. [Modern Teenage Fantasy Comics](tags/architecture.md#modern-teenage-fantasy-comics)
+714. [Modern Teenage Fantasy Comics](tags/architecture.md#modern-teenage-fantasy-comics)
 
 ## F
 
-721. [Forbidden City architectural photo display and design drawings](tags/architecture.md#forbidden-city-architectural-photo-display-and-design-drawings)
+715. [Forbidden City architectural photo display and design drawings](tags/architecture.md#forbidden-city-architectural-photo-display-and-design-drawings)
 
 ## O
 
-722. [OOTD hand-drawn graffiti decomposition](tags/fashion.md#ootd-hand-drawn-graffiti-decomposition)
+716. [OOTD hand-drawn graffiti decomposition](tags/fashion.md#ootd-hand-drawn-graffiti-decomposition)
 
 ## R
 
-723. [Reverse picture json prompt word](tags/creative.md#reverse-picture-json-prompt-word)
+717. [Reverse picture json prompt word](tags/creative.md#reverse-picture-json-prompt-word)
 
 ## M
 
-724. [Miniature 3D cartoon view showing the city's three tallest buildings](tags/architecture.md#miniature-3d-cartoon-view-showing-the-city's-three-tallest-buildings)
+718. [Miniature 3D cartoon view showing the city's three tallest buildings](tags/architecture.md#miniature-3d-cartoon-view-showing-the-city's-three-tallest-buildings)
 
 ## W
 
-725. [Wedding photos in the garden](tags/cartoon.md#wedding-photos-in-the-garden)
+719. [Wedding photos in the garden](tags/cartoon.md#wedding-photos-in-the-garden)
 
 ## G
 
-726. [Gothic film style portraiture](tags/landscape.md#gothic-film-style-portraiture)
+720. [Gothic film style portraiture](tags/landscape.md#gothic-film-style-portraiture)
 
 ## C
 
-727. [Close-up photo of a 3x3 grid](tags/portrait.md#close-up-photo-of-a-3x3-grid)
+721. [Close-up photo of a 3x3 grid](tags/portrait.md#close-up-photo-of-a-3x3-grid)
 
 ## G
 
-728. [Generate a realistic photo of a specified time and place](tags/food.md#generate-a-realistic-photo-of-a-specified-time-and-place)
+722. [Generate a realistic photo of a specified time and place](tags/food.md#generate-a-realistic-photo-of-a-specified-time-and-place)
 
 ## H
 
-729. [Hyper-realistic 8K portrait of an attractive woman](tags/landscape.md#hyper-realistic-8k-portrait-of-an-attractive-woman)
+723. [Hyper-realistic 8K portrait of an attractive woman](tags/landscape.md#hyper-realistic-8k-portrait-of-an-attractive-woman)
 
 ## L
 
-730. [Label all items in English and Japanese](tags/illustration.md#label-all-items-in-english-and-japanese)
+724. [Label all items in English and Japanese](tags/illustration.md#label-all-items-in-english-and-japanese)
 
 ## Y
 
-731. [Young woman with long brown hair taking selfie](tags/interior.md#young-woman-with-long-brown-hair-taking-selfie)
+725. [Young woman with long brown hair taking selfie](tags/interior.md#young-woman-with-long-brown-hair-taking-selfie)
 
 ## 3
 
-732. [3x3 grid soft pink and blue toned studio photo shoot](tags/character.md#3x3-grid-soft-pink-and-blue-toned-studio-photo-shoot)
+726. [3x3 grid soft pink and blue toned studio photo shoot](tags/character.md#3x3-grid-soft-pink-and-blue-toned-studio-photo-shoot)
 
 ## J
 
-733. [Japanese girl rushes to the subway](tags/character.md#japanese-girl-rushes-to-the-subway)
+727. [Japanese girl rushes to the subway](tags/character.md#japanese-girl-rushes-to-the-subway)
 
 ## F
 
-734. [Felt toys](tags/cartoon.md#felt-toys)
+728. [Felt toys](tags/cartoon.md#felt-toys)
 
 ## C
 
-735. [Close-up of tender young woman](tags/3d.md#close-up-of-tender-young-woman)
-
-## S
-
-736. [Shanghai 3D City Time Tour](tags/3d.md#shanghai-3d-city-time-tour)
+729. [Close-up of tender young woman](tags/3d.md#close-up-of-tender-young-woman)
 
 ## D
 
-737. [Draw a detailed pet store scene](tags/landscape.md#draw-a-detailed-pet-store-scene)
+730. [Draw a detailed pet store scene](tags/landscape.md#draw-a-detailed-pet-store-scene)
 
 ## G
 
-738. [Generate 3×3 photo grid photos](tags/cartoon.md#generate-3×3-photo-grid-photos)
+731. [Generate 3×3 photo grid photos](tags/cartoon.md#generate-3×3-photo-grid-photos)
 
 ## C
 
-739. [Children's hand drawn travel diary style](tags/character.md#children's-hand-drawn-travel-diary-style)
+732. [Children's hand drawn travel diary style](tags/character.md#children's-hand-drawn-travel-diary-style)
 
 ## F
 
-740. [Female character portrait in hyper-realistic style](tags/character.md#female-character-portrait-in-hyper-realistic-style)
+733. [Female character portrait in hyper-realistic style](tags/character.md#female-character-portrait-in-hyper-realistic-style)
 
 ## C
 
-741. [Cyberpunk aesthetic style card](tags/character.md#cyberpunk-aesthetic-style-card)
+734. [Cyberpunk aesthetic style card](tags/character.md#cyberpunk-aesthetic-style-card)
 
 ## M
 
-742. [Mascot sitting on operating system window border](tags/character.md#mascot-sitting-on-operating-system-window-border)
+735. [Mascot sitting on operating system window border](tags/character.md#mascot-sitting-on-operating-system-window-border)
 
 ## G
 
-743. [Generate ultra-realistic AI influencers](tags/character.md#generate-ultra-realistic-ai-influencers)
+736. [Generate ultra-realistic AI influencers](tags/character.md#generate-ultra-realistic-ai-influencers)
 
 ## Q
 
-744. [Q version Starbucks mini concept store](tags/branding.md#q-version-starbucks-mini-concept-store)
+737. [Q version Starbucks mini concept store](tags/branding.md#q-version-starbucks-mini-concept-store)
 
 ## P
 
-745. [Photo of woman displayed on digital camera screen](tags/food.md#photo-of-woman-displayed-on-digital-camera-screen)
+738. [Photo of woman displayed on digital camera screen](tags/food.md#photo-of-woman-displayed-on-digital-camera-screen)
 
 ## A
 
-746. [A beautiful photo collage of four frames](tags/character.md#a-beautiful-photo-collage-of-four-frames)
-747. [Artistic digital scrapbooking style](tags/cartoon.md#artistic-digital-scrapbooking-style)
+739. [A beautiful photo collage of four frames](tags/character.md#a-beautiful-photo-collage-of-four-frames)
+740. [Artistic digital scrapbooking style](tags/cartoon.md#artistic-digital-scrapbooking-style)
 
 ## P
 
-748. [Photos turned into beautiful acrylic artwork](tags/character.md#photos-turned-into-beautiful-acrylic-artwork)
+741. [Photos turned into beautiful acrylic artwork](tags/character.md#photos-turned-into-beautiful-acrylic-artwork)
 
 ## C
 
-749. [Create an image of a character design expression style guide](tags/character.md#create-an-image-of-a-character-design-expression-style-guide)
+742. [Create an image of a character design expression style guide](tags/character.md#create-an-image-of-a-character-design-expression-style-guide)
 
 ## R
 
-750. [Refrigerator magnet prompt word template](tags/animal.md#refrigerator-magnet-prompt-word-template)
+743. [Refrigerator magnet prompt word template](tags/animal.md#refrigerator-magnet-prompt-word-template)
 
 ## P
 
-751. [porcelain doll style photos](tags/fantasy.md#porcelain-doll-style-photos)
+744. [porcelain doll style photos](tags/fantasy.md#porcelain-doll-style-photos)
 
 ## Q
 
-752. [Q version miniature travel concept design](tags/character.md#q-version-miniature-travel-concept-design)
+745. [Q version miniature travel concept design](tags/character.md#q-version-miniature-travel-concept-design)
 
 ## C
 
-753. [City refrigerator magnet](tags/character.md#city-refrigerator-magnet)
+746. [City refrigerator magnet](tags/character.md#city-refrigerator-magnet)
 
 ## M
 
-754. [Make a map of China consisting of provinces and cities with delicacies](tags/food.md#make-a-map-of-china-consisting-of-provinces-and-cities-with-delicacies)
+747. [Make a map of China consisting of provinces and cities with delicacies](tags/food.md#make-a-map-of-china-consisting-of-provinces-and-cities-with-delicacies)
 
 ## C
 
-755. [Colorful scrapbook poster style](tags/fashion.md#colorful-scrapbook-poster-style)
+748. [Colorful scrapbook poster style](tags/fashion.md#colorful-scrapbook-poster-style)
 
 ## J
 
-756. [Judy Cos Chunli Nick Cos Xiaohong](tags/animal.md#judy-cos-chunli-nick-cos-xiaohong)
+749. [Judy Cos Chunli Nick Cos Xiaohong](tags/animal.md#judy-cos-chunli-nick-cos-xiaohong)
 
 ## A
 
-757. [a sketch of a certain character](tags/character.md#a-sketch-of-a-certain-character)
+750. [a sketch of a certain character](tags/character.md#a-sketch-of-a-certain-character)
 
 ## B
 
-758. [Branded Pizza Studio Photos](tags/branding.md#branded-pizza-studio-photos)
+751. [Branded Pizza Studio Photos](tags/branding.md#branded-pizza-studio-photos)
 
 ## T
 
-759. [The hand gently holds a 3D collectible 3D model of the city](tags/3d.md#the-hand-gently-holds-a-3d-collectible-3d-model-of-the-city)
+752. [The hand gently holds a 3D collectible 3D model of the city](tags/3d.md#the-hand-gently-holds-a-3d-collectible-3d-model-of-the-city)
 
 ## Y
 
-760. [Young woman taking selfie in front of bathroom mirror](tags/animal.md#young-woman-taking-selfie-in-front-of-bathroom-mirror)
+753. [Young woman taking selfie in front of bathroom mirror](tags/animal.md#young-woman-taking-selfie-in-front-of-bathroom-mirror)
 
 ## J
 
-761. [Judy and Pinecone’s joint magazine](tags/animal.md#judy-and-pinecone’s-joint-magazine)
+754. [Judy and Pinecone’s joint magazine](tags/animal.md#judy-and-pinecone’s-joint-magazine)
 
 ## T
 
-762. [Turn a reference image into a coherent short movie](tags/animal.md#turn-a-reference-image-into-a-coherent-short-movie)
+755. [Turn a reference image into a coherent short movie](tags/animal.md#turn-a-reference-image-into-a-coherent-short-movie)
 
 ## H
 
-763. [High fashion portrait with vertical slice distortion](tags/fashion.md#high-fashion-portrait-with-vertical-slice-distortion)
+756. [High fashion portrait with vertical slice distortion](tags/fashion.md#high-fashion-portrait-with-vertical-slice-distortion)
 
 ## A
 
-764. [A black and white studio portrait](tags/photography.md#a-black-and-white-studio-portrait)
-765. [A fall fashion collage of 12 individual photos](tags/fashion.md#a-fall-fashion-collage-of-12-individual-photos)
+757. [A black and white studio portrait](tags/photography.md#a-black-and-white-studio-portrait)
+758. [A fall fashion collage of 12 individual photos](tags/fashion.md#a-fall-fashion-collage-of-12-individual-photos)
 
 ## G
 
-766. [Girl leaning on the counter](tags/fashion.md#girl-leaning-on-the-counter)
-767. [Girl standing near blackboard holding chalk in hand](tags/fashion.md#girl-standing-near-blackboard-holding-chalk-in-hand)
+759. [Girl leaning on the counter](tags/fashion.md#girl-leaning-on-the-counter)
+760. [Girl standing near blackboard holding chalk in hand](tags/fashion.md#girl-standing-near-blackboard-holding-chalk-in-hand)
 
 ## E
 
-768. [Extremely detailed miniature scene of chef's uniform](tags/fantasy.md#extremely-detailed-miniature-scene-of-chef's-uniform)
+761. [Extremely detailed miniature scene of chef's uniform](tags/fantasy.md#extremely-detailed-miniature-scene-of-chef's-uniform)
 
 ## A
 
-769. [A sweet and realistic portrait of a girl](tags/nature.md#a-sweet-and-realistic-portrait-of-a-girl)
+762. [A sweet and realistic portrait of a girl](tags/nature.md#a-sweet-and-realistic-portrait-of-a-girl)
 
 ## T
 
-770. [Transform comic book characters into hyper-realistic humans](tags/cartoon.md#transform-comic-book-characters-into-hyper-realistic-humans)
+763. [Transform comic book characters into hyper-realistic humans](tags/cartoon.md#transform-comic-book-characters-into-hyper-realistic-humans)
 
 ## S
 
-771. [Surreal digital art hanging ghost](tags/nature.md#surreal-digital-art-hanging-ghost)
+764. [Surreal digital art hanging ghost](tags/nature.md#surreal-digital-art-hanging-ghost)
 
 ## M
 
-772. [MacBook selfie (couple model)](tags/3d.md#macbook-selfie-couple-model)
+765. [MacBook selfie (couple model)](tags/3d.md#macbook-selfie-couple-model)
 
 ## C
 
-773. [Characters transformed into stylized 3D character comics](tags/character.md#characters-transformed-into-stylized-3d-character-comics)
+766. [Characters transformed into stylized 3D character comics](tags/character.md#characters-transformed-into-stylized-3d-character-comics)
 
 ## P
 
-774. [Professional image photos of characters transformed into Korean style](tags/3d.md#professional-image-photos-of-characters-transformed-into-korean-style)
+767. [Professional image photos of characters transformed into Korean style](tags/3d.md#professional-image-photos-of-characters-transformed-into-korean-style)
 
 ## W
 
-775. [Woman takes selfie in elevator of apartment](tags/fashion.md#woman-takes-selfie-in-elevator-of-apartment)
+768. [Woman takes selfie in elevator of apartment](tags/fashion.md#woman-takes-selfie-in-elevator-of-apartment)
 
 ## L
 
-776. [Large-sized iPhone 17 Pro Max scene](tags/3d.md#large-sized-iphone-17-pro-max-scene)
+769. [Large-sized iPhone 17 Pro Max scene](tags/3d.md#large-sized-iphone-17-pro-max-scene)
 
 ## U
 
-777. [Ultra-realistic views of exploding technology](tags/creative.md#ultra-realistic-views-of-exploding-technology)
-
-## A
-
-778. [A movie poster template](tags/animal.md#a-movie-poster-template)
+770. [Ultra-realistic views of exploding technology](tags/creative.md#ultra-realistic-views-of-exploding-technology)
 
 ## C
 
-779. [Character is pinched in a transparent glass ball](tags/3d.md#character-is-pinched-in-a-transparent-glass-ball)
+771. [Character is pinched in a transparent glass ball](tags/3d.md#character-is-pinched-in-a-transparent-glass-ball)
 
 ## W
 
-780. [Woman wearing white strapless lace wedding dress](tags/portrait.md#woman-wearing-white-strapless-lace-wedding-dress)
+772. [Woman wearing white strapless lace wedding dress](tags/portrait.md#woman-wearing-white-strapless-lace-wedding-dress)
 
 ## L
 
-781. [LEGO style mini 3D figures](tags/character.md#lego-style-mini-3d-figures)
+773. [LEGO style mini 3D figures](tags/character.md#lego-style-mini-3d-figures)
 
 ## U
 
-782. [Ultra HD 4K Pixar-style 3D portraits](tags/cartoon.md#ultra-hd-4k-pixar-style-3d-portraits)
+774. [Ultra HD 4K Pixar-style 3D portraits](tags/cartoon.md#ultra-hd-4k-pixar-style-3d-portraits)
 
 ## Y
 
-783. [You can take selfies with celebrities and walk into the set of any movie](tags/animal.md#you-can-take-selfies-with-celebrities-and-walk-into-the-set-of-any-movie)
+775. [You can take selfies with celebrities and walk into the set of any movie](tags/animal.md#you-can-take-selfies-with-celebrities-and-walk-into-the-set-of-any-movie)
 
 ## L
 
-784. [Lady on huge stylish curved 3D billboard](tags/architecture.md#lady-on-huge-stylish-curved-3d-billboard)
+776. [Lady on huge stylish curved 3D billboard](tags/architecture.md#lady-on-huge-stylish-curved-3d-billboard)
 
 ## F
 
-785. [film mixed media portrait](tags/cartoon.md#film-mixed-media-portrait)
+777. [film mixed media portrait](tags/cartoon.md#film-mixed-media-portrait)
 
 ## C
 
-786. [Cinematic Film Printing Master](tags/character.md#cinematic-film-printing-master)
+778. [Cinematic Film Printing Master](tags/character.md#cinematic-film-printing-master)
 
 ## H
 
-787. [Hand drawn portrait illustration in red and yellow colors](tags/illustration.md#hand-drawn-portrait-illustration-in-red-and-yellow-colors)
+779. [Hand drawn portrait illustration in red and yellow colors](tags/illustration.md#hand-drawn-portrait-illustration-in-red-and-yellow-colors)
 
 ## T
 
-788. [The characters are placed in a crowded conference scene](tags/nature.md#the-characters-are-placed-in-a-crowded-conference-scene)
+780. [The characters are placed in a crowded conference scene](tags/nature.md#the-characters-are-placed-in-a-crowded-conference-scene)
 
 ## A
 
-789. [A miniature man trimming his eyebrows](tags/character.md#a-miniature-man-trimming-his-eyebrows)
+781. [A miniature man trimming his eyebrows](tags/character.md#a-miniature-man-trimming-his-eyebrows)
 
 ## G
 
-790. [Generate infographics in the style of Ukiyo-e and Cuphead](tags/infographic.md#generate-infographics-in-the-style-of-ukiyo-e-and-cuphead)
+782. [Generate infographics in the style of Ukiyo-e and Cuphead](tags/infographic.md#generate-infographics-in-the-style-of-ukiyo-e-and-cuphead)
 
 ## U
 
-791. [Use the experiences of the characters in the work to paint a picture](tags/branding.md#use-the-experiences-of-the-characters-in-the-work-to-paint-a-picture)
+783. [Use the experiences of the characters in the work to paint a picture](tags/branding.md#use-the-experiences-of-the-characters-in-the-work-to-paint-a-picture)
 
 ## W
 
-792. [Woman sitting barefoot and cross-legged on a simple wooden chair](tags/fashion.md#woman-sitting-barefoot-and-cross-legged-on-a-simple-wooden-chair)
-793. [Woman holding blister packaging close to camera](tags/branding.md#woman-holding-blister-packaging-close-to-camera)
+784. [Woman sitting barefoot and cross-legged on a simple wooden chair](tags/fashion.md#woman-sitting-barefoot-and-cross-legged-on-a-simple-wooden-chair)
+785. [Woman holding blister packaging close to camera](tags/branding.md#woman-holding-blister-packaging-close-to-camera)
 
 ## A
 
-794. [A woman lies on her back and takes a selfie with her right arm stretched upward](tags/landscape.md#a-woman-lies-on-her-back-and-takes-a-selfie-with-her-right-arm-stretched-upward)
-795. [A young Japanese beauty model](tags/architecture.md#a-young-japanese-beauty-model)
-796. [A short-sighted person's perspective](tags/creative.md#a-short-sighted-person's-perspective)
+786. [A woman lies on her back and takes a selfie with her right arm stretched upward](tags/landscape.md#a-woman-lies-on-her-back-and-takes-a-selfie-with-her-right-arm-stretched-upward)
+787. [A young Japanese beauty model](tags/architecture.md#a-young-japanese-beauty-model)
+788. [A short-sighted person's perspective](tags/creative.md#a-short-sighted-person's-perspective)
 
 ## K
 
-797. [Kudo Shinichi and Mao Lilan](tags/character.md#kudo-shinichi-and-mao-lilan)
+789. [Kudo Shinichi and Mao Lilan](tags/character.md#kudo-shinichi-and-mao-lilan)
 
 ## V
 
-798. [Victorian surgeon's medical box spread out](tags/creative.md#victorian-surgeon's-medical-box-spread-out)
+790. [Victorian surgeon's medical box spread out](tags/creative.md#victorian-surgeon's-medical-box-spread-out)
 
 ## A
 
-799. [A small animated version of myself appeared in the window](tags/cartoon.md#a-small-animated-version-of-myself-appeared-in-the-window)
-800. [A high quality portrait of a cute girl](tags/fashion.md#a-high-quality-portrait-of-a-cute-girl)
+791. [A small animated version of myself appeared in the window](tags/cartoon.md#a-small-animated-version-of-myself-appeared-in-the-window)
+792. [A high quality portrait of a cute girl](tags/fashion.md#a-high-quality-portrait-of-a-cute-girl)
 
 ## M
 
-801. [Make a photo with hidden words](tags/photography.md#make-a-photo-with-hidden-words)
+793. [Make a photo with hidden words](tags/photography.md#make-a-photo-with-hidden-words)
 
 ## T
 
-802. [The perfect blend of photos and sketches](tags/3d.md#the-perfect-blend-of-photos-and-sketches)
+794. [The perfect blend of photos and sketches](tags/3d.md#the-perfect-blend-of-photos-and-sketches)
 
 ## B
 
-803. [Black and white sketch hand drawn comics](tags/cartoon.md#black-and-white-sketch-hand-drawn-comics)
+795. [Black and white sketch hand drawn comics](tags/cartoon.md#black-and-white-sketch-hand-drawn-comics)
 
 ## T
 
-804. [The application interface shows 9 different funny effects](tags/nature.md#the-application-interface-shows-9-different-funny-effects)
+796. [The application interface shows 9 different funny effects](tags/nature.md#the-application-interface-shows-9-different-funny-effects)
 
 ## R
 
-805. [Realistic photos with illustrated sticker overlays](tags/cartoon.md#realistic-photos-with-illustrated-sticker-overlays)
+797. [Realistic photos with illustrated sticker overlays](tags/cartoon.md#realistic-photos-with-illustrated-sticker-overlays)
 
 ## A
 
-806. [A collage of playful and stylish portraits](tags/character.md#a-collage-of-playful-and-stylish-portraits)
+798. [A collage of playful and stylish portraits](tags/character.md#a-collage-of-playful-and-stylish-portraits)
 
 ## Y
 
-807. [Y2K Millennial Hottie Retro Pixel Style](tags/paper-craft.md#y2k-millennial-hottie-retro-pixel-style)
+799. [Y2K Millennial Hottie Retro Pixel Style](tags/paper-craft.md#y2k-millennial-hottie-retro-pixel-style)
 
 ## 9
 
-808. [9 clothing styles and backgrounds for characters](tags/fashion.md#9-clothing-styles-and-backgrounds-for-characters)
+800. [9 clothing styles and backgrounds for characters](tags/fashion.md#9-clothing-styles-and-backgrounds-for-characters)
 
 ## E
 
-809. [Each frame of the 6-panel comic has a different style](tags/gaming.md#each-frame-of-the-6-panel-comic-has-a-different-style)
+801. [Each frame of the 6-panel comic has a different style](tags/gaming.md#each-frame-of-the-6-panel-comic-has-a-different-style)
 
 ## S
 
-810. [Strike a stylish, complex and powerful pose](tags/creative.md#strike-a-stylish,-complex-and-powerful-pose)
+802. [Strike a stylish, complex and powerful pose](tags/creative.md#strike-a-stylish,-complex-and-powerful-pose)
 
 ## 9
 
-811. [9 clothing styles and backgrounds for characters](tags/fashion.md#9-clothing-styles-and-backgrounds-for-characters)
+803. [9 clothing styles and backgrounds for characters](tags/fashion.md#9-clothing-styles-and-backgrounds-for-characters)
 
 ## S
 
-812. [Summer Dopamine Fresh Style](tags/nature.md#summer-dopamine-fresh-style)
+804. [Summer Dopamine Fresh Style](tags/nature.md#summer-dopamine-fresh-style)
 
 ## Y
 
-813. [Young woman kneeling in field](tags/cartoon.md#young-woman-kneeling-in-field)
+805. [Young woman kneeling in field](tags/cartoon.md#young-woman-kneeling-in-field)
 
 ## A
 
-814. [A miniature world handcrafted from plush textiles](tags/felt.md#a-miniature-world-handcrafted-from-plush-textiles)
+806. [A miniature world handcrafted from plush textiles](tags/felt.md#a-miniature-world-handcrafted-from-plush-textiles)
 
 ## F
 
-815. [Fantastic handmade paper crafts](tags/3d.md#fantastic-handmade-paper-crafts)
+807. [Fantastic handmade paper crafts](tags/3d.md#fantastic-handmade-paper-crafts)
 
 ## M
 
-816. [Miniature 3D cartoon scene](tags/3d.md#miniature-3d-cartoon-scene)
+808. [Miniature 3D cartoon scene](tags/3d.md#miniature-3d-cartoon-scene)
 
 ## S
 
-817. [Selfie with 2D animation illustration](tags/3d.md#selfie-with-2d-animation-illustration)
+809. [Selfie with 2D animation illustration](tags/3d.md#selfie-with-2d-animation-illustration)
 
 ## T
 
-818. [Transform subjects into clay-style 3D characters](tags/cartoon.md#transform-subjects-into-clay-style-3d-characters)
+810. [Transform subjects into clay-style 3D characters](tags/cartoon.md#transform-subjects-into-clay-style-3d-characters)
 
 ## G
 
-819. [Generate a nine-square grid of characters in different poses](tags/character.md#generate-a-nine-square-grid-of-characters-in-different-poses)
-
-## R
-
-820. [Research and data visualization design](tags/branding.md#research-and-data-visualization-design)
+811. [Generate a nine-square grid of characters in different poses](tags/character.md#generate-a-nine-square-grid-of-characters-in-different-poses)
 
 ## A
 
-821. [Attractions change with the seasons](tags/architecture.md#attractions-change-with-the-seasons)
-822. [A fascinating picture of time in four seasons](tags/illustration.md#a-fascinating-picture-of-time-in-four-seasons)
+812. [A fascinating picture of time in four seasons](tags/illustration.md#a-fascinating-picture-of-time-in-four-seasons)
 
 ## Y
 
-823. [Young woman squatting elegantly for selfie indoors](tags/fashion.md#young-woman-squatting-elegantly-for-selfie-indoors)
+813. [Young woman squatting elegantly for selfie indoors](tags/fashion.md#young-woman-squatting-elegantly-for-selfie-indoors)
 
 ## T
 
-824. [The evolution of Stark Industries' Iron Man suit](tags/branding.md#the-evolution-of-stark-industries'-iron-man-suit)
+814. [The evolution of Stark Industries' Iron Man suit](tags/branding.md#the-evolution-of-stark-industries'-iron-man-suit)
 
 ## S
 
-825. [Seamlessly blending two different eras](tags/architecture.md#seamlessly-blending-two-different-eras)
+815. [Seamlessly blending two different eras](tags/architecture.md#seamlessly-blending-two-different-eras)
 
 ## R
 
-826. [Reality-distorting mirror selfie that incorporates multiple media elements](tags/3d.md#reality-distorting-mirror-selfie-that-incorporates-multiple-media-elements)
+816. [Reality-distorting mirror selfie that incorporates multiple media elements](tags/3d.md#reality-distorting-mirror-selfie-that-incorporates-multiple-media-elements)
 
 ## A
 
-827. [A set of cyberpunk style fashion blockbusters](tags/branding.md#a-set-of-cyberpunk-style-fashion-blockbusters)
+817. [A set of cyberpunk style fashion blockbusters](tags/branding.md#a-set-of-cyberpunk-style-fashion-blockbusters)
 
 ## C
 
-828. [Colorful, cinematic photos](tags/interior.md#colorful,-cinematic-photos)
+818. [Colorful, cinematic photos](tags/interior.md#colorful,-cinematic-photos)
 
 ## B
 
-829. [Beautiful layout similar to photography album](tags/character.md#beautiful-layout-similar-to-photography-album)
+819. [Beautiful layout similar to photography album](tags/character.md#beautiful-layout-similar-to-photography-album)
 
 ## C
 
-830. [Climbing the Stork Tower](tags/character.md#climbing-the-stork-tower)
+820. [Climbing the Stork Tower](tags/character.md#climbing-the-stork-tower)
 
 ## R
 
-831. [Real world tilt-shift photography](tags/architecture.md#real-world-tilt-shift-photography)
+821. [Real world tilt-shift photography](tags/architecture.md#real-world-tilt-shift-photography)
 
 ## A
 
-832. [A fusion of anime character sketch characters and clay animation characters](tags/clay.md#a-fusion-of-anime-character-sketch-characters-and-clay-animation-characters)
+822. [A fusion of anime character sketch characters and clay animation characters](tags/clay.md#a-fusion-of-anime-character-sketch-characters-and-clay-animation-characters)
 
 ## R
 
-833. [Raise a wave like a rug](tags/nature.md#raise-a-wave-like-a-rug)
+823. [Raise a wave like a rug](tags/nature.md#raise-a-wave-like-a-rug)
 
 ## T
 
-834. [The character is sitting on the edge of the bed with a stack of banknotes spread out in his hands](tags/character.md#the-character-is-sitting-on-the-edge-of-the-bed-with-a-stack-of-banknotes-spread-out-in-his-hands)
+824. [The character is sitting on the edge of the bed with a stack of banknotes spread out in his hands](tags/character.md#the-character-is-sitting-on-the-edge-of-the-bed-with-a-stack-of-banknotes-spread-out-in-his-hands)
 
 ## C
 
-835. [Cinematic double exposure poster design](tags/landscape.md#cinematic-double-exposure-poster-design)
+825. [Cinematic double exposure poster design](tags/landscape.md#cinematic-double-exposure-poster-design)
 
 ## E
 
-836. [Explore different art styles at once](tags/fantasy.md#explore-different-art-styles-at-once)
+826. [Explore different art styles at once](tags/fantasy.md#explore-different-art-styles-at-once)
 
 ## A
 
-837. [A young woman wearing gorgeous Tang Dynasty costumes](tags/character.md#a-young-woman-wearing-gorgeous-tang-dynasty-costumes)
+827. [A young woman wearing gorgeous Tang Dynasty costumes](tags/character.md#a-young-woman-wearing-gorgeous-tang-dynasty-costumes)
 
 ## H
 
-838. [High fashion photos shot with ultra-wide angle](tags/3d.md#high-fashion-photos-shot-with-ultra-wide-angle)
+828. [High fashion photos shot with ultra-wide angle](tags/3d.md#high-fashion-photos-shot-with-ultra-wide-angle)
 
 ## S
 
-839. [Soft Drink Fortress](tags/fantasy.md#soft-drink-fortress)
+829. [Soft Drink Fortress](tags/fantasy.md#soft-drink-fortress)
 
 ## A
 
-840. [A 3D game level map poster](tags/clay.md#a-3d-game-level-map-poster)
+830. [A 3D game level map poster](tags/clay.md#a-3d-game-level-map-poster)
 
 ## W
 
-841. [Woman reflected on iPad screen on airplane folding table](tags/food.md#woman-reflected-on-ipad-screen-on-airplane-folding-table)
+831. [Woman reflected on iPad screen on airplane folding table](tags/food.md#woman-reflected-on-ipad-screen-on-airplane-folding-table)
+
+## S
+
+832. [Stunning split screen photos](tags/fashion.md#stunning-split-screen-photos)
 
 ## C
 
-842. [Cute sleep report poster](tags/3d.md#cute-sleep-report-poster)
+833. [Characters appear on giant digital billboards](tags/architecture.md#characters-appear-on-giant-digital-billboards)
 
 ## S
 
-843. [Stunning split screen photos](tags/fashion.md#stunning-split-screen-photos)
-
-## C
-
-844. [Characters appear on giant digital billboards](tags/architecture.md#characters-appear-on-giant-digital-billboards)
-
-## S
-
-845. [Studio photo shoot of product](tags/minimalist.md#studio-photo-shoot-of-product)
+834. [Studio photo shoot of product](tags/minimalist.md#studio-photo-shoot-of-product)
 
 ## A
 
-846. [Although the body is as careful as a lion](tags/nature.md#although-the-body-is-as-careful-as-a-lion)
+835. [Although the body is as careful as a lion](tags/nature.md#although-the-body-is-as-careful-as-a-lion)
 
 ## S
 
-847. [Special report on Tokyo nightlife](tags/landscape.md#special-report-on-tokyo-nightlife)
+836. [Special report on Tokyo nightlife](tags/landscape.md#special-report-on-tokyo-nightlife)
 
 ## A
 
-848. [A young woman with personality](tags/fashion.md#a-young-woman-with-personality)
+837. [A young woman with personality](tags/fashion.md#a-young-woman-with-personality)
 
 ## T
 
-849. [The transparent object is filled with delicate flowers](tags/minimalist.md#the-transparent-object-is-filled-with-delicate-flowers)
+838. [The transparent object is filled with delicate flowers](tags/minimalist.md#the-transparent-object-is-filled-with-delicate-flowers)
 
 ## M
 
-850. [Movie scenes turned into miniature isometric dioramas](tags/3d.md#movie-scenes-turned-into-miniature-isometric-dioramas)
+839. [Movie scenes turned into miniature isometric dioramas](tags/3d.md#movie-scenes-turned-into-miniature-isometric-dioramas)
 
 ## A
 
-851. [Animals and humans alike are transformed into neon glass creatures](tags/animal.md#animals-and-humans-alike-are-transformed-into-neon-glass-creatures)
+840. [Animals and humans alike are transformed into neon glass creatures](tags/animal.md#animals-and-humans-alike-are-transformed-into-neon-glass-creatures)
 
 ## C
 
-852. [Cute clay style themed poster](tags/character.md#cute-clay-style-themed-poster)
+841. [Cute clay style themed poster](tags/character.md#cute-clay-style-themed-poster)
 
 ## R
 
-853. [Reality and inner spirit meet in the magic mirror](tags/character.md#reality-and-inner-spirit-meet-in-the-magic-mirror)
+842. [Reality and inner spirit meet in the magic mirror](tags/character.md#reality-and-inner-spirit-meet-in-the-magic-mirror)
 
 ## T
 
-854. [The person in the photo is holding the product in one hand](tags/interior.md#the-person-in-the-photo-is-holding-the-product-in-one-hand)
+843. [The person in the photo is holding the product in one hand](tags/interior.md#the-person-in-the-photo-is-holding-the-product-in-one-hand)
 
 ## G
 
-855. [Giant Korean woman in the bustling street](tags/architecture.md#giant-korean-woman-in-the-bustling-street)
-
-## F
-
-856. [Floating Tai Chi cute 3D cartoon scene](tags/3d.md#floating-tai-chi-cute-3d-cartoon-scene)
-
-## G
-
-857. [Generate scene posters for any movie, TV series or novel](tags/architecture.md#generate-scene-posters-for-any-movie,-tv-series-or-novel)
+844. [Giant Korean woman in the bustling street](tags/architecture.md#giant-korean-woman-in-the-bustling-street)
+845. [Generate scene posters for any movie, TV series or novel](tags/architecture.md#generate-scene-posters-for-any-movie,-tv-series-or-novel)
 
 ## R
 
-858. [Real world portal anime character crossover scene](tags/character.md#real-world-portal-anime-character-crossover-scene)
-
-## H
-
-859. [Healing fairy tale clay poster](tags/3d.md#healing-fairy-tale-clay-poster)
+846. [Real world portal anime character crossover scene](tags/character.md#real-world-portal-anime-character-crossover-scene)
 
 ## P
 
-860. [people magazine collage cover](tags/nature.md#people-magazine-collage-cover)
+847. [people magazine collage cover](tags/nature.md#people-magazine-collage-cover)
 
 ## F
 
-861. [Facebook profile interface](tags/cartoon.md#facebook-profile-interface)
+848. [Facebook profile interface](tags/cartoon.md#facebook-profile-interface)
 
 ## R
 
-862. [Retro blueprint illustration](tags/illustration.md#retro-blueprint-illustration)
+849. [Retro blueprint illustration](tags/illustration.md#retro-blueprint-illustration)
 
 ## C
 
-863. [Convert to graffiti style](tags/neon.md#convert-to-graffiti-style)
+850. [Convert to graffiti style](tags/neon.md#convert-to-graffiti-style)
 
 ## A
 
-864. [An exploded view of a dragon's anatomy](tags/fantasy.md#an-exploded-view-of-a-dragon's-anatomy)
-865. [A bust in the style of a digital oil painting](tags/nature.md#a-bust-in-the-style-of-a-digital-oil-painting)
+851. [An exploded view of a dragon's anatomy](tags/fantasy.md#an-exploded-view-of-a-dragon's-anatomy)
+852. [A bust in the style of a digital oil painting](tags/nature.md#a-bust-in-the-style-of-a-digital-oil-painting)
 
 ## D
 
-866. [Dongshan Xiaohong](tags/animal.md#dongshan-xiaohong)
+853. [Dongshan Xiaohong](tags/animal.md#dongshan-xiaohong)
 
 ## W
 
-867. [Woman holding a big stuffed mouse](tags/cartoon.md#woman-holding-a-big-stuffed-mouse)
+854. [Woman holding a big stuffed mouse](tags/cartoon.md#woman-holding-a-big-stuffed-mouse)
 
 ## T
 
-868. [Take realistic selfies in front of the mirror in your bedroom](tags/3d.md#take-realistic-selfies-in-front-of-the-mirror-in-your-bedroom)
+855. [Take realistic selfies in front of the mirror in your bedroom](tags/3d.md#take-realistic-selfies-in-front-of-the-mirror-in-your-bedroom)
 
 ## A
 
-869. [Abstract neon art design](tags/neon.md#abstract-neon-art-design)
+856. [Abstract neon art design](tags/neon.md#abstract-neon-art-design)
 
 ## U
 
-870. [Ultra-realistic 8K surreal winter fantasy portrait](tags/character.md#ultra-realistic-8k-surreal-winter-fantasy-portrait)
+857. [Ultra-realistic 8K surreal winter fantasy portrait](tags/character.md#ultra-realistic-8k-surreal-winter-fantasy-portrait)
 
 ## A
 
-871. [Ancient style wide-sleeved robe garden night scene photo](tags/landscape.md#ancient-style-wide-sleeved-robe-garden-night-scene-photo)
+858. [Ancient style wide-sleeved robe garden night scene photo](tags/landscape.md#ancient-style-wide-sleeved-robe-garden-night-scene-photo)
 
 ## T
 
-872. [Tokyo Tower is occupied by a super giant cat](tags/architecture.md#tokyo-tower-is-occupied-by-a-super-giant-cat)
+859. [Tokyo Tower is occupied by a super giant cat](tags/architecture.md#tokyo-tower-is-occupied-by-a-super-giant-cat)
 
 ## J
 
-873. [Japanese Ukiyo-e shadow puppet works](tags/landscape.md#japanese-ukiyo-e-shadow-puppet-works)
+860. [Japanese Ukiyo-e shadow puppet works](tags/landscape.md#japanese-ukiyo-e-shadow-puppet-works)
 
 ## 3
 
-874. [3x3 grid Rick and Morty style](tags/architecture.md#3x3-grid-rick-and-morty-style)
+861. [3x3 grid Rick and Morty style](tags/architecture.md#3x3-grid-rick-and-morty-style)
 
 ## B
 
-875. [Be part of your own comic](tags/cartoon.md#be-part-of-your-own-comic)
+862. [Be part of your own comic](tags/cartoon.md#be-part-of-your-own-comic)
 
 ## E
 
-876. [Exaggerated perspective illustration style](tags/character.md#exaggerated-perspective-illustration-style)
-877. [Expand 3D model](tags/creative.md#expand-3d-model)
+863. [Exaggerated perspective illustration style](tags/character.md#exaggerated-perspective-illustration-style)
+864. [Expand 3D model](tags/creative.md#expand-3d-model)
 
 ## 9
 
-878. [9-square grid nude 3D collage poster](tags/3d.md#9-square-grid-nude-3d-collage-poster)
+865. [9-square grid nude 3D collage poster](tags/3d.md#9-square-grid-nude-3d-collage-poster)
 
 ## P
 
-879. [Professional Studio Portrait Photography Christmas Winter Theme](tags/fashion.md#professional-studio-portrait-photography-christmas-winter-theme)
+866. [Professional Studio Portrait Photography Christmas Winter Theme](tags/fashion.md#professional-studio-portrait-photography-christmas-winter-theme)
 
 ## C
 
-880. [Christmas themed high-end studio photos](tags/fashion.md#christmas-themed-high-end-studio-photos)
-881. [Christmas pet nine palace chart](tags/typography.md#christmas-pet-nine-palace-chart)
+867. [Christmas themed high-end studio photos](tags/fashion.md#christmas-themed-high-end-studio-photos)
+868. [Christmas pet nine palace chart](tags/typography.md#christmas-pet-nine-palace-chart)
 
 ## 2
 
-882. [20 yuan banknote (Guilin landscape version)](tags/cartoon.md#20-yuan-banknote-guilin-landscape-version)
+869. [20 yuan banknote (Guilin landscape version)](tags/cartoon.md#20-yuan-banknote-guilin-landscape-version)
 
 ## E
 
-883. [Elf in the snow scene](tags/minimalist.md#elf-in-the-snow-scene)
+870. [Elf in the snow scene](tags/minimalist.md#elf-in-the-snow-scene)
 
 ## C
 
-884. [Commercial advertising shooting scene](tags/character.md#commercial-advertising-shooting-scene)
+871. [Commercial advertising shooting scene](tags/character.md#commercial-advertising-shooting-scene)
 
 ## Z
 
-885. [Zhujiang New Town in paper-cut style](tags/3d.md#zhujiang-new-town-in-paper-cut-style)
+872. [Zhujiang New Town in paper-cut style](tags/3d.md#zhujiang-new-town-in-paper-cut-style)
 
 ## M
 
-886. [marionette](tags/nature.md#marionette)
+873. [marionette](tags/nature.md#marionette)
 
 ## U
 
-887. [Ultra-realistic 3D commercial style product illustrations](tags/landscape.md#ultra-realistic-3d-commercial-style-product-illustrations)
+874. [Ultra-realistic 3D commercial style product illustrations](tags/landscape.md#ultra-realistic-3d-commercial-style-product-illustrations)
 
 ## C
 
-888. [Close up selfie of woman standing in room](tags/food.md#close-up-selfie-of-woman-standing-in-room)
+875. [Close up selfie of woman standing in room](tags/food.md#close-up-selfie-of-woman-standing-in-room)
 
 ## A
 
-889. [A beautiful and charming young woman](tags/3d.md#a-beautiful-and-charming-young-woman)
+876. [A beautiful and charming young woman](tags/3d.md#a-beautiful-and-charming-young-woman)
 
 ## S
 
-890. [Super realistic object clouds](tags/landscape.md#super-realistic-object-clouds)
+877. [Super realistic object clouds](tags/landscape.md#super-realistic-object-clouds)
 
 ## 3
 
-891. [3D cartoon style characters](tags/cartoon.md#3d-cartoon-style-characters)
+878. [3D cartoon style characters](tags/cartoon.md#3d-cartoon-style-characters)
 
 ## A
 
-892. [A smiling man holding an aluminum can of Coca-Cola](tags/branding.md#a-smiling-man-holding-an-aluminum-can-of-coca-cola)
+879. [A smiling man holding an aluminum can of Coca-Cola](tags/branding.md#a-smiling-man-holding-an-aluminum-can-of-coca-cola)
 
 ## H
 
-893. [HD restoration of old photos](tags/cartoon.md#hd-restoration-of-old-photos)
+880. [HD restoration of old photos](tags/cartoon.md#hd-restoration-of-old-photos)
 
 ## F
 
-894. [Filters that travel through time and space - old photo restoration](tags/architecture.md#filters-that-travel-through-time-and-space---old-photo-restoration)
+881. [Filters that travel through time and space - old photo restoration](tags/architecture.md#filters-that-travel-through-time-and-space---old-photo-restoration)
 
 ## P
 
-895. [packaging design](tags/branding.md#packaging-design)
+882. [packaging design](tags/branding.md#packaging-design)
 
 ## C
 
-896. [Comic character walks out of screen](tags/character.md#comic-character-walks-out-of-screen)
+883. [Comic character walks out of screen](tags/character.md#comic-character-walks-out-of-screen)
 
 ## A
 
-897. [A realistic wall calendar](tags/minimalist.md#a-realistic-wall-calendar)
+884. [A realistic wall calendar](tags/minimalist.md#a-realistic-wall-calendar)
 
 ## W
 
-898. [Woman floating in huge transparent plastic water bag](tags/fashion.md#woman-floating-in-huge-transparent-plastic-water-bag)
+885. [Woman floating in huge transparent plastic water bag](tags/fashion.md#woman-floating-in-huge-transparent-plastic-water-bag)
 
 ## M
 
-899. [Multiple women squatting on the stage scene](tags/character.md#multiple-women-squatting-on-the-stage-scene)
+886. [Multiple women squatting on the stage scene](tags/character.md#multiple-women-squatting-on-the-stage-scene)
 
 ## 3
 
-900. [3x3 grid Pixar style storyboard](tags/architecture.md#3x3-grid-pixar-style-storyboard)
+887. [3x3 grid Pixar style storyboard](tags/architecture.md#3x3-grid-pixar-style-storyboard)
 
 ## G
 
-901. [Girl sitting on the cold drink cup of Luckin Coffee](tags/branding.md#girl-sitting-on-the-cold-drink-cup-of-luckin-coffee)
+888. [Girl sitting on the cold drink cup of Luckin Coffee](tags/branding.md#girl-sitting-on-the-cold-drink-cup-of-luckin-coffee)
 
 ## R
 
-902. [Real-life version of the 9-square grid photo](tags/fashion.md#real-life-version-of-the-9-square-grid-photo)
+889. [Real-life version of the 9-square grid photo](tags/fashion.md#real-life-version-of-the-9-square-grid-photo)
 
 ## B
 
-903. [Beijing 7-day weather forecast-poster](tags/futuristic.md#beijing-7-day-weather-forecast-poster)
+890. [Beijing 7-day weather forecast-poster](tags/futuristic.md#beijing-7-day-weather-forecast-poster)
 
 ## J
 
-904. [Judy stands on the snow bridge](tags/animal.md#judy-stands-on-the-snow-bridge)
+891. [Judy stands on the snow bridge](tags/animal.md#judy-stands-on-the-snow-bridge)
 
 ## P
 
-905. [Professional knowledge infographic](tags/infographic.md#professional-knowledge-infographic)
-906. [Pictures of predicting the time before and after](tags/creative.md#pictures-of-predicting-the-time-before-and-after)
+892. [Professional knowledge infographic](tags/infographic.md#professional-knowledge-infographic)
+893. [Pictures of predicting the time before and after](tags/creative.md#pictures-of-predicting-the-time-before-and-after)
 
 ## M
 
-907. [Microcosm and macrofood](tags/architecture.md#microcosm-and-macrofood)
+894. [Microcosm and macrofood](tags/architecture.md#microcosm-and-macrofood)
 
 ## I
 
-908. [Ink style creates a dreamy, poetic atmosphere](tags/nature.md#ink-style-creates-a-dreamy,-poetic-atmosphere)
+895. [Ink style creates a dreamy, poetic atmosphere](tags/nature.md#ink-style-creates-a-dreamy,-poetic-atmosphere)
 
 ## M
 
-909. [Miniature 3D model](tags/3d.md#miniature-3d-model)
+896. [Miniature 3D model](tags/3d.md#miniature-3d-model)
 
 ## W
 
-910. [Woman in a retro American car](tags/branding.md#woman-in-a-retro-american-car)
+897. [Woman in a retro American car](tags/branding.md#woman-in-a-retro-american-car)
 
 ## M
 
-911. [minimalist food photography](tags/food.md#minimalist-food-photography)
+898. [minimalist food photography](tags/food.md#minimalist-food-photography)
 
 ## C
 
-912. [Character stands on an oversized smartphone](tags/minimalist.md#character-stands-on-an-oversized-smartphone)
+899. [Character stands on an oversized smartphone](tags/minimalist.md#character-stands-on-an-oversized-smartphone)
 
 ## T
 
-913. [The model stands on the ground covered with countless black and white billboards](tags/fashion.md#the-model-stands-on-the-ground-covered-with-countless-black-and-white-billboards)
+900. [The model stands on the ground covered with countless black and white billboards](tags/fashion.md#the-model-stands-on-the-ground-covered-with-countless-black-and-white-billboards)
 
 ## Q
 
-914. [Q version character Jiugongge](tags/fashion.md#q-version-character-jiugongge)
+901. [Q version character Jiugongge](tags/fashion.md#q-version-character-jiugongge)
 
 ## P
 
-915. [Place characters in Christmas scenes from 9 movies](tags/fashion.md#place-characters-in-christmas-scenes-from-9-movies)
+902. [Place characters in Christmas scenes from 9 movies](tags/fashion.md#place-characters-in-christmas-scenes-from-9-movies)
 
 ## M
 
-916. [Miniature brand store](tags/branding.md#miniature-brand-store)
+903. [Miniature brand store](tags/branding.md#miniature-brand-store)
 
 ## G
 
-917. [Girls pencil sketch](tags/fashion.md#girls-pencil-sketch)
+904. [Girls pencil sketch](tags/fashion.md#girls-pencil-sketch)
 
 ## 6
 
-918. [6X6 Product pictures of various styles and qualities](tags/food.md#6x6-product-pictures-of-various-styles-and-qualities)
-919. [6X6 products in various styles](tags/product.md#6x6-products-in-various-styles)
+905. [6X6 Product pictures of various styles and qualities](tags/food.md#6x6-product-pictures-of-various-styles-and-qualities)
+906. [6X6 products in various styles](tags/product.md#6x6-products-in-various-styles)
 
 ## G
 
-920. [Gemini 3 flash advertising image](tags/creative.md#gemini-3-flash-advertising-image)
+907. [Gemini 3 flash advertising image](tags/creative.md#gemini-3-flash-advertising-image)
 
 ## S
 
-921. [Surfing on orange juice](tags/fantasy.md#surfing-on-orange-juice)
+908. [Surfing on orange juice](tags/fantasy.md#surfing-on-orange-juice)
 
 ## 2
 
-922. [2x2 grid collage](tags/architecture.md#2x2-grid-collage)
+909. [2x2 grid collage](tags/architecture.md#2x2-grid-collage)
 
 ## H
 
-923. [High angle commercial food photography photos](tags/food.md#high-angle-commercial-food-photography-photos)
+910. [High angle commercial food photography photos](tags/food.md#high-angle-commercial-food-photography-photos)
 
 ## U
 
-924. [Urban streetwear editorial collage](tags/architecture.md#urban-streetwear-editorial-collage)
+911. [Urban streetwear editorial collage](tags/architecture.md#urban-streetwear-editorial-collage)
 
 ## B
 
-925. [Blonde woman taking selfie](tags/character.md#blonde-woman-taking-selfie)
+912. [Blonde woman taking selfie](tags/character.md#blonde-woman-taking-selfie)
 
 ## C
 
-926. [Christmas card with nativity scene](tags/landscape.md#christmas-card-with-nativity-scene)
+913. [Christmas card with nativity scene](tags/landscape.md#christmas-card-with-nativity-scene)
 
 ## P
 
-927. [Prompt word kid caricature](tags/creative.md#prompt-word-kid-caricature)
-928. [Photos of Victorian Gothic Royal Family](tags/architecture.md#photos-of-victorian-gothic-royal-family)
+914. [Prompt word kid caricature](tags/creative.md#prompt-word-kid-caricature)
+915. [Photos of Victorian Gothic Royal Family](tags/architecture.md#photos-of-victorian-gothic-royal-family)
 
 ## U
 
-929. [Use Chinese fantasy to write world-famous paintings](tags/character.md#use-chinese-fantasy-to-write-world-famous-paintings)
+916. [Use Chinese fantasy to write world-famous paintings](tags/character.md#use-chinese-fantasy-to-write-world-famous-paintings)
 
 ## T
 
-930. [Take selfies with characters from movies and TV shows](tags/fashion.md#take-selfies-with-characters-from-movies-and-tv-shows)
+917. [Take selfies with characters from movies and TV shows](tags/fashion.md#take-selfies-with-characters-from-movies-and-tv-shows)
 
 ## A
 
-931. [A duo of specimen boxes and realistic outfit aesthetics](tags/cartoon.md#a-duo-of-specimen-boxes-and-realistic-outfit-aesthetics)
+918. [A duo of specimen boxes and realistic outfit aesthetics](tags/cartoon.md#a-duo-of-specimen-boxes-and-realistic-outfit-aesthetics)
 
 ## P
 
-932. [Photos of articles in glossy magazines](tags/photography.md#photos-of-articles-in-glossy-magazines)
-933. [Photos of girls' four-square grid](tags/fashion.md#photos-of-girls'-four-square-grid)
+919. [Photos of articles in glossy magazines](tags/photography.md#photos-of-articles-in-glossy-magazines)
+920. [Photos of girls' four-square grid](tags/fashion.md#photos-of-girls'-four-square-grid)
 
 ## 3
 
-934. [36 different portraits of people wearing the same outfit](tags/architecture.md#36-different-portraits-of-people-wearing-the-same-outfit)
+921. [36 different portraits of people wearing the same outfit](tags/architecture.md#36-different-portraits-of-people-wearing-the-same-outfit)
 
 ## V
 
-935. [Vertical three-frame collage](tags/fashion.md#vertical-three-frame-collage)
+922. [Vertical three-frame collage](tags/fashion.md#vertical-three-frame-collage)
 
 ## U
 
-936. [Ultra-realistic 8K street portraits](tags/character.md#ultra-realistic-8k-street-portraits)
+923. [Ultra-realistic 8K street portraits](tags/character.md#ultra-realistic-8k-street-portraits)
 
 ## R
 
-937. [retro style photo booth](tags/interior.md#retro-style-photo-booth)
+924. [retro style photo booth](tags/interior.md#retro-style-photo-booth)
 
 ## C
 
-938. [Convert photos into comics](tags/character.md#convert-photos-into-comics)
+925. [Convert photos into comics](tags/character.md#convert-photos-into-comics)
 
 ## H
 
-939. [High end studio portraits](tags/branding.md#high-end-studio-portraits)
+926. [High end studio portraits](tags/branding.md#high-end-studio-portraits)
 
 ## M
 
-940. [Manipulate a replica of yourself with your fingers](tags/creative.md#manipulate-a-replica-of-yourself-with-your-fingers)
+927. [Manipulate a replica of yourself with your fingers](tags/creative.md#manipulate-a-replica-of-yourself-with-your-fingers)
 
 ## G
 
-941. [Generate clothing matching for a week](tags/character.md#generate-clothing-matching-for-a-week)
+928. [Generate clothing matching for a week](tags/character.md#generate-clothing-matching-for-a-week)
 
 ## P
 
-942. [Proportion comparison of double versions of women’s lilac long skirt](tags/fashion.md#proportion-comparison-of-double-versions-of-women’s-lilac-long-skirt)
+929. [Proportion comparison of double versions of women’s lilac long skirt](tags/fashion.md#proportion-comparison-of-double-versions-of-women’s-lilac-long-skirt)
 
 ## C
 
-943. [City rendering digital art poster](tags/3d.md#city-rendering-digital-art-poster)
+930. [City rendering digital art poster](tags/3d.md#city-rendering-digital-art-poster)
 
 ## M
 
-944. [MacBook Pro opens photos from X app](tags/photography.md#macbook-pro-opens-photos-from-x-app)
+931. [MacBook Pro opens photos from X app](tags/photography.md#macbook-pro-opens-photos-from-x-app)
 
 ## P
 
-945. [Product high-end commercial marketing design](tags/branding.md#product-high-end-commercial-marketing-design)
+932. [Product high-end commercial marketing design](tags/branding.md#product-high-end-commercial-marketing-design)
 
 ## W
 
-946. [Winter solstice poster](tags/character.md#winter-solstice-poster)
+933. [Winter solstice poster](tags/character.md#winter-solstice-poster)
 
 ## T
 
-947. [TV news studio scene](tags/futuristic.md#tv-news-studio-scene)
+934. [TV news studio scene](tags/futuristic.md#tv-news-studio-scene)
 
 ## G
 
-948. [Gym selfie](tags/landscape.md#gym-selfie)
+935. [Gym selfie](tags/landscape.md#gym-selfie)
 
 ## B
 
-949. [Blonde woman kneeling on yacht deck](tags/architecture.md#blonde-woman-kneeling-on-yacht-deck)
+936. [Blonde woman kneeling on yacht deck](tags/architecture.md#blonde-woman-kneeling-on-yacht-deck)
 
 ## W
 
-950. [Woman standing next to KAWS style art sculpture](tags/cartoon.md#woman-standing-next-to-kaws-style-art-sculpture)
-951. [Woman holding a wooden picture frame of herself](tags/fashion.md#woman-holding-a-wooden-picture-frame-of-herself)
+937. [Woman standing next to KAWS style art sculpture](tags/cartoon.md#woman-standing-next-to-kaws-style-art-sculpture)
+938. [Woman holding a wooden picture frame of herself](tags/fashion.md#woman-holding-a-wooden-picture-frame-of-herself)
 
 ## U
 
-952. [Ultra close macro portrait of woman's face](tags/nature.md#ultra-close-macro-portrait-of-woman's-face)
+939. [Ultra close macro portrait of woman's face](tags/nature.md#ultra-close-macro-portrait-of-woman's-face)
 
 ## 9
 
-953. [90s retro black and white portraits](tags/portrait.md#90s-retro-black-and-white-portraits)
+940. [90s retro black and white portraits](tags/portrait.md#90s-retro-black-and-white-portraits)
 
 ## K
 
-954. [Korean fashion closeup portrait of young woman](tags/3d.md#korean-fashion-closeup-portrait-of-young-woman)
+941. [Korean fashion closeup portrait of young woman](tags/3d.md#korean-fashion-closeup-portrait-of-young-woman)
 
 ## C
 
-955. [Cinematic fashion grid graphics](tags/fashion.md#cinematic-fashion-grid-graphics)
+942. [Cinematic fashion grid graphics](tags/fashion.md#cinematic-fashion-grid-graphics)
 
 ## W
 
-956. [Women jumping into the air while running](tags/logo.md#women-jumping-into-the-air-while-running)
+943. [Women jumping into the air while running](tags/logo.md#women-jumping-into-the-air-while-running)
 
 ## F
 
-957. [Female selfie](tags/interior.md#female-selfie)
+944. [Female selfie](tags/interior.md#female-selfie)
 
 ## C
 
-958. [Collage posters from the Y2K era](tags/architecture.md#collage-posters-from-the-y2k-era)
-959. [Cartoons turned into Funko Pop vinyl figures](tags/cartoon.md#cartoons-turned-into-funko-pop-vinyl-figures)
-960. [Cinematic portrait photography](tags/fashion.md#cinematic-portrait-photography)
+945. [Collage posters from the Y2K era](tags/architecture.md#collage-posters-from-the-y2k-era)
+946. [Cartoons turned into Funko Pop vinyl figures](tags/cartoon.md#cartoons-turned-into-funko-pop-vinyl-figures)
+947. [Cinematic portrait photography](tags/fashion.md#cinematic-portrait-photography)
 
 ## W
 
-961. [Woman is stepping out of her mobile phone screen](tags/3d.md#woman-is-stepping-out-of-her-mobile-phone-screen)
+948. [Woman is stepping out of her mobile phone screen](tags/3d.md#woman-is-stepping-out-of-her-mobile-phone-screen)
 
 ## E
 
-962. [Editorial photo for concept art magazine](tags/branding.md#editorial-photo-for-concept-art-magazine)
+949. [Editorial photo for concept art magazine](tags/branding.md#editorial-photo-for-concept-art-magazine)
 
 ## I
 
-963. [iron man coca cola](tags/character.md#iron-man-coca-cola)
+950. [iron man coca cola](tags/character.md#iron-man-coca-cola)
 
 ## T
 
-964. [There is a Q-version model similar to mine.](tags/character.md#there-is-a-q-version-model-similar-to-mine.)
+951. [There is a Q-version model similar to mine.](tags/character.md#there-is-a-q-version-model-similar-to-mine.)
 
 ## C
 
-965. [Changes in one year of hair transplantation](tags/interior.md#changes-in-one-year-of-hair-transplantation)
+952. [Changes in one year of hair transplantation](tags/interior.md#changes-in-one-year-of-hair-transplantation)
 
 ## F
 
-966. [Five-part wide-format film collage](tags/fashion.md#five-part-wide-format-film-collage)
+953. [Five-part wide-format film collage](tags/fashion.md#five-part-wide-format-film-collage)
 
 ## U
 
-967. [Ultra-realistic Macbook screen video conferencing diagram](tags/branding.md#ultra-realistic-macbook-screen-video-conferencing-diagram)
+954. [Ultra-realistic Macbook screen video conferencing diagram](tags/branding.md#ultra-realistic-macbook-screen-video-conferencing-diagram)
 
 ## T
 
-968. [Turn your favorite characters into collectibles](tags/character.md#turn-your-favorite-characters-into-collectibles)
+955. [Turn your favorite characters into collectibles](tags/character.md#turn-your-favorite-characters-into-collectibles)
 
 ## V
 
-969. [Visualization of gadgets and inventions from a given year](tags/paper-craft.md#visualization-of-gadgets-and-inventions-from-a-given-year)
+956. [Visualization of gadgets and inventions from a given year](tags/paper-craft.md#visualization-of-gadgets-and-inventions-from-a-given-year)
 
 ## C
 
-970. [Christmas special - characters frozen in fantasy giant glass snow globes](tags/character.md#christmas-special---characters-frozen-in-fantasy-giant-glass-snow-globes)
-971. [Christmas Special - Christmas Sweet Girl](tags/character.md#christmas-special---christmas-sweet-girl)
-972. [Christmas Special - Christmas Fashion with Red Rhyme](tags/character.md#christmas-special---christmas-fashion-with-red-rhyme)
-973. [Christmas Special - My Christmas is in tune with myself](tags/character.md#christmas-special---my-christmas-is-in-tune-with-myself)
+957. [Christmas special - characters frozen in fantasy giant glass snow globes](tags/character.md#christmas-special---characters-frozen-in-fantasy-giant-glass-snow-globes)
+958. [Christmas Special - Christmas Sweet Girl](tags/character.md#christmas-special---christmas-sweet-girl)
+959. [Christmas Special - Christmas Fashion with Red Rhyme](tags/character.md#christmas-special---christmas-fashion-with-red-rhyme)
+960. [Christmas Special - My Christmas is in tune with myself](tags/character.md#christmas-special---my-christmas-is-in-tune-with-myself)

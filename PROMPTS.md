@@ -1,5 +1,5 @@
 # Prompt Gallery
-*Total prompts: 973*
+*Total prompts: 960*
 
 ## All Prompts
 
@@ -2924,12 +2924,6 @@
 - Model: Nano banana pro
 - Prompt: Create a highly detailed miniature hyper-realistic scene of tiny characters realistically interacting with the [insert brand and product name here] product pictured in the attached image. The chara...
 
-### 1222. Chengdu tourist map
-![Chengdu tourist map](images/499.jpeg)
-- Tags: architecture, illustration, minimalist, paper-craft, typography
-- Model: Nano banana pro
-- Prompt: The aspect ratio is 16:9, a charming and exquisite hand-drawn tourist map of Chengdu, with the style of the Studio Ghibli art set. The entire composition is a watercolor and pen pastel illustration...
-
 ### 1221. cyber almanac
 ![cyber almanac](images/500.jpeg)
 - Tags: food, futuristic, minimalist, paper-craft, poster, typography, vehicle
@@ -2942,23 +2936,11 @@
 - Model: Nano banana pro
 - Prompt: With a ratio of 16:9, this is a breathtaking masterpiece of illustrated cartography, depicting a map of Chang'an, the capital of the Tang Dynasty. The entire picture is presented in the exquisite s...
 
-### 1219. Aerial photography of old Beijing
-![Aerial photography of old Beijing](images/502.jpeg)
-- Tags: architecture, cartoon, futuristic, landscape, nature, paper-craft, sculpture, typography, ui
-- Model: Nano banana pro
-- Prompt: The aspect ratio is 16:9, a masterpiece of subtle subtlety and visual intelligence. A drone aerial view of the urban fabric of old Beijing. The core concept is that the Chinese character "Hu" integ...
-
 ### 1218. Decomposed diagram of horizontal throwing motion trajectory and velocity displacement
 ![Decomposed diagram of horizontal throwing motion trajectory and velocity displacement](images/503.jpeg)
 - Tags: creative
 - Model: Nano banana pro
 - Prompt: Decomposed diagram of horizontal throwing motion trajectory and velocity displacement
-
-### 1217. Brand co-branded poster
-![Brand co-branded poster](images/504.jpeg)
-- Tags: branding, character, futuristic, gaming, landscape, logo, neon, poster, typography
-- Model: Nano banana pro
-- Prompt: Aspect ratio 16:9, official game linkage poster, masterpiece, vibrant "Zero" anime style.  Scene: Four stylish anime characters (a pink-haired girl in a black jacket is the visual center, a silver-...
 
 ### 1216. Solve math problems
 ![Solve math problems](images/505.jpeg)
@@ -3152,12 +3134,6 @@
 - Model: Nano banana pro
 - Prompt: Ultra-realistic 8K flat-lay photo in strict knolling style. Top-down 90º shot of the object from the attached image, fully disassembled into 8–12 key parts and arranged in a clean grid or radial pa...
 
-### 1182. Highly detailed 3D infographic poster
-![Highly detailed 3D infographic poster](images/541.jpeg)
-- Tags: 3d, character, food, illustration, infographic, landscape, poster, typography
-- Model: Nano banana pro
-- Prompt: Please create a high-detailed 3D infographic poster in Chinese to introduce the production process of traditional Indonesian tempeh. The poster should include a cute 3D chef character Koki Cubby (c...
-
 ### 1181. Fashion design manuscript
 ![Fashion design manuscript](images/542.jpeg)
 - Tags: 3d, fashion, logo, minimalist, nature, photography
@@ -3199,12 +3175,6 @@
 - Tags: character, fashion, illustration, nature, paper-craft
 - Model: Nano banana pro
 - Prompt: A fashion-style concept breakdown sheet in hand-drawn illustration style.  Center: full-body view of a stylish, confident female character with a slightly sexy vibe (not explicit), in a dynamic yet...
-
-### 1173. Modern Chicago Riverside Qingming Riverside Scene Style
-![Modern Chicago Riverside Qingming Riverside Scene Style](images/551.jpeg)
-- Tags: architecture, food, landscape, photography, retro, vehicle
-- Model: Nano banana pro
-- Prompt: A sweeping, highly detailed traditional Chinese ink and color handscroll painting on aged silk, perfectly emulating the artistic style, brushwork, and scattered point perspective of Zhang Zeduan's ...
 
 ### 1171. Musk taught Einstein how to take pictures
 ![Musk taught Einstein how to take pictures](images/553.jpeg)
@@ -3644,12 +3614,6 @@
 - Model: Nano banana pro
 - Prompt: Warm Japanese izakaya with warm yellow lighting. The store manager, a Shiba Inu wearing a turban, is grilling skewers seriously. The lantern in front of the bar has Chinese characters written on it...
 
-### 1092. Poisoning late at night is the greatest disrespect for weight loss
-![Poisoning late at night is the greatest disrespect for weight loss](images/633.jpeg)
-- Tags: branding
-- Model: Nano banana pro
-- Prompt: Macrophobia style, Hollywood disaster movie texture. A huge bucket of braised beef noodles fell from the sky and hit a busy intersection. The original brand name on the noodle bucket became a huge ...
-
 ### 1091. Combination of ink painting style and realistic photography
 ![Combination of ink painting style and realistic photography](images/634.jpeg)
 - Tags: photography
@@ -3992,12 +3956,6 @@
 - Model: Nano banana pro
 - Prompt: {   "pipeline_configuration": {     "job_type": "img2img_transformation",     "meta_tags": ["macro", "beauty", "soft_focus", "realism"],          "input_reference_handling": {       "preservation_r...
 
-### 1028. Shanghai 3D City Time Tour
-![Shanghai 3D City Time Tour](images/700.jpeg)
-- Tags: 3d, architecture, futuristic, landscape, neon, paper-craft, photography, portrait, retro, typography, vehicle
-- Model: Nano banana pro
-- Prompt: A stunning hyper-realistic 3D render of Shanghai's architectural evolution displayed as detailed miniature model diorama on a large circular floating platform, like a round disc divided into four d...
-
 ### 1027. Draw a detailed pet store scene
 ![Draw a detailed pet store scene](images/701.jpeg)
 - Tags: landscape
@@ -4243,12 +4201,6 @@
 - Tags: creative
 - Model: Nano banana pro
 - Prompt: Generate an ultra-detailed, hyperrealistic exploded technical view of ___________.
-
-### 986. A movie poster template
-![A movie poster template](images/742.jpeg)
-- Tags: animal, character, felt, illustration, landscape, minimalist, photography, pixel, poster, product, toy, typography
-- Model: Nano banana pro
-- Prompt: Please design a poster for the movie "" in this style. Regenerate pictures based on generated prompt words Style description template: {   "style_template_en_v2": {     "style_name": "3D Q-Version ...
 
 ### 985. Character is pinched in a transparent glass ball
 ![Character is pinched in a transparent glass ball](images/743.jpeg)
@@ -4496,18 +4448,6 @@
 - Model: Nano banana pro
 - Prompt: At the location of "Tokyo Tower", create pictures based on the local current time atmosphere and real-time weather. Let the designated character tour the location so that he or she becomes part of ...
 
-### 942. Research and data visualization design
-![Research and data visualization design](images/786.jpeg)
-- Tags: branding, infographic, minimalist, paper-craft, product, typography, vehicle
-- Model: Nano banana pro
-- Prompt: [Core mission instructions] You are an AI expert with real-time web search capabilities and top-notch data visualization design capabilities. Please follow these two steps: Research stage: Immediat...
-
-### 941. Attractions change with the seasons
-![Attractions change with the seasons](images/787.jpeg)
-- Tags: architecture, landscape, photography
-- Model: Nano banana pro
-- Prompt: [The Composition: Dynamic Diagonal Slicing]  Hyper-realistic digital art, 8k resolution, a wide cinematic panorama of **{City_Name}** featuring **{Landmark}**. The composition utilizes a "**Dynamic...
-
 ### 940. A fascinating picture of time in four seasons
 ![A fascinating picture of time in four seasons](images/788.jpeg)
 - Tags: illustration, landscape, nature
@@ -4628,12 +4568,6 @@
 - Model: Nano banana pro
 - Prompt: A highly realistic, tightly framed scene showing the reflection of a fair-skinned woman with flawless skin on an iPad placed on the airplane’s foldable tray table in front of the subject, with a pa...
 
-### 918. Cute sleep report poster
-![Cute sleep report poster](images/811.jpeg)
-- Tags: 3d, landscape, nature, poster, typography
-- Model: Nano banana pro
-- Prompt: Task: Poster design, sleep data visualization art. Step 1: Analyze [uploaded Apple Watch sleep data screenshot] and extract the duration ratio of the four stages of wakefulness, REM, core, and deep...
-
 ### 917. Stunning split screen photos
 ![Stunning split screen photos](images/812.jpeg)
 - Tags: fashion, neon, paper-craft, photography, pixel, vehicle
@@ -4712,12 +4646,6 @@
 - Model: Nano banana pro
 - Prompt: A highly detailed photorealistic aerial shot looking down on a colossal Korean young woman wearing a stylish jacket and layered outfits, positioned in a crowded Tokyo street; the giant is playfully...
 
-### 904. Floating Tai Chi cute 3D cartoon scene
-![Floating Tai Chi cute 3D cartoon scene](images/825.jpeg)
-- Tags: 3d, architecture, cartoon, character, landscape, logo, nature, portrait, poster, typography, vehicle
-- Model: Nano banana pro
-- Prompt: A clear, floating cute 3D cartoon diorama scene in a circular composition with rotational symmetry, echoing a yin-yang layout:  Scene: - a single floating circular emblem viewed from isometric bird...
-
 ### 903. Generate scene posters for any movie, TV series or novel
 ![Generate scene posters for any movie, TV series or novel](images/826.jpeg)
 - Tags: architecture, landscape, nature, portrait, poster, typography
@@ -4729,12 +4657,6 @@
 - Tags: character, futuristic, landscape, nature, neon
 - Model: Nano banana pro
 - Prompt: A glowing oval portal stands between {Real_World_Scene} and {Portal_Inner_Scene}.  Outside the portal, the real-world environment is {Real_World_Scene}, depicted with realistic textures, grounded a...
-
-### 901. Healing fairy tale clay poster
-![Healing fairy tale clay poster](images/828.jpeg)
-- Tags: 3d, character, clay, felt, landscape, nature, poster, vehicle
-- Model: Nano banana pro
-- Prompt: Rendered as a complete Poster design (suggested aspect ratio 3:4 or 9:16 for a full vertical poster). The overall visual style is a Soft-Focus Healing Style combining a Wes Anderson aesthetic, char...
 
 ### 900. people magazine collage cover
 ![people magazine collage cover](images/829.jpeg)
@@ -5422,7 +5344,7 @@
 
 ## Tags
 
-### 3d (80)
+### 3d (75)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1830] The woman seemed to emerge from the newly developed photo
 - [1813] One hand holds a slender vertical hollow bookmark
@@ -5464,7 +5386,6 @@
 - [1300] Light and shadow triptych at home
 - [1284] Aircraft three-dimensional section infographic
 - [1276] Incorporate comic characters into your real-life photos
-- [1182] Highly detailed 3D infographic poster
 - [1181] Fashion design manuscript
 - [1145] Young woman sitting sideways on arcade stool
 - [1136] Metal neon wallet
@@ -5479,7 +5400,6 @@
 - [1063] Cake made of city landmarks
 - [1062] Doraemon lectures
 - [1029] Close-up of tender young woman
-- [1028] Shanghai 3D City Time Tour
 - [1005] The hand gently holds a 3D collectible 3D model of the city
 - [992] MacBook selfie (couple model)
 - [990] Professional image photos of characters transformed into Korean style
@@ -5491,10 +5411,7 @@
 - [945] Selfie with 2D animation illustration
 - [934] Reality-distorting mirror selfie that incorporates multiple media elements
 - [922] High fashion photos shot with ultra-wide angle
-- [918] Cute sleep report poster
 - [910] Movie scenes turned into miniature isometric dioramas
-- [904] Floating Tai Chi cute 3D cartoon scene
-- [901] Healing fairy tale clay poster
 - [891] Take realistic selfies in front of the mirror in your bedroom
 - [881] 9-square grid nude 3D collage poster
 - [874] Zhujiang New Town in paper-cut style
@@ -5504,7 +5421,7 @@
 - [799] Korean fashion closeup portrait of young woman
 - [792] Woman is stepping out of her mobile phone screen
 
-### animal (50)
+### animal (49)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1706] Melt variant text
 - [1697] Emoji turns into a flower pot
@@ -5550,13 +5467,12 @@
 - [1004] Young woman taking selfie in front of bathroom mirror
 - [1003] Judy and Pinecone’s joint magazine
 - [1002] Turn a reference image into a coherent short movie
-- [986] A movie poster template
 - [981] You can take selfies with celebrities and walk into the set of any movie
 - [909] Animals and humans alike are transformed into neon glass creatures
 - [894] Dongshan Xiaohong
 - [853] Judy stands on the snow bridge
 
-### architecture (73)
+### architecture (67)
 - [1836] City top view isometric 3D cartoon miniature scene
 - [1835] Watch the fireworks show from the top of the mountain
 - [1813] One hand holds a slender vertical hollow bookmark
@@ -5586,11 +5502,8 @@
 - [1277] magic window
 - [1254] Celebrity co-production
 - [1231] A high-resolution, full-body outdoor photo
-- [1222] Chengdu tourist map
-- [1219] Aerial photography of old Beijing
 - [1187] Hyper-realistic 3D realistic pictures made of food
 - [1180] City dynamic weather card
-- [1173] Modern Chicago Riverside Qingming Riverside Scene Style
 - [1149] maximalist pop art layer
 - [1148] Pixar style 3D animated scenes
 - [1147] Pixar style 3D animated scenes
@@ -5602,19 +5515,16 @@
 - [1048] Modern Teenage Fantasy Comics
 - [1046] Forbidden City architectural photo display and design drawings
 - [1043] Miniature 3D cartoon view showing the city's three tallest buildings
-- [1028] Shanghai 3D City Time Tour
 - [1014] Refrigerator magnet prompt word template
 - [1005] The hand gently holds a 3D collectible 3D model of the city
 - [988] Large-sized iPhone 17 Pro Max scene
 - [980] Lady on huge stylish curved 3D billboard
 - [968] A young Japanese beauty model
-- [941] Attractions change with the seasons
 - [935] Seamlessly blending two different eras
 - [934] Reality-distorting mirror selfie that incorporates multiple media elements
 - [929] Real world tilt-shift photography
 - [916] Characters appear on giant digital billboards
 - [905] Giant Korean woman in the bustling street
-- [904] Floating Tai Chi cute 3D cartoon scene
 - [903] Generate scene posters for any movie, TV series or novel
 - [894] Dongshan Xiaohong
 - [887] Tokyo Tower is occupied by a super giant cat
@@ -5631,7 +5541,7 @@
 - [804] Blonde woman kneeling on yacht deck
 - [795] Collage posters from the Y2K era
 
-### branding (123)
+### branding (120)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1827] 2026 Realistic Studio Fashion Portraits
 - [1823] Mini branded night light design
@@ -5729,12 +5639,10 @@
 - [1243] Panoramic character depth concept exploded view
 - [1242] One-click OOTD
 - [1223] A small world can make a big story happen
-- [1217] Brand co-branded poster
 - [1131] Convert die-cutting line drawing to 3D product visualization
 - [1130] Collage of four women's fashion life scenes
 - [1108] A coherent collage of four fashion life scenes
 - [1107] A collage of four fashion life scenes
-- [1092] Poisoning late at night is the greatest disrespect for weight loss
 - [1079] Young woman sitting in shopping cart
 - [1020] Q version Starbucks mini concept store
 - [1006] Branded Pizza Studio Photos
@@ -5743,7 +5651,6 @@
 - [988] Large-sized iPhone 17 Pro Max scene
 - [973] Use the experiences of the characters in the work to paint a picture
 - [971] Woman holding blister packaging close to camera
-- [942] Research and data visualization design
 - [936] The evolution of Stark Industries' Iron Man suit
 - [933] A set of cyberpunk style fashion blockbusters
 - [867] A smiling man holding an aluminum can of Coca-Cola
@@ -5756,7 +5663,7 @@
 - [791] Editorial photo for concept art magazine
 - [786] Ultra-realistic Macbook screen video conferencing diagram
 
-### cartoon (114)
+### cartoon (112)
 - [1850] Cute cartoon soul
 - [1836] City top view isometric 3D cartoon miniature scene
 - [1835] Watch the fireworks show from the top of the mountain
@@ -5825,7 +5732,6 @@
 - [1272] You can actually be cute when you're angry
 - [1267] Street murals with strong photographic quality
 - [1220] Illustrations of Chang'an in the Tang Dynasty
-- [1219] Aerial photography of old Beijing
 - [1194] Literacy tabloid meta prompt words
 - [1180] City dynamic weather card
 - [1179] Turn articles into blackboard newspapers
@@ -5858,7 +5764,6 @@
 - [944] Transform subjects into clay-style 3D characters
 - [934] Reality-distorting mirror selfie that incorporates multiple media elements
 - [922] High fashion photos shot with ultra-wide angle
-- [904] Floating Tai Chi cute 3D cartoon scene
 - [899] Facebook profile interface
 - [892] Woman holding a big stuffed mouse
 - [891] Take realistic selfies in front of the mirror in your bedroom
@@ -5872,7 +5777,7 @@
 - [794] Cartoons turned into Funko Pop vinyl figures
 - [792] Woman is stepping out of her mobile phone screen
 
-### character (231)
+### character (226)
 - [1850] Cute cartoon soul
 - [1848] a pencil sketch
 - [1840] Stylized 3D character caricature
@@ -5992,7 +5897,6 @@
 - [1236] Colorful hand-drawn style emoticon pack
 - [1234] 8 initial sketches for pictures
 - [1227] A cool selfie with Luffy
-- [1217] Brand co-branded poster
 - [1212] Hayao Miyazaki's character walks into the Last Supper
 - [1211] last supper
 - [1210] HD magazine spread
@@ -6000,7 +5904,6 @@
 - [1205] Animation to live action
 - [1200] Wardrobe teardown and style analysis
 - [1194] Literacy tabloid meta prompt words
-- [1182] Highly detailed 3D infographic poster
 - [1177] Hand drawn calendar illustration
 - [1175] LINE style half-length Q version emoticon pack
 - [1174] Fashion style concept exploded illustration in hand drawn style
@@ -6053,7 +5956,6 @@
 - [1002] Turn a reference image into a coherent short movie
 - [994] Transform comic book characters into hyper-realistic humans
 - [991] Characters transformed into stylized 3D character comics
-- [986] A movie poster template
 - [983] LEGO style mini 3D figures
 - [979] film mixed media portrait
 - [978] Cinematic Film Printing Master
@@ -6078,9 +5980,7 @@
 - [908] Cute clay style themed poster
 - [907] Reality and inner spirit meet in the magic mirror
 - [905] Giant Korean woman in the bustling street
-- [904] Floating Tai Chi cute 3D cartoon scene
 - [902] Real world portal anime character crossover scene
-- [901] Healing fairy tale clay poster
 - [889] Ultra-realistic 8K surreal winter fantasy portrait
 - [884] Be part of your own comic
 - [883] Exaggerated perspective illustration style
@@ -6105,7 +6005,7 @@
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 - [780] Christmas Special - My Christmas is in tune with myself
 
-### clay (16)
+### clay (15)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1649] Cute miniature scene
 - [1642] 3D cute pastel clay icon
@@ -6120,7 +6020,6 @@
 - [928] A fusion of anime character sketch characters and clay animation characters
 - [920] A 3D game level map poster
 - [908] Cute clay style themed poster
-- [901] Healing fairy tale clay poster
 - [789] There is a Q-version model similar to mine.
 
 ### creative (59)
@@ -6469,7 +6368,7 @@
 - [787] Five-part wide-format film collage
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### felt (22)
+### felt (20)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1626] Turn your logo into a felt texture
 - [1613] embroidery style
@@ -6483,17 +6382,15 @@
 - [1030] Felt toys
 - [1018] A beautiful photo collage of four frames
 - [999] A fall fashion collage of 12 individual photos
-- [986] A movie poster template
 - [948] A miniature world handcrafted from plush textiles
 - [934] Reality-distorting mirror selfie that incorporates multiple media elements
-- [901] Healing fairy tale clay poster
 - [889] Ultra-realistic 8K surreal winter fantasy portrait
 - [880] Professional Studio Portrait Photography Christmas Winter Theme
 - [855] Real-life version of the 9-square grid photo
 - [830] Urban streetwear editorial collage
 - [807] Winter solstice poster
 
-### food (77)
+### food (75)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1830] The woman seemed to emerge from the newly developed photo
 - [1829] Hyperrealistic top-down macro photography
@@ -6537,8 +6434,6 @@
 - [1211] last supper
 - [1194] Literacy tabloid meta prompt words
 - [1187] Hyper-realistic 3D realistic pictures made of food
-- [1182] Highly detailed 3D infographic poster
-- [1173] Modern Chicago Riverside Qingming Riverside Scene Style
 - [1156] Golden Retriever Live
 - [1123] The girl wearing a mask made a gesture
 - [1117] A group of lively and fashionable young people
@@ -6572,7 +6467,7 @@
 - [807] Winter solstice poster
 - [795] Collage posters from the Y2K era
 
-### futuristic (54)
+### futuristic (51)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1779] Product development trajectory chart
 - [1750] A complete high-end product promotional photo
@@ -6611,13 +6506,10 @@
 - [1284] Aircraft three-dimensional section infographic
 - [1265] Warm toned science fiction comic scene with 2077 background
 - [1221] cyber almanac
-- [1219] Aerial photography of old Beijing
-- [1217] Brand co-branded poster
 - [1202] dragon ball cards
 - [1136] Metal neon wallet
 - [1111] A detailed technical illustration of a cyber warrior
 - [1110] Heartwarming moments between humans and robots
-- [1028] Shanghai 3D City Time Tour
 - [1023] Cyberpunk aesthetic style card
 - [951] 9 clothing styles and backgrounds for characters
 - [935] Seamlessly blending two different eras
@@ -6628,7 +6520,7 @@
 - [830] Urban streetwear editorial collage
 - [806] TV news studio scene
 
-### gaming (22)
+### gaming (21)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1733] First person shooter perspective
 - [1711] Create your own GTA character
@@ -6641,7 +6533,6 @@
 - [1301] Young woman by the window on the bus
 - [1247] Super Smash Bros. game poster family portrait
 - [1243] Panoramic character depth concept exploded view
-- [1217] Brand co-branded poster
 - [1167] career map picture
 - [1154] Game character tries to crawl from TV screen to living room
 - [1150] Beautiful 3D renderings of the handheld game console
@@ -6652,7 +6543,7 @@
 - [920] A 3D game level map poster
 - [887] Tokyo Tower is occupied by a super giant cat
 
-### illustration (125)
+### illustration (122)
 - [1851] Gorillaz style
 - [1835] Watch the fireworks show from the top of the mountain
 - [1813] One hand holds a slender vertical hollow bookmark
@@ -6719,13 +6610,11 @@
 - [1273] Add sketched people to your real photos
 - [1245] Recipe - Tomato Scrambled Eggs
 - [1243] Panoramic character depth concept exploded view
-- [1222] Chengdu tourist map
 - [1220] Illustrations of Chang'an in the Tang Dynasty
 - [1202] dragon ball cards
 - [1200] Wardrobe teardown and style analysis
 - [1196] Minecraft Mysterious Age Information Card
 - [1194] Literacy tabloid meta prompt words
-- [1182] Highly detailed 3D infographic poster
 - [1179] Turn articles into blackboard newspapers
 - [1178] Turn articles into cartoon infographics
 - [1177] Hand drawn calendar illustration
@@ -6757,7 +6646,6 @@
 - [1013] porcelain doll style photos
 - [1007] a sketch of a certain character
 - [994] Transform comic book characters into hyper-realistic humans
-- [986] A movie poster template
 - [977] Hand drawn portrait illustration in red and yellow colors
 - [961] The perfect blend of photos and sketches
 - [958] Realistic photos with illustrated sticker overlays
@@ -6779,7 +6667,7 @@
 - [802] Woman holding a wooden picture frame of herself
 - [792] Woman is stepping out of her mobile phone screen
 
-### infographic (25)
+### infographic (23)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1779] Product development trajectory chart
 - [1722] Technical drawing display board
@@ -6796,13 +6684,11 @@
 - [1191] Markdown to infographic
 - [1189] Four seasons infographic
 - [1188] Convert paper into a picture of the professor's whiteboard
-- [1182] Highly detailed 3D infographic poster
 - [1179] Turn articles into blackboard newspapers
 - [1178] Turn articles into cartoon infographics
 - [1101] Hand drawn beauty science chart
 - [1078] 3D explosion assembly drawing floating in the air
 - [974] Generate infographics in the style of Ukiyo-e and Cuphead
-- [942] Research and data visualization design
 - [936] The evolution of Stark Industries' Iron Man suit
 - [852] Professional knowledge infographic
 
@@ -6931,7 +6817,7 @@
 - [786] Ultra-realistic Macbook screen video conferencing diagram
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 
-### landscape (323)
+### landscape (313)
 - [1836] City top view isometric 3D cartoon miniature scene
 - [1835] Watch the fireworks show from the top of the mountain
 - [1831] 3x3 grid collage of young woman in winter forest
@@ -7078,18 +6964,14 @@
 - [1224] Japanese rural bus station scene on a rainy night
 - [1223] A small world can make a big story happen
 - [1220] Illustrations of Chang'an in the Tang Dynasty
-- [1219] Aerial photography of old Beijing
-- [1217] Brand co-branded poster
 - [1210] HD magazine spread
 - [1200] Wardrobe teardown and style analysis
 - [1198] Labubu and Dilireba high-end fashion cross-page blockbuster
 - [1195] Large oil painting portrait
 - [1194] Literacy tabloid meta prompt words
 - [1187] Hyper-realistic 3D realistic pictures made of food
-- [1182] Highly detailed 3D infographic poster
 - [1180] City dynamic weather card
 - [1178] Turn articles into cartoon infographics
-- [1173] Modern Chicago Riverside Qingming Riverside Scene Style
 - [1151] Sunny girl wearing white knitted top
 - [1149] maximalist pop art layer
 - [1148] Pixar style 3D animated scenes
@@ -7140,7 +7022,6 @@
 - [1038] Hyper-realistic 8K portrait of an attractive woman
 - [1034] Young woman with long brown hair taking selfie
 - [1031] Japanese girl rushes to the subway
-- [1028] Shanghai 3D City Time Tour
 - [1027] Draw a detailed pet store scene
 - [1025] Children's hand drawn travel diary style
 - [1022] Mascot sitting on operating system window border
@@ -7157,7 +7038,6 @@
 - [992] MacBook selfie (couple model)
 - [989] Woman takes selfie in elevator of apartment
 - [988] Large-sized iPhone 17 Pro Max scene
-- [986] A movie poster template
 - [982] Ultra HD 4K Pixar-style 3D portraits
 - [979] film mixed media portrait
 - [978] Cinematic Film Printing Master
@@ -7174,7 +7054,6 @@
 - [946] Miniature 3D cartoon scene
 - [945] Selfie with 2D animation illustration
 - [943] Generate a nine-square grid of characters in different poses
-- [941] Attractions change with the seasons
 - [940] A fascinating picture of time in four seasons
 - [939] Young woman squatting elegantly for selfie indoors
 - [935] Seamlessly blending two different eras
@@ -7190,17 +7069,14 @@
 - [921] Soft Drink Fortress
 - [920] A 3D game level map poster
 - [919] Woman reflected on iPad screen on airplane folding table
-- [918] Cute sleep report poster
 - [916] Characters appear on giant digital billboards
 - [913] Special report on Tokyo nightlife
 - [912] A young woman with personality
 - [910] Movie scenes turned into miniature isometric dioramas
 - [909] Animals and humans alike are transformed into neon glass creatures
 - [908] Cute clay style themed poster
-- [904] Floating Tai Chi cute 3D cartoon scene
 - [903] Generate scene posters for any movie, TV series or novel
 - [902] Real world portal anime character crossover scene
-- [901] Healing fairy tale clay poster
 - [899] Facebook profile interface
 - [894] Dongshan Xiaohong
 - [892] Woman holding a big stuffed mouse
@@ -7256,7 +7132,7 @@
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 - [782] Christmas Special - Christmas Sweet Girl
 
-### logo (149)
+### logo (147)
 - [1836] City top view isometric 3D cartoon miniature scene
 - [1835] Watch the fireworks show from the top of the mountain
 - [1834] Hong Kong Victoria Harbor Fireworks Show
@@ -7350,7 +7226,6 @@
 - [1228] PS5 technical blueprint
 - [1226] Miniature cozy living room
 - [1223] A small world can make a big story happen
-- [1217] Brand co-branded poster
 - [1211] last supper
 - [1210] HD magazine spread
 - [1198] Labubu and Dilireba high-end fashion cross-page blockbuster
@@ -7390,7 +7265,6 @@
 - [936] The evolution of Stark Industries' Iron Man suit
 - [929] Real world tilt-shift photography
 - [910] Movie scenes turned into miniature isometric dioramas
-- [904] Floating Tai Chi cute 3D cartoon scene
 - [899] Facebook profile interface
 - [881] 9-square grid nude 3D collage poster
 - [864] packaging design
@@ -7407,7 +7281,7 @@
 - [787] Five-part wide-format film collage
 - [785] Turn your favorite characters into collectibles
 
-### minimalist (216)
+### minimalist (213)
 - [1850] Cute cartoon soul
 - [1836] City top view isometric 3D cartoon miniature scene
 - [1835] Watch the fireworks show from the top of the mountain
@@ -7537,7 +7411,6 @@
 - [1228] PS5 technical blueprint
 - [1225] Wearing a stunning conceptual avant-garde gown
 - [1223] A small world can make a big story happen
-- [1222] Chengdu tourist map
 - [1221] cyber almanac
 - [1220] Illustrations of Chang'an in the Tang Dynasty
 - [1204] minimalist cocktail photography
@@ -7579,7 +7452,6 @@
 - [1004] Young woman taking selfie in front of bathroom mirror
 - [1001] High fashion portrait with vertical slice distortion
 - [997] Girl standing near blackboard holding chalk in hand
-- [986] A movie poster template
 - [979] film mixed media portrait
 - [972] Woman sitting barefoot and cross-legged on a simple wooden chair
 - [970] A woman lies on her back and takes a selfie with her right arm stretched upward
@@ -7588,7 +7460,6 @@
 - [958] Realistic photos with illustrated sticker overlays
 - [951] 9 clothing styles and backgrounds for characters
 - [945] Selfie with 2D animation illustration
-- [942] Research and data visualization design
 - [932] Colorful, cinematic photos
 - [922] High fashion photos shot with ultra-wide angle
 - [919] Woman reflected on iPad screen on airplane folding table
@@ -7625,7 +7496,7 @@
 - [785] Turn your favorite characters into collectibles
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### nature (365)
+### nature (361)
 - [1849] Convert Mosaic Style Photos
 - [1836] City top view isometric 3D cartoon miniature scene
 - [1835] Watch the fireworks show from the top of the mountain
@@ -7809,7 +7680,6 @@
 - [1227] A cool selfie with Luffy
 - [1226] Miniature cozy living room
 - [1223] A small world can make a big story happen
-- [1219] Aerial photography of old Beijing
 - [1213] Woman beach movie style portrait
 - [1212] Hayao Miyazaki's character walks into the Last Supper
 - [1204] minimalist cocktail photography
@@ -7922,17 +7792,14 @@
 - [925] Cinematic double exposure poster design
 - [923] A young woman wearing gorgeous Tang Dynasty costumes
 - [922] High fashion photos shot with ultra-wide angle
-- [918] Cute sleep report poster
 - [914] Although the body is as careful as a lion
 - [913] Special report on Tokyo nightlife
 - [912] A young woman with personality
 - [911] The transparent object is filled with delicate flowers
 - [907] Reality and inner spirit meet in the magic mirror
 - [906] The person in the photo is holding the product in one hand
-- [904] Floating Tai Chi cute 3D cartoon scene
 - [903] Generate scene posters for any movie, TV series or novel
 - [902] Real world portal anime character crossover scene
-- [901] Healing fairy tale clay poster
 - [900] people magazine collage cover
 - [899] Facebook profile interface
 - [895] A bust in the style of a digital oil painting
@@ -7992,7 +7859,7 @@
 - [782] Christmas Special - Christmas Sweet Girl
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### neon (68)
+### neon (66)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1821] The integration of virtual and reality
 - [1817] Multi-angle close-up photo poster
@@ -8029,7 +7896,6 @@
 - [1298] Realistic high-definition full-body comic characters
 - [1277] magic window
 - [1261] Fixed reference picture pose to generate pictures
-- [1217] Brand co-branded poster
 - [1210] HD magazine spread
 - [1198] Labubu and Dilireba high-end fashion cross-page blockbuster
 - [1149] maximalist pop art layer
@@ -8042,7 +7908,6 @@
 - [1073] Cinematic realistic images of characters
 - [1067] 3x3 photo sticker style collage
 - [1059] Extremely close selfie
-- [1028] Shanghai 3D City Time Tour
 - [1023] Cyberpunk aesthetic style card
 - [1009] Colorful scrapbook poster style
 - [978] Cinematic Film Printing Master
@@ -8062,7 +7927,7 @@
 - [858] 3x3 grid Pixar style storyboard
 - [830] Urban streetwear editorial collage
 
-### paper-craft (124)
+### paper-craft (120)
 - [1848] a pencil sketch
 - [1835] Watch the fireworks show from the top of the mountain
 - [1829] Hyperrealistic top-down macro photography
@@ -8119,9 +7984,7 @@
 - [1245] Recipe - Tomato Scrambled Eggs
 - [1243] Panoramic character depth concept exploded view
 - [1225] Wearing a stunning conceptual avant-garde gown
-- [1222] Chengdu tourist map
 - [1221] cyber almanac
-- [1219] Aerial photography of old Beijing
 - [1216] Solve math problems
 - [1209] labubu style dynamics
 - [1194] Literacy tabloid meta prompt words
@@ -8147,7 +8010,6 @@
 - [1051] A double-storey house on the mountainside of Wudang Mountain
 - [1046] Forbidden City architectural photo display and design drawings
 - [1045] OOTD hand-drawn graffiti decomposition
-- [1028] Shanghai 3D City Time Tour
 - [1025] Children's hand drawn travel diary style
 - [1018] A beautiful photo collage of four frames
 - [1017] Artistic digital scrapbooking style
@@ -8161,7 +8023,6 @@
 - [950] Summer Dopamine Fresh Style
 - [947] Fantastic handmade paper crafts
 - [945] Selfie with 2D animation illustration
-- [942] Research and data visualization design
 - [936] The evolution of Stark Industries' Iron Man suit
 - [935] Seamlessly blending two different eras
 - [932] Colorful, cinematic photos
@@ -8188,7 +8049,7 @@
 - [784] Visualization of gadgets and inventions from a given year
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### photography (420)
+### photography (416)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1831] 3x3 grid collage of young woman in winter forest
 - [1830] The woman seemed to emerge from the newly developed photo
@@ -8413,7 +8274,6 @@
 - [1187] Hyper-realistic 3D realistic pictures made of food
 - [1183] Item disassembly diagram
 - [1181] Fashion design manuscript
-- [1173] Modern Chicago Riverside Qingming Riverside Scene Style
 - [1150] Beautiful 3D renderings of the handheld game console
 - [1149] maximalist pop art layer
 - [1145] Young woman sitting sideways on arcade stool
@@ -8474,7 +8334,6 @@
 - [1032] 3x3 grid soft pink and blue toned studio photo shoot
 - [1031] Japanese girl rushes to the subway
 - [1029] Close-up of tender young woman
-- [1028] Shanghai 3D City Time Tour
 - [1026] Generate 3×3 photo grid photos
 - [1023] Cyberpunk aesthetic style card
 - [1021] Generate ultra-realistic AI influencers
@@ -8500,7 +8359,6 @@
 - [993] Surreal digital art hanging ghost
 - [992] MacBook selfie (couple model)
 - [988] Large-sized iPhone 17 Pro Max scene
-- [986] A movie poster template
 - [985] Character is pinched in a transparent glass ball
 - [980] Lady on huge stylish curved 3D billboard
 - [978] Cinematic Film Printing Master
@@ -8521,7 +8379,6 @@
 - [947] Fantastic handmade paper crafts
 - [945] Selfie with 2D animation illustration
 - [944] Transform subjects into clay-style 3D characters
-- [941] Attractions change with the seasons
 - [939] Young woman squatting elegantly for selfie indoors
 - [936] The evolution of Stark Industries' Iron Man suit
 - [935] Seamlessly blending two different eras
@@ -8610,7 +8467,7 @@
 - [782] Christmas Special - Christmas Sweet Girl
 - [780] Christmas Special - My Christmas is in tune with myself
 
-### pixel (36)
+### pixel (35)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1748] Displayed on mobile phone screens in Japan in the early 2000s
@@ -8638,7 +8495,6 @@
 - [994] Transform comic book characters into hyper-realistic humans
 - [992] MacBook selfie (couple model)
 - [988] Large-sized iPhone 17 Pro Max scene
-- [986] A movie poster template
 - [961] The perfect blend of photos and sketches
 - [956] Y2K Millennial Hottie Retro Pixel Style
 - [953] Each frame of the 6-panel comic has a different style
@@ -8648,7 +8504,7 @@
 - [845] minimalist food photography
 - [792] Woman is stepping out of her mobile phone screen
 
-### portrait (325)
+### portrait (323)
 - [1840] Stylized 3D character caricature
 - [1835] Watch the fireworks show from the top of the mountain
 - [1834] Hong Kong Victoria Harbor Fireworks Show
@@ -8859,7 +8715,6 @@
 - [1038] Hyper-realistic 8K portrait of an attractive woman
 - [1034] Young woman with long brown hair taking selfie
 - [1032] 3x3 grid soft pink and blue toned studio photo shoot
-- [1028] Shanghai 3D City Time Tour
 - [1024] Female character portrait in hyper-realistic style
 - [1021] Generate ultra-realistic AI influencers
 - [1018] A beautiful photo collage of four frames
@@ -8919,7 +8774,6 @@
 - [908] Cute clay style themed poster
 - [907] Reality and inner spirit meet in the magic mirror
 - [906] The person in the photo is holding the product in one hand
-- [904] Floating Tai Chi cute 3D cartoon scene
 - [903] Generate scene posters for any movie, TV series or novel
 - [900] people magazine collage cover
 - [899] Facebook profile interface
@@ -8975,7 +8829,7 @@
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 - [780] Christmas Special - My Christmas is in tune with myself
 
-### poster (73)
+### poster (67)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1823] Mini branded night light design
 - [1821] The integration of virtual and reality
@@ -9018,22 +8872,16 @@
 - [1281] Beauty detector
 - [1247] Super Smash Bros. game poster family portrait
 - [1221] cyber almanac
-- [1217] Brand co-branded poster
-- [1182] Highly detailed 3D infographic poster
 - [1141] Oriental Martial Arts Epic Poster-Sword Shadow Beauty
 - [1134] Fictional English Movie Poster - A Taste of Memories
 - [1082] Modern vector poster portrait
 - [1009] Colorful scrapbook poster style
 - [997] Girl standing near blackboard holding chalk in hand
-- [986] A movie poster template
 - [936] The evolution of Stark Industries' Iron Man suit
 - [925] Cinematic double exposure poster design
 - [920] A 3D game level map poster
-- [918] Cute sleep report poster
 - [908] Cute clay style themed poster
-- [904] Floating Tai Chi cute 3D cartoon scene
 - [903] Generate scene posters for any movie, TV series or novel
-- [901] Healing fairy tale clay poster
 - [896] An exploded view of a dragon's anatomy
 - [881] 9-square grid nude 3D collage poster
 - [876] Elf in the snow scene
@@ -9050,7 +8898,7 @@
 - [790] iron man coca cola
 - [785] Turn your favorite characters into collectibles
 
-### product (112)
+### product (110)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1821] The integration of virtual and reality
 - [1812] Branded product packaging
@@ -9141,9 +8989,7 @@
 - [1052] 3×3 beauty e-commerce advertising production
 - [1020] Q version Starbucks mini concept store
 - [1016] Photos turned into beautiful acrylic artwork
-- [986] A movie poster template
 - [971] Woman holding blister packaging close to camera
-- [942] Research and data visualization design
 - [936] The evolution of Stark Industries' Iron Man suit
 - [922] High fashion photos shot with ultra-wide angle
 - [915] Studio photo shoot of product
@@ -9164,7 +9010,7 @@
 - [785] Turn your favorite characters into collectibles
 - [784] Visualization of gadgets and inventions from a given year
 
-### retro (81)
+### retro (79)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1805] Colorful Y2K scrapbooking poster
 - [1784] Hyper-realistic style real and cartoon separation effect
@@ -9207,7 +9053,6 @@
 - [1209] labubu style dynamics
 - [1198] Labubu and Dilireba high-end fashion cross-page blockbuster
 - [1186] style learning
-- [1173] Modern Chicago Riverside Qingming Riverside Scene Style
 - [1155] Yellowed old newspaper account
 - [1150] Beautiful 3D renderings of the handheld game console
 - [1145] Young woman sitting sideways on arcade stool
@@ -9226,7 +9071,6 @@
 - [1068] Woman in suit poses for suspect photo
 - [1059] Extremely close selfie
 - [1038] Hyper-realistic 8K portrait of an attractive woman
-- [1028] Shanghai 3D City Time Tour
 - [1021] Generate ultra-realistic AI influencers
 - [1013] porcelain doll style photos
 - [1009] Colorful scrapbook poster style
@@ -9273,7 +9117,7 @@
 - [858] 3x3 grid Pixar style storyboard
 - [830] Urban streetwear editorial collage
 
-### sculpture (29)
+### sculpture (28)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1800] 9-square grid product display
 - [1716] Christmas Special - A cool Christmas, sweet and cool all in a small space
@@ -9297,14 +9141,13 @@
 - [1473] Colorful handmade sculptures
 - [1401] Photorealistic concept food art portrait
 - [1280] Statue of Liberty architectural blueprint
-- [1219] Aerial photography of old Beijing
 - [944] Transform subjects into clay-style 3D characters
 - [909] Animals and humans alike are transformed into neon glass creatures
 - [808] Product high-end commercial marketing design
 - [803] Woman standing next to KAWS style art sculpture
 - [791] Editorial photo for concept art magazine
 
-### toy (64)
+### toy (63)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1757] custom balloons
 - [1746] cartoon style keychain
@@ -9358,7 +9201,6 @@
 - [1020] Q version Starbucks mini concept store
 - [1014] Refrigerator magnet prompt word template
 - [1012] Q version miniature travel concept design
-- [986] A movie poster template
 - [980] Lady on huge stylish curved 3D billboard
 - [964] A small animated version of myself appeared in the window
 - [929] Real world tilt-shift photography
@@ -9370,7 +9212,7 @@
 - [807] Winter solstice poster
 - [785] Turn your favorite characters into collectibles
 
-### typography (117)
+### typography (108)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1825] Woman with long blond curly hair and fair complexion
 - [1823] Mini branded night light design
@@ -9414,11 +9256,8 @@
 - [1245] Recipe - Tomato Scrambled Eggs
 - [1242] One-click OOTD
 - [1228] PS5 technical blueprint
-- [1222] Chengdu tourist map
 - [1221] cyber almanac
 - [1220] Illustrations of Chang'an in the Tang Dynasty
-- [1219] Aerial photography of old Beijing
-- [1217] Brand co-branded poster
 - [1210] HD magazine spread
 - [1209] labubu style dynamics
 - [1204] minimalist cocktail photography
@@ -9428,7 +9267,6 @@
 - [1196] Minecraft Mysterious Age Information Card
 - [1194] Literacy tabloid meta prompt words
 - [1183] Item disassembly diagram
-- [1182] Highly detailed 3D infographic poster
 - [1180] City dynamic weather card
 - [1177] Hand drawn calendar illustration
 - [1175] LINE style half-length Q version emoticon pack
@@ -9451,19 +9289,14 @@
 - [1054] Horoscope card
 - [1048] Modern Teenage Fantasy Comics
 - [1043] Miniature 3D cartoon view showing the city's three tallest buildings
-- [1028] Shanghai 3D City Time Tour
 - [1025] Children's hand drawn travel diary style
 - [1003] Judy and Pinecone’s joint magazine
-- [986] A movie poster template
 - [973] Use the experiences of the characters in the work to paint a picture
 - [948] A miniature world handcrafted from plush textiles
 - [946] Miniature 3D cartoon scene
-- [942] Research and data visualization design
 - [936] The evolution of Stark Industries' Iron Man suit
 - [920] A 3D game level map poster
-- [918] Cute sleep report poster
 - [908] Cute clay style themed poster
-- [904] Floating Tai Chi cute 3D cartoon scene
 - [903] Generate scene posters for any movie, TV series or novel
 - [900] people magazine collage cover
 - [897] Convert to graffiti style
@@ -9489,7 +9322,7 @@
 - [787] Five-part wide-format film collage
 - [784] Visualization of gadgets and inventions from a given year
 
-### ui (38)
+### ui (37)
 - [1835] Watch the fireworks show from the top of the mountain
 - [1776] A super realistic vertical photo
 - [1750] A complete high-end product promotional photo
@@ -9509,7 +9342,6 @@
 - [1325] Cyber ​​aesthetics future social software interface photos
 - [1301] Young woman by the window on the bus
 - [1297] A realistic full-body portrait
-- [1219] Aerial photography of old Beijing
 - [1203] High end studio photos
 - [1202] dragon ball cards
 - [1156] Golden Retriever Live
@@ -9529,7 +9361,7 @@
 - [792] Woman is stepping out of her mobile phone screen
 - [791] Editorial photo for concept art magazine
 
-### vehicle (242)
+### vehicle (237)
 - [1850] Cute cartoon soul
 - [1840] Stylized 3D character caricature
 - [1836] City top view isometric 3D cartoon miniature scene
@@ -9670,7 +9502,6 @@
 - [1179] Turn articles into blackboard newspapers
 - [1178] Turn articles into cartoon infographics
 - [1177] Hand drawn calendar illustration
-- [1173] Modern Chicago Riverside Qingming Riverside Scene Style
 - [1147] Pixar style 3D animated scenes
 - [1134] Fictional English Movie Poster - A Taste of Memories
 - [1133] Real person to 3D comic
@@ -9703,7 +9534,6 @@
 - [1031] Japanese girl rushes to the subway
 - [1030] Felt toys
 - [1029] Close-up of tender young woman
-- [1028] Shanghai 3D City Time Tour
 - [1026] Generate 3×3 photo grid photos
 - [1023] Cyberpunk aesthetic style card
 - [1017] Artistic digital scrapbooking style
@@ -9729,7 +9559,6 @@
 - [947] Fantastic handmade paper crafts
 - [946] Miniature 3D cartoon scene
 - [944] Transform subjects into clay-style 3D characters
-- [942] Research and data visualization design
 - [935] Seamlessly blending two different eras
 - [934] Reality-distorting mirror selfie that incorporates multiple media elements
 - [933] A set of cyberpunk style fashion blockbusters
@@ -9741,8 +9570,6 @@
 - [913] Special report on Tokyo nightlife
 - [908] Cute clay style themed poster
 - [905] Giant Korean woman in the bustling street
-- [904] Floating Tai Chi cute 3D cartoon scene
-- [901] Healing fairy tale clay poster
 - [899] Facebook profile interface
 - [897] Convert to graffiti style
 - [894] Dongshan Xiaohong

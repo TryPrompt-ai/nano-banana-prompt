@@ -1,6 +1,6 @@
 # Product Prompts
 
-> Found 112 prompts in this category.
+> Found 110 prompts in this category.
 
 ---
 
@@ -2593,72 +2593,6 @@ Strong cool diagonal lighting passes through the highly transparent artwork. **I
 
 ---
 
-## A movie poster template
-
-![A movie poster template](https://opennana.com/awesome-prompt-gallery/images/742.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@sundyme](https://x.com/sundyme/status/1996572954931437867)
-- **Tags:** animal, character, felt, illustration, landscape, minimalist, photography, pixel, poster, product, toy, typography
-
-**Prompt:**
-
-```
-Please design a poster for the movie "" in this style. Regenerate pictures based on generated prompt words
-Style description template:
-{
-  "style_template_en_v2": {
-    "style_name": "3D Q-Version Healing Toy Movie Poster (Optimized)",
-    "style_description": "A highly tactile 3D digital rendering style mimicking macro product photography of premium designer toy collectibles. It transforms movie characters and scenes into cute, Q-version miniature dioramas. The core aesthetic relies on the contrast between matte resin/vinyl surfaces and soft, flocked plush textures, bathed in warm, diffused light to create a calm, healing atmosphere with clean poster typography.",
-
-    "style_prompt": {
-      "positive": "A tactile 3D digital render mimicking high-end product photography of collectible designer toys presented as a movie poster. Cute Q-version proportions. The defining feature is mixed materials: smooth matte resin or vinyl for bodies/hard objects contrasting with soft, fuzzy flocked plush textures (like felt or velvet) on clothing, hair, moss, or animals. The setting is a miniature natural diorama. Lighting is soft, warm, and diffused with gentle dappled shadows (komorebi effect), creating a calm, healing (healing) atmosphere. Shallow depth of field, macro lens effect, bokeh background. Clean bilingual typography.",
-      "negative": "2D illustration, painting, pixel art, low poly, rough sketch, realistic human proportions, harsh direct lighting, hard dark shadows, glossy plastic shine, metallic reflections, noisy grain, blurry textures, distressed or grungy look, aggressive mood, dark themes, excessive ornamental decoration on text elements."
-    },
-
-    "composition_guidelines": {
-      "top_element": {
-        "content_goal": "Stylized Bilingual Movie Title",
-        "visual_directive": {
-          "position": "Top center, prominent placement.",
-          "font_style": "Cute, decorative serif or rounded font that echoes the movie's theme (e.g., integrating tiny leaves, clouds, or icons relevant to the film).",
-          "structure": "Large Chinese title above smaller English subtitle."
-        }
-      },
-      "center_element": {
-        "content_goal": "Main Character(s) in Miniature Diorama",
-        "visual_directive": {
-          "subject_style": "Cute, proportional Q-version toy figurines.",
-          "material_focus": "Emphasize the contrast between matte skin/armor versus flocked clothing/hair.",
-          "environment": "A self-contained, soft-focus miniature environment diorama (e.g., on a floating island, a windowsill, inside a glass cloche) that tells the movie's story gently."
-        }
-      },
-      "bottom_element": {
-        "content_goal": "Healing Interpretation Quote",
-        "visual_directive": {
-          "position": "Bottom center, grounding the composition.",
-          "font_style": "Refined, clean serif or elegant handwritten style. Small and subtle.",
-          "decoration_style": "Minimalist. Clean text only. Avoid excessive scrolls, banners, ornate lines, or complex decorative borders surrounding the text (as per recent optimization)."
-        }
-      }
-    },
-
-    "rendering_and_atmosphere": {
-      "lighting_style": "Soft, warm, diffused natural light. Golden hour feel. Gentle, non-harsh shadows. Dappled light effects are highly encouraged.",
-      "camera_lens": "Macro photography aesthetic. Very shallow depth of field, focusing sharply on the toy textures while blurring the foreground and background into soft bokeh.",
-      "emotional_mood": "Warm, calm, cozy, safe, nostalgic, and healing."
-    },
-
-    "usage_notes": {
-      "best_suited_for": "Transforming emotionally resonant or even slightly dark movies into comforting, collectible merchandise forms.",
-      "key_success_factor": "The success of this style hinges on the convincing rendering of the 'flocked/fuzzy' texture against the 'smooth matte' texture. The lighting must be gentle to sell the 'healing' vibe."
-    }
-  }
-}
-```
-
----
-
 ## Woman holding blister packaging close to camera
 
 ![Woman holding blister packaging close to camera](https://opennana.com/awesome-prompt-gallery/images/757.jpeg)
@@ -2740,64 +2674,6 @@ Style description template:
     "aspect_ratio": "2.39:1_cinematic"
   }
 }
-```
-
----
-
-## Research and data visualization design
-
-![Research and data visualization design](https://opennana.com/awesome-prompt-gallery/images/786.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@op7418](https://x.com/op7418/status/1997715077789897182)
-- **Tags:** branding, infographic, minimalist, paper-craft, product, typography, vehicle
-
-**Prompt:**
-
-```
-[Core mission instructions]
-You are an AI expert with real-time web search capabilities and top-notch data visualization design capabilities. Please follow these two steps:
-Research stage: Immediately conduct a comprehensive online survey on the [2025 China New Energy Vehicles] specified by the user. Collect public reputation, market popularity, professional reviews and user feedback data on different sub-products, models or works in this field.
-
-Visualization stage: Based on your research results, design a professional infographic (Infographic). You need to accurately classify the specific items you have investigated into the five "from ramming to pulling" visual grade modules defined below.
-
-[User-specified target areas/products]
-[Fill in the content you need to research here, for example: popular smartphones in 2024, sugar-free tea drink brands on the market, Marvel movies in the past ten years, code editors commonly used by programmers]
-
-[Image design requirements]
-Overall style:
-A clearly structured and modern modular infographic using a "Bento Grid" layout. The background is clean and concise, focusing on content presentation. Visually, it must reflect a strong sense of hierarchy from high to low.
-
-Hierarchical structure and visual definition (strictly implement the following five levels):
-
-Level 1 (highest level): Hāng
-Survey filling criteria: According to the survey, the product/work is currently recognized as the "son of the version" in this field, has a dominant level of popularity, and is an undisputed top product/work.
-
-Visual expression: occupying the top or largest layout module of the screen. The color tone is extremely explosive bursting red and brilliant gold, with visual special effects of halo or energy overflow. The font size is the largest and boldest. The module needs to display the name or high-quality image of the representative product that has been researched, and be accompanied by a minimalist phrase of praise (such as "the whole network is popular", "a masterpiece").
-
-Level 2: Top
-
-Survey filling standards: Hard-core powerhouse, although it may not be as popular as "Tang", it has an excellent reputation and is the first choice of high-quality projects among experts.
-
-Visual representation: Located on the second floor. The color palette is a solid, premium burnt orange and metallic silver. The module design looks solid and rich in texture. Display representative and powerful products.
-
-Level 3: People are better than others
-
-Research filling criteria: excellent choice, online taste, the backbone of the product that will definitely not make you lose money after buying/watching it, which represents a certain degree of connoisseurship.
-
-Visual representation: located in the middle level. The color palette is bright, clean lemon yellow and cool gray. The design style is modern and refreshing. Display representative high-quality middle-class products.
-
-Level 4: NPC
-
-Research filling criteria: products with a public face that have no memorable points, industrial assembly line products that are just a few, have no merit and are easy to be forgotten. The specific product or brand or person’s name must be written and do not be vague.
-
-Visual presentation: located in the lower middle level. The shades are bland bread/beige or cardboard brown. Modular design appears ordinary, repetitive and lacks personality. Showcasing products that are very mediocre.
-
-Level 5 (bottom level): Finished
-
-Survey filling standards: The recognized "lightning rods", "IQ tax", catastrophic failure products or even existence that is worse than nothing found in the survey must be written with the specific product or brand or the name of the person without being vague.
-
-Visual performance: squeezed at the bottom or corner of the screen, the visual space is compressed. The color tone is hopelessly black and pale, with obvious digital glitches, broken or decayed visual effects. Display products that are known to have flipped over, along with warning phrases (e.g., "Run away," "Big mistake").
 ```
 
 ---

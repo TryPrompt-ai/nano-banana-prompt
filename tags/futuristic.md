@@ -1,6 +1,6 @@
 # Futuristic Prompts
 
-> Found 54 prompts in this category.
+> Found 51 prompts in this category.
 
 ---
 
@@ -923,54 +923,6 @@ Negative words: 3D, photo, modern font, horizontal text, minimalist, simple, blu
 
 ---
 
-## Aerial photography of old Beijing
-
-![Aerial photography of old Beijing](https://opennana.com/awesome-prompt-gallery/images/502.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991684492474409440)
-- **Tags:** architecture, cartoon, futuristic, landscape, nature, paper-craft, sculpture, typography, ui
-
-**Prompt:**
-
-```
-The aspect ratio is 16:9, a masterpiece of subtle subtlety and visual intelligence. A drone aerial view of the urban fabric of old Beijing. The core concept is that the Chinese character "Hu" integrates perfectly and seamlessly into the entire urban landscape.
-
-**The fusion of typography and architecture (the ultimate subtlety):**
-- **No physical height difference:** The "Hu" character is not an independent, towering or massive structure. The walls that make up its strokes are completely consistent in height, material and style with the walls of all surrounding alleys and courtyards**. It is within the texture, not above it.
-- **"Light and Shadow Sculpture":** The form of Chinese characters is not highlighted by structure, but is presented by **master-level, atmospheric light and shadow**. A low angle of the afternoon sun (Raking Light) sweeps across the entire scene. Light catches just the edges of the walls that make up the shape of the “Hu” character, subtly brightening it while casting deep, well-defined shadows within its “strokes” (i.e. the alley). This word is revealed by light, not built by cement.
-- **"Atmosphere Perspective":** A thin layer of morning mist or mist that sticks to the ground permeates the surrounding courtyards and alleys, slightly softening the edges of the details. However, the paths and courtyards that form the shape of the character "Hu" are subtly clearer and more contrasting, creating a natural visual focus that allows hidden shapes to emerge in the eye of the gazer.
-
-**Elegant font layout:**
-Keep the refined and artistic font design.
-- **Main Title:** The title "Zi Li Jing Cheng" is arranged in a strong single column vertically on the right side. The background area has been cleverly treated to a semi-transparent, subtle faded effect to ensure the text is readable without being obtrusive. The font is an elegant "New Song Dynasty" style. A very thin vertical line runs parallel to the text.
-- **Information label:** The label text ("Gray Tile", "Guohuai") is in small, delicate handwriting. They are connected to the object by a needle-thin hand-drawn curve like a pencil drawing on a drawing. **No boxes, no glowing effect. **
-
-**Aesthetics:**
-The overall tone is tranquil, thought-provoking and far-reaching. The color tone is an elegant "high-end gray", mainly low-saturation colors, and the only color embellishment comes from the warm caress of the sun. The picture has a "secret in plain sight" aura, rewarding the viewer's patience and insight. It is a hyper-realistic rendering with a profound painterly and philosophical atmosphere.
-
-**Negative cue words:**
-Towering walls, sculptural Chinese characters, huge structures, overly obvious Chinese character shapes, average lighting, flat lighting, glowing boxes, futuristic UI, sans serif fonts, abstract, 2D, bright colors, cartoons, bad calligraphy, watermarks.
-```
-
----
-
-## Brand co-branded poster
-
-![Brand co-branded poster](https://opennana.com/awesome-prompt-gallery/images/504.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991761772454224349)
-- **Tags:** branding, character, futuristic, gaming, landscape, logo, neon, poster, typography
-
-**Prompt:**
-
-```
-Aspect ratio 16:9, official game linkage poster, masterpiece, vibrant "Zero" anime style.  Scene: Four stylish anime characters (a pink-haired girl in a black jacket is the visual center, a silver-haired girl, a white-haired boy, and a black-haired boy) pose in a futuristic city night, each holding a glass of Coke.  Environment: This is a nighttime street in a futuristic city, where the entire scene is dominated by huge, glowing neon signs.  A large, unmissable neon sign featuring a stylized "ZZZ" logo is the absolute focal point of the background, shining brightly behind the protagonists. Other neon signs reading "Coca-Cola" are equally eye-catching, bathing the entire scene in vivid purple and blue light.  Special effects: Fruits such as strawberries and lemons are encased in transparent bubbles and float, with glowing pink and blue energy swirling across the frame.  Text elements: Upper left corner: Displaying the logo of "Zero Zero" and "Coke", connected by "X".  Bottom center: A large block of eye-catching Chinese text "Zero Zero X Coke: Awakening of powers, double happiness!". The font is bold, stylized word art with white fill and thick purple-pink gradient strokes.  Below the Chinese: There is "LIMITED COLLAB" in white capital letters in a black rectangular frame.  Art style: Highly detailed, clean lines, cinematic light effects from giant neon signs, dynamic compositions.  Negative warning words: blurry, low quality, broken human structure, hand deformity, ugly, watermark, signature, garbled text, deformed letters
-```
-
----
-
 ## dragon ball cards
 
 ![dragon ball cards](https://opennana.com/awesome-prompt-gallery/images/520.jpeg)
@@ -1088,22 +1040,6 @@ Create a detailed technical illustration of a Cybernetic Samurai, exploded into 
   "prompt": "hyperrealistic ultra-detailed 8k photo of YOU (Upload Your Photo) standing in a bright cozy living room, same location as the reference: cream-colored sofa, large white curtains with soft daylight shining through, warm neutral walls, several green houseplants, minimal decor, natural sunlight and soft shadows. Use the uploaded photo as the main subject of the image, preserving the face, hairstyle, body type, clothing, and overall style exactly as in the uploaded photo. The subject is standing in front of the sofa, body slightly angled to the side, legs close together, one hip slightly popped, holding a smartphone in one hand at chest height, screen facing them, as if taking a mirror selfie, with a relaxed confident expression and slight smile, eyes toward the phone. Behind them, their partner is standing very close, a tall, attractive humanoid robot with a highly muscular, athletic build, entirely robotic with no human skin, detailed mechanical anatomy inspired by a futuristic cyborg: layered silver and gunmetal plates, visible bundles of flexible cables as muscles, complex joints, smooth armor around shoulders, chest, arms, and legs, elegant angular robotic face with a strong jawline, glowing blue eyes, subtle wear and micro-scratches on metal for realism. The robot’s torso is broad and V-shaped, narrow waist, perfect proportions, clearly fit and powerful but aesthetically beautiful. The robot stands just behind the subject with one sleek metallic arm wrapped gently and protectively around the front of their neck and shoulders, hand resting softly near the collarbone in an affectionate pose, the other arm relaxed at its side. Their bodies are close, giving a sense of intimacy and comfort. Extremely realistic skin texture on the subject, natural hair strands, detailed fabric texture and wrinkles on their clothing, realistic reflections and specular highlights on the robot’s metal surfaces, accurate global illumination and depth of field, sharp focus on both characters, slight background blur. Photoreal, cinematic lighting, no fantasy effects, looks like a real candid photo taken on a phone in this apartment.",
   "negative_prompt": "cartoon, anime, illustration, painting, 3d render, CGI, low resolution, blurry, grainy, oversaturated, unrealistic proportions, extra limbs, deformed hands, distorted face, visible mirror edges, text, watermark, logo, armor covering the subject, human skin on the robot, grotesque, horror, gore"
 }
-```
-
----
-
-## Shanghai 3D City Time Tour
-
-![Shanghai 3D City Time Tour](https://opennana.com/awesome-prompt-gallery/images/700.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@servasyy](https://x.com/servasyy/status/1995412825003708860)
-- **Tags:** 3d, architecture, futuristic, landscape, neon, paper-craft, photography, portrait, retro, typography, vehicle
-
-**Prompt:**
-
-```
-A stunning hyper-realistic 3D render of Shanghai's architectural evolution displayed as detailed miniature model diorama on a large circular floating platform, like a round disc divided into four distinct quadrants. ALL buildings are rendered as tangible 3D miniature models with physical depth and dimension, not flat backgrounds. The circular platform has thick layered edges resembling geological strata in shades of brown, beige, and turquoise blue. First quadrant (top-left): 3D miniature models of traditional Shikumen stone-gate houses with gray tiled roofs, wooden window frames, gray brick walls, red paper lanterns, tiny vintage bicycles and rickshaws as 3D models, miniature human figures. Second quadrant (top-right): 3D miniature models of The Bund architecture - Art Deco Peace Hotel with green copper roof (3D model), neoclassical HSBC Building dome (3D model), Gothic customs house tower clock (3D model), cream and golden facades, tiny 1930s cars as 3D models, miniature pedestrian figures. Third quadrant (bottom-right): 3D miniature models of modern Pudong skyline - Oriental Pearl Tower with pink spheres (detailed 3D model), Jin Mao Tower (3D model), Shanghai Tower twisted glass form (3D model), Shanghai World Financial Center (3D model), all skyscrapers rendered as physical miniature 3D models with depth, tiny modern vehicles, contemporary miniature figures. Fourth quadrant (bottom-left): 3D miniature models of future sustainable architecture - vertical forest towers covered in tiny green plants (3D models), transparent solar panel buildings (3D models), organic curved parametric structures (3D models), elevated hyperloop stations (3D models), tiny drones and flying vehicles as 3D models, miniature futuristic figures. The circular platform floats above realistic 3D rendered Huangpu River water with reflections. Traditional wooden sampan boats (3D models) transform into sleek modern cruise ships (detailed 3D models). Platform edges show beautiful wave-like geological strata texture. Background features atmospheric misty Shanghai skyline silhouettes transitioning from warm dawn orange through pink-purple twilight to deep night blue with stars. Lighting transitions across quadrants: warm sepia tone for Shikumen, golden hour sunlight for Bund, vibrant electric blue neon for modern Pudong, holographic cyan-magenta glow for future section. At top center: elegant bilingual typography "Shanghai" SHANGHAI" combining traditional calligraphy with modern sans-serif, subtitle "Architectural Journey Time" and "Architectural Journey Through Time". Ultra-realistic 3D rendering style, architectural professional miniature photography, tilt-shift lens effect creating miniature appearance, all elements have physical 3D depth and dimension, hyper-detailed textures showing model craftsmanship, 4K resolution, museum-quality diorama presentation, dramatic studio lighting with depth and atmosphere, every building is a tactile 3D miniature model not a flat image.
 ```
 
 ---

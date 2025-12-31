@@ -2,7 +2,7 @@
 
 > A premium, curated collection of high-quality AI prompts for image generation. Optimized for artists, designers, and prompt engineers.
 
-**Total Prompts:** 973
+**Total Prompts:** 960
 **Last Updated:** 2025-12-31
 
 ## 🚀 Quick Navigation
@@ -845,5 +845,5 @@ Mood & vibe: playful yet luxurious, high-fashion beauty editorial, realistic, no
 
 
 > [!TIP]
-> **[View All 973 Prompts in the Index →](INDEX.md)**
+> **[View All 960 Prompts in the Index →](INDEX.md)**
 

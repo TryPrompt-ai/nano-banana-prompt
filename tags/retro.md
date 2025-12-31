@@ -1,6 +1,6 @@
 # Retro Prompts
 
-> Found 81 prompts in this category.
+> Found 79 prompts in this category.
 
 ---
 
@@ -1411,28 +1411,6 @@ Learn this style and design a retro DSLR camera.
 
 ---
 
-## Modern Chicago Riverside Qingming Riverside Scene Style
-
-![Modern Chicago Riverside Qingming Riverside Scene Style](https://opennana.com/awesome-prompt-gallery/images/551.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@dotey](https://x.com/dotey/status/1992469131438719122)
-- **Tags:** architecture, food, landscape, photography, retro, vehicle
-
-**Prompt:**
-
-```
-A sweeping, highly detailed traditional Chinese ink and color handscroll painting on aged silk, perfectly emulating the artistic style, brushwork, and scattered point perspective of Zhang Zeduan's "Along the River During the Qingming Festival."
-
-Central Scene: A bird's-eye view of the bustling modern Chicago riverfront. The focus is the massive steel bascule bridge (DuSable Bridge/Michigan Avenue Bridge), jammed with heavy contemporary traffic including countless cars, yellow taxis, and CTA buses, all rendered with precise traditional brushstrokes.
-
-Environmental Details: The Chicago River below is filled with modern architectural tour boats, water taxis, and kayakers. The riverbanks are lined with dense, vintage-style Chicago skyscrapers (resembling the Wrigley Building and Tribune Tower), drawn using traditional "jiehua" architectural painting techniques. An elevated railway structure with a moving 'L' train is visible in the background.
-
-Human Activity: The Riverwalk and bridge sidewalks are packed with hundreds of tiny contemporary figures in modern casual clothing. They are shown jogging, taking photos with smartphones, queuing at street food vendors (hot dog stands), and walking dogs. The entire scene is incredibly detailed, chaotic, and rendered in a muted, antique earth-tone palette.
-```
-
----
-
 ## Yellowed old newspaper account
 
 ![Yellowed old newspaper account](https://opennana.com/awesome-prompt-gallery/images/569.jpeg)
@@ -2116,22 +2094,6 @@ Art style: Modern flat illustration with a lo-fi, grainy texture. Soft pastel co
   },
   "final_prompt_string": "Hyper-realistic 8k portrait of a glamorous woman with [uploaded facial features], vintage-noir style. She stands in three-quarter profile, sultry and confident, wearing a black satin backless dress with ultra-thin side straps revealing her waist. Hair styled in voluminous golden-blonde 1950s retro waves and pin-up bangs. She holds a cigarette elegantly near her face, wearing stacked silver rhinestone bracelets. Warm, dramatic low-key lighting with deep shadows and golden highlights. Smoky, intimate old Hollywood nightlife atmosphere. Shot on ultra-high-resolution camera, shallow depth of field, soft film-grain texture."
 }
-```
-
----
-
-## Shanghai 3D City Time Tour
-
-![Shanghai 3D City Time Tour](https://opennana.com/awesome-prompt-gallery/images/700.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@servasyy](https://x.com/servasyy/status/1995412825003708860)
-- **Tags:** 3d, architecture, futuristic, landscape, neon, paper-craft, photography, portrait, retro, typography, vehicle
-
-**Prompt:**
-
-```
-A stunning hyper-realistic 3D render of Shanghai's architectural evolution displayed as detailed miniature model diorama on a large circular floating platform, like a round disc divided into four distinct quadrants. ALL buildings are rendered as tangible 3D miniature models with physical depth and dimension, not flat backgrounds. The circular platform has thick layered edges resembling geological strata in shades of brown, beige, and turquoise blue. First quadrant (top-left): 3D miniature models of traditional Shikumen stone-gate houses with gray tiled roofs, wooden window frames, gray brick walls, red paper lanterns, tiny vintage bicycles and rickshaws as 3D models, miniature human figures. Second quadrant (top-right): 3D miniature models of The Bund architecture - Art Deco Peace Hotel with green copper roof (3D model), neoclassical HSBC Building dome (3D model), Gothic customs house tower clock (3D model), cream and golden facades, tiny 1930s cars as 3D models, miniature pedestrian figures. Third quadrant (bottom-right): 3D miniature models of modern Pudong skyline - Oriental Pearl Tower with pink spheres (detailed 3D model), Jin Mao Tower (3D model), Shanghai Tower twisted glass form (3D model), Shanghai World Financial Center (3D model), all skyscrapers rendered as physical miniature 3D models with depth, tiny modern vehicles, contemporary miniature figures. Fourth quadrant (bottom-left): 3D miniature models of future sustainable architecture - vertical forest towers covered in tiny green plants (3D models), transparent solar panel buildings (3D models), organic curved parametric structures (3D models), elevated hyperloop stations (3D models), tiny drones and flying vehicles as 3D models, miniature futuristic figures. The circular platform floats above realistic 3D rendered Huangpu River water with reflections. Traditional wooden sampan boats (3D models) transform into sleek modern cruise ships (detailed 3D models). Platform edges show beautiful wave-like geological strata texture. Background features atmospheric misty Shanghai skyline silhouettes transitioning from warm dawn orange through pink-purple twilight to deep night blue with stars. Lighting transitions across quadrants: warm sepia tone for Shikumen, golden hour sunlight for Bund, vibrant electric blue neon for modern Pudong, holographic cyan-magenta glow for future section. At top center: elegant bilingual typography "Shanghai" SHANGHAI" combining traditional calligraphy with modern sans-serif, subtitle "Architectural Journey Time" and "Architectural Journey Through Time". Ultra-realistic 3D rendering style, architectural professional miniature photography, tilt-shift lens effect creating miniature appearance, all elements have physical 3D depth and dimension, hyper-detailed textures showing model craftsmanship, 4K resolution, museum-quality diorama presentation, dramatic studio lighting with depth and atmosphere, every building is a tactile 3D miniature model not a flat image.
 ```
 
 ---

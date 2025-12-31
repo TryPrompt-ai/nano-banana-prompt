@@ -1,6 +1,6 @@
 # Vehicle Prompts
 
-> Found 242 prompts in this category.
+> Found 237 prompts in this category.
 
 ---
 
@@ -4481,28 +4481,6 @@ General Guidelines:
 
 ---
 
-## Modern Chicago Riverside Qingming Riverside Scene Style
-
-![Modern Chicago Riverside Qingming Riverside Scene Style](https://opennana.com/awesome-prompt-gallery/images/551.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@dotey](https://x.com/dotey/status/1992469131438719122)
-- **Tags:** architecture, food, landscape, photography, retro, vehicle
-
-**Prompt:**
-
-```
-A sweeping, highly detailed traditional Chinese ink and color handscroll painting on aged silk, perfectly emulating the artistic style, brushwork, and scattered point perspective of Zhang Zeduan's "Along the River During the Qingming Festival."
-
-Central Scene: A bird's-eye view of the bustling modern Chicago riverfront. The focus is the massive steel bascule bridge (DuSable Bridge/Michigan Avenue Bridge), jammed with heavy contemporary traffic including countless cars, yellow taxis, and CTA buses, all rendered with precise traditional brushstrokes.
-
-Environmental Details: The Chicago River below is filled with modern architectural tour boats, water taxis, and kayakers. The riverbanks are lined with dense, vintage-style Chicago skyscrapers (resembling the Wrigley Building and Tribune Tower), drawn using traditional "jiehua" architectural painting techniques. An elevated railway structure with a moving 'L' train is visible in the background.
-
-Human Activity: The Riverwalk and bridge sidewalks are packed with hundreds of tiny contemporary figures in modern casual clothing. They are shown jogging, taking photos with smartphones, queuing at street food vendors (hot dog stands), and walking dogs. The entire scene is incredibly detailed, chaotic, and rendered in a muted, antique earth-tone palette.
-```
-
----
-
 ## Pixar style 3D animated scenes
 
 ![Pixar style 3D animated scenes](https://opennana.com/awesome-prompt-gallery/images/577.jpeg)
@@ -6103,22 +6081,6 @@ Full body [SUBJECT] toy, [ATTRIBUTES/ACCESSORIES], [EXPRESSION], made of felt, i
 
 ---
 
-## Shanghai 3D City Time Tour
-
-![Shanghai 3D City Time Tour](https://opennana.com/awesome-prompt-gallery/images/700.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@servasyy](https://x.com/servasyy/status/1995412825003708860)
-- **Tags:** 3d, architecture, futuristic, landscape, neon, paper-craft, photography, portrait, retro, typography, vehicle
-
-**Prompt:**
-
-```
-A stunning hyper-realistic 3D render of Shanghai's architectural evolution displayed as detailed miniature model diorama on a large circular floating platform, like a round disc divided into four distinct quadrants. ALL buildings are rendered as tangible 3D miniature models with physical depth and dimension, not flat backgrounds. The circular platform has thick layered edges resembling geological strata in shades of brown, beige, and turquoise blue. First quadrant (top-left): 3D miniature models of traditional Shikumen stone-gate houses with gray tiled roofs, wooden window frames, gray brick walls, red paper lanterns, tiny vintage bicycles and rickshaws as 3D models, miniature human figures. Second quadrant (top-right): 3D miniature models of The Bund architecture - Art Deco Peace Hotel with green copper roof (3D model), neoclassical HSBC Building dome (3D model), Gothic customs house tower clock (3D model), cream and golden facades, tiny 1930s cars as 3D models, miniature pedestrian figures. Third quadrant (bottom-right): 3D miniature models of modern Pudong skyline - Oriental Pearl Tower with pink spheres (detailed 3D model), Jin Mao Tower (3D model), Shanghai Tower twisted glass form (3D model), Shanghai World Financial Center (3D model), all skyscrapers rendered as physical miniature 3D models with depth, tiny modern vehicles, contemporary miniature figures. Fourth quadrant (bottom-left): 3D miniature models of future sustainable architecture - vertical forest towers covered in tiny green plants (3D models), transparent solar panel buildings (3D models), organic curved parametric structures (3D models), elevated hyperloop stations (3D models), tiny drones and flying vehicles as 3D models, miniature futuristic figures. The circular platform floats above realistic 3D rendered Huangpu River water with reflections. Traditional wooden sampan boats (3D models) transform into sleek modern cruise ships (detailed 3D models). Platform edges show beautiful wave-like geological strata texture. Background features atmospheric misty Shanghai skyline silhouettes transitioning from warm dawn orange through pink-purple twilight to deep night blue with stars. Lighting transitions across quadrants: warm sepia tone for Shikumen, golden hour sunlight for Bund, vibrant electric blue neon for modern Pudong, holographic cyan-magenta glow for future section. At top center: elegant bilingual typography "Shanghai" SHANGHAI" combining traditional calligraphy with modern sans-serif, subtitle "Architectural Journey Time" and "Architectural Journey Through Time". Ultra-realistic 3D rendering style, architectural professional miniature photography, tilt-shift lens effect creating miniature appearance, all elements have physical 3D depth and dimension, hyper-detailed textures showing model craftsmanship, 4K resolution, museum-quality diorama presentation, dramatic studio lighting with depth and atmosphere, every building is a tactile 3D miniature model not a flat image.
-```
-
----
-
 ## Generate 3×3 photo grid photos
 
 ![Generate 3×3 photo grid photos](https://opennana.com/awesome-prompt-gallery/images/702.jpeg)
@@ -7344,64 +7306,6 @@ Transform the subject into a stylized 3D character with soft clay-like materials
 
 ---
 
-## Research and data visualization design
-
-![Research and data visualization design](https://opennana.com/awesome-prompt-gallery/images/786.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@op7418](https://x.com/op7418/status/1997715077789897182)
-- **Tags:** branding, infographic, minimalist, paper-craft, product, typography, vehicle
-
-**Prompt:**
-
-```
-[Core mission instructions]
-You are an AI expert with real-time web search capabilities and top-notch data visualization design capabilities. Please follow these two steps:
-Research stage: Immediately conduct a comprehensive online survey on the [2025 China New Energy Vehicles] specified by the user. Collect public reputation, market popularity, professional reviews and user feedback data on different sub-products, models or works in this field.
-
-Visualization stage: Based on your research results, design a professional infographic (Infographic). You need to accurately classify the specific items you have investigated into the five "from ramming to pulling" visual grade modules defined below.
-
-[User-specified target areas/products]
-[Fill in the content you need to research here, for example: popular smartphones in 2024, sugar-free tea drink brands on the market, Marvel movies in the past ten years, code editors commonly used by programmers]
-
-[Image design requirements]
-Overall style:
-A clearly structured and modern modular infographic using a "Bento Grid" layout. The background is clean and concise, focusing on content presentation. Visually, it must reflect a strong sense of hierarchy from high to low.
-
-Hierarchical structure and visual definition (strictly implement the following five levels):
-
-Level 1 (highest level): Hāng
-Survey filling criteria: According to the survey, the product/work is currently recognized as the "son of the version" in this field, has a dominant level of popularity, and is an undisputed top product/work.
-
-Visual expression: occupying the top or largest layout module of the screen. The color tone is extremely explosive bursting red and brilliant gold, with visual special effects of halo or energy overflow. The font size is the largest and boldest. The module needs to display the name or high-quality image of the representative product that has been researched, and be accompanied by a minimalist phrase of praise (such as "the whole network is popular", "a masterpiece").
-
-Level 2: Top
-
-Survey filling standards: Hard-core powerhouse, although it may not be as popular as "Tang", it has an excellent reputation and is the first choice of high-quality projects among experts.
-
-Visual representation: Located on the second floor. The color palette is a solid, premium burnt orange and metallic silver. The module design looks solid and rich in texture. Display representative and powerful products.
-
-Level 3: People are better than others
-
-Research filling criteria: excellent choice, online taste, the backbone of the product that will definitely not make you lose money after buying/watching it, which represents a certain degree of connoisseurship.
-
-Visual representation: located in the middle level. The color palette is bright, clean lemon yellow and cool gray. The design style is modern and refreshing. Display representative high-quality middle-class products.
-
-Level 4: NPC
-
-Research filling criteria: products with a public face that have no memorable points, industrial assembly line products that are just a few, have no merit and are easy to be forgotten. The specific product or brand or person’s name must be written and do not be vague.
-
-Visual presentation: located in the lower middle level. The shades are bland bread/beige or cardboard brown. Modular design appears ordinary, repetitive and lacks personality. Showcasing products that are very mediocre.
-
-Level 5 (bottom level): Finished
-
-Survey filling standards: The recognized "lightning rods", "IQ tax", catastrophic failure products or even existence that is worse than nothing found in the survey must be written with the specific product or brand or the name of the person without being vague.
-
-Visual performance: squeezed at the bottom or corner of the screen, the visual space is compressed. The color tone is hopelessly black and pale, with obvious digital glitches, broken or decayed visual effects. Display products that are known to have flipped over, along with warning phrases (e.g., "Run away," "Big mistake").
-```
-
----
-
 ## Seamlessly blending two different eras
 
 ![Seamlessly blending two different eras](https://opennana.com/awesome-prompt-gallery/images/793.jpeg)
@@ -7959,100 +7863,6 @@ Written on the monitor screen.
 
 ```
 A highly detailed photorealistic aerial shot looking down on a colossal Korean young woman wearing a stylish jacket and layered outfits, positioned in a crowded Tokyo street; the giant is playfully driving a tiny car with her hands while interacting with nearby buildings and street signs, tiny people and cars clustered near her feet for scale; visible close-up hands and textured clothing details; morning daylight with soft directional sunlight casting long gentle shadows, cool urban reflections on wet pavement, slight atmospheric haze and depth of field, high-resolution, crisp details, cinematic composition with leading lines along the street, muted vibrant color palette, realistic skin textures and fabric wrinkles, subtle motion blur on the tiny cars, photorealistic lens characteristics
-```
-
----
-
-## Floating Tai Chi cute 3D cartoon scene
-
-![Floating Tai Chi cute 3D cartoon scene](https://opennana.com/awesome-prompt-gallery/images/825.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@eviljer](https://x.com/eviljer/status/1998428061394751825)
-- **Tags:** 3d, architecture, cartoon, character, landscape, logo, nature, portrait, poster, typography, vehicle
-
-**Prompt:**
-
-```
-A clear, floating cute 3D cartoon diorama scene in a circular composition with rotational symmetry, echoing a yin-yang layout:
-
-Scene:
-- a single floating circular emblem viewed from isometric bird's-eye perspective (45° angle looking down).
-- one swirling half of the circle shows [Subject]'s most iconic defining scene or aspect (primary realm).
-- the opposite swirling half is the contrasting opposite realm, occupying the complementary yin-yang territory.
-- both realms share the same gravity direction and isometric orientation.
-- each half may be a continuous shared landmass OR two structurally separate diorama units that curve around each other, forming a recognizable yin-yang composition.
-
-Interpret narrative essence:
-- treat [Subject] as ONE overarching theme or entity with TWO conflicting aspects.
-- let each realm embody one aspect in a clear, visual way: the first half leans into aspect A, the opposite half leans into aspect B.
-- use characters only where they naturally serve the contrast: they may appear in one realm, both realms, or take different forms — repetition is optional, never a strict requirement.
-- place 2 distinct symbolic objects, each rooted naturally in its own world, echoing each other across the curve to suggest what was abandoned or gained between these two aspects.
-
-Yin-yang relationship:
-- design the two realms as interlocking, yin-yang-like shapes inside the circle: interlocking territories that echo yin-yang flow.
-- place the most focal element of each realm at its "yin-yang eye" position — the visual anchor point within each half's territory.
-- the two realms should feel spatially intimate and cohesive — bring them closer together to create a unified, compact circular emblem rather than loosely scattered islands.
-- the two halves are typically structurally separate with a subtle atmospheric gap, but may share ground where narrative calls for it — when adjoining, boundaries flow naturally through lighting, color temperature, and ground material shifts.
-- edge treatment: encourage organic overflow at key points — tall structures gently break the circular silhouette, ground edges fade atmospherically rather than clip sharply.
-
-Composition:
-- clean, dramatic circular multiverse — the circle reads as one unified, spatially compact emblem, with two interlocking narrative poles sitting close and relating to each other.
-- amplify contrast between the two realms: maximize visual tension to make the duality unmistakable.
-- vast open view: the scene extends naturally to its edges without boundary walls, fences, or enclosures — the horizon remains visible and unobstructed.
-
-Shadow:
-BARELY visible, extremely soft non-contact shadow with expansive fadeout — extends well beyond the diorama's footprint with a gentle gradient that blurs into the background. Viewed from bird's-eye perspective, nearly circular in shape.
-
-Render:
-- C4D. high poly with soft shading, rounded edges and bevels.
-- realistic PBR materials with tactile authenticity — avoid glossy plastic or resin appearance.
-- intricate textures, delicate detail, vivid harmonized colors. SSS texture:true.
-- CRITICAL: ground planes must remain flat and level with natural material textures appropriate to each realm.
-
-Background:
-- a single unified, clean, subtle gradient sky as the shared environment of both realms, providing generous breathing space around the circular diorama.
-
-Typography (top-center, cinematic poster-style design):
-- a prominent title "[Subject]" in a slim elegant serif (remove the brackets).
-- beneath it, a poetic, insightful subtitle that distills the story’s deepest truth or tension into one profound line.
-- create clear visual hierarchy through scale and weight contrast; allow auto line wrap and slight overlap with the top of the circle if needed.
-
-Enhance:
-- professional cinematic lighting, shaped to emphasize the contrast between the two realms while keeping both legible.
-- if characters are present, use dynamic, emotionally expressive poses that clearly align with the aspect of their realm.
-- strong sense of visual depth within each realm.
-
-Scene / lighting / cultural aesthetics:
-- contextually appropriate to [Subject].
-
-Negative:
-- [cropped elements at canvas edges, plastic/resin, hard cartoon outlines, underexposed, creepy, ceiling].
-
-ar=1:1
-[Subject] =
-```
-
----
-
-## Healing fairy tale clay poster
-
-![Healing fairy tale clay poster](https://opennana.com/awesome-prompt-gallery/images/828.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@sundyme](https://x.com/sundyme/status/1999479601744015847)
-- **Tags:** 3d, character, clay, felt, landscape, nature, poster, vehicle
-
-**Prompt:**
-
-```
-Rendered as a complete Poster design (suggested aspect ratio 3:4 or 9:16 for a full vertical poster). The overall visual style is a Soft-Focus Healing Style combining a Wes Anderson aesthetic, characterized by dreamy, cozy, warm and soft volumetric lighting. 4K Resolution, high aesthetic value.
-
-[SCENE & MATERIAL STYLE]The entire scene is rendered with a distinctive material mix of Soft Matte Clay and a little soft Felt, creating fluffy and tactile textures throughout the composition. The color palette is dominated by soft Pastel colors (Morandi/Macaron tones).
-
-[TEXT INTEGRATION]The scene integrates a creatively formed main title using environmental elements (e.g., formed by clouds, branches, or clay objects). It also includes a small, delicate, thin-stroke handwritten Chinese slogan that blends softly into the environment, appearing as part of the scene's texture rather than an overlay.
-
-Generate a list (Einstein):
 ```
 
 ---

@@ -1,6 +1,6 @@
 # Animal Prompts
 
-> Found 50 prompts in this category.
+> Found 49 prompts in this category.
 
 ---
 
@@ -1283,72 +1283,6 @@ C) Cinematic Approach
 D) Keyframes (KF# list)
 E) ONE Master Contact Sheet Image (All KFs in one grid)
 </final output format>
-```
-
----
-
-## A movie poster template
-
-![A movie poster template](https://opennana.com/awesome-prompt-gallery/images/742.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@sundyme](https://x.com/sundyme/status/1996572954931437867)
-- **Tags:** animal, character, felt, illustration, landscape, minimalist, photography, pixel, poster, product, toy, typography
-
-**Prompt:**
-
-```
-Please design a poster for the movie "" in this style. Regenerate pictures based on generated prompt words
-Style description template:
-{
-  "style_template_en_v2": {
-    "style_name": "3D Q-Version Healing Toy Movie Poster (Optimized)",
-    "style_description": "A highly tactile 3D digital rendering style mimicking macro product photography of premium designer toy collectibles. It transforms movie characters and scenes into cute, Q-version miniature dioramas. The core aesthetic relies on the contrast between matte resin/vinyl surfaces and soft, flocked plush textures, bathed in warm, diffused light to create a calm, healing atmosphere with clean poster typography.",
-
-    "style_prompt": {
-      "positive": "A tactile 3D digital render mimicking high-end product photography of collectible designer toys presented as a movie poster. Cute Q-version proportions. The defining feature is mixed materials: smooth matte resin or vinyl for bodies/hard objects contrasting with soft, fuzzy flocked plush textures (like felt or velvet) on clothing, hair, moss, or animals. The setting is a miniature natural diorama. Lighting is soft, warm, and diffused with gentle dappled shadows (komorebi effect), creating a calm, healing (healing) atmosphere. Shallow depth of field, macro lens effect, bokeh background. Clean bilingual typography.",
-      "negative": "2D illustration, painting, pixel art, low poly, rough sketch, realistic human proportions, harsh direct lighting, hard dark shadows, glossy plastic shine, metallic reflections, noisy grain, blurry textures, distressed or grungy look, aggressive mood, dark themes, excessive ornamental decoration on text elements."
-    },
-
-    "composition_guidelines": {
-      "top_element": {
-        "content_goal": "Stylized Bilingual Movie Title",
-        "visual_directive": {
-          "position": "Top center, prominent placement.",
-          "font_style": "Cute, decorative serif or rounded font that echoes the movie's theme (e.g., integrating tiny leaves, clouds, or icons relevant to the film).",
-          "structure": "Large Chinese title above smaller English subtitle."
-        }
-      },
-      "center_element": {
-        "content_goal": "Main Character(s) in Miniature Diorama",
-        "visual_directive": {
-          "subject_style": "Cute, proportional Q-version toy figurines.",
-          "material_focus": "Emphasize the contrast between matte skin/armor versus flocked clothing/hair.",
-          "environment": "A self-contained, soft-focus miniature environment diorama (e.g., on a floating island, a windowsill, inside a glass cloche) that tells the movie's story gently."
-        }
-      },
-      "bottom_element": {
-        "content_goal": "Healing Interpretation Quote",
-        "visual_directive": {
-          "position": "Bottom center, grounding the composition.",
-          "font_style": "Refined, clean serif or elegant handwritten style. Small and subtle.",
-          "decoration_style": "Minimalist. Clean text only. Avoid excessive scrolls, banners, ornate lines, or complex decorative borders surrounding the text (as per recent optimization)."
-        }
-      }
-    },
-
-    "rendering_and_atmosphere": {
-      "lighting_style": "Soft, warm, diffused natural light. Golden hour feel. Gentle, non-harsh shadows. Dappled light effects are highly encouraged.",
-      "camera_lens": "Macro photography aesthetic. Very shallow depth of field, focusing sharply on the toy textures while blurring the foreground and background into soft bokeh.",
-      "emotional_mood": "Warm, calm, cozy, safe, nostalgic, and healing."
-    },
-
-    "usage_notes": {
-      "best_suited_for": "Transforming emotionally resonant or even slightly dark movies into comforting, collectible merchandise forms.",
-      "key_success_factor": "The success of this style hinges on the convincing rendering of the 'flocked/fuzzy' texture against the 'smooth matte' texture. The lighting must be gentle to sell the 'healing' vibe."
-    }
-  }
-}
 ```
 
 ---

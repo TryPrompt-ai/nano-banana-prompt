@@ -1,6 +1,6 @@
 # Infographic Prompts
 
-> Found 25 prompts in this category.
+> Found 23 prompts in this category.
 
 ---
 
@@ -406,78 +406,6 @@ Take this paper and transform in the image of a professor whiteboard image. diag
 
 ---
 
-## Highly detailed 3D infographic poster
-
-![Highly detailed 3D infographic poster](https://opennana.com/awesome-prompt-gallery/images/541.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@cnyzgkc](https://x.com/cnyzgkc/status/1994003408207139013)
-- **Tags:** 3d, character, food, illustration, infographic, landscape, poster, typography
-
-**Prompt:**
-
-```
-Please create a high-detailed 3D infographic poster in Chinese to introduce the production process of traditional Indonesian tempeh. The poster should include a cute 3D chef character Koki Cubby (chubby, cute, wearing a white chef hat and apron, with rich expressions and bright colors).
-Every step of the production process should have Koki Cubby's help or explanation.
-Poster colors: white, leaf green, soybean yellow, tempeh brown.
-Visual style: 3D semi-realistic food illustrations + cute characters, soft light, high details.
-Headline:
-“The process of making tempeh – from soybean to finished product”
-Main picture:
-A realistic 3D tempeh box, wrapped in banana leaves or translucent plastic, with clear textured tempeh slices and white yeast (Rhizopus) threads inside. Koki Cubby stood nearby, pointing at the finished tempeh.
-Soybean picking and sorting (3D scene)
-• 3D illustration of dried soybeans placed on a wooden table.
-• Chef Kubi holds a spatula to check the quality of the soybeans.
-• Text: “Choose high-quality, clean, undamaged soybeans.”
-Soy Soak (3D Bowl)
-• The soybeans are soaked in a large bowl of water and can be seen swelling.
-• 3D blisters.
-• Chef Kubi stirs the water with a spatula.
-• Text: “Soak for 6-12 hours to allow the soybeans to swell.”
-• Boiling (3D pot steaming)
-• A large pot of soybeans is boiling.
-• 3D hot steam details.
-• Chef Cubby holds a kitchen timer.
-• Text: “Cook until tender to kill harmful bacteria.”
-• Soybean peeling and deflation
-• Squeeze and rub the soybeans to remove the skin.
-• Use a small 3D filter or do it manually.
-• Chef Cubby is helping remove soybean hulls.
-• Text: “Removing soybean hulls aids yeast fermentation.”
-Soybean screening and drying
-• Drain wet soybeans in a large sieve.
-• Chef Cubby blows dry with a small fan or absorbs the moisture with a towel.
-• Text: “Make sure soybeans are dry—too much moisture can inhibit fermentation.”
-• Added tempeh yeast (Rhizopus)
-• A bowl of 3D yeast is in the form of white fine powder.
-• Chef Cubby spreads the yeast evenly over the soybeans.
-• Text: “Mix the tempeh yeast until smooth.”
-• Wraps (leaves/plastic bags)
-• Place soybeans in a banana leaf or perforated plastic bag.
-• Little Chef Kirby presses with his little hands to make it fold neatly.
-• Text: “Wrap tightly for perfect fermentation.”
-Tempeh fermentation (24-48 hours)
-• Place tempeh on a ventilated wooden rack.
-• The texture of tempeh starts to turn white due to the action of Rhizopus fungus.
-• Little Chef Kirby sat waiting, looking at the thermometer.
-• Text: “Ferment at 30-32°C.”
-Tempeh fermentation completed
-• Tempeh is firm and white in texture with thick, neat yeast fibers.
-• Realistic 3D tempeh slices show off their internal textures.
-• Little Chef Kirby gives a thumbs up.
-• Text: “Tempeh is ready to cook—delicious, healthy, and packed with protein!”
-poster style
-• 3D infographic with simple panels, small icons and connected timelines.
-• Soft white-green gradient background.
-• Soy and tempeh with a subtle glow.
-• Modern sans serif font.
-• 4K high resolution.
-• Concise, professional and educational, suitable for children and adults.
-Change the food in this prompt word to xiaolongbao
-```
-
----
-
 ## Turn articles into blackboard newspapers
 
 ![Turn articles into blackboard newspapers](https://opennana.com/awesome-prompt-gallery/images/545.jpeg)
@@ -654,64 +582,6 @@ best quality, high-res, clean edges, masterpiece.
 ```
 Generate an infographic for the content below in the style of Ukiyoe + Cuphead
 <<Here is the content>>
-```
-
----
-
-## Research and data visualization design
-
-![Research and data visualization design](https://opennana.com/awesome-prompt-gallery/images/786.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@op7418](https://x.com/op7418/status/1997715077789897182)
-- **Tags:** branding, infographic, minimalist, paper-craft, product, typography, vehicle
-
-**Prompt:**
-
-```
-[Core mission instructions]
-You are an AI expert with real-time web search capabilities and top-notch data visualization design capabilities. Please follow these two steps:
-Research stage: Immediately conduct a comprehensive online survey on the [2025 China New Energy Vehicles] specified by the user. Collect public reputation, market popularity, professional reviews and user feedback data on different sub-products, models or works in this field.
-
-Visualization stage: Based on your research results, design a professional infographic (Infographic). You need to accurately classify the specific items you have investigated into the five "from ramming to pulling" visual grade modules defined below.
-
-[User-specified target areas/products]
-[Fill in the content you need to research here, for example: popular smartphones in 2024, sugar-free tea drink brands on the market, Marvel movies in the past ten years, code editors commonly used by programmers]
-
-[Image design requirements]
-Overall style:
-A clearly structured and modern modular infographic using a "Bento Grid" layout. The background is clean and concise, focusing on content presentation. Visually, it must reflect a strong sense of hierarchy from high to low.
-
-Hierarchical structure and visual definition (strictly implement the following five levels):
-
-Level 1 (highest level): Hāng
-Survey filling criteria: According to the survey, the product/work is currently recognized as the "son of the version" in this field, has a dominant level of popularity, and is an undisputed top product/work.
-
-Visual expression: occupying the top or largest layout module of the screen. The color tone is extremely explosive bursting red and brilliant gold, with visual special effects of halo or energy overflow. The font size is the largest and boldest. The module needs to display the name or high-quality image of the representative product that has been researched, and be accompanied by a minimalist phrase of praise (such as "the whole network is popular", "a masterpiece").
-
-Level 2: Top
-
-Survey filling standards: Hard-core powerhouse, although it may not be as popular as "Tang", it has an excellent reputation and is the first choice of high-quality projects among experts.
-
-Visual representation: Located on the second floor. The color palette is a solid, premium burnt orange and metallic silver. The module design looks solid and rich in texture. Display representative and powerful products.
-
-Level 3: People are better than others
-
-Research filling criteria: excellent choice, online taste, the backbone of the product that will definitely not make you lose money after buying/watching it, which represents a certain degree of connoisseurship.
-
-Visual representation: located in the middle level. The color palette is bright, clean lemon yellow and cool gray. The design style is modern and refreshing. Display representative high-quality middle-class products.
-
-Level 4: NPC
-
-Research filling criteria: products with a public face that have no memorable points, industrial assembly line products that are just a few, have no merit and are easy to be forgotten. The specific product or brand or person’s name must be written and do not be vague.
-
-Visual presentation: located in the lower middle level. The shades are bland bread/beige or cardboard brown. Modular design appears ordinary, repetitive and lacks personality. Showcasing products that are very mediocre.
-
-Level 5 (bottom level): Finished
-
-Survey filling standards: The recognized "lightning rods", "IQ tax", catastrophic failure products or even existence that is worse than nothing found in the survey must be written with the specific product or brand or the name of the person without being vague.
-
-Visual performance: squeezed at the bottom or corner of the screen, the visual space is compressed. The color tone is hopelessly black and pale, with obvious digital glitches, broken or decayed visual effects. Display products that are known to have flipped over, along with warning phrases (e.g., "Run away," "Big mistake").
 ```
 
 ---

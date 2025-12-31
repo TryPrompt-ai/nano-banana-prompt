@@ -1,6 +1,6 @@
 # Sculpture Prompts
 
-> Found 29 prompts in this category.
+> Found 28 prompts in this category.
 
 ---
 
@@ -483,38 +483,6 @@ Captured with a Canon EOS 5D, 85mm f/1.8 lens, shallow depth of field focusing o
 
 ```
 A photorealistic wide-angle landscape shot of the Statue of Liberty with the New York City skyline and harbor in the background. Superimposed on the scene is a white, hand-drawn augmented reality technical overlay. Features include: 1. Sketchy white leader lines pointing to key details like the "Torch," "Crown Rays," and "Copper Shell" with handwritten text labels. 2. Large dimensional vertical measurement arrows indicating the total height from ground to torch. 3. Small floating wireframe icons showing wind load data and material composition. Aesthetic: Structural engineering analysis, F1 broadcast graphics style, bright outdoor daylight, architectural blueprint overlay.
-```
-
----
-
-## Aerial photography of old Beijing
-
-![Aerial photography of old Beijing](https://opennana.com/awesome-prompt-gallery/images/502.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991684492474409440)
-- **Tags:** architecture, cartoon, futuristic, landscape, nature, paper-craft, sculpture, typography, ui
-
-**Prompt:**
-
-```
-The aspect ratio is 16:9, a masterpiece of subtle subtlety and visual intelligence. A drone aerial view of the urban fabric of old Beijing. The core concept is that the Chinese character "Hu" integrates perfectly and seamlessly into the entire urban landscape.
-
-**The fusion of typography and architecture (the ultimate subtlety):**
-- **No physical height difference:** The "Hu" character is not an independent, towering or massive structure. The walls that make up its strokes are completely consistent in height, material and style with the walls of all surrounding alleys and courtyards**. It is within the texture, not above it.
-- **"Light and Shadow Sculpture":** The form of Chinese characters is not highlighted by structure, but is presented by **master-level, atmospheric light and shadow**. A low angle of the afternoon sun (Raking Light) sweeps across the entire scene. Light catches just the edges of the walls that make up the shape of the “Hu” character, subtly brightening it while casting deep, well-defined shadows within its “strokes” (i.e. the alley). This word is revealed by light, not built by cement.
-- **"Atmosphere Perspective":** A thin layer of morning mist or mist that sticks to the ground permeates the surrounding courtyards and alleys, slightly softening the edges of the details. However, the paths and courtyards that form the shape of the character "Hu" are subtly clearer and more contrasting, creating a natural visual focus that allows hidden shapes to emerge in the eye of the gazer.
-
-**Elegant font layout:**
-Keep the refined and artistic font design.
-- **Main Title:** The title "Zi Li Jing Cheng" is arranged in a strong single column vertically on the right side. The background area has been cleverly treated to a semi-transparent, subtle faded effect to ensure the text is readable without being obtrusive. The font is an elegant "New Song Dynasty" style. A very thin vertical line runs parallel to the text.
-- **Information label:** The label text ("Gray Tile", "Guohuai") is in small, delicate handwriting. They are connected to the object by a needle-thin hand-drawn curve like a pencil drawing on a drawing. **No boxes, no glowing effect. **
-
-**Aesthetics:**
-The overall tone is tranquil, thought-provoking and far-reaching. The color tone is an elegant "high-end gray", mainly low-saturation colors, and the only color embellishment comes from the warm caress of the sun. The picture has a "secret in plain sight" aura, rewarding the viewer's patience and insight. It is a hyper-realistic rendering with a profound painterly and philosophical atmosphere.
-
-**Negative cue words:**
-Towering walls, sculptural Chinese characters, huge structures, overly obvious Chinese character shapes, average lighting, flat lighting, glowing boxes, futuristic UI, sans serif fonts, abstract, 2D, bright colors, cartoons, bad calligraphy, watermarks.
 ```
 
 ---

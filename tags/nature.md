@@ -1,6 +1,6 @@
 # Nature Prompts
 
-> Found 365 prompts in this category.
+> Found 361 prompts in this category.
 
 ---
 
@@ -6130,38 +6130,6 @@ Create a highly detailed miniature hyper-realistic scene of tiny characters real
 
 ---
 
-## Aerial photography of old Beijing
-
-![Aerial photography of old Beijing](https://opennana.com/awesome-prompt-gallery/images/502.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991684492474409440)
-- **Tags:** architecture, cartoon, futuristic, landscape, nature, paper-craft, sculpture, typography, ui
-
-**Prompt:**
-
-```
-The aspect ratio is 16:9, a masterpiece of subtle subtlety and visual intelligence. A drone aerial view of the urban fabric of old Beijing. The core concept is that the Chinese character "Hu" integrates perfectly and seamlessly into the entire urban landscape.
-
-**The fusion of typography and architecture (the ultimate subtlety):**
-- **No physical height difference:** The "Hu" character is not an independent, towering or massive structure. The walls that make up its strokes are completely consistent in height, material and style with the walls of all surrounding alleys and courtyards**. It is within the texture, not above it.
-- **"Light and Shadow Sculpture":** The form of Chinese characters is not highlighted by structure, but is presented by **master-level, atmospheric light and shadow**. A low angle of the afternoon sun (Raking Light) sweeps across the entire scene. Light catches just the edges of the walls that make up the shape of the “Hu” character, subtly brightening it while casting deep, well-defined shadows within its “strokes” (i.e. the alley). This word is revealed by light, not built by cement.
-- **"Atmosphere Perspective":** A thin layer of morning mist or mist that sticks to the ground permeates the surrounding courtyards and alleys, slightly softening the edges of the details. However, the paths and courtyards that form the shape of the character "Hu" are subtly clearer and more contrasting, creating a natural visual focus that allows hidden shapes to emerge in the eye of the gazer.
-
-**Elegant font layout:**
-Keep the refined and artistic font design.
-- **Main Title:** The title "Zi Li Jing Cheng" is arranged in a strong single column vertically on the right side. The background area has been cleverly treated to a semi-transparent, subtle faded effect to ensure the text is readable without being obtrusive. The font is an elegant "New Song Dynasty" style. A very thin vertical line runs parallel to the text.
-- **Information label:** The label text ("Gray Tile", "Guohuai") is in small, delicate handwriting. They are connected to the object by a needle-thin hand-drawn curve like a pencil drawing on a drawing. **No boxes, no glowing effect. **
-
-**Aesthetics:**
-The overall tone is tranquil, thought-provoking and far-reaching. The color tone is an elegant "high-end gray", mainly low-saturation colors, and the only color embellishment comes from the warm caress of the sun. The picture has a "secret in plain sight" aura, rewarding the viewer's patience and insight. It is a hyper-realistic rendering with a profound painterly and philosophical atmosphere.
-
-**Negative cue words:**
-Towering walls, sculptural Chinese characters, huge structures, overly obvious Chinese character shapes, average lighting, flat lighting, glowing boxes, futuristic UI, sans serif fonts, abstract, 2D, bright colors, cartoons, bad calligraphy, watermarks.
-```
-
----
-
 ## Woman beach movie style portrait
 
 ![Woman beach movie style portrait](https://opennana.com/awesome-prompt-gallery/images/508.jpeg)
@@ -11867,49 +11835,6 @@ A [SUBJECT] is crouching on the beach, lifting a wave like a carpet to reveal a 
 
 ---
 
-## Cute sleep report poster
-
-![Cute sleep report poster](https://opennana.com/awesome-prompt-gallery/images/811.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@op7418](https://x.com/op7418/status/1997274785232101723)
-- **Tags:** 3d, landscape, nature, poster, typography
-
-**Prompt:**
-
-```
-Task: Poster design, sleep data visualization art. Step 1: Analyze [uploaded Apple Watch sleep data screenshot] and extract the duration ratio of the four stages of wakefulness, REM, core, and deep sleep
-
-Picture description: The main body of the picture is a three-dimensional, vertical rectangular transparent glass container (similar to a delicate trophy base or a geological sampling tube), placed on a deep solid color background. The interior of the container is made up of four different colors of miniature landscapes stacked layer by layer. The vertical thickness of each layer must be generated according to the proportion of the [upload data] time (for example: if the core sleep time is the longest, then the blue layer should be the thickest).
-
-Landscape layering details (top to bottom):
-Top layer (very thin or based on wake time): Wake - Orange
-It appears as dry desert surface or noise texture, symbolizing the activity and chaos of consciousness.
-Second layer: rapid eye movement layer (REM - light blue)
-Appears as a dreamy sky layer filled with floating clouds, bubbles or surreal objects. The material is transparent and light.
-The third layer: core sleep layer (Core - dark blue)
-It is expressed as a soft and comfortable ocean ball accumulation layer or layered down material, giving people a stable and stable feeling.
-Bottom layer: deep sleep layer (Deep - violet)
-It appears as a hard, thick crystal mine or a stack of glowing energy blocks. This is the foundation, and the thicker it is, the better your sleep quality is.
-
-Protagonist (user image): On the top edge of the glass container (at the mouth of the bottle), there is a Q-version 3D villain sitting.
-Action: The villain's legs hang naturally and he sits on it leisurely.
-Status: If the sleep score is high, the villain can have a fully charged green battery icon on top of his head with a pleasant expression; if the score is low, the villain can look dejected or holding a cup of coffee.
-Equipment: The villain must wear a miniature smart watch on his wrist.
-
-Lighting and Rendering: Use C4D or Blender style 3D rendering. Emphasize the refractive index of the glass container and the physical texture of the various layers of materials (sand, clouds, ocean balls, crystals). The background is high-end black or midnight blue, and the lighting focuses on highlighting the transparency inside the container and the shimmer of the underlying layer.
-
-Bottom layout: concise data display.
-
-Main title: My Sleep Strata
-
-Core data: total sleep duration | sleep score
-
-Legend: Use four small dots of corresponding colors to mark the name and specific duration of each layer.
-```
-
----
-
 ## Although the body is as careful as a lion
 
 ![Although the body is as careful as a lion](https://opennana.com/awesome-prompt-gallery/images/815.jpeg)
@@ -12056,78 +11981,6 @@ Create a hyper-realistic mirror selfie of a person holding the product in one ha
 
 ---
 
-## Floating Tai Chi cute 3D cartoon scene
-
-![Floating Tai Chi cute 3D cartoon scene](https://opennana.com/awesome-prompt-gallery/images/825.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@eviljer](https://x.com/eviljer/status/1998428061394751825)
-- **Tags:** 3d, architecture, cartoon, character, landscape, logo, nature, portrait, poster, typography, vehicle
-
-**Prompt:**
-
-```
-A clear, floating cute 3D cartoon diorama scene in a circular composition with rotational symmetry, echoing a yin-yang layout:
-
-Scene:
-- a single floating circular emblem viewed from isometric bird's-eye perspective (45° angle looking down).
-- one swirling half of the circle shows [Subject]'s most iconic defining scene or aspect (primary realm).
-- the opposite swirling half is the contrasting opposite realm, occupying the complementary yin-yang territory.
-- both realms share the same gravity direction and isometric orientation.
-- each half may be a continuous shared landmass OR two structurally separate diorama units that curve around each other, forming a recognizable yin-yang composition.
-
-Interpret narrative essence:
-- treat [Subject] as ONE overarching theme or entity with TWO conflicting aspects.
-- let each realm embody one aspect in a clear, visual way: the first half leans into aspect A, the opposite half leans into aspect B.
-- use characters only where they naturally serve the contrast: they may appear in one realm, both realms, or take different forms — repetition is optional, never a strict requirement.
-- place 2 distinct symbolic objects, each rooted naturally in its own world, echoing each other across the curve to suggest what was abandoned or gained between these two aspects.
-
-Yin-yang relationship:
-- design the two realms as interlocking, yin-yang-like shapes inside the circle: interlocking territories that echo yin-yang flow.
-- place the most focal element of each realm at its "yin-yang eye" position — the visual anchor point within each half's territory.
-- the two realms should feel spatially intimate and cohesive — bring them closer together to create a unified, compact circular emblem rather than loosely scattered islands.
-- the two halves are typically structurally separate with a subtle atmospheric gap, but may share ground where narrative calls for it — when adjoining, boundaries flow naturally through lighting, color temperature, and ground material shifts.
-- edge treatment: encourage organic overflow at key points — tall structures gently break the circular silhouette, ground edges fade atmospherically rather than clip sharply.
-
-Composition:
-- clean, dramatic circular multiverse — the circle reads as one unified, spatially compact emblem, with two interlocking narrative poles sitting close and relating to each other.
-- amplify contrast between the two realms: maximize visual tension to make the duality unmistakable.
-- vast open view: the scene extends naturally to its edges without boundary walls, fences, or enclosures — the horizon remains visible and unobstructed.
-
-Shadow:
-BARELY visible, extremely soft non-contact shadow with expansive fadeout — extends well beyond the diorama's footprint with a gentle gradient that blurs into the background. Viewed from bird's-eye perspective, nearly circular in shape.
-
-Render:
-- C4D. high poly with soft shading, rounded edges and bevels.
-- realistic PBR materials with tactile authenticity — avoid glossy plastic or resin appearance.
-- intricate textures, delicate detail, vivid harmonized colors. SSS texture:true.
-- CRITICAL: ground planes must remain flat and level with natural material textures appropriate to each realm.
-
-Background:
-- a single unified, clean, subtle gradient sky as the shared environment of both realms, providing generous breathing space around the circular diorama.
-
-Typography (top-center, cinematic poster-style design):
-- a prominent title "[Subject]" in a slim elegant serif (remove the brackets).
-- beneath it, a poetic, insightful subtitle that distills the story’s deepest truth or tension into one profound line.
-- create clear visual hierarchy through scale and weight contrast; allow auto line wrap and slight overlap with the top of the circle if needed.
-
-Enhance:
-- professional cinematic lighting, shaped to emphasize the contrast between the two realms while keeping both legible.
-- if characters are present, use dynamic, emotionally expressive poses that clearly align with the aspect of their realm.
-- strong sense of visual depth within each realm.
-
-Scene / lighting / cultural aesthetics:
-- contextually appropriate to [Subject].
-
-Negative:
-- [cropped elements at canvas edges, plastic/resin, hard cartoon outlines, underexposed, creepy, ceiling].
-
-ar=1:1
-[Subject] =
-```
-
----
-
 ## Generate scene posters for any movie, TV series or novel
 
 ![Generate scene posters for any movie, TV series or novel](https://opennana.com/awesome-prompt-gallery/images/826.jpeg)
@@ -12181,28 +12034,6 @@ Aspect ratio: 2:3.
 Real_World_Scene: A winter street in Tokyo, low-saturation neon lights with a faint snowy haze
 Portal_Inner_Scene:  A futuristic city street glowing with blue holograms, neon refracting through the air
 Portal_Inner_Character: A cyborg girl with mechanical limbs wearing a semi-armored exosuit
-```
-
----
-
-## Healing fairy tale clay poster
-
-![Healing fairy tale clay poster](https://opennana.com/awesome-prompt-gallery/images/828.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@sundyme](https://x.com/sundyme/status/1999479601744015847)
-- **Tags:** 3d, character, clay, felt, landscape, nature, poster, vehicle
-
-**Prompt:**
-
-```
-Rendered as a complete Poster design (suggested aspect ratio 3:4 or 9:16 for a full vertical poster). The overall visual style is a Soft-Focus Healing Style combining a Wes Anderson aesthetic, characterized by dreamy, cozy, warm and soft volumetric lighting. 4K Resolution, high aesthetic value.
-
-[SCENE & MATERIAL STYLE]The entire scene is rendered with a distinctive material mix of Soft Matte Clay and a little soft Felt, creating fluffy and tactile textures throughout the composition. The color palette is dominated by soft Pastel colors (Morandi/Macaron tones).
-
-[TEXT INTEGRATION]The scene integrates a creatively formed main title using environmental elements (e.g., formed by clouds, branches, or clay objects). It also includes a small, delicate, thin-stroke handwritten Chinese slogan that blends softly into the environment, appearing as part of the scene's texture rather than an overlay.
-
-Generate a list (Einstein):
 ```
 
 ---

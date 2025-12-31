@@ -1,6 +1,6 @@
 # Paper-craft Prompts
 
-> Found 124 prompts in this category.
+> Found 120 prompts in this category.
 
 ---
 
@@ -1683,43 +1683,6 @@ When the user provides an image or description:
 
 ---
 
-## Chengdu tourist map
-
-![Chengdu tourist map](https://opennana.com/awesome-prompt-gallery/images/499.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991679696744976723)
-- **Tags:** architecture, illustration, minimalist, paper-craft, typography
-
-**Prompt:**
-
-```
-The aspect ratio is 16:9, a charming and exquisite hand-drawn tourist map of Chengdu, with the style of the Studio Ghibli art set. The entire composition is a watercolor and pen pastel illustration on a textured, aged parchment paper. The overall aesthetic is whimsical, vibrant and lived-in.
-
-Map layout and style:
-The map shows Chengdu's core landmarks in a stylized isometric view, depicted as cute, detailed miniature buildings and icons (e.g., pandas at the Panda Base, lanterns in Jinli, teahouses in People's Park). The layout is organic and free-flowing rather than based on a rigid grid.
-
-Crucial Typography Challenges (Hard Section):
-All text must be presented in a graceful, slightly imperfect handwritten calligraphy style (Xingkai) that looks like it was written with the same pen used to draw the illustrations.
-1. **Main title:** The main title "Chengdu Slow Travel Picture" is artistically written on a flowing ribbon at the top.
-2. **Interesting labels with angles:** Next to each landmark icon, its name is written in a playful, slightly slanted manner (for example: "Kuanzhai Alley", "Wuhou Temple", "Du Fu Thatched Cottage"). The text needs to feel organically placed, not rigid horizontal lines.
-3. **Text that curves along the path:** A stylized Jinjiang River runs through the map. The name of the river, "Jinjiang", needs to be written elegantly along the winding path of the river. This is a critical testing point.
-4. **Integrated Annotations:** The map is dotted with small, whimsical annotations that combine text and icons. For example:
-    - A note that reads "Eat hot pot!" with a tiny red pepper drawn next to it.
-    - A "Have tea!" label with a steaming miniature teacup icon next to it.
-    - The area name "Jinjiang District" is written in a hand-drawn cloud shape.
-5. **Hand-drawn legend:** In one corner, there is a hand-drawn "legend" box with small icons (such as tea cups, panda faces, temple roofs) and their corresponding hand-written labels.
-6. **Seal:** A red, hand-cut seal with the word "Rong" (abbreviation for Chengdu) printed on it, is stamped in the corner and slightly overlaps the frame.
-
-Aesthetics:
-A masterpiece of illustrative cartography. The blend of text and illustrations must be seamless. Watercolor effects should be soft, with visible water stains and textures, while pen lines should be confident and vivid. The overall feel is warm, inviting and full of character.
-
-Negative cue words:
-Computer font, computer generated text, straight lines, rigid grid, perfect alignment, only horizontal text, text overlay, photo, 3D, minimalist, generic icons, misspellings, garbled characters, watermarks.
-```
-
----
-
 ## cyber almanac
 
 ![cyber almanac](https://opennana.com/awesome-prompt-gallery/images/500.jpeg)
@@ -1740,38 +1703,6 @@ Surrounding Grid: The central statue is surrounded by a grid representing the tw
 Corner Elements: The four corners are Bagua symbols, each of which is associated with a Meituan business and a small print icon (for example, a mechanical horse represents shared bicycles).
 Details: The poster is decorated with several red, seal-script-style square seals. The overall atmosphere is a fusion of ancient mysticism and modern daily life, a "cyber Taoism" aesthetic. Masterpiece, high information density.
 Negative words: 3D, photo, modern font, horizontal text, minimalist, simple, blurry, ugly, misshapen, bad calligraphy, watermark.
-```
-
----
-
-## Aerial photography of old Beijing
-
-![Aerial photography of old Beijing](https://opennana.com/awesome-prompt-gallery/images/502.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991684492474409440)
-- **Tags:** architecture, cartoon, futuristic, landscape, nature, paper-craft, sculpture, typography, ui
-
-**Prompt:**
-
-```
-The aspect ratio is 16:9, a masterpiece of subtle subtlety and visual intelligence. A drone aerial view of the urban fabric of old Beijing. The core concept is that the Chinese character "Hu" integrates perfectly and seamlessly into the entire urban landscape.
-
-**The fusion of typography and architecture (the ultimate subtlety):**
-- **No physical height difference:** The "Hu" character is not an independent, towering or massive structure. The walls that make up its strokes are completely consistent in height, material and style with the walls of all surrounding alleys and courtyards**. It is within the texture, not above it.
-- **"Light and Shadow Sculpture":** The form of Chinese characters is not highlighted by structure, but is presented by **master-level, atmospheric light and shadow**. A low angle of the afternoon sun (Raking Light) sweeps across the entire scene. Light catches just the edges of the walls that make up the shape of the “Hu” character, subtly brightening it while casting deep, well-defined shadows within its “strokes” (i.e. the alley). This word is revealed by light, not built by cement.
-- **"Atmosphere Perspective":** A thin layer of morning mist or mist that sticks to the ground permeates the surrounding courtyards and alleys, slightly softening the edges of the details. However, the paths and courtyards that form the shape of the character "Hu" are subtly clearer and more contrasting, creating a natural visual focus that allows hidden shapes to emerge in the eye of the gazer.
-
-**Elegant font layout:**
-Keep the refined and artistic font design.
-- **Main Title:** The title "Zi Li Jing Cheng" is arranged in a strong single column vertically on the right side. The background area has been cleverly treated to a semi-transparent, subtle faded effect to ensure the text is readable without being obtrusive. The font is an elegant "New Song Dynasty" style. A very thin vertical line runs parallel to the text.
-- **Information label:** The label text ("Gray Tile", "Guohuai") is in small, delicate handwriting. They are connected to the object by a needle-thin hand-drawn curve like a pencil drawing on a drawing. **No boxes, no glowing effect. **
-
-**Aesthetics:**
-The overall tone is tranquil, thought-provoking and far-reaching. The color tone is an elegant "high-end gray", mainly low-saturation colors, and the only color embellishment comes from the warm caress of the sun. The picture has a "secret in plain sight" aura, rewarding the viewer's patience and insight. It is a hyper-realistic rendering with a profound painterly and philosophical atmosphere.
-
-**Negative cue words:**
-Towering walls, sculptural Chinese characters, huge structures, overly obvious Chinese character shapes, average lighting, flat lighting, glowing boxes, futuristic UI, sans serif fonts, abstract, 2D, bright colors, cartoons, bad calligraphy, watermarks.
 ```
 
 ---
@@ -2453,22 +2384,6 @@ Breakdown the look into a fun OOTD Fashion Collage, 9:16. Paper scribble aesthet
 
 ---
 
-## Shanghai 3D City Time Tour
-
-![Shanghai 3D City Time Tour](https://opennana.com/awesome-prompt-gallery/images/700.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@servasyy](https://x.com/servasyy/status/1995412825003708860)
-- **Tags:** 3d, architecture, futuristic, landscape, neon, paper-craft, photography, portrait, retro, typography, vehicle
-
-**Prompt:**
-
-```
-A stunning hyper-realistic 3D render of Shanghai's architectural evolution displayed as detailed miniature model diorama on a large circular floating platform, like a round disc divided into four distinct quadrants. ALL buildings are rendered as tangible 3D miniature models with physical depth and dimension, not flat backgrounds. The circular platform has thick layered edges resembling geological strata in shades of brown, beige, and turquoise blue. First quadrant (top-left): 3D miniature models of traditional Shikumen stone-gate houses with gray tiled roofs, wooden window frames, gray brick walls, red paper lanterns, tiny vintage bicycles and rickshaws as 3D models, miniature human figures. Second quadrant (top-right): 3D miniature models of The Bund architecture - Art Deco Peace Hotel with green copper roof (3D model), neoclassical HSBC Building dome (3D model), Gothic customs house tower clock (3D model), cream and golden facades, tiny 1930s cars as 3D models, miniature pedestrian figures. Third quadrant (bottom-right): 3D miniature models of modern Pudong skyline - Oriental Pearl Tower with pink spheres (detailed 3D model), Jin Mao Tower (3D model), Shanghai Tower twisted glass form (3D model), Shanghai World Financial Center (3D model), all skyscrapers rendered as physical miniature 3D models with depth, tiny modern vehicles, contemporary miniature figures. Fourth quadrant (bottom-left): 3D miniature models of future sustainable architecture - vertical forest towers covered in tiny green plants (3D models), transparent solar panel buildings (3D models), organic curved parametric structures (3D models), elevated hyperloop stations (3D models), tiny drones and flying vehicles as 3D models, miniature futuristic figures. The circular platform floats above realistic 3D rendered Huangpu River water with reflections. Traditional wooden sampan boats (3D models) transform into sleek modern cruise ships (detailed 3D models). Platform edges show beautiful wave-like geological strata texture. Background features atmospheric misty Shanghai skyline silhouettes transitioning from warm dawn orange through pink-purple twilight to deep night blue with stars. Lighting transitions across quadrants: warm sepia tone for Shikumen, golden hour sunlight for Bund, vibrant electric blue neon for modern Pudong, holographic cyan-magenta glow for future section. At top center: elegant bilingual typography "Shanghai" SHANGHAI" combining traditional calligraphy with modern sans-serif, subtitle "Architectural Journey Time" and "Architectural Journey Through Time". Ultra-realistic 3D rendering style, architectural professional miniature photography, tilt-shift lens effect creating miniature appearance, all elements have physical 3D depth and dimension, hyper-detailed textures showing model craftsmanship, 4K resolution, museum-quality diorama presentation, dramatic studio lighting with depth and atmosphere, every building is a tactile 3D miniature model not a flat image.
-```
-
----
-
 ## Children's hand drawn travel diary style
 
 ![Children's hand drawn travel diary style](https://opennana.com/awesome-prompt-gallery/images/703.jpeg)
@@ -3135,64 +3050,6 @@ A whimsical handmade paper artwork on a wooden desk: a hand-drawn cartoon 【dog
     }
   }
 }
-```
-
----
-
-## Research and data visualization design
-
-![Research and data visualization design](https://opennana.com/awesome-prompt-gallery/images/786.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@op7418](https://x.com/op7418/status/1997715077789897182)
-- **Tags:** branding, infographic, minimalist, paper-craft, product, typography, vehicle
-
-**Prompt:**
-
-```
-[Core mission instructions]
-You are an AI expert with real-time web search capabilities and top-notch data visualization design capabilities. Please follow these two steps:
-Research stage: Immediately conduct a comprehensive online survey on the [2025 China New Energy Vehicles] specified by the user. Collect public reputation, market popularity, professional reviews and user feedback data on different sub-products, models or works in this field.
-
-Visualization stage: Based on your research results, design a professional infographic (Infographic). You need to accurately classify the specific items you have investigated into the five "from ramming to pulling" visual grade modules defined below.
-
-[User-specified target areas/products]
-[Fill in the content you need to research here, for example: popular smartphones in 2024, sugar-free tea drink brands on the market, Marvel movies in the past ten years, code editors commonly used by programmers]
-
-[Image design requirements]
-Overall style:
-A clearly structured and modern modular infographic using a "Bento Grid" layout. The background is clean and concise, focusing on content presentation. Visually, it must reflect a strong sense of hierarchy from high to low.
-
-Hierarchical structure and visual definition (strictly implement the following five levels):
-
-Level 1 (highest level): Hāng
-Survey filling criteria: According to the survey, the product/work is currently recognized as the "son of the version" in this field, has a dominant level of popularity, and is an undisputed top product/work.
-
-Visual expression: occupying the top or largest layout module of the screen. The color tone is extremely explosive bursting red and brilliant gold, with visual special effects of halo or energy overflow. The font size is the largest and boldest. The module needs to display the name or high-quality image of the representative product that has been researched, and be accompanied by a minimalist phrase of praise (such as "the whole network is popular", "a masterpiece").
-
-Level 2: Top
-
-Survey filling standards: Hard-core powerhouse, although it may not be as popular as "Tang", it has an excellent reputation and is the first choice of high-quality projects among experts.
-
-Visual representation: Located on the second floor. The color palette is a solid, premium burnt orange and metallic silver. The module design looks solid and rich in texture. Display representative and powerful products.
-
-Level 3: People are better than others
-
-Research filling criteria: excellent choice, online taste, the backbone of the product that will definitely not make you lose money after buying/watching it, which represents a certain degree of connoisseurship.
-
-Visual representation: located in the middle level. The color palette is bright, clean lemon yellow and cool gray. The design style is modern and refreshing. Display representative high-quality middle-class products.
-
-Level 4: NPC
-
-Research filling criteria: products with a public face that have no memorable points, industrial assembly line products that are just a few, have no merit and are easy to be forgotten. The specific product or brand or person’s name must be written and do not be vague.
-
-Visual presentation: located in the lower middle level. The shades are bland bread/beige or cardboard brown. Modular design appears ordinary, repetitive and lacks personality. Showcasing products that are very mediocre.
-
-Level 5 (bottom level): Finished
-
-Survey filling standards: The recognized "lightning rods", "IQ tax", catastrophic failure products or even existence that is worse than nothing found in the survey must be written with the specific product or brand or the name of the person without being vague.
-
-Visual performance: squeezed at the bottom or corner of the screen, the visual space is compressed. The color tone is hopelessly black and pale, with obvious digital glitches, broken or decayed visual effects. Display products that are known to have flipped over, along with warning phrases (e.g., "Run away," "Big mistake").
 ```
 
 ---

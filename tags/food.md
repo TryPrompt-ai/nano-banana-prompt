@@ -1,6 +1,6 @@
 # Food Prompts
 
-> Found 77 prompts in this category.
+> Found 75 prompts in this category.
 
 ---
 
@@ -1543,100 +1543,6 @@ Please generate a children's literacy tabloid "Amusement Park", vertical format 
 
 ```
 Ultra-realistic 3D render of [MONUMENT] made entirely out of [FOOD], seamlessly integrated into a photorealistic, bustling cityscape of [REAL CITY]. The object must be instantly recognizable as [MONUMENT], but entirely composed of realistic textures and materials from [FOOD]. Ensure accurate proportions and architectural detail, adapted to the food’s form, appearing as if it truly belongs in the city. The city should be vibrant and detailed, with realistic lighting that complements the monument. 1:1 aspect ratio, no text or extra elements.
-```
-
----
-
-## Highly detailed 3D infographic poster
-
-![Highly detailed 3D infographic poster](https://opennana.com/awesome-prompt-gallery/images/541.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@cnyzgkc](https://x.com/cnyzgkc/status/1994003408207139013)
-- **Tags:** 3d, character, food, illustration, infographic, landscape, poster, typography
-
-**Prompt:**
-
-```
-Please create a high-detailed 3D infographic poster in Chinese to introduce the production process of traditional Indonesian tempeh. The poster should include a cute 3D chef character Koki Cubby (chubby, cute, wearing a white chef hat and apron, with rich expressions and bright colors).
-Every step of the production process should have Koki Cubby's help or explanation.
-Poster colors: white, leaf green, soybean yellow, tempeh brown.
-Visual style: 3D semi-realistic food illustrations + cute characters, soft light, high details.
-Headline:
-“The process of making tempeh – from soybean to finished product”
-Main picture:
-A realistic 3D tempeh box, wrapped in banana leaves or translucent plastic, with clear textured tempeh slices and white yeast (Rhizopus) threads inside. Koki Cubby stood nearby, pointing at the finished tempeh.
-Soybean picking and sorting (3D scene)
-• 3D illustration of dried soybeans placed on a wooden table.
-• Chef Kubi holds a spatula to check the quality of the soybeans.
-• Text: “Choose high-quality, clean, undamaged soybeans.”
-Soy Soak (3D Bowl)
-• The soybeans are soaked in a large bowl of water and can be seen swelling.
-• 3D blisters.
-• Chef Kubi stirs the water with a spatula.
-• Text: “Soak for 6-12 hours to allow the soybeans to swell.”
-• Boiling (3D pot steaming)
-• A large pot of soybeans is boiling.
-• 3D hot steam details.
-• Chef Cubby holds a kitchen timer.
-• Text: “Cook until tender to kill harmful bacteria.”
-• Soybean peeling and deflation
-• Squeeze and rub the soybeans to remove the skin.
-• Use a small 3D filter or do it manually.
-• Chef Cubby is helping remove soybean hulls.
-• Text: “Removing soybean hulls aids yeast fermentation.”
-Soybean screening and drying
-• Drain wet soybeans in a large sieve.
-• Chef Cubby blows dry with a small fan or absorbs the moisture with a towel.
-• Text: “Make sure soybeans are dry—too much moisture can inhibit fermentation.”
-• Added tempeh yeast (Rhizopus)
-• A bowl of 3D yeast is in the form of white fine powder.
-• Chef Cubby spreads the yeast evenly over the soybeans.
-• Text: “Mix the tempeh yeast until smooth.”
-• Wraps (leaves/plastic bags)
-• Place soybeans in a banana leaf or perforated plastic bag.
-• Little Chef Kirby presses with his little hands to make it fold neatly.
-• Text: “Wrap tightly for perfect fermentation.”
-Tempeh fermentation (24-48 hours)
-• Place tempeh on a ventilated wooden rack.
-• The texture of tempeh starts to turn white due to the action of Rhizopus fungus.
-• Little Chef Kirby sat waiting, looking at the thermometer.
-• Text: “Ferment at 30-32°C.”
-Tempeh fermentation completed
-• Tempeh is firm and white in texture with thick, neat yeast fibers.
-• Realistic 3D tempeh slices show off their internal textures.
-• Little Chef Kirby gives a thumbs up.
-• Text: “Tempeh is ready to cook—delicious, healthy, and packed with protein!”
-poster style
-• 3D infographic with simple panels, small icons and connected timelines.
-• Soft white-green gradient background.
-• Soy and tempeh with a subtle glow.
-• Modern sans serif font.
-• 4K high resolution.
-• Concise, professional and educational, suitable for children and adults.
-Change the food in this prompt word to xiaolongbao
-```
-
----
-
-## Modern Chicago Riverside Qingming Riverside Scene Style
-
-![Modern Chicago Riverside Qingming Riverside Scene Style](https://opennana.com/awesome-prompt-gallery/images/551.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@dotey](https://x.com/dotey/status/1992469131438719122)
-- **Tags:** architecture, food, landscape, photography, retro, vehicle
-
-**Prompt:**
-
-```
-A sweeping, highly detailed traditional Chinese ink and color handscroll painting on aged silk, perfectly emulating the artistic style, brushwork, and scattered point perspective of Zhang Zeduan's "Along the River During the Qingming Festival."
-
-Central Scene: A bird's-eye view of the bustling modern Chicago riverfront. The focus is the massive steel bascule bridge (DuSable Bridge/Michigan Avenue Bridge), jammed with heavy contemporary traffic including countless cars, yellow taxis, and CTA buses, all rendered with precise traditional brushstrokes.
-
-Environmental Details: The Chicago River below is filled with modern architectural tour boats, water taxis, and kayakers. The riverbanks are lined with dense, vintage-style Chicago skyscrapers (resembling the Wrigley Building and Tribune Tower), drawn using traditional "jiehua" architectural painting techniques. An elevated railway structure with a moving 'L' train is visible in the background.
-
-Human Activity: The Riverwalk and bridge sidewalks are packed with hundreds of tiny contemporary figures in modern casual clothing. They are shown jogging, taking photos with smartphones, queuing at street food vendors (hot dog stands), and walking dogs. The entire scene is incredibly detailed, chaotic, and rendered in a muted, antique earth-tone palette.
 ```
 
 ---

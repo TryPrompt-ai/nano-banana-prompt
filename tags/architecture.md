@@ -1,6 +1,6 @@
 # Architecture Prompts
 
-> Found 73 prompts in this category.
+> Found 67 prompts in this category.
 
 ---
 
@@ -883,75 +883,6 @@ A high-resolution, full outdoor shot of a young East Asian woman with a radiant 
 
 ---
 
-## Chengdu tourist map
-
-![Chengdu tourist map](https://opennana.com/awesome-prompt-gallery/images/499.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991679696744976723)
-- **Tags:** architecture, illustration, minimalist, paper-craft, typography
-
-**Prompt:**
-
-```
-The aspect ratio is 16:9, a charming and exquisite hand-drawn tourist map of Chengdu, with the style of the Studio Ghibli art set. The entire composition is a watercolor and pen pastel illustration on a textured, aged parchment paper. The overall aesthetic is whimsical, vibrant and lived-in.
-
-Map layout and style:
-The map shows Chengdu's core landmarks in a stylized isometric view, depicted as cute, detailed miniature buildings and icons (e.g., pandas at the Panda Base, lanterns in Jinli, teahouses in People's Park). The layout is organic and free-flowing rather than based on a rigid grid.
-
-Crucial Typography Challenges (Hard Section):
-All text must be presented in a graceful, slightly imperfect handwritten calligraphy style (Xingkai) that looks like it was written with the same pen used to draw the illustrations.
-1. **Main title:** The main title "Chengdu Slow Travel Picture" is artistically written on a flowing ribbon at the top.
-2. **Interesting labels with angles:** Next to each landmark icon, its name is written in a playful, slightly slanted manner (for example: "Kuanzhai Alley", "Wuhou Temple", "Du Fu Thatched Cottage"). The text needs to feel organically placed, not rigid horizontal lines.
-3. **Text that curves along the path:** A stylized Jinjiang River runs through the map. The name of the river, "Jinjiang", needs to be written elegantly along the winding path of the river. This is a critical testing point.
-4. **Integrated Annotations:** The map is dotted with small, whimsical annotations that combine text and icons. For example:
-    - A note that reads "Eat hot pot!" with a tiny red pepper drawn next to it.
-    - A "Have tea!" label with a steaming miniature teacup icon next to it.
-    - The area name "Jinjiang District" is written in a hand-drawn cloud shape.
-5. **Hand-drawn legend:** In one corner, there is a hand-drawn "legend" box with small icons (such as tea cups, panda faces, temple roofs) and their corresponding hand-written labels.
-6. **Seal:** A red, hand-cut seal with the word "Rong" (abbreviation for Chengdu) printed on it, is stamped in the corner and slightly overlaps the frame.
-
-Aesthetics:
-A masterpiece of illustrative cartography. The blend of text and illustrations must be seamless. Watercolor effects should be soft, with visible water stains and textures, while pen lines should be confident and vivid. The overall feel is warm, inviting and full of character.
-
-Negative cue words:
-Computer font, computer generated text, straight lines, rigid grid, perfect alignment, only horizontal text, text overlay, photo, 3D, minimalist, generic icons, misspellings, garbled characters, watermarks.
-```
-
----
-
-## Aerial photography of old Beijing
-
-![Aerial photography of old Beijing](https://opennana.com/awesome-prompt-gallery/images/502.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@imaxichuhai](https://x.com/imaxichuhai/status/1991684492474409440)
-- **Tags:** architecture, cartoon, futuristic, landscape, nature, paper-craft, sculpture, typography, ui
-
-**Prompt:**
-
-```
-The aspect ratio is 16:9, a masterpiece of subtle subtlety and visual intelligence. A drone aerial view of the urban fabric of old Beijing. The core concept is that the Chinese character "Hu" integrates perfectly and seamlessly into the entire urban landscape.
-
-**The fusion of typography and architecture (the ultimate subtlety):**
-- **No physical height difference:** The "Hu" character is not an independent, towering or massive structure. The walls that make up its strokes are completely consistent in height, material and style with the walls of all surrounding alleys and courtyards**. It is within the texture, not above it.
-- **"Light and Shadow Sculpture":** The form of Chinese characters is not highlighted by structure, but is presented by **master-level, atmospheric light and shadow**. A low angle of the afternoon sun (Raking Light) sweeps across the entire scene. Light catches just the edges of the walls that make up the shape of the “Hu” character, subtly brightening it while casting deep, well-defined shadows within its “strokes” (i.e. the alley). This word is revealed by light, not built by cement.
-- **"Atmosphere Perspective":** A thin layer of morning mist or mist that sticks to the ground permeates the surrounding courtyards and alleys, slightly softening the edges of the details. However, the paths and courtyards that form the shape of the character "Hu" are subtly clearer and more contrasting, creating a natural visual focus that allows hidden shapes to emerge in the eye of the gazer.
-
-**Elegant font layout:**
-Keep the refined and artistic font design.
-- **Main Title:** The title "Zi Li Jing Cheng" is arranged in a strong single column vertically on the right side. The background area has been cleverly treated to a semi-transparent, subtle faded effect to ensure the text is readable without being obtrusive. The font is an elegant "New Song Dynasty" style. A very thin vertical line runs parallel to the text.
-- **Information label:** The label text ("Gray Tile", "Guohuai") is in small, delicate handwriting. They are connected to the object by a needle-thin hand-drawn curve like a pencil drawing on a drawing. **No boxes, no glowing effect. **
-
-**Aesthetics:**
-The overall tone is tranquil, thought-provoking and far-reaching. The color tone is an elegant "high-end gray", mainly low-saturation colors, and the only color embellishment comes from the warm caress of the sun. The picture has a "secret in plain sight" aura, rewarding the viewer's patience and insight. It is a hyper-realistic rendering with a profound painterly and philosophical atmosphere.
-
-**Negative cue words:**
-Towering walls, sculptural Chinese characters, huge structures, overly obvious Chinese character shapes, average lighting, flat lighting, glowing boxes, futuristic UI, sans serif fonts, abstract, 2D, bright colors, cartoons, bad calligraphy, watermarks.
-```
-
----
-
 ## Hyper-realistic 3D realistic pictures made of food
 
 ![Hyper-realistic 3D realistic pictures made of food](https://opennana.com/awesome-prompt-gallery/images/536.jpeg)
@@ -991,28 +922,6 @@ The text should match the input city's native language.
 Please retrieve current weather conditions for the specified city before rendering.
 
 City name:【Shanghai】
-```
-
----
-
-## Modern Chicago Riverside Qingming Riverside Scene Style
-
-![Modern Chicago Riverside Qingming Riverside Scene Style](https://opennana.com/awesome-prompt-gallery/images/551.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@dotey](https://x.com/dotey/status/1992469131438719122)
-- **Tags:** architecture, food, landscape, photography, retro, vehicle
-
-**Prompt:**
-
-```
-A sweeping, highly detailed traditional Chinese ink and color handscroll painting on aged silk, perfectly emulating the artistic style, brushwork, and scattered point perspective of Zhang Zeduan's "Along the River During the Qingming Festival."
-
-Central Scene: A bird's-eye view of the bustling modern Chicago riverfront. The focus is the massive steel bascule bridge (DuSable Bridge/Michigan Avenue Bridge), jammed with heavy contemporary traffic including countless cars, yellow taxis, and CTA buses, all rendered with precise traditional brushstrokes.
-
-Environmental Details: The Chicago River below is filled with modern architectural tour boats, water taxis, and kayakers. The riverbanks are lined with dense, vintage-style Chicago skyscrapers (resembling the Wrigley Building and Tribune Tower), drawn using traditional "jiehua" architectural painting techniques. An elevated railway structure with a moving 'L' train is visible in the background.
-
-Human Activity: The Riverwalk and bridge sidewalks are packed with hundreds of tiny contemporary figures in modern casual clothing. They are shown jogging, taking photos with smartphones, queuing at street food vendors (hot dog stands), and walking dogs. The entire scene is incredibly detailed, chaotic, and rendered in a muted, antique earth-tone palette.
 ```
 
 ---
@@ -1404,22 +1313,6 @@ Use a square 1080×1080 composition.Use a clean, neutral background. Ensure no e
 
 ---
 
-## Shanghai 3D City Time Tour
-
-![Shanghai 3D City Time Tour](https://opennana.com/awesome-prompt-gallery/images/700.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@servasyy](https://x.com/servasyy/status/1995412825003708860)
-- **Tags:** 3d, architecture, futuristic, landscape, neon, paper-craft, photography, portrait, retro, typography, vehicle
-
-**Prompt:**
-
-```
-A stunning hyper-realistic 3D render of Shanghai's architectural evolution displayed as detailed miniature model diorama on a large circular floating platform, like a round disc divided into four distinct quadrants. ALL buildings are rendered as tangible 3D miniature models with physical depth and dimension, not flat backgrounds. The circular platform has thick layered edges resembling geological strata in shades of brown, beige, and turquoise blue. First quadrant (top-left): 3D miniature models of traditional Shikumen stone-gate houses with gray tiled roofs, wooden window frames, gray brick walls, red paper lanterns, tiny vintage bicycles and rickshaws as 3D models, miniature human figures. Second quadrant (top-right): 3D miniature models of The Bund architecture - Art Deco Peace Hotel with green copper roof (3D model), neoclassical HSBC Building dome (3D model), Gothic customs house tower clock (3D model), cream and golden facades, tiny 1930s cars as 3D models, miniature pedestrian figures. Third quadrant (bottom-right): 3D miniature models of modern Pudong skyline - Oriental Pearl Tower with pink spheres (detailed 3D model), Jin Mao Tower (3D model), Shanghai Tower twisted glass form (3D model), Shanghai World Financial Center (3D model), all skyscrapers rendered as physical miniature 3D models with depth, tiny modern vehicles, contemporary miniature figures. Fourth quadrant (bottom-left): 3D miniature models of future sustainable architecture - vertical forest towers covered in tiny green plants (3D models), transparent solar panel buildings (3D models), organic curved parametric structures (3D models), elevated hyperloop stations (3D models), tiny drones and flying vehicles as 3D models, miniature futuristic figures. The circular platform floats above realistic 3D rendered Huangpu River water with reflections. Traditional wooden sampan boats (3D models) transform into sleek modern cruise ships (detailed 3D models). Platform edges show beautiful wave-like geological strata texture. Background features atmospheric misty Shanghai skyline silhouettes transitioning from warm dawn orange through pink-purple twilight to deep night blue with stars. Lighting transitions across quadrants: warm sepia tone for Shikumen, golden hour sunlight for Bund, vibrant electric blue neon for modern Pudong, holographic cyan-magenta glow for future section. At top center: elegant bilingual typography "Shanghai" SHANGHAI" combining traditional calligraphy with modern sans-serif, subtitle "Architectural Journey Time" and "Architectural Journey Through Time". Ultra-realistic 3D rendering style, architectural professional miniature photography, tilt-shift lens effect creating miniature appearance, all elements have physical 3D depth and dimension, hyper-detailed textures showing model craftsmanship, 4K resolution, museum-quality diorama presentation, dramatic studio lighting with depth and atmosphere, every building is a tactile 3D miniature model not a flat image.
-```
-
----
-
 ## Refrigerator magnet prompt word template
 
 ![Refrigerator magnet prompt word template](https://opennana.com/awesome-prompt-gallery/images/714.jpeg)
@@ -1665,58 +1558,6 @@ Atmosphere: lively, warm, romantic, playful festival vibe.
 
 ---
 
-## Attractions change with the seasons
-
-![Attractions change with the seasons](https://opennana.com/awesome-prompt-gallery/images/787.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@berryxia_ai](https://x.com/berryxia_ai/status/1997843525770354961)
-- **Tags:** architecture, landscape, photography
-
-**Prompt:**
-
-```
-[The Composition: Dynamic Diagonal Slicing]
-
-Hyper-realistic digital art, 8k resolution, a wide cinematic panorama of **{City_Name}** featuring **{Landmark}**.
-The composition utilizes a "**Dynamic Diagonal Phase Shift**" technique. The scene is visually divided into four distinct slanted zones (diagonal cuts flowing from top-right to bottom-left) representing the four seasons. The architecture and landscape maintain perfect structural continuity across these diagonal slices, creating a surreal but cohesive masterpiece.
-
-**[Textual Layout: Clean & Non-Redundant]**
-* **Layer A (Background Watermark - Season Identity):** Behind the main architecture in each diagonal zone, place a large, translucent, artistic calligraphy watermark acting as a graphic element.
-    * Zone 1: "**{Calligraphy_Winter}**"
-    * Zone 2: "**{Calligraphy_Spring}**"
-    * Zone 3: "**{Calligraphy_Summer}**"
-    * Zone 4: "**{Calligraphy_Autumn}**"
-* **Layer B (Bottom Edge - Cultural Narrative):** At the very bottom, place strictly the poetic quotes (small, elegant sans-serif font). **DO NOT** repeat the season names here. Just the sentence.
-    * Zone 1 Bottom: "**{Quote_Winter}**"
-    * Zone 2 Bottom: "**{Quote_Spring}**"
-    * Zone 3 Bottom: "**{Quote_Summer}**"
-    * Zone 4 Bottom: "**{Quote_Autumn}**"
-
-**[Visual Flow - The Diagonal Gradient]**
-
-* **Zone 1 (Far Left Diagonal - WINTER):** The slice cuts through the left side of **{Landmark}**. The surface is covered in frost/snow.
-    * *Atmosphere:* Cold blue tones, visible breath, sharp air.
-    * *Botany:* **{Botany_Winter}** (bare branches/ice).
-
-* **Zone 2 (Center-Left Diagonal - SPRING):** The next diagonal slice transforms the structure into a wet, blooming environment.
-    * *Atmosphere:* Pastel pinks/greens, soft mist.
-    * *Botany:* **{Botany_Spring}** (bursting flowers/buds).
-
-* **Zone 3 (Center-Right Diagonal - SUMMER):** The diagonal slice reveals the structure under intense vertical sunlight.
-    * *Atmosphere:* High contrast, vibrant saturation, deep blue sky.
-    * *Botany:* **{Botany_Summer}** (lush dark greens/shade).
-
-* **Zone 4 (Far Right Diagonal - AUTUMN):** The final diagonal slice on the right bathes the scene in golden light.
-    * *Atmosphere:* Warm amber glow, long shadows.
-    * *Botany:* **{Botany_Autumn}** (red/gold foliage).
-
-**[Technical Specs]**
-Seamless diagonal transitions, no hard lines but distinct color shifts. The landscape (roads/rivers) connects perfectly through the diagonal cuts. 8k resolution, photorealistic textures. --ar 21:9 --v 6.0 --stylize 300
-```
-
----
-
 ## Seamlessly blending two different eras
 
 ![Seamlessly blending two different eras](https://opennana.com/awesome-prompt-gallery/images/793.jpeg)
@@ -1930,78 +1771,6 @@ A highly detailed tilt-shift photography of [LOCATION] captured from a high vant
 
 ```
 A highly detailed photorealistic aerial shot looking down on a colossal Korean young woman wearing a stylish jacket and layered outfits, positioned in a crowded Tokyo street; the giant is playfully driving a tiny car with her hands while interacting with nearby buildings and street signs, tiny people and cars clustered near her feet for scale; visible close-up hands and textured clothing details; morning daylight with soft directional sunlight casting long gentle shadows, cool urban reflections on wet pavement, slight atmospheric haze and depth of field, high-resolution, crisp details, cinematic composition with leading lines along the street, muted vibrant color palette, realistic skin textures and fabric wrinkles, subtle motion blur on the tiny cars, photorealistic lens characteristics
-```
-
----
-
-## Floating Tai Chi cute 3D cartoon scene
-
-![Floating Tai Chi cute 3D cartoon scene](https://opennana.com/awesome-prompt-gallery/images/825.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@eviljer](https://x.com/eviljer/status/1998428061394751825)
-- **Tags:** 3d, architecture, cartoon, character, landscape, logo, nature, portrait, poster, typography, vehicle
-
-**Prompt:**
-
-```
-A clear, floating cute 3D cartoon diorama scene in a circular composition with rotational symmetry, echoing a yin-yang layout:
-
-Scene:
-- a single floating circular emblem viewed from isometric bird's-eye perspective (45° angle looking down).
-- one swirling half of the circle shows [Subject]'s most iconic defining scene or aspect (primary realm).
-- the opposite swirling half is the contrasting opposite realm, occupying the complementary yin-yang territory.
-- both realms share the same gravity direction and isometric orientation.
-- each half may be a continuous shared landmass OR two structurally separate diorama units that curve around each other, forming a recognizable yin-yang composition.
-
-Interpret narrative essence:
-- treat [Subject] as ONE overarching theme or entity with TWO conflicting aspects.
-- let each realm embody one aspect in a clear, visual way: the first half leans into aspect A, the opposite half leans into aspect B.
-- use characters only where they naturally serve the contrast: they may appear in one realm, both realms, or take different forms — repetition is optional, never a strict requirement.
-- place 2 distinct symbolic objects, each rooted naturally in its own world, echoing each other across the curve to suggest what was abandoned or gained between these two aspects.
-
-Yin-yang relationship:
-- design the two realms as interlocking, yin-yang-like shapes inside the circle: interlocking territories that echo yin-yang flow.
-- place the most focal element of each realm at its "yin-yang eye" position — the visual anchor point within each half's territory.
-- the two realms should feel spatially intimate and cohesive — bring them closer together to create a unified, compact circular emblem rather than loosely scattered islands.
-- the two halves are typically structurally separate with a subtle atmospheric gap, but may share ground where narrative calls for it — when adjoining, boundaries flow naturally through lighting, color temperature, and ground material shifts.
-- edge treatment: encourage organic overflow at key points — tall structures gently break the circular silhouette, ground edges fade atmospherically rather than clip sharply.
-
-Composition:
-- clean, dramatic circular multiverse — the circle reads as one unified, spatially compact emblem, with two interlocking narrative poles sitting close and relating to each other.
-- amplify contrast between the two realms: maximize visual tension to make the duality unmistakable.
-- vast open view: the scene extends naturally to its edges without boundary walls, fences, or enclosures — the horizon remains visible and unobstructed.
-
-Shadow:
-BARELY visible, extremely soft non-contact shadow with expansive fadeout — extends well beyond the diorama's footprint with a gentle gradient that blurs into the background. Viewed from bird's-eye perspective, nearly circular in shape.
-
-Render:
-- C4D. high poly with soft shading, rounded edges and bevels.
-- realistic PBR materials with tactile authenticity — avoid glossy plastic or resin appearance.
-- intricate textures, delicate detail, vivid harmonized colors. SSS texture:true.
-- CRITICAL: ground planes must remain flat and level with natural material textures appropriate to each realm.
-
-Background:
-- a single unified, clean, subtle gradient sky as the shared environment of both realms, providing generous breathing space around the circular diorama.
-
-Typography (top-center, cinematic poster-style design):
-- a prominent title "[Subject]" in a slim elegant serif (remove the brackets).
-- beneath it, a poetic, insightful subtitle that distills the story’s deepest truth or tension into one profound line.
-- create clear visual hierarchy through scale and weight contrast; allow auto line wrap and slight overlap with the top of the circle if needed.
-
-Enhance:
-- professional cinematic lighting, shaped to emphasize the contrast between the two realms while keeping both legible.
-- if characters are present, use dynamic, emotionally expressive poses that clearly align with the aspect of their realm.
-- strong sense of visual depth within each realm.
-
-Scene / lighting / cultural aesthetics:
-- contextually appropriate to [Subject].
-
-Negative:
-- [cropped elements at canvas edges, plastic/resin, hard cartoon outlines, underexposed, creepy, ceiling].
-
-ar=1:1
-[Subject] =
 ```
 
 ---

@@ -1,6 +1,6 @@
 # Clay Prompts
 
-> Found 16 prompts in this category.
+> Found 15 prompts in this category.
 
 ---
 
@@ -496,28 +496,6 @@ Written on falling leaves.
 Written on the mottled wall.
 Written on a ball of paper thrown to the ground.
 Written on the monitor screen.
-```
-
----
-
-## Healing fairy tale clay poster
-
-![Healing fairy tale clay poster](https://opennana.com/awesome-prompt-gallery/images/828.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@sundyme](https://x.com/sundyme/status/1999479601744015847)
-- **Tags:** 3d, character, clay, felt, landscape, nature, poster, vehicle
-
-**Prompt:**
-
-```
-Rendered as a complete Poster design (suggested aspect ratio 3:4 or 9:16 for a full vertical poster). The overall visual style is a Soft-Focus Healing Style combining a Wes Anderson aesthetic, characterized by dreamy, cozy, warm and soft volumetric lighting. 4K Resolution, high aesthetic value.
-
-[SCENE & MATERIAL STYLE]The entire scene is rendered with a distinctive material mix of Soft Matte Clay and a little soft Felt, creating fluffy and tactile textures throughout the composition. The color palette is dominated by soft Pastel colors (Morandi/Macaron tones).
-
-[TEXT INTEGRATION]The scene integrates a creatively formed main title using environmental elements (e.g., formed by clouds, branches, or clay objects). It also includes a small, delicate, thin-stroke handwritten Chinese slogan that blends softly into the environment, appearing as part of the scene's texture rather than an overlay.
-
-Generate a list (Einstein):
 ```
 
 ---
