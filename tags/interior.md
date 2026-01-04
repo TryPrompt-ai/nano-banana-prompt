@@ -1,6 +1,223 @@
 # Interior Prompts
 
-> Found 123 prompts in this category.
+> Found 126 prompts in this category.
+
+---
+
+## 16 different surface materials
+
+![16 different surface materials](https://opennana.com/awesome-prompt-gallery/images/1034.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@gokayfem](https://x.com/gokayfem/status/2007137742883266682)
+- **Tags:** felt, interior, landscape, nature, product, sculpture, vehicle
+
+**Prompt:**
+
+```
+4x4 grid of identical 3D object renders showing the same furniture piece with 16 different material applications. Each cell displays the exact same object geometry with a unique surface texture applied.
+
+Object: Curved sculptural seating form with rounded back, cushioned seat, and four angled legs. Organic mid-century modern silhouette with smooth flowing lines, gently sloped armrests, and comfortable proportions. Single unified form without separate cushions or pillows.
+
+Camera specifications: Fixed 3/4 front angle view, warm showroom lighting from upper-left at 45°, soft ambient fill light, identical framing across all 16 cells, subtle floor shadow beneath object, clean neutral gradient background.
+
+Object geometry (identical in all cells):
+* Same exact 3D model in every cell
+* Same camera angle and distance
+* Same lighting setup
+* Only the surface material changes between cells
+
+16 unique material applications (one per cell, left to right, top to bottom):
+
+Row 1 - Soft Luxury:
+* Cell 1: Midnight blue velvet - deep navy plush pile absorbing light across curved surfaces
+* Cell 2: Cognac full-grain leather - warm caramel with natural grain wrapping around form
+* Cell 3: Cream bouclé - chunky looped wool texture following organic contours
+* Cell 4: Blush pink silk - luminous soft draping appearance with subtle sheen on curves
+
+Row 2 - Natural Elements:
+* Cell 5: Live-edge walnut wood - rich brown grain flowing across entire solid form
+* Cell 6: White Carrara marble - bright polished stone with gray veins (sculptural interpretation)
+* Cell 7: Natural rattan weave - honey tan woven cane pattern covering all surfaces
+* Cell 8: Olive green shagreen - textured bumpy stingray pattern on elegant form
+
+Row 3 - Metals & Industrial:
+* Cell 9: Brushed brass - warm golden metal with soft directional scratches
+* Cell 10: Matte black steel - powder-coated charcoal covering entire form
+* Cell 11: Polished chrome - mirror-like silver reflecting environment
+* Cell 12: Antique bronze - deep brown with green patina weathering
+
+Row 4 - Statement Finishes:
+* Cell 13: Emerald green lacquer - jewel tone high-gloss reflective surface
+* Cell 14: Smoked glass - dark translucent gray showing form as sculptural object
+* Cell 15: Camel herringbone wool - warm tan zigzag woven textile on all surfaces
+* Cell 16: Mother of pearl - iridescent shell mosaic with rainbow shimmer across curves
+
+Material application rules:
+* Each material wraps entirely around the object
+* Texture scale appropriate for furniture size
+* Material responds correctly to object curvature
+* Lighting reveals unique surface properties of each material
+* Realistic rendering quality showing how material would actually appear
+
+Technical requirements:
+* Identical object silhouette in all 16 cells
+* Zero variation in geometry, camera, or lighting
+* Only surface material differs between cells
+* Clean grid layout with thin borders
+* Professional product visualization quality
+* Each cell could serve as standalone product render
+
+Purpose: Material exploration for furniture design, showing clients how the same form transforms with different surface treatments. Demonstrates versatility of single design across fabric, leather, wood, metal, stone, and decorative finishes.
+
+Output: 4x4 seamless grid comparing 16 material options on identical object. Presentation-ready format for design review, client selection, or 3D visualization portfolio.
+```
+
+---
+
+## Use your mobile phone screen to put the sports world in your pocket
+
+![Use your mobile phone screen to put the sports world in your pocket](https://opennana.com/awesome-prompt-gallery/images/1037.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@ykszs017](https://x.com/ykszs017/status/2006959351970541714)
+- **Tags:** interior, landscape, nature, photography
+
+**Prompt:**
+
+```
+{
+"type": "image_generation",
+"style": "hyper_realistic",
+"quality": "8K DSLR",
+"aspect_ratio": "4:5",
+"camera": {
+"angle": "slightly tilted cinematic perspective",
+"lens": "50mm DSLR",
+"depth_of_field": "shallow",
+"focus": "smartphone and swimming action"
+},
+"scene": {
+"setting": "iPhone 17 Pro Max placed on a wooden table",
+"concept": "phone screen transformed into a miniature Olympic swimming pool",
+"environment": "indoor, soft daylight coming from the side",
+"atmosphere": "cinematic, immersive, realistic with intense competitive energy"
+},
+"details": {
+"screen": "miniature Olympic-sized swimming pool with clear blue water ripples and lane dividers, starting blocks at one end, lane markers in black, subtle water reflections and splashes on the edges",
+"players": "miniature swimmers in dynamic action: one swimmer mid-stroke in freestyle lane performing a powerful butterfly kick, another in adjacent lane doing backstroke with arms extended, others diving from blocks or turning at the wall, wearing swimsuits and goggles, water droplets flying with motion blur",
+"lighting": "soft diffused daylight with subtle lens flares, realistic caustics and light refractions through the water, dramatic highlights on wet surfaces",
+"realism_effects": [
+"fingerprints on screen",
+"light scratches on phone body",
+"natural smudges",
+"micro dust particles",
+"faint screen glow illuminating the miniature pool with watery shimmer"
+]
+},
+"materials": {
+"phone": "metallic frame with realistic reflections",
+"table": "textured wooden surface with warm tones"
+},
+"mood": "high-end cinematic, dramatic, premium advertising look with exhilarating swimming intensity",
+"rendering": {
+"sharpness": "ultra sharp",
+"texture_detail": "extreme",
+"lighting_quality": "studio grade",
+"photorealism": true
+}
+}
+```
+
+---
+
+## K-Pop idol newspaper fashion concept
+
+![K-Pop idol newspaper fashion concept](https://opennana.com/awesome-prompt-gallery/images/1040.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2007074986008141973)
+- **Tags:** architecture, data-viz, fashion, interior, landscape, minimalist, paper-craft, photography, product, retro
+
+**Prompt:**
+
+```
+{
+  "project_metadata": {
+    "title": "K-Pop Idol Newspaper Fashion Concept",
+    "style_preset": "Soft Focus Editorial Photography",
+    "aspect_ratio": "3:4",
+    "version": "2.1"
+  },
+  "subject": {
+    "identity": {
+      "ethnicity": "Korean",
+      "age_group": "Young Adult",
+      "aesthetic": "K-pop idol, mixture of innocent and sexy, pure visual"
+    },
+    "physique": {
+      "body_type": "Curvy and voluptuous",
+      "specific_attributes": "Highly emphasized and prominent bustline, hourglass silhouette, toned arms",
+      "skin_tone": "Pale, porcelain white, flawless and glowing"
+    },
+    "hair_and_makeup": {
+      "hair": {
+        "color": "Dark brown",
+        "style": "Long, voluminous waves, slight wet look",
+        "action": "Hands gently touching face or hair"
+      },
+      "makeup": {
+        "lips": "Glossy pink jelly lips, gradient lip color",
+        "eyes": "Sparkling K-pop style eye makeup, aegyo-sal emphasized",
+        "finish": "Glass skin effect, bright and dewy"
+      }
+    },
+    "pose_and_expression": {
+      "expression": "Cute pouting lips (dudu lips), seductive yet innocent gaze, looking into the lens",
+      "pose": "Medium-full body shot, standing, playful posture, emphasising curves"
+    }
+  },
+  "fashion_elements": {
+    "primary_garment": {
+      "item": "Strapless mini-dress",
+      "material": "Authentic recycled newspaper pages",
+      "construction": "Architectural, origami-style pleats, visible newsprint, headlines, and grayscale imagery textures",
+      "fit": "Form-fitting, cinched at the waist"
+    },
+    "accessories": [
+      {
+        "item": "Hoop earrings",
+        "style": "Large, thin, minimalist",
+        "material": "Polished silver"
+      }
+    ]
+  },
+  "environment_and_backdrop": {
+    "setting": "Studio indoor",
+    "background_type": "Textured wall",
+    "details": "Completely covered in layered, overlapping vintage newspaper pages, sepia-toned paper, collage effect",
+    "depth": "Shallow depth of field to separate subject from the background"
+  },
+  "cinematography_and_lighting": {
+    "camera": {
+      "lens": "85mm prime lens",
+      "shot_type": "Medium-full shot",
+      "angle": "Eye-level",
+      "sensor": "Digital, clear"
+    },
+    "lighting": {
+      "primary_source": "Soft diffused frontal lighting",
+      "effect": "Bright, flattering beauty lighting, minimizing shadows on face",
+      "color_temp": "Cool white to neutral"
+    },
+    "post_processing": {
+      "focus": "Soft focus, dreamy atmosphere",
+      "textures": "Heavy skin smoothing, airbrushed look, ethereal glow, no grain",
+      "filter": "Beauty filter style, dreamy blur effect"
+    }
+  }
+}
+```
 
 ---
 

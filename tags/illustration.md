@@ -1,6 +1,234 @@
 # Illustration Prompts
 
-> Found 122 prompts in this category.
+> Found 125 prompts in this category.
+
+---
+
+## Color pencil illustration
+
+![Color pencil illustration](https://opennana.com/awesome-prompt-gallery/images/1030.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@YaseenK7212](https://x.com/YaseenK7212/status/2006746690255040979)
+- **Tags:** 3d, cartoon, illustration, minimalist, nature, photography, vehicle
+
+**Prompt:**
+
+```
+{
+  "design_system": {
+    "metadata": {
+      "style_name": "Cozy Storybook Illustration",
+      "target_audience": "Children / Family",
+      "reference_source": "Uploaded Image",
+      "version": "3.0"
+    },
+    "visual_parameters": {
+      "medium": {
+        "primary": "Colored Pencil",
+        "secondary": "Watercolor Wash (Variation only)",
+        "application": "Hand-drawn",
+        "texture": {
+          "type": "Visible pencil strokes",
+          "quality": "Slightly rough outlines",
+          "finish": "Non-realistic / No photo texture"
+        }
+      },
+      "line_work": {
+        "style": "Clean line art",
+        "weight": "Slightly rough/organic",
+        "clarity": "High"
+      },
+      "color_theory": {
+        "base_tone": "Warm and friendly",
+        "palette_type": "Vibrant Pastel",
+        "adjustments": {
+          "brightness": "Increased / High-key",
+          "saturation": "Enhanced but natural",
+          "contrast": "Soft"
+        }
+      },
+      "lighting_and_shading": {
+        "shadows": "Minimal",
+        "highlights": "Soft",
+        "rendering": "Flat yet detailed",
+        "gradients": "Subtle watercolor layers (Variation only)"
+      }
+    },
+    "subject_geometry": {
+      "anatomy": {
+        "proportions": "Semi-cartoon realistic",
+        "scale": "Storybook style"
+      },
+      "facial_features": {
+        "eyes": "Dot style",
+        "mouth": "Small smile",
+        "complexity": "Simple / Minimalist"
+      }
+    },
+    "atmosphere": {
+      "mood": [
+        "Cozy",
+        "Cheerful",
+        "Warm",
+        "Friendly"
+      ],
+      "genre_tags": [
+        "Children's Book",
+        "Lifestyle Sketch",
+        "Storybook Illustration"
+      ]
+    }
+  },
+  "generation_configs": {
+    "negative_prompt_tokens": [
+      "realism",
+      "photorealistic",
+      "photo texture",
+      "dark colors",
+      "complex shading",
+      "3d render"
+    ],
+    "prompt_variations": [
+      {
+        "id": "PROMPT_001",
+        "variant_name": "Textured Colored Pencil",
+        "focus": "Texture and Stroke",
+        "full_text": "Illustration style: hand-drawn colored pencil illustration, clean line art with slightly rough pencil outlines, soft pastel coloring with increased brightness, lighter and more vivid color tones, enhanced saturation while staying natural, visible pencil strokes and gentle shading texture, warm and friendly tone, semi-cartoon realistic proportions, simple facial features with dot eyes and small smiles, flat yet detailed coloring, minimal shadows, soft highlights, storybook illustration feel, cozy and cheerful atmosphere, vibrant yet soft color palette, children-book / lifestyle sketch style, high clarity, no realism, no photo texture"
+      },
+      {
+        "id": "PROMPT_002",
+        "variant_name": "Mixed Media Watercolor",
+        "focus": "Wash and Gradient",
+        "full_text": "Hand-drawn colored pencil illustration with clean line art and slightly rough pencil outlines, combined with soft watercolor wash textures. Bright pastel colors, lighter and more vivid tones with natural saturation. Visible pencil strokes layered with subtle watercolor gradients. Warm and friendly tone, semi-cartoon realistic proportions. Simple facial features with dot eyes and small smiles. Flat yet detailed coloring, minimal shadows, soft highlights. Storybook illustration feel, cozy and cheerful atmosphere, children-book style, high clarity, no realism, no photo texture."
+      }
+    ]
+  }
+}
+```
+
+---
+
+## The magazine features children's drawings
+
+![The magazine features children's drawings](https://opennana.com/awesome-prompt-gallery/images/1045.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@miilesus](https://x.com/miilesus/status/2007169297655730610)
+- **Tags:** 3d, cartoon, illustration, minimalist, nature, photography, vehicle
+
+**Prompt:**
+
+```
+{
+  "design_system": {
+    "metadata": {
+      "style_name": "Cozy Storybook Illustration",
+      "target_audience": "Children / Family",
+      "reference_source": "Uploaded Image",
+      "version": "3.0"
+    },
+    "visual_parameters": {
+      "medium": {
+        "primary": "Colored Pencil",
+        "secondary": "Watercolor Wash (Variation only)",
+        "application": "Hand-drawn",
+        "texture": {
+          "type": "Visible pencil strokes",
+          "quality": "Slightly rough outlines",
+          "finish": "Non-realistic / No photo texture"
+        }
+      },
+      "line_work": {
+        "style": "Clean line art",
+        "weight": "Slightly rough/organic",
+        "clarity": "High"
+      },
+      "color_theory": {
+        "base_tone": "Warm and friendly",
+        "palette_type": "Vibrant Pastel",
+        "adjustments": {
+          "brightness": "Increased / High-key",
+          "saturation": "Enhanced but natural",
+          "contrast": "Soft"
+        }
+      },
+      "lighting_and_shading": {
+        "shadows": "Minimal",
+        "highlights": "Soft",
+        "rendering": "Flat yet detailed",
+        "gradients": "Subtle watercolor layers (Variation only)"
+      }
+    },
+    "subject_geometry": {
+      "anatomy": {
+        "proportions": "Semi-cartoon realistic",
+        "scale": "Storybook style"
+      },
+      "facial_features": {
+        "eyes": "Dot style",
+        "mouth": "Small smile",
+        "complexity": "Simple / Minimalist"
+      }
+    },
+    "atmosphere": {
+      "mood": [
+        "Cozy",
+        "Cheerful",
+        "Warm",
+        "Friendly"
+      ],
+      "genre_tags": [
+        "Children's Book",
+        "Lifestyle Sketch",
+        "Storybook Illustration"
+      ]
+    }
+  },
+  "generation_configs": {
+    "negative_prompt_tokens": [
+      "realism",
+      "photorealistic",
+      "photo texture",
+      "dark colors",
+      "complex shading",
+      "3d render"
+    ],
+    "prompt_variations": [
+      {
+        "id": "PROMPT_001",
+        "variant_name": "Textured Colored Pencil",
+        "focus": "Texture and Stroke",
+        "full_text": "Illustration style: hand-drawn colored pencil illustration, clean line art with slightly rough pencil outlines, soft pastel coloring with increased brightness, lighter and more vivid color tones, enhanced saturation while staying natural, visible pencil strokes and gentle shading texture, warm and friendly tone, semi-cartoon realistic proportions, simple facial features with dot eyes and small smiles, flat yet detailed coloring, minimal shadows, soft highlights, storybook illustration feel, cozy and cheerful atmosphere, vibrant yet soft color palette, children-book / lifestyle sketch style, high clarity, no realism, no photo texture"
+      },
+      {
+        "id": "PROMPT_002",
+        "variant_name": "Mixed Media Watercolor",
+        "focus": "Wash and Gradient",
+        "full_text": "Hand-drawn colored pencil illustration with clean line art and slightly rough pencil outlines, combined with soft watercolor wash textures. Bright pastel colors, lighter and more vivid tones with natural saturation. Visible pencil strokes layered with subtle watercolor gradients. Warm and friendly tone, semi-cartoon realistic proportions. Simple facial features with dot eyes and small smiles. Flat yet detailed coloring, minimal shadows, soft highlights. Storybook illustration feel, cozy and cheerful atmosphere, children-book style, high clarity, no realism, no photo texture."
+      }
+    ]
+  }
+}
+```
+
+---
+
+## 3D style woman leaning against colorful wall
+
+![3D style woman leaning against colorful wall](https://opennana.com/awesome-prompt-gallery/images/1050.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2007267921425240077)
+- **Tags:** illustration
+
+**Prompt:**
+
+```
+A stylized 3D animated young woman leaning against a textured abstract wall made of layered cracked paint panels in warm gradients of yellow, coral, pink, red, and muted purple.
+She has short wavy dark hair slightly tousled, closed eyes with a soft peaceful smile, a small hoop earring, and relaxed body language with her arms folded. She is wearing a loose dusty-rose long sleeve shirt, high-waisted blue jeans rolled at the cuffs, and worn brown boots.
+Soft cinematic lighting, warm pastel color palette, shallow depth of field, painterly textures, cozy and calm mood, whimsical Pixar-style 3D illustration, ultra detailed, high resolution, soft shadows, dreamy atmosphere.
+```
 
 ---
 

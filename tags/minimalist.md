@@ -1,6 +1,411 @@
 # Minimalist Prompts
 
-> Found 213 prompts in this category.
+> Found 220 prompts in this category.
+
+---
+
+## Color pencil illustration
+
+![Color pencil illustration](https://opennana.com/awesome-prompt-gallery/images/1030.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@YaseenK7212](https://x.com/YaseenK7212/status/2006746690255040979)
+- **Tags:** 3d, cartoon, illustration, minimalist, nature, photography, vehicle
+
+**Prompt:**
+
+```
+{
+  "design_system": {
+    "metadata": {
+      "style_name": "Cozy Storybook Illustration",
+      "target_audience": "Children / Family",
+      "reference_source": "Uploaded Image",
+      "version": "3.0"
+    },
+    "visual_parameters": {
+      "medium": {
+        "primary": "Colored Pencil",
+        "secondary": "Watercolor Wash (Variation only)",
+        "application": "Hand-drawn",
+        "texture": {
+          "type": "Visible pencil strokes",
+          "quality": "Slightly rough outlines",
+          "finish": "Non-realistic / No photo texture"
+        }
+      },
+      "line_work": {
+        "style": "Clean line art",
+        "weight": "Slightly rough/organic",
+        "clarity": "High"
+      },
+      "color_theory": {
+        "base_tone": "Warm and friendly",
+        "palette_type": "Vibrant Pastel",
+        "adjustments": {
+          "brightness": "Increased / High-key",
+          "saturation": "Enhanced but natural",
+          "contrast": "Soft"
+        }
+      },
+      "lighting_and_shading": {
+        "shadows": "Minimal",
+        "highlights": "Soft",
+        "rendering": "Flat yet detailed",
+        "gradients": "Subtle watercolor layers (Variation only)"
+      }
+    },
+    "subject_geometry": {
+      "anatomy": {
+        "proportions": "Semi-cartoon realistic",
+        "scale": "Storybook style"
+      },
+      "facial_features": {
+        "eyes": "Dot style",
+        "mouth": "Small smile",
+        "complexity": "Simple / Minimalist"
+      }
+    },
+    "atmosphere": {
+      "mood": [
+        "Cozy",
+        "Cheerful",
+        "Warm",
+        "Friendly"
+      ],
+      "genre_tags": [
+        "Children's Book",
+        "Lifestyle Sketch",
+        "Storybook Illustration"
+      ]
+    }
+  },
+  "generation_configs": {
+    "negative_prompt_tokens": [
+      "realism",
+      "photorealistic",
+      "photo texture",
+      "dark colors",
+      "complex shading",
+      "3d render"
+    ],
+    "prompt_variations": [
+      {
+        "id": "PROMPT_001",
+        "variant_name": "Textured Colored Pencil",
+        "focus": "Texture and Stroke",
+        "full_text": "Illustration style: hand-drawn colored pencil illustration, clean line art with slightly rough pencil outlines, soft pastel coloring with increased brightness, lighter and more vivid color tones, enhanced saturation while staying natural, visible pencil strokes and gentle shading texture, warm and friendly tone, semi-cartoon realistic proportions, simple facial features with dot eyes and small smiles, flat yet detailed coloring, minimal shadows, soft highlights, storybook illustration feel, cozy and cheerful atmosphere, vibrant yet soft color palette, children-book / lifestyle sketch style, high clarity, no realism, no photo texture"
+      },
+      {
+        "id": "PROMPT_002",
+        "variant_name": "Mixed Media Watercolor",
+        "focus": "Wash and Gradient",
+        "full_text": "Hand-drawn colored pencil illustration with clean line art and slightly rough pencil outlines, combined with soft watercolor wash textures. Bright pastel colors, lighter and more vivid tones with natural saturation. Visible pencil strokes layered with subtle watercolor gradients. Warm and friendly tone, semi-cartoon realistic proportions. Simple facial features with dot eyes and small smiles. Flat yet detailed coloring, minimal shadows, soft highlights. Storybook illustration feel, cozy and cheerful atmosphere, children-book style, high clarity, no realism, no photo texture."
+      }
+    ]
+  }
+}
+```
+
+---
+
+## a miniature world
+
+![a miniature world](https://opennana.com/awesome-prompt-gallery/images/1032.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@maxescu](https://x.com/maxescu/status/2007134245328957539)
+- **Tags:** minimalist, photography, product, sci-fi, typography
+
+**Prompt:**
+
+```
+A [MACRO MEDIUM - e.g., stream of liquid gold, plume of smoke, silk ribbon], captured mid-motion, forming a dynamic [SHAPE - e.g., arc, spiral, wave] from the lower left to the upper right. Suspended within the [TEXTURE/MATERIAL] lives a miniature world of [MICRO SUBJECT - e.g., a city, a historical event, an ecosystem], rendered as highly detailed structures sculpted entirely from the [MACRO MEDIUM] itself.
+
+Inside the [MEDIUM]: [DETAIL 1], [DETAIL 2], and [DETAIL 3]. The forms appear [ADJECTIVE - e.g., woven, liquid, crystalline, glowing], strictly defined by the physics of the [MACRO MEDIUM].
+
+Style: [PHOTOGRAPHY STYLE - e.g., Macro product photography] fused with [ARTISTIC GENRE - e.g., Ukiyo-e, Cyberpunk, Baroque painting]. High emphasis on texture, lighting, and material contrast. Color palette: [COLORS] derived naturally from the material.
+
+View & background:Plain, matte [BACKGROUND COLOR - usually Black or White] to create maximum contrast. Minimalist composition.
+
+Typography:Title: “[TITLE]” Subtitle: “[SUBTITLE]” Font style: [FONT DESCRIPTION] placed cleanly in the negative space.
+
+Composition rules:The [MEDIUM] creates a defined boundary. All details remain strictly inside the stroke/flow; nothing exists in the negative space. 8K, hyper-realistic texture, [LIGHTING STYLE].
+```
+
+---
+
+## Floral perfume (soft and romantic)
+
+![Floral perfume (soft and romantic)](https://opennana.com/awesome-prompt-gallery/images/1033.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@Adam38363368936](https://x.com/Adam38363368936/status/2007334634649202928)
+- **Tags:** 3d, minimalist, nature
+
+**Prompt:**
+
+```
+High-end commercial shot of a minimalist glass perfume bottle filled with pale rose gold liquid. It is resting on a mirror-like water surface. Floating silk rose petals and morning dew droplets surround the bottle, frozen in mid-air. Soft pastel pink and white gradient background with dreamy volumetric sunlight. Elegant, ethereal, and romantic atmosphere, --ar 3:4
+```
+
+---
+
+## An exquisite fashion photo
+
+![An exquisite fashion photo](https://opennana.com/awesome-prompt-gallery/images/1039.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@craftian_keskin](https://x.com/craftian_keskin/status/2007156041851490337)
+- **Tags:** architecture, cartoon, fashion, logo, minimalist, nature, photography, product, typography, vehicle
+
+**Prompt:**
+
+```
+A refined fashion editorial image with a 3:2 aspect ratio, split into two clear sections.
+
+Right side:
+A fashionable, confident, sensual woman standing and walking casually in a modern architectural space with warm wooden walls and soft natural light. She wears a top with a deep V neckline, has a small mole on her chest, a 90-60-90 figure, tucked into a high-waisted white tailored short skirt, On her feet are sleek black stiletto heels, elegant and minimal. She carries a small structured black handbag in one hand.
+
+Her hair is slicked back into a clean low bun, emphasizing her facial structure. She wears narrow black sunglasses and subtle statement earrings. The look is refined, modern, and effortlessly chic. Natural daylight, soft shadows, realistic skin texture. Casual fashion photography style with an editorial, high-end feel. Neutral color palette, warm tones, shallow depth of field, cinematic realism.
+
+Style & Mood:
+Modern elegance, quiet luxury, confident, minimal, editorial casual.
+
+Photography Details:
+Eye-level angle, candid stance, 35mm lens, natural lighting, high detail, photorealistic.
+
+Left side:
+A clean, minimalist product breakdown layout on a neutral background. The individual fashion items worn by the woman are displayed separately, neatly arranged with subtle shadows. Each item includes a small, elegant price label in refined sans-serif typography:
+
+– Beige deep V-neck knit top — $180
+– White high-waisted tailored mini skirt — $220
+– Black pointed-toe stiletto heels — $350
+– Small structured black handbag — $480
+– Black narrow sunglasses — $160
+
+The left side feels like a luxury fashion catalog or e-commerce lookbook, with clear spacing, premium presentation, and visual balance.
+
+Overall Style & Mood:
+Quiet luxury, modern elegance, editorial fashion, high-end retail aesthetic.
+
+Lighting & Quality:
+Soft natural light, studio-clean clarity on product side, photorealistic, ultra-high resolution, professional fashion photography.
+
+Negative Prompt:
+Cluttered layout, oversized text, flashy logos, mannequins, people on left side, harsh lighting, low resolution, cartoon style.
+```
+
+---
+
+## K-Pop idol newspaper fashion concept
+
+![K-Pop idol newspaper fashion concept](https://opennana.com/awesome-prompt-gallery/images/1040.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2007074986008141973)
+- **Tags:** architecture, data-viz, fashion, interior, landscape, minimalist, paper-craft, photography, product, retro
+
+**Prompt:**
+
+```
+{
+  "project_metadata": {
+    "title": "K-Pop Idol Newspaper Fashion Concept",
+    "style_preset": "Soft Focus Editorial Photography",
+    "aspect_ratio": "3:4",
+    "version": "2.1"
+  },
+  "subject": {
+    "identity": {
+      "ethnicity": "Korean",
+      "age_group": "Young Adult",
+      "aesthetic": "K-pop idol, mixture of innocent and sexy, pure visual"
+    },
+    "physique": {
+      "body_type": "Curvy and voluptuous",
+      "specific_attributes": "Highly emphasized and prominent bustline, hourglass silhouette, toned arms",
+      "skin_tone": "Pale, porcelain white, flawless and glowing"
+    },
+    "hair_and_makeup": {
+      "hair": {
+        "color": "Dark brown",
+        "style": "Long, voluminous waves, slight wet look",
+        "action": "Hands gently touching face or hair"
+      },
+      "makeup": {
+        "lips": "Glossy pink jelly lips, gradient lip color",
+        "eyes": "Sparkling K-pop style eye makeup, aegyo-sal emphasized",
+        "finish": "Glass skin effect, bright and dewy"
+      }
+    },
+    "pose_and_expression": {
+      "expression": "Cute pouting lips (dudu lips), seductive yet innocent gaze, looking into the lens",
+      "pose": "Medium-full body shot, standing, playful posture, emphasising curves"
+    }
+  },
+  "fashion_elements": {
+    "primary_garment": {
+      "item": "Strapless mini-dress",
+      "material": "Authentic recycled newspaper pages",
+      "construction": "Architectural, origami-style pleats, visible newsprint, headlines, and grayscale imagery textures",
+      "fit": "Form-fitting, cinched at the waist"
+    },
+    "accessories": [
+      {
+        "item": "Hoop earrings",
+        "style": "Large, thin, minimalist",
+        "material": "Polished silver"
+      }
+    ]
+  },
+  "environment_and_backdrop": {
+    "setting": "Studio indoor",
+    "background_type": "Textured wall",
+    "details": "Completely covered in layered, overlapping vintage newspaper pages, sepia-toned paper, collage effect",
+    "depth": "Shallow depth of field to separate subject from the background"
+  },
+  "cinematography_and_lighting": {
+    "camera": {
+      "lens": "85mm prime lens",
+      "shot_type": "Medium-full shot",
+      "angle": "Eye-level",
+      "sensor": "Digital, clear"
+    },
+    "lighting": {
+      "primary_source": "Soft diffused frontal lighting",
+      "effect": "Bright, flattering beauty lighting, minimizing shadows on face",
+      "color_temp": "Cool white to neutral"
+    },
+    "post_processing": {
+      "focus": "Soft focus, dreamy atmosphere",
+      "textures": "Heavy skin smoothing, airbrushed look, ethereal glow, no grain",
+      "filter": "Beauty filter style, dreamy blur effect"
+    }
+  }
+}
+```
+
+---
+
+## The magazine features children's drawings
+
+![The magazine features children's drawings](https://opennana.com/awesome-prompt-gallery/images/1045.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@miilesus](https://x.com/miilesus/status/2007169297655730610)
+- **Tags:** 3d, cartoon, illustration, minimalist, nature, photography, vehicle
+
+**Prompt:**
+
+```
+{
+  "design_system": {
+    "metadata": {
+      "style_name": "Cozy Storybook Illustration",
+      "target_audience": "Children / Family",
+      "reference_source": "Uploaded Image",
+      "version": "3.0"
+    },
+    "visual_parameters": {
+      "medium": {
+        "primary": "Colored Pencil",
+        "secondary": "Watercolor Wash (Variation only)",
+        "application": "Hand-drawn",
+        "texture": {
+          "type": "Visible pencil strokes",
+          "quality": "Slightly rough outlines",
+          "finish": "Non-realistic / No photo texture"
+        }
+      },
+      "line_work": {
+        "style": "Clean line art",
+        "weight": "Slightly rough/organic",
+        "clarity": "High"
+      },
+      "color_theory": {
+        "base_tone": "Warm and friendly",
+        "palette_type": "Vibrant Pastel",
+        "adjustments": {
+          "brightness": "Increased / High-key",
+          "saturation": "Enhanced but natural",
+          "contrast": "Soft"
+        }
+      },
+      "lighting_and_shading": {
+        "shadows": "Minimal",
+        "highlights": "Soft",
+        "rendering": "Flat yet detailed",
+        "gradients": "Subtle watercolor layers (Variation only)"
+      }
+    },
+    "subject_geometry": {
+      "anatomy": {
+        "proportions": "Semi-cartoon realistic",
+        "scale": "Storybook style"
+      },
+      "facial_features": {
+        "eyes": "Dot style",
+        "mouth": "Small smile",
+        "complexity": "Simple / Minimalist"
+      }
+    },
+    "atmosphere": {
+      "mood": [
+        "Cozy",
+        "Cheerful",
+        "Warm",
+        "Friendly"
+      ],
+      "genre_tags": [
+        "Children's Book",
+        "Lifestyle Sketch",
+        "Storybook Illustration"
+      ]
+    }
+  },
+  "generation_configs": {
+    "negative_prompt_tokens": [
+      "realism",
+      "photorealistic",
+      "photo texture",
+      "dark colors",
+      "complex shading",
+      "3d render"
+    ],
+    "prompt_variations": [
+      {
+        "id": "PROMPT_001",
+        "variant_name": "Textured Colored Pencil",
+        "focus": "Texture and Stroke",
+        "full_text": "Illustration style: hand-drawn colored pencil illustration, clean line art with slightly rough pencil outlines, soft pastel coloring with increased brightness, lighter and more vivid color tones, enhanced saturation while staying natural, visible pencil strokes and gentle shading texture, warm and friendly tone, semi-cartoon realistic proportions, simple facial features with dot eyes and small smiles, flat yet detailed coloring, minimal shadows, soft highlights, storybook illustration feel, cozy and cheerful atmosphere, vibrant yet soft color palette, children-book / lifestyle sketch style, high clarity, no realism, no photo texture"
+      },
+      {
+        "id": "PROMPT_002",
+        "variant_name": "Mixed Media Watercolor",
+        "focus": "Wash and Gradient",
+        "full_text": "Hand-drawn colored pencil illustration with clean line art and slightly rough pencil outlines, combined with soft watercolor wash textures. Bright pastel colors, lighter and more vivid tones with natural saturation. Visible pencil strokes layered with subtle watercolor gradients. Warm and friendly tone, semi-cartoon realistic proportions. Simple facial features with dot eyes and small smiles. Flat yet detailed coloring, minimal shadows, soft highlights. Storybook illustration feel, cozy and cheerful atmosphere, children-book style, high clarity, no realism, no photo texture."
+      }
+    ]
+  }
+}
+```
+
+---
+
+## A hyper-realistic travel advertisement
+
+![A hyper-realistic travel advertisement](https://opennana.com/awesome-prompt-gallery/images/1046.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@TechieBySA](https://x.com/TechieBySA/status/2007190982408974659)
+- **Tags:** 3d, landscape, logo, minimalist, nature, portrait, typography
+
+**Prompt:**
+
+```
+A hyper-realistic travel advertisement in square format (1080x1080), featuring a hand holding a sleek, ultra-thin smartphone or tablet in portrait orientation, tilted slightly sideways to create a striking 3D portal effect. The screen displays a high-resolution image of an iconic landmark from [COUNTRY], which continues into the real background, blending seamlessly. The landmark appears to emerge from the screen. Birds fly nearby and a commercial airplane passes through a bright blue sky with soft white clouds. Bold, clean sans-serif text reading [CITY] is placed prominently above. The lighting is warm and natural, casting soft shadows across the landscape. The surroundings reflect the region’s natural environment (like meadows, coastlines, or city skylines). The device is glossy and minimal-bezel, enhancing realism and depth.
+```
 
 ---
 

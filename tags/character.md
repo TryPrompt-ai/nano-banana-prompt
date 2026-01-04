@@ -1,6 +1,102 @@
 # Character Prompts
 
-> Found 226 prompts in this category.
+> Found 230 prompts in this category.
+
+---
+
+## Arms draped over giant 3D Tom Cat
+
+![Arms draped over giant 3D Tom Cat](https://opennana.com/awesome-prompt-gallery/images/999.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2005816508602278010)
+- **Tags:** character, fashion, landscape, photography
+
+**Prompt:**
+
+```
+"image_generation":(
+"quality": "hyper-realistic",
+"face": ("preserve_original": true, "reference_match'": true),
+"subject":{
+"description": "A stylish person with the same face.",
+“clothing":{
+"Top": ("type": "knitted sweater", "color": "light grey (Tom Theme) ". }
+"pants": ("type": "high-waisted jeans", "color": "denim blue".
+"shoes":("type": "high-top sneakers", "color": "white")
+"pose": "standing with arm around a giant 3D Tom while Jerry
+sits on Tom's shoulder",
+"expression": "fun, mischievous"
+"character_element":{
+"name": "Tom & Jerry",
+"type': "3D photorealistic duo",
+"interaction': "Tom poses confidently, Jerry looks playful"
+"environment-( "background'. (clean grey-blue backdrop"}
+}
+```
+
+---
+
+## Modern animation concept art style
+
+![Modern animation concept art style](https://opennana.com/awesome-prompt-gallery/images/1038.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@VoxcatAI](https://x.com/VoxcatAI/status/2007132011237097920)
+- **Tags:** character
+
+**Prompt:**
+
+```
+Modern animation concept art style. Combining solid character shapes with Ghibli-esque aesthetic tones.
+Soft digital pencil outlines with varying thicknesses.
+Translucent digital watercolor overlay emphasizes transparency and avoids hard shadows.
+Warm diffused light and obvious edge contour light create a dreamy feel
+Extremely shallow depth of field, the background is greatly blurred and the focus is focused
+Slightly exaggerated head-to-body ratio, huge and lively eyes, and simple facial features.
+```
+
+---
+
+## Film Photo Storyboard
+
+![Film Photo Storyboard](https://opennana.com/awesome-prompt-gallery/images/1044.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@oggii_0](https://x.com/oggii_0/status/2006931271822590224)
+- **Tags:** character, felt, landscape, nature, photography, vehicle
+
+**Prompt:**
+
+```
+A 3x3 cinematic storyboard contact sheet consisting of 9 distinct panels arranged in a grid. The sequence features a young woman with platinum blonde hair in a frozen alpine winter setting.
+
+The panels display various angles and shots:
+
+Close-ups: Focusing on her rosy cheeks, blue-grey eyes, and snowflakes on her eyelashes.
+
+Medium shots: Showing her wrapped in a black wool coat and blue knit scarf, holding a bouquet of dried white flowers.
+
+Wide shots: Capturing her standing alone on the frozen lake with towering snowy mountains in the background.
+
+The lighting is consistent moody blue-hour twilight across all frames. High-quality film photography aesthetic, photorealistic, 8k resolution, coherent character and color grading.
+```
+
+---
+
+## Character design sketch
+
+![Character design sketch](https://opennana.com/awesome-prompt-gallery/images/1049.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@azed_ai](https://x.com/azed_ai/status/2007043727114772508)
+- **Tags:** character, portrait
+
+**Prompt:**
+
+```
+Character sheet sketch of a [subject], featuring multiple angles and expressive facial variations, drawn in pencil and ballpoint pen on a clean white background. Soft pastel color palette, sharp linework, high contrast, hand-drawn manga style.
+```
 
 ---
 

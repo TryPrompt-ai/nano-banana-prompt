@@ -1,6 +1,85 @@
 # Logo Prompts
 
-> Found 147 prompts in this category.
+> Found 150 prompts in this category.
+
+---
+
+## Night fireworks show
+
+![Night fireworks show](https://opennana.com/awesome-prompt-gallery/images/1035.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@TechieBySA](https://x.com/TechieBySA/status/2006462352506663012)
+- **Tags:** landscape, logo, nature, photography
+
+**Prompt:**
+
+```
+Ultra-realistic 4K photograph of a spectacular fireworks display over [LANDMARK] at night. The fireworks explode in the exact colors of the [COUNTRY] flag: [FLAG COLORS] radiating naturally outward. Include a dark night sky, smoke trails from the fireworks, and reflections of the colored bursts on the water below (if waterfront). The city silhouette or landmark ([ICONIC LANDMARK]) should be clearly visible in the background. Cinematic composition, photorealistic style, professional long exposure photography techniques, sharp focus on fireworks burst, dramatic lighting, 4K quality.
+```
+
+---
+
+## An exquisite fashion photo
+
+![An exquisite fashion photo](https://opennana.com/awesome-prompt-gallery/images/1039.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@craftian_keskin](https://x.com/craftian_keskin/status/2007156041851490337)
+- **Tags:** architecture, cartoon, fashion, logo, minimalist, nature, photography, product, typography, vehicle
+
+**Prompt:**
+
+```
+A refined fashion editorial image with a 3:2 aspect ratio, split into two clear sections.
+
+Right side:
+A fashionable, confident, sensual woman standing and walking casually in a modern architectural space with warm wooden walls and soft natural light. She wears a top with a deep V neckline, has a small mole on her chest, a 90-60-90 figure, tucked into a high-waisted white tailored short skirt, On her feet are sleek black stiletto heels, elegant and minimal. She carries a small structured black handbag in one hand.
+
+Her hair is slicked back into a clean low bun, emphasizing her facial structure. She wears narrow black sunglasses and subtle statement earrings. The look is refined, modern, and effortlessly chic. Natural daylight, soft shadows, realistic skin texture. Casual fashion photography style with an editorial, high-end feel. Neutral color palette, warm tones, shallow depth of field, cinematic realism.
+
+Style & Mood:
+Modern elegance, quiet luxury, confident, minimal, editorial casual.
+
+Photography Details:
+Eye-level angle, candid stance, 35mm lens, natural lighting, high detail, photorealistic.
+
+Left side:
+A clean, minimalist product breakdown layout on a neutral background. The individual fashion items worn by the woman are displayed separately, neatly arranged with subtle shadows. Each item includes a small, elegant price label in refined sans-serif typography:
+
+– Beige deep V-neck knit top — $180
+– White high-waisted tailored mini skirt — $220
+– Black pointed-toe stiletto heels — $350
+– Small structured black handbag — $480
+– Black narrow sunglasses — $160
+
+The left side feels like a luxury fashion catalog or e-commerce lookbook, with clear spacing, premium presentation, and visual balance.
+
+Overall Style & Mood:
+Quiet luxury, modern elegance, editorial fashion, high-end retail aesthetic.
+
+Lighting & Quality:
+Soft natural light, studio-clean clarity on product side, photorealistic, ultra-high resolution, professional fashion photography.
+
+Negative Prompt:
+Cluttered layout, oversized text, flashy logos, mannequins, people on left side, harsh lighting, low resolution, cartoon style.
+```
+
+---
+
+## A hyper-realistic travel advertisement
+
+![A hyper-realistic travel advertisement](https://opennana.com/awesome-prompt-gallery/images/1046.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@TechieBySA](https://x.com/TechieBySA/status/2007190982408974659)
+- **Tags:** 3d, landscape, logo, minimalist, nature, portrait, typography
+
+**Prompt:**
+
+```
+A hyper-realistic travel advertisement in square format (1080x1080), featuring a hand holding a sleek, ultra-thin smartphone or tablet in portrait orientation, tilted slightly sideways to create a striking 3D portal effect. The screen displays a high-resolution image of an iconic landmark from [COUNTRY], which continues into the real background, blending seamlessly. The landmark appears to emerge from the screen. Birds fly nearby and a commercial airplane passes through a bright blue sky with soft white clouds. Bold, clean sans-serif text reading [CITY] is placed prominently above. The lighting is warm and natural, casting soft shadows across the landscape. The surroundings reflect the region’s natural environment (like meadows, coastlines, or city skylines). The device is glossy and minimal-bezel, enhancing realism and depth.
+```
 
 ---
 

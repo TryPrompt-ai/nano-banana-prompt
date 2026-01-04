@@ -1,6 +1,240 @@
 # Product Prompts
 
-> Found 110 prompts in this category.
+> Found 114 prompts in this category.
+
+---
+
+## a miniature world
+
+![a miniature world](https://opennana.com/awesome-prompt-gallery/images/1032.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@maxescu](https://x.com/maxescu/status/2007134245328957539)
+- **Tags:** minimalist, photography, product, sci-fi, typography
+
+**Prompt:**
+
+```
+A [MACRO MEDIUM - e.g., stream of liquid gold, plume of smoke, silk ribbon], captured mid-motion, forming a dynamic [SHAPE - e.g., arc, spiral, wave] from the lower left to the upper right. Suspended within the [TEXTURE/MATERIAL] lives a miniature world of [MICRO SUBJECT - e.g., a city, a historical event, an ecosystem], rendered as highly detailed structures sculpted entirely from the [MACRO MEDIUM] itself.
+
+Inside the [MEDIUM]: [DETAIL 1], [DETAIL 2], and [DETAIL 3]. The forms appear [ADJECTIVE - e.g., woven, liquid, crystalline, glowing], strictly defined by the physics of the [MACRO MEDIUM].
+
+Style: [PHOTOGRAPHY STYLE - e.g., Macro product photography] fused with [ARTISTIC GENRE - e.g., Ukiyo-e, Cyberpunk, Baroque painting]. High emphasis on texture, lighting, and material contrast. Color palette: [COLORS] derived naturally from the material.
+
+View & background:Plain, matte [BACKGROUND COLOR - usually Black or White] to create maximum contrast. Minimalist composition.
+
+Typography:Title: “[TITLE]” Subtitle: “[SUBTITLE]” Font style: [FONT DESCRIPTION] placed cleanly in the negative space.
+
+Composition rules:The [MEDIUM] creates a defined boundary. All details remain strictly inside the stroke/flow; nothing exists in the negative space. 8K, hyper-realistic texture, [LIGHTING STYLE].
+```
+
+---
+
+## 16 different surface materials
+
+![16 different surface materials](https://opennana.com/awesome-prompt-gallery/images/1034.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@gokayfem](https://x.com/gokayfem/status/2007137742883266682)
+- **Tags:** felt, interior, landscape, nature, product, sculpture, vehicle
+
+**Prompt:**
+
+```
+4x4 grid of identical 3D object renders showing the same furniture piece with 16 different material applications. Each cell displays the exact same object geometry with a unique surface texture applied.
+
+Object: Curved sculptural seating form with rounded back, cushioned seat, and four angled legs. Organic mid-century modern silhouette with smooth flowing lines, gently sloped armrests, and comfortable proportions. Single unified form without separate cushions or pillows.
+
+Camera specifications: Fixed 3/4 front angle view, warm showroom lighting from upper-left at 45°, soft ambient fill light, identical framing across all 16 cells, subtle floor shadow beneath object, clean neutral gradient background.
+
+Object geometry (identical in all cells):
+* Same exact 3D model in every cell
+* Same camera angle and distance
+* Same lighting setup
+* Only the surface material changes between cells
+
+16 unique material applications (one per cell, left to right, top to bottom):
+
+Row 1 - Soft Luxury:
+* Cell 1: Midnight blue velvet - deep navy plush pile absorbing light across curved surfaces
+* Cell 2: Cognac full-grain leather - warm caramel with natural grain wrapping around form
+* Cell 3: Cream bouclé - chunky looped wool texture following organic contours
+* Cell 4: Blush pink silk - luminous soft draping appearance with subtle sheen on curves
+
+Row 2 - Natural Elements:
+* Cell 5: Live-edge walnut wood - rich brown grain flowing across entire solid form
+* Cell 6: White Carrara marble - bright polished stone with gray veins (sculptural interpretation)
+* Cell 7: Natural rattan weave - honey tan woven cane pattern covering all surfaces
+* Cell 8: Olive green shagreen - textured bumpy stingray pattern on elegant form
+
+Row 3 - Metals & Industrial:
+* Cell 9: Brushed brass - warm golden metal with soft directional scratches
+* Cell 10: Matte black steel - powder-coated charcoal covering entire form
+* Cell 11: Polished chrome - mirror-like silver reflecting environment
+* Cell 12: Antique bronze - deep brown with green patina weathering
+
+Row 4 - Statement Finishes:
+* Cell 13: Emerald green lacquer - jewel tone high-gloss reflective surface
+* Cell 14: Smoked glass - dark translucent gray showing form as sculptural object
+* Cell 15: Camel herringbone wool - warm tan zigzag woven textile on all surfaces
+* Cell 16: Mother of pearl - iridescent shell mosaic with rainbow shimmer across curves
+
+Material application rules:
+* Each material wraps entirely around the object
+* Texture scale appropriate for furniture size
+* Material responds correctly to object curvature
+* Lighting reveals unique surface properties of each material
+* Realistic rendering quality showing how material would actually appear
+
+Technical requirements:
+* Identical object silhouette in all 16 cells
+* Zero variation in geometry, camera, or lighting
+* Only surface material differs between cells
+* Clean grid layout with thin borders
+* Professional product visualization quality
+* Each cell could serve as standalone product render
+
+Purpose: Material exploration for furniture design, showing clients how the same form transforms with different surface treatments. Demonstrates versatility of single design across fabric, leather, wood, metal, stone, and decorative finishes.
+
+Output: 4x4 seamless grid comparing 16 material options on identical object. Presentation-ready format for design review, client selection, or 3D visualization portfolio.
+```
+
+---
+
+## An exquisite fashion photo
+
+![An exquisite fashion photo](https://opennana.com/awesome-prompt-gallery/images/1039.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@craftian_keskin](https://x.com/craftian_keskin/status/2007156041851490337)
+- **Tags:** architecture, cartoon, fashion, logo, minimalist, nature, photography, product, typography, vehicle
+
+**Prompt:**
+
+```
+A refined fashion editorial image with a 3:2 aspect ratio, split into two clear sections.
+
+Right side:
+A fashionable, confident, sensual woman standing and walking casually in a modern architectural space with warm wooden walls and soft natural light. She wears a top with a deep V neckline, has a small mole on her chest, a 90-60-90 figure, tucked into a high-waisted white tailored short skirt, On her feet are sleek black stiletto heels, elegant and minimal. She carries a small structured black handbag in one hand.
+
+Her hair is slicked back into a clean low bun, emphasizing her facial structure. She wears narrow black sunglasses and subtle statement earrings. The look is refined, modern, and effortlessly chic. Natural daylight, soft shadows, realistic skin texture. Casual fashion photography style with an editorial, high-end feel. Neutral color palette, warm tones, shallow depth of field, cinematic realism.
+
+Style & Mood:
+Modern elegance, quiet luxury, confident, minimal, editorial casual.
+
+Photography Details:
+Eye-level angle, candid stance, 35mm lens, natural lighting, high detail, photorealistic.
+
+Left side:
+A clean, minimalist product breakdown layout on a neutral background. The individual fashion items worn by the woman are displayed separately, neatly arranged with subtle shadows. Each item includes a small, elegant price label in refined sans-serif typography:
+
+– Beige deep V-neck knit top — $180
+– White high-waisted tailored mini skirt — $220
+– Black pointed-toe stiletto heels — $350
+– Small structured black handbag — $480
+– Black narrow sunglasses — $160
+
+The left side feels like a luxury fashion catalog or e-commerce lookbook, with clear spacing, premium presentation, and visual balance.
+
+Overall Style & Mood:
+Quiet luxury, modern elegance, editorial fashion, high-end retail aesthetic.
+
+Lighting & Quality:
+Soft natural light, studio-clean clarity on product side, photorealistic, ultra-high resolution, professional fashion photography.
+
+Negative Prompt:
+Cluttered layout, oversized text, flashy logos, mannequins, people on left side, harsh lighting, low resolution, cartoon style.
+```
+
+---
+
+## K-Pop idol newspaper fashion concept
+
+![K-Pop idol newspaper fashion concept](https://opennana.com/awesome-prompt-gallery/images/1040.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2007074986008141973)
+- **Tags:** architecture, data-viz, fashion, interior, landscape, minimalist, paper-craft, photography, product, retro
+
+**Prompt:**
+
+```
+{
+  "project_metadata": {
+    "title": "K-Pop Idol Newspaper Fashion Concept",
+    "style_preset": "Soft Focus Editorial Photography",
+    "aspect_ratio": "3:4",
+    "version": "2.1"
+  },
+  "subject": {
+    "identity": {
+      "ethnicity": "Korean",
+      "age_group": "Young Adult",
+      "aesthetic": "K-pop idol, mixture of innocent and sexy, pure visual"
+    },
+    "physique": {
+      "body_type": "Curvy and voluptuous",
+      "specific_attributes": "Highly emphasized and prominent bustline, hourglass silhouette, toned arms",
+      "skin_tone": "Pale, porcelain white, flawless and glowing"
+    },
+    "hair_and_makeup": {
+      "hair": {
+        "color": "Dark brown",
+        "style": "Long, voluminous waves, slight wet look",
+        "action": "Hands gently touching face or hair"
+      },
+      "makeup": {
+        "lips": "Glossy pink jelly lips, gradient lip color",
+        "eyes": "Sparkling K-pop style eye makeup, aegyo-sal emphasized",
+        "finish": "Glass skin effect, bright and dewy"
+      }
+    },
+    "pose_and_expression": {
+      "expression": "Cute pouting lips (dudu lips), seductive yet innocent gaze, looking into the lens",
+      "pose": "Medium-full body shot, standing, playful posture, emphasising curves"
+    }
+  },
+  "fashion_elements": {
+    "primary_garment": {
+      "item": "Strapless mini-dress",
+      "material": "Authentic recycled newspaper pages",
+      "construction": "Architectural, origami-style pleats, visible newsprint, headlines, and grayscale imagery textures",
+      "fit": "Form-fitting, cinched at the waist"
+    },
+    "accessories": [
+      {
+        "item": "Hoop earrings",
+        "style": "Large, thin, minimalist",
+        "material": "Polished silver"
+      }
+    ]
+  },
+  "environment_and_backdrop": {
+    "setting": "Studio indoor",
+    "background_type": "Textured wall",
+    "details": "Completely covered in layered, overlapping vintage newspaper pages, sepia-toned paper, collage effect",
+    "depth": "Shallow depth of field to separate subject from the background"
+  },
+  "cinematography_and_lighting": {
+    "camera": {
+      "lens": "85mm prime lens",
+      "shot_type": "Medium-full shot",
+      "angle": "Eye-level",
+      "sensor": "Digital, clear"
+    },
+    "lighting": {
+      "primary_source": "Soft diffused frontal lighting",
+      "effect": "Bright, flattering beauty lighting, minimizing shadows on face",
+      "color_temp": "Cool white to neutral"
+    },
+    "post_processing": {
+      "focus": "Soft focus, dreamy atmosphere",
+      "textures": "Heavy skin smoothing, airbrushed look, ethereal glow, no grain",
+      "filter": "Beauty filter style, dreamy blur effect"
+    }
+  }
+}
+```
 
 ---
 

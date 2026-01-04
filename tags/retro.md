@@ -1,6 +1,112 @@
 # Retro Prompts
 
-> Found 79 prompts in this category.
+> Found 81 prompts in this category.
+
+---
+
+## K-Pop idol newspaper fashion concept
+
+![K-Pop idol newspaper fashion concept](https://opennana.com/awesome-prompt-gallery/images/1040.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2007074986008141973)
+- **Tags:** architecture, data-viz, fashion, interior, landscape, minimalist, paper-craft, photography, product, retro
+
+**Prompt:**
+
+```
+{
+  "project_metadata": {
+    "title": "K-Pop Idol Newspaper Fashion Concept",
+    "style_preset": "Soft Focus Editorial Photography",
+    "aspect_ratio": "3:4",
+    "version": "2.1"
+  },
+  "subject": {
+    "identity": {
+      "ethnicity": "Korean",
+      "age_group": "Young Adult",
+      "aesthetic": "K-pop idol, mixture of innocent and sexy, pure visual"
+    },
+    "physique": {
+      "body_type": "Curvy and voluptuous",
+      "specific_attributes": "Highly emphasized and prominent bustline, hourglass silhouette, toned arms",
+      "skin_tone": "Pale, porcelain white, flawless and glowing"
+    },
+    "hair_and_makeup": {
+      "hair": {
+        "color": "Dark brown",
+        "style": "Long, voluminous waves, slight wet look",
+        "action": "Hands gently touching face or hair"
+      },
+      "makeup": {
+        "lips": "Glossy pink jelly lips, gradient lip color",
+        "eyes": "Sparkling K-pop style eye makeup, aegyo-sal emphasized",
+        "finish": "Glass skin effect, bright and dewy"
+      }
+    },
+    "pose_and_expression": {
+      "expression": "Cute pouting lips (dudu lips), seductive yet innocent gaze, looking into the lens",
+      "pose": "Medium-full body shot, standing, playful posture, emphasising curves"
+    }
+  },
+  "fashion_elements": {
+    "primary_garment": {
+      "item": "Strapless mini-dress",
+      "material": "Authentic recycled newspaper pages",
+      "construction": "Architectural, origami-style pleats, visible newsprint, headlines, and grayscale imagery textures",
+      "fit": "Form-fitting, cinched at the waist"
+    },
+    "accessories": [
+      {
+        "item": "Hoop earrings",
+        "style": "Large, thin, minimalist",
+        "material": "Polished silver"
+      }
+    ]
+  },
+  "environment_and_backdrop": {
+    "setting": "Studio indoor",
+    "background_type": "Textured wall",
+    "details": "Completely covered in layered, overlapping vintage newspaper pages, sepia-toned paper, collage effect",
+    "depth": "Shallow depth of field to separate subject from the background"
+  },
+  "cinematography_and_lighting": {
+    "camera": {
+      "lens": "85mm prime lens",
+      "shot_type": "Medium-full shot",
+      "angle": "Eye-level",
+      "sensor": "Digital, clear"
+    },
+    "lighting": {
+      "primary_source": "Soft diffused frontal lighting",
+      "effect": "Bright, flattering beauty lighting, minimizing shadows on face",
+      "color_temp": "Cool white to neutral"
+    },
+    "post_processing": {
+      "focus": "Soft focus, dreamy atmosphere",
+      "textures": "Heavy skin smoothing, airbrushed look, ethereal glow, no grain",
+      "filter": "Beauty filter style, dreamy blur effect"
+    }
+  }
+}
+```
+
+---
+
+## A culinary heritage display board documenting dishes
+
+![A culinary heritage display board documenting dishes](https://opennana.com/awesome-prompt-gallery/images/1042.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@AllaAisling](https://x.com/AllaAisling/status/2007111138597535921)
+- **Tags:** food, landscape, photography, retro, vehicle
+
+**Prompt:**
+
+```
+A culinary heritage board documenting [DISH] — [CULTURE / REGION / ERA]. The canvas is divided into generational layers: top register shows historical origins with sepia photographs of ancestors, original handwritten recipe cards with stains and annotations, and vintage kitchen context; middle register presents the complete ingredient breakdown in mise en place arrangement with source maps showing where each component originates; bottom register shows the dish being prepared by contemporary hands and the final presentation in its authentic serving context. Visual style transitions from archival sepia through ingredient-focused clinical whites to warm candlelit table photography. Hand-lettered labels throughout. Title block reading "[DISH NAME] — [FAMILY NAME] TRADITION, [ORIGIN DATE] TO PRESENT".
+```
 
 ---
 

@@ -1,6 +1,22 @@
 # Food Prompts
 
-> Found 75 prompts in this category.
+> Found 76 prompts in this category.
+
+---
+
+## A culinary heritage display board documenting dishes
+
+![A culinary heritage display board documenting dishes](https://opennana.com/awesome-prompt-gallery/images/1042.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@AllaAisling](https://x.com/AllaAisling/status/2007111138597535921)
+- **Tags:** food, landscape, photography, retro, vehicle
+
+**Prompt:**
+
+```
+A culinary heritage board documenting [DISH] — [CULTURE / REGION / ERA]. The canvas is divided into generational layers: top register shows historical origins with sepia photographs of ancestors, original handwritten recipe cards with stains and annotations, and vintage kitchen context; middle register presents the complete ingredient breakdown in mise en place arrangement with source maps showing where each component originates; bottom register shows the dish being prepared by contemporary hands and the final presentation in its authentic serving context. Visual style transitions from archival sepia through ingredient-focused clinical whites to warm candlelit table photography. Hand-lettered labels throughout. Title block reading "[DISH NAME] — [FAMILY NAME] TRADITION, [ORIGIN DATE] TO PRESENT".
+```
 
 ---
 

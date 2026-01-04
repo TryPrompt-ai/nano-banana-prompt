@@ -1,6 +1,263 @@
 # Cartoon Prompts
 
-> Found 112 prompts in this category.
+> Found 115 prompts in this category.
+
+---
+
+## Color pencil illustration
+
+![Color pencil illustration](https://opennana.com/awesome-prompt-gallery/images/1030.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@YaseenK7212](https://x.com/YaseenK7212/status/2006746690255040979)
+- **Tags:** 3d, cartoon, illustration, minimalist, nature, photography, vehicle
+
+**Prompt:**
+
+```
+{
+  "design_system": {
+    "metadata": {
+      "style_name": "Cozy Storybook Illustration",
+      "target_audience": "Children / Family",
+      "reference_source": "Uploaded Image",
+      "version": "3.0"
+    },
+    "visual_parameters": {
+      "medium": {
+        "primary": "Colored Pencil",
+        "secondary": "Watercolor Wash (Variation only)",
+        "application": "Hand-drawn",
+        "texture": {
+          "type": "Visible pencil strokes",
+          "quality": "Slightly rough outlines",
+          "finish": "Non-realistic / No photo texture"
+        }
+      },
+      "line_work": {
+        "style": "Clean line art",
+        "weight": "Slightly rough/organic",
+        "clarity": "High"
+      },
+      "color_theory": {
+        "base_tone": "Warm and friendly",
+        "palette_type": "Vibrant Pastel",
+        "adjustments": {
+          "brightness": "Increased / High-key",
+          "saturation": "Enhanced but natural",
+          "contrast": "Soft"
+        }
+      },
+      "lighting_and_shading": {
+        "shadows": "Minimal",
+        "highlights": "Soft",
+        "rendering": "Flat yet detailed",
+        "gradients": "Subtle watercolor layers (Variation only)"
+      }
+    },
+    "subject_geometry": {
+      "anatomy": {
+        "proportions": "Semi-cartoon realistic",
+        "scale": "Storybook style"
+      },
+      "facial_features": {
+        "eyes": "Dot style",
+        "mouth": "Small smile",
+        "complexity": "Simple / Minimalist"
+      }
+    },
+    "atmosphere": {
+      "mood": [
+        "Cozy",
+        "Cheerful",
+        "Warm",
+        "Friendly"
+      ],
+      "genre_tags": [
+        "Children's Book",
+        "Lifestyle Sketch",
+        "Storybook Illustration"
+      ]
+    }
+  },
+  "generation_configs": {
+    "negative_prompt_tokens": [
+      "realism",
+      "photorealistic",
+      "photo texture",
+      "dark colors",
+      "complex shading",
+      "3d render"
+    ],
+    "prompt_variations": [
+      {
+        "id": "PROMPT_001",
+        "variant_name": "Textured Colored Pencil",
+        "focus": "Texture and Stroke",
+        "full_text": "Illustration style: hand-drawn colored pencil illustration, clean line art with slightly rough pencil outlines, soft pastel coloring with increased brightness, lighter and more vivid color tones, enhanced saturation while staying natural, visible pencil strokes and gentle shading texture, warm and friendly tone, semi-cartoon realistic proportions, simple facial features with dot eyes and small smiles, flat yet detailed coloring, minimal shadows, soft highlights, storybook illustration feel, cozy and cheerful atmosphere, vibrant yet soft color palette, children-book / lifestyle sketch style, high clarity, no realism, no photo texture"
+      },
+      {
+        "id": "PROMPT_002",
+        "variant_name": "Mixed Media Watercolor",
+        "focus": "Wash and Gradient",
+        "full_text": "Hand-drawn colored pencil illustration with clean line art and slightly rough pencil outlines, combined with soft watercolor wash textures. Bright pastel colors, lighter and more vivid tones with natural saturation. Visible pencil strokes layered with subtle watercolor gradients. Warm and friendly tone, semi-cartoon realistic proportions. Simple facial features with dot eyes and small smiles. Flat yet detailed coloring, minimal shadows, soft highlights. Storybook illustration feel, cozy and cheerful atmosphere, children-book style, high clarity, no realism, no photo texture."
+      }
+    ]
+  }
+}
+```
+
+---
+
+## An exquisite fashion photo
+
+![An exquisite fashion photo](https://opennana.com/awesome-prompt-gallery/images/1039.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@craftian_keskin](https://x.com/craftian_keskin/status/2007156041851490337)
+- **Tags:** architecture, cartoon, fashion, logo, minimalist, nature, photography, product, typography, vehicle
+
+**Prompt:**
+
+```
+A refined fashion editorial image with a 3:2 aspect ratio, split into two clear sections.
+
+Right side:
+A fashionable, confident, sensual woman standing and walking casually in a modern architectural space with warm wooden walls and soft natural light. She wears a top with a deep V neckline, has a small mole on her chest, a 90-60-90 figure, tucked into a high-waisted white tailored short skirt, On her feet are sleek black stiletto heels, elegant and minimal. She carries a small structured black handbag in one hand.
+
+Her hair is slicked back into a clean low bun, emphasizing her facial structure. She wears narrow black sunglasses and subtle statement earrings. The look is refined, modern, and effortlessly chic. Natural daylight, soft shadows, realistic skin texture. Casual fashion photography style with an editorial, high-end feel. Neutral color palette, warm tones, shallow depth of field, cinematic realism.
+
+Style & Mood:
+Modern elegance, quiet luxury, confident, minimal, editorial casual.
+
+Photography Details:
+Eye-level angle, candid stance, 35mm lens, natural lighting, high detail, photorealistic.
+
+Left side:
+A clean, minimalist product breakdown layout on a neutral background. The individual fashion items worn by the woman are displayed separately, neatly arranged with subtle shadows. Each item includes a small, elegant price label in refined sans-serif typography:
+
+– Beige deep V-neck knit top — $180
+– White high-waisted tailored mini skirt — $220
+– Black pointed-toe stiletto heels — $350
+– Small structured black handbag — $480
+– Black narrow sunglasses — $160
+
+The left side feels like a luxury fashion catalog or e-commerce lookbook, with clear spacing, premium presentation, and visual balance.
+
+Overall Style & Mood:
+Quiet luxury, modern elegance, editorial fashion, high-end retail aesthetic.
+
+Lighting & Quality:
+Soft natural light, studio-clean clarity on product side, photorealistic, ultra-high resolution, professional fashion photography.
+
+Negative Prompt:
+Cluttered layout, oversized text, flashy logos, mannequins, people on left side, harsh lighting, low resolution, cartoon style.
+```
+
+---
+
+## The magazine features children's drawings
+
+![The magazine features children's drawings](https://opennana.com/awesome-prompt-gallery/images/1045.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@miilesus](https://x.com/miilesus/status/2007169297655730610)
+- **Tags:** 3d, cartoon, illustration, minimalist, nature, photography, vehicle
+
+**Prompt:**
+
+```
+{
+  "design_system": {
+    "metadata": {
+      "style_name": "Cozy Storybook Illustration",
+      "target_audience": "Children / Family",
+      "reference_source": "Uploaded Image",
+      "version": "3.0"
+    },
+    "visual_parameters": {
+      "medium": {
+        "primary": "Colored Pencil",
+        "secondary": "Watercolor Wash (Variation only)",
+        "application": "Hand-drawn",
+        "texture": {
+          "type": "Visible pencil strokes",
+          "quality": "Slightly rough outlines",
+          "finish": "Non-realistic / No photo texture"
+        }
+      },
+      "line_work": {
+        "style": "Clean line art",
+        "weight": "Slightly rough/organic",
+        "clarity": "High"
+      },
+      "color_theory": {
+        "base_tone": "Warm and friendly",
+        "palette_type": "Vibrant Pastel",
+        "adjustments": {
+          "brightness": "Increased / High-key",
+          "saturation": "Enhanced but natural",
+          "contrast": "Soft"
+        }
+      },
+      "lighting_and_shading": {
+        "shadows": "Minimal",
+        "highlights": "Soft",
+        "rendering": "Flat yet detailed",
+        "gradients": "Subtle watercolor layers (Variation only)"
+      }
+    },
+    "subject_geometry": {
+      "anatomy": {
+        "proportions": "Semi-cartoon realistic",
+        "scale": "Storybook style"
+      },
+      "facial_features": {
+        "eyes": "Dot style",
+        "mouth": "Small smile",
+        "complexity": "Simple / Minimalist"
+      }
+    },
+    "atmosphere": {
+      "mood": [
+        "Cozy",
+        "Cheerful",
+        "Warm",
+        "Friendly"
+      ],
+      "genre_tags": [
+        "Children's Book",
+        "Lifestyle Sketch",
+        "Storybook Illustration"
+      ]
+    }
+  },
+  "generation_configs": {
+    "negative_prompt_tokens": [
+      "realism",
+      "photorealistic",
+      "photo texture",
+      "dark colors",
+      "complex shading",
+      "3d render"
+    ],
+    "prompt_variations": [
+      {
+        "id": "PROMPT_001",
+        "variant_name": "Textured Colored Pencil",
+        "focus": "Texture and Stroke",
+        "full_text": "Illustration style: hand-drawn colored pencil illustration, clean line art with slightly rough pencil outlines, soft pastel coloring with increased brightness, lighter and more vivid color tones, enhanced saturation while staying natural, visible pencil strokes and gentle shading texture, warm and friendly tone, semi-cartoon realistic proportions, simple facial features with dot eyes and small smiles, flat yet detailed coloring, minimal shadows, soft highlights, storybook illustration feel, cozy and cheerful atmosphere, vibrant yet soft color palette, children-book / lifestyle sketch style, high clarity, no realism, no photo texture"
+      },
+      {
+        "id": "PROMPT_002",
+        "variant_name": "Mixed Media Watercolor",
+        "focus": "Wash and Gradient",
+        "full_text": "Hand-drawn colored pencil illustration with clean line art and slightly rough pencil outlines, combined with soft watercolor wash textures. Bright pastel colors, lighter and more vivid tones with natural saturation. Visible pencil strokes layered with subtle watercolor gradients. Warm and friendly tone, semi-cartoon realistic proportions. Simple facial features with dot eyes and small smiles. Flat yet detailed coloring, minimal shadows, soft highlights. Storybook illustration feel, cozy and cheerful atmosphere, children-book style, high clarity, no realism, no photo texture."
+      }
+    ]
+  }
+}
+```
 
 ---
 

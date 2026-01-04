@@ -1,6 +1,96 @@
 # Portrait Prompts
 
-> Found 323 prompts in this category.
+> Found 327 prompts in this category.
+
+---
+
+## Delicate photo of Jiugongge hippocampus
+
+![Delicate photo of Jiugongge hippocampus](https://opennana.com/awesome-prompt-gallery/images/1029.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@LiEvanna85716](https://x.com/LiEvanna85716/status/2007061619499794598)
+- **Tags:** photography, portrait
+
+**Prompt:**
+
+```
+masterpiece, best quality, photorealistic, ultra-high resolution, vibrant colors, professional MV studio photography, a 3x3 photo grid collage.
+
+A collection of 9 glamorous portraits of the same person: a stunningly beautiful K-pop idol in her early 20s. She has large, captivating double-lidded eyes, flawless porcelain skin, and long, dark, voluminous wavy hair. She is wearing an elegant, vibrant red strapless dress.
+
+Her makeup is immaculate, inspired by a K-pop music video: shimmering eyeshadow, sharp eyeliner, and glossy, gradient lips.
+
+Each grid cell captures a different charismatic expression and pose:
+1.  **Top-left:** Taking a selfie, holding a phone just out of frame, with a sweet, fan-service smile.
+2.  **Top-center:** A playful wink with one eye closed and a charming smile.
+3.  **Top-right:** A surprised expression with wide eyes and an open mouth in an "O" shape, looking adorable.
+4.  **Middle-left:** A cute pouting face with pursed lips, head tilted slightly, showing her "aegyo" (cuteness).
+5.  **Middle-center:** A joyful, radiant smile with eyes crinkled shut, exuding pure happiness.
+6.  **Middle-right:** A mischievous, scrunched-up face, wrinkling her nose playfully.
+7.  **Bottom-left:** Looking back over her shoulder, playfully sticking the tip of her tongue out.
+8.  **Bottom-center:** A big, happy, open-mouthed laugh, looking joyfully upwards like a candid moment.
+9.  **Bottom-right:** A shy, gentle smile while looking away to the side, creating a "first love" feeling.
+
+Flawless, bright, and dynamic studio lighting, mimicking a high-budget music video set. Uses a combination of softboxes for a clean base and a subtle key light to add dimension and a glamorous sheen to her skin and hair. Clean, seamless, solid light gray studio background to make the red dress pop. Captured with a high-end portrait lens (equivalent to an 85mm f/1.2), creating a beautiful, creamy bokeh that makes the subject stand out sharply. The palette is rich and saturated, with the vibrant red of the dress as the focal point. The overall mood is charismatic, polished, and full of star quality.
+```
+
+---
+
+## A hyper-realistic travel advertisement
+
+![A hyper-realistic travel advertisement](https://opennana.com/awesome-prompt-gallery/images/1046.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@TechieBySA](https://x.com/TechieBySA/status/2007190982408974659)
+- **Tags:** 3d, landscape, logo, minimalist, nature, portrait, typography
+
+**Prompt:**
+
+```
+A hyper-realistic travel advertisement in square format (1080x1080), featuring a hand holding a sleek, ultra-thin smartphone or tablet in portrait orientation, tilted slightly sideways to create a striking 3D portal effect. The screen displays a high-resolution image of an iconic landmark from [COUNTRY], which continues into the real background, blending seamlessly. The landmark appears to emerge from the screen. Birds fly nearby and a commercial airplane passes through a bright blue sky with soft white clouds. Bold, clean sans-serif text reading [CITY] is placed prominently above. The lighting is warm and natural, casting soft shadows across the landscape. The surroundings reflect the region’s natural environment (like meadows, coastlines, or city skylines). The device is glossy and minimal-bezel, enhancing realism and depth.
+```
+
+---
+
+## Image of female face applying lipstick and lipgloss effect
+
+![Image of female face applying lipstick and lipgloss effect](https://opennana.com/awesome-prompt-gallery/images/1048.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2007062194702155835)
+- **Tags:** fashion, landscape, photography, portrait
+
+**Prompt:**
+
+```
+1. Using the attached image as a motif, we generated a difference image of a woman's face with lipstick and glossy lips. The image consists of four scenes divided into a 2x2 grid. 
+
+2. A 2x2 grid cinematic photo collage. Four close-up portraits of the same beautiful Korean woman, creating an emotional narrative sequence.
+
+Top-left panel: Cold and aloof expression, staring directly at the camera, high fashion vibe.
+Top-right panel: A playful wink and a subtle smirk, looking side-glance.
+Bottom-left panel: Biting lower lip, looking shy and slightly flirtatious, soft gaze.
+Bottom-right panel: A genuine bright laugh, eyes crinkled with joy, head tilted back slightly.
+
+Style: Analog film photography, heavy film grain, soft focus, dreamlike lighting, glossy lips, dewy skin texture, emotional atmosphere.
+```
+
+---
+
+## Character design sketch
+
+![Character design sketch](https://opennana.com/awesome-prompt-gallery/images/1049.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@azed_ai](https://x.com/azed_ai/status/2007043727114772508)
+- **Tags:** character, portrait
+
+**Prompt:**
+
+```
+Character sheet sketch of a [subject], featuring multiple angles and expressive facial variations, drawn in pencil and ballpoint pen on a clean white background. Soft pastel color palette, sharp linework, high contrast, hand-drawn manga style.
+```
 
 ---
 

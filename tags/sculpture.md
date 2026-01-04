@@ -1,6 +1,77 @@
 # Sculpture Prompts
 
-> Found 28 prompts in this category.
+> Found 29 prompts in this category.
+
+---
+
+## 16 different surface materials
+
+![16 different surface materials](https://opennana.com/awesome-prompt-gallery/images/1034.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@gokayfem](https://x.com/gokayfem/status/2007137742883266682)
+- **Tags:** felt, interior, landscape, nature, product, sculpture, vehicle
+
+**Prompt:**
+
+```
+4x4 grid of identical 3D object renders showing the same furniture piece with 16 different material applications. Each cell displays the exact same object geometry with a unique surface texture applied.
+
+Object: Curved sculptural seating form with rounded back, cushioned seat, and four angled legs. Organic mid-century modern silhouette with smooth flowing lines, gently sloped armrests, and comfortable proportions. Single unified form without separate cushions or pillows.
+
+Camera specifications: Fixed 3/4 front angle view, warm showroom lighting from upper-left at 45°, soft ambient fill light, identical framing across all 16 cells, subtle floor shadow beneath object, clean neutral gradient background.
+
+Object geometry (identical in all cells):
+* Same exact 3D model in every cell
+* Same camera angle and distance
+* Same lighting setup
+* Only the surface material changes between cells
+
+16 unique material applications (one per cell, left to right, top to bottom):
+
+Row 1 - Soft Luxury:
+* Cell 1: Midnight blue velvet - deep navy plush pile absorbing light across curved surfaces
+* Cell 2: Cognac full-grain leather - warm caramel with natural grain wrapping around form
+* Cell 3: Cream bouclé - chunky looped wool texture following organic contours
+* Cell 4: Blush pink silk - luminous soft draping appearance with subtle sheen on curves
+
+Row 2 - Natural Elements:
+* Cell 5: Live-edge walnut wood - rich brown grain flowing across entire solid form
+* Cell 6: White Carrara marble - bright polished stone with gray veins (sculptural interpretation)
+* Cell 7: Natural rattan weave - honey tan woven cane pattern covering all surfaces
+* Cell 8: Olive green shagreen - textured bumpy stingray pattern on elegant form
+
+Row 3 - Metals & Industrial:
+* Cell 9: Brushed brass - warm golden metal with soft directional scratches
+* Cell 10: Matte black steel - powder-coated charcoal covering entire form
+* Cell 11: Polished chrome - mirror-like silver reflecting environment
+* Cell 12: Antique bronze - deep brown with green patina weathering
+
+Row 4 - Statement Finishes:
+* Cell 13: Emerald green lacquer - jewel tone high-gloss reflective surface
+* Cell 14: Smoked glass - dark translucent gray showing form as sculptural object
+* Cell 15: Camel herringbone wool - warm tan zigzag woven textile on all surfaces
+* Cell 16: Mother of pearl - iridescent shell mosaic with rainbow shimmer across curves
+
+Material application rules:
+* Each material wraps entirely around the object
+* Texture scale appropriate for furniture size
+* Material responds correctly to object curvature
+* Lighting reveals unique surface properties of each material
+* Realistic rendering quality showing how material would actually appear
+
+Technical requirements:
+* Identical object silhouette in all 16 cells
+* Zero variation in geometry, camera, or lighting
+* Only surface material differs between cells
+* Clean grid layout with thin borders
+* Professional product visualization quality
+* Each cell could serve as standalone product render
+
+Purpose: Material exploration for furniture design, showing clients how the same form transforms with different surface treatments. Demonstrates versatility of single design across fabric, leather, wood, metal, stone, and decorative finishes.
+
+Output: 4x4 seamless grid comparing 16 material options on identical object. Presentation-ready format for design review, client selection, or 3D visualization portfolio.
+```
 
 ---
 
