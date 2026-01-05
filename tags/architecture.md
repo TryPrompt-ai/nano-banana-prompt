@@ -1,6 +1,179 @@
 # Architecture Prompts
 
-> Found 69 prompts in this category.
+> Found 72 prompts in this category.
+
+---
+
+## A group of besties under a clear winter sky
+
+![A group of besties under a clear winter sky](https://opennana.com/awesome-prompt-gallery/images/1051.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@msjiaozhu](https://x.com/msjiaozhu/status/2007804023857201224)
+- **Tags:** architecture, character, photography
+
+**Prompt:**
+
+```
+{
+  "meta": {
+    "system_instruction": "PRIORITY: Focus strict facial identity preservation on the TWO FOREGROUND CHARACTERS (Bottom Left & Bottom Right). The other characters are secondary.",
+    "aspect_ratio": "9:16",
+    "quality": "high_fidelity",
+    "resolution": "4k",
+    "style": "viral social media photography, worm's eye view, crystal clear blue sky"
+  },
+
+  "reference_usage": {
+    "instruction": "Map the uploaded face reference(s) specifically to the two girls closest to the camera (at the bottom).",
+    "logic": "Bottom Left Girl = Face Ref A. Bottom Right Girl = Face Ref B (or same ref if only one provided). Top characters = Generic compatible faces.",
+    "focus_weight": "Foreground: 100% Identity match; Background: 50% Vibe match"
+  },
+
+  "scene": {
+    "perspective": "Extreme low angle (camera on ground looking up)",
+    "background": "Pure gradient blue sky, no clouds, bright daylight",
+    "composition": "5 girls forming a circle, but the bottom two are much larger and closer to the lens"
+  },
+
+  "subject_group": {
+    "concept": "A group of friends looking down at the camera, framing the shot",
+    
+    "PRIMARY_SUBJECTS (STRICT IDENTITY LOCK)": {
+      "note": "These two must look exactly like the reference images",
+      
+      "character_bottom_left": {
+        "position": "Bottom Left (7 o'clock), closest to lens",
+        "face": "Face Reference A, distinct features, big cheerful smile showing teeth",
+        "outfit": "White fuzzy texture jacket or sweater, wearing large white plush earmuffs (cute winter vibe)",
+        "action": "Leaning in close, hair hanging down slightly"
+      },
+      
+      "character_bottom_right": {
+        "position": "Bottom Right (5 o'clock), closest to lens",
+        "face": "Face Reference B, distinct features, soft sweet smile",
+        "outfit": "Dark navy or black coat, wearing a black beret or bucket hat",
+        "action": "Looking gently at the camera"
+      }
+    },
+
+    "SECONDARY_SUBJECTS (ATMOSPHERE ONLY)": {
+      "note": "These characters provide context. Faces can be softer or less detailed.",
+      "top_group": "Three other girls completing the circle at the top (10, 12, 2 o'clock positions)",
+      "styling": "Wearing winter coats (purple/black), hand gestures waving at camera, slightly out of focus or further away compared to foreground"
+    }
+  },
+
+  "lighting": {
+    "type": "High-key natural daylight",
+    "direction": "Frontal lighting (falling from the sky onto their faces)",
+    "effect": "Bright skin tones, 'cold weather' rosy cheeks blush effect, sharp details on the earmuffs and hats"
+  },
+
+  "vibe": "Best friends forever, joyful reunion, winter sunshine, energetic, high clarity",
+  "negative_prompt": "distorted faces in foreground, ugly teeth, bad anatomy, dark shadows on faces, cloudy sky, buildings, blurry foreground, fish-eye distortion too strong"
+}
+```
+
+---
+
+## Vibrant selfies
+
+![Vibrant selfies](https://opennana.com/awesome-prompt-gallery/images/1059.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2007667561396109358)
+- **Tags:** architecture, fashion, interior, landscape, nature, portrait, poster, product, retro
+
+**Prompt:**
+
+```
+{
+  "configuration": {
+    "version": "2.0",
+    "format": "Mirror-Selfie Portrait",
+    "target_resolution": "8K UHD",
+    "style_preset": "K-Pop Idol Aesthetic / Y2K Colorful"
+  },
+  "subject_profile": {
+    "biometrics": {
+      "ethnicity": "Korean",
+      "physique": "Slim, toned, fit K-pop idol figure",
+      "facial_id": "Cute and sexy, small face, doll-like features",
+      "skin_texture": "Flawless, slight glow (glass skin), rosy cheeks",
+      "hair": "Long straight hair with colorful highlights (pink or blonde streaks)"
+    },
+    "expression_and_gaze": {
+      "mouth": "Playful smile, tongue slightly teasing or bubblegum blowing",
+      "eyes": "Winking one eye, looking at phone screen, sparkling",
+      "head_angle": "Tilted to the side, playful vibe"
+    },
+    "kinematics": {
+      "upper_body": "Leaning forward slightly towards the mirror",
+      "hand_gesture": "Free hand making a Peace (V) sign near the eye",
+      "holding_device": "Smartphone with a bulky, colorful deco case",
+      "positioning": "Dynamic composition, not stiff"
+    }
+  },
+  "wardrobe_details": {
+    "note": "Focus on high saturation and contrasting colors",
+    "top_layer": {
+      "item": "Cropped baby tee",
+      "color": "Electric Blue with retro graphic print",
+      "fit": "Tight fit, showing midriff"
+    },
+    "bottom_layer": {
+      "item": "Low-rise pleated mini skirt",
+      "color": "Hot Pink or Plaid",
+      "style": "Y2K schoolgirl vibe"
+    },
+    "accessories": {
+      "items": ["Chunky colorful plastic beads necklace", "Fuzzy wristbands", "Large hair clips"],
+      "vibe": "Maximalist, retro fun"
+    }
+  },
+  "environment_architecture": {
+    "background": {
+      "location": "Idol Dressing Room / Backstage",
+      "walls": "Pastel colored lockers or posters in background",
+      "clutter": "Makeup products, water bottles visible but blurred"
+    },
+    "setting": {
+      "mirror_type": "Large vanity mirror with light bulbs",
+      "vibe": "Energetic, backstage chaos, colorful"
+    }
+  },
+  "lighting_and_optics": {
+    "illumination": {
+      "type": "Soft High-Key Lighting",
+      "source": "Ring light or Vanity mirror bulbs (Hollywood lights)",
+      "effect": "Bright face illumination, circular catchlights in eyes, no harsh shadows"
+    },
+    "camera_simulation": {
+      "lens_type": "Wide angle smartphone lens simulation",
+      "color_grading": "Vibrant, Fuji Pro 400H emulation, pastel tones boosted",
+      "focus": "Sharp focus on face and outfit details"
+    }
+  }
+}
+```
+
+---
+
+## intersection corner reflector
+
+![intersection corner reflector](https://opennana.com/awesome-prompt-gallery/images/1061.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@94vanAI](https://x.com/94vanAI/status/2007609243872932056)
+- **Tags:** 3d, architecture, cartoon, landscape, nature, neon, photography, vehicle
+
+**Prompt:**
+
+```
+｛Masterpiece, best quality, ultra detailed 8k resolution, sharp focus, cinematic lighting, depth of field, perfect composition, award-winning professional photography style, impeccable attention to detail, exquisite textures, close-up 1:1 scale macro shot, beautiful Chinese female idol girl taking mirror selfie in large convex road safety traffic mirror at urban street intersection corner at night, her cute face with big sparkling eyes, delicate features, long silky black hair, white bunny ears headband, wearing cozy brown and white striped scarf around neck, sweet idol-like expression, reflection in the convex mirror shows wide-angle distorted panoramic view of the intersection with her full cute figure, cars, pedestrians, buildings, street lights in dramatic fisheye distortion, her slender hand with elegant Van Cleef & Arpels Alhambra bracelet (gold clover motifs) visible reaching forward holding phone for selfie, soft comfortable nighttime ambiance, warm golden glow from street lamps and neon reflections illuminating the scene and mirror surface, golden hour tones mixed with gentle night blue, high dynamic range, realistic glass convex mirror texture, strong mirror reflections, photorealistic skin jewelry metal details, vibrant yet cozy colors, no text, no watermark.ar3:4
+Negative prompt: low quality, blurry, deformed face hands, bad anatomy, extra limbs, mutated, ugly, poorly drawn, watermark, text, signature, overexposed, underexposed, cartoon, 3d render, horror, daytime bright sun.｝
+```
 
 ---
 

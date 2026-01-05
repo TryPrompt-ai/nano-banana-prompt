@@ -1,7 +1,55 @@
 # Prompt Gallery
-*Total prompts: 980*
+*Total prompts: 988*
 
 ## All Prompts
+
+### 1886. A group of besties under a clear winter sky
+![A group of besties under a clear winter sky](images/1051.jpeg)
+- Tags: architecture, character, photography
+- Model: Nano banana pro
+- Prompt: {   "meta": {     "system_instruction": "PRIORITY: Focus strict facial identity preservation on the TWO FOREGROUND CHARACTERS (Bottom Left & Bottom Right). The other characters are secondary.",    ...
+
+### 1884. An extremely delicate Japanese watercolor illustration
+![An extremely delicate Japanese watercolor illustration](images/1053.jpeg)
+- Tags: character, illustration, nature, paper-craft, photography, portrait
+- Model: Nano banana pro
+- Prompt: Perfect composition, highest quality, 8K resolution, soft atmosphere, professional level, award-winning style, delicate artistry.  Create an extremely detailed Japanese watercolor illustration depi...
+
+### 1883. The gentle melancholy of the backlit hair
+![The gentle melancholy of the backlit hair](images/1054.jpeg)
+- Tags: character, interior, landscape, minimalist, nature, paper-craft, photography, product
+- Model: Nano banana pro
+- Prompt: {   "subject": {     "description": "Young East Asian woman, positioned in profile turning to look back at the viewer.",     "pose": "Looking over shoulder, slight head tilt, body angled away from ...
+
+### 1881. Pencil portrait framed with original picture on mobile phone
+![Pencil portrait framed with original picture on mobile phone](images/1056.jpeg)
+- Tags: paper-craft, photography, pixel, portrait
+- Model: Nano banana pro
+- Prompt: ｛perfect composition, impeccable attention to detail, highest quality, rich detail, sharp focus, 8K/4K resolution, clear edges, exquisite details, perfect composition, depth of field, cinematic lig...
+
+### 1880. A small blessing on a rainy day in a cafe
+![A small blessing on a rainy day in a cafe](images/1057.jpeg)
+- Tags: interior, landscape, nature, photography, portrait, poster, retro
+- Model: Nano banana pro
+- Prompt: {   "subject": {     "description": "Young woman,  East Asian, late teens to early 20s. Fair skin tone. She is leaning forward, resting her chin in her right palm in a relaxed, casual pose.",     "...
+
+### 1878. Vibrant selfies
+![Vibrant selfies](images/1059.jpeg)
+- Tags: architecture, fashion, interior, landscape, nature, portrait, poster, product, retro
+- Model: Nano banana pro
+- Prompt: {   "configuration": {     "version": "2.0",     "format": "Mirror-Selfie Portrait",     "target_resolution": "8K UHD",     "style_preset": "K-Pop Idol Aesthetic / Y2K Colorful"   },   "subject_pro...
+
+### 1877. Gazing upward in minimalist space
+![Gazing upward in minimalist space](images/1060.jpeg)
+- Tags: landscape, minimalist, photography, portrait, typography
+- Model: Nano banana pro
+- Prompt: { "image_type": "photographic portrait", "style": "studio portrait, cinematic, minimalist", "composition": { "orientation": "portrait", "framing": "full body from extreme high angle", "subject_posi...
+
+### 1876. intersection corner reflector
+![intersection corner reflector](images/1061.jpeg)
+- Tags: 3d, architecture, cartoon, landscape, nature, neon, photography, vehicle
+- Model: Nano banana pro
+- Prompt: ｛Masterpiece, best quality, ultra detailed 8k resolution, sharp focus, cinematic lighting, depth of field, perfect composition, award-winning professional photography style, impeccable attention to...
 
 ### 1875. Arms draped over giant 3D Tom Cat
 ![Arms draped over giant 3D Tom Cat](images/999.jpeg)
@@ -5464,7 +5512,8 @@
 
 ## Tags
 
-### 3d (80)
+### 3d (81)
+- [1876] intersection corner reflector
 - [1872] Color pencil illustration
 - [1869] Floral perfume (soft and romantic)
 - [1866] A grand and spectacular fireworks show
@@ -5597,7 +5646,10 @@
 - [894] Dongshan Xiaohong
 - [853] Judy stands on the snow bridge
 
-### architecture (69)
+### architecture (72)
+- [1886] A group of besties under a clear winter sky
+- [1878] Vibrant selfies
+- [1876] intersection corner reflector
 - [1863] An exquisite fashion photo
 - [1862] K-Pop idol newspaper fashion concept
 - [1836] City top view isometric 3D cartoon miniature scene
@@ -5790,7 +5842,8 @@
 - [791] Editorial photo for concept art magazine
 - [786] Ultra-realistic Macbook screen video conferencing diagram
 
-### cartoon (115)
+### cartoon (116)
+- [1876] intersection corner reflector
 - [1872] Color pencil illustration
 - [1863] An exquisite fashion photo
 - [1857] The magazine features children's drawings
@@ -5907,7 +5960,10 @@
 - [794] Cartoons turned into Funko Pop vinyl figures
 - [792] Woman is stepping out of her mobile phone screen
 
-### character (230)
+### character (233)
+- [1886] A group of besties under a clear winter sky
+- [1884] An extremely delicate Japanese watercolor illustration
+- [1883] The gentle melancholy of the backlit hair
 - [1875] Arms draped over giant 3D Tom Cat
 - [1864] Modern animation concept art style
 - [1858] Film Photo Storyboard
@@ -6287,7 +6343,8 @@
 - [790] iron man coca cola
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 
-### fashion (219)
+### fashion (220)
+- [1878] Vibrant selfies
 - [1875] Arms draped over giant 3D Tom Cat
 - [1863] An exquisite fashion photo
 - [1862] K-Pop idol newspaper fashion concept
@@ -6686,7 +6743,8 @@
 - [920] A 3D game level map poster
 - [887] Tokyo Tower is occupied by a super giant cat
 
-### illustration (125)
+### illustration (126)
+- [1884] An extremely delicate Japanese watercolor illustration
 - [1872] Color pencil illustration
 - [1857] The magazine features children's drawings
 - [1852] 3D style woman leaning against colorful wall
@@ -6838,7 +6896,10 @@
 - [936] The evolution of Stark Industries' Iron Man suit
 - [852] Professional knowledge infographic
 
-### interior (126)
+### interior (129)
+- [1883] The gentle melancholy of the backlit hair
+- [1880] A small blessing on a rainy day in a cafe
+- [1878] Vibrant selfies
 - [1868] 16 different surface materials
 - [1865] Use your mobile phone screen to put the sports world in your pocket
 - [1862] K-Pop idol newspaper fashion concept
@@ -6966,7 +7027,12 @@
 - [786] Ultra-realistic Macbook screen video conferencing diagram
 - [783] Christmas special - characters frozen in fantasy giant glass snow globes
 
-### landscape (322)
+### landscape (327)
+- [1883] The gentle melancholy of the backlit hair
+- [1880] A small blessing on a rainy day in a cafe
+- [1878] Vibrant selfies
+- [1877] Gazing upward in minimalist space
+- [1876] intersection corner reflector
 - [1875] Arms draped over giant 3D Tom Cat
 - [1868] 16 different surface materials
 - [1867] Night fireworks show
@@ -7442,7 +7508,9 @@
 - [787] Five-part wide-format film collage
 - [785] Turn your favorite characters into collectibles
 
-### minimalist (220)
+### minimalist (222)
+- [1883] The gentle melancholy of the backlit hair
+- [1877] Gazing upward in minimalist space
 - [1872] Color pencil illustration
 - [1870] a miniature world
 - [1869] Floral perfume (soft and romantic)
@@ -7664,7 +7732,12 @@
 - [785] Turn your favorite characters into collectibles
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### nature (372)
+### nature (377)
+- [1884] An extremely delicate Japanese watercolor illustration
+- [1883] The gentle melancholy of the backlit hair
+- [1880] A small blessing on a rainy day in a cafe
+- [1878] Vibrant selfies
+- [1876] intersection corner reflector
 - [1872] Color pencil illustration
 - [1869] Floral perfume (soft and romantic)
 - [1868] 16 different surface materials
@@ -8038,7 +8111,8 @@
 - [782] Christmas Special - Christmas Sweet Girl
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### neon (66)
+### neon (67)
+- [1876] intersection corner reflector
 - [1835] Watch the fireworks show from the top of the mountain
 - [1821] The integration of virtual and reality
 - [1817] Multi-angle close-up photo poster
@@ -8106,7 +8180,10 @@
 - [858] 3x3 grid Pixar style storyboard
 - [830] Urban streetwear editorial collage
 
-### paper-craft (121)
+### paper-craft (124)
+- [1884] An extremely delicate Japanese watercolor illustration
+- [1883] The gentle melancholy of the backlit hair
+- [1881] Pencil portrait framed with original picture on mobile phone
 - [1862] K-Pop idol newspaper fashion concept
 - [1848] a pencil sketch
 - [1835] Watch the fireworks show from the top of the mountain
@@ -8229,7 +8306,14 @@
 - [784] Visualization of gadgets and inventions from a given year
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 
-### photography (430)
+### photography (437)
+- [1886] A group of besties under a clear winter sky
+- [1884] An extremely delicate Japanese watercolor illustration
+- [1883] The gentle melancholy of the backlit hair
+- [1881] Pencil portrait framed with original picture on mobile phone
+- [1880] A small blessing on a rainy day in a cafe
+- [1877] Gazing upward in minimalist space
+- [1876] intersection corner reflector
 - [1875] Arms draped over giant 3D Tom Cat
 - [1873] Delicate photo of Jiugongge hippocampus
 - [1872] Color pencil illustration
@@ -8661,7 +8745,8 @@
 - [782] Christmas Special - Christmas Sweet Girl
 - [780] Christmas Special - My Christmas is in tune with myself
 
-### pixel (35)
+### pixel (36)
+- [1881] Pencil portrait framed with original picture on mobile phone
 - [1835] Watch the fireworks show from the top of the mountain
 - [1784] Hyper-realistic style real and cartoon separation effect
 - [1748] Displayed on mobile phone screens in Japan in the early 2000s
@@ -8698,7 +8783,12 @@
 - [845] minimalist food photography
 - [792] Woman is stepping out of her mobile phone screen
 
-### portrait (327)
+### portrait (332)
+- [1884] An extremely delicate Japanese watercolor illustration
+- [1881] Pencil portrait framed with original picture on mobile phone
+- [1880] A small blessing on a rainy day in a cafe
+- [1878] Vibrant selfies
+- [1877] Gazing upward in minimalist space
 - [1873] Delicate photo of Jiugongge hippocampus
 - [1856] A hyper-realistic travel advertisement
 - [1854] Image of female face applying lipstick and lipgloss effect
@@ -9027,7 +9117,9 @@
 - [781] Christmas Special - Christmas Fashion with Red Rhyme
 - [780] Christmas Special - My Christmas is in tune with myself
 
-### poster (67)
+### poster (69)
+- [1880] A small blessing on a rainy day in a cafe
+- [1878] Vibrant selfies
 - [1835] Watch the fireworks show from the top of the mountain
 - [1823] Mini branded night light design
 - [1821] The integration of virtual and reality
@@ -9096,7 +9188,9 @@
 - [790] iron man coca cola
 - [785] Turn your favorite characters into collectibles
 
-### product (114)
+### product (116)
+- [1883] The gentle melancholy of the backlit hair
+- [1878] Vibrant selfies
 - [1870] a miniature world
 - [1868] 16 different surface materials
 - [1863] An exquisite fashion photo
@@ -9212,7 +9306,9 @@
 - [785] Turn your favorite characters into collectibles
 - [784] Visualization of gadgets and inventions from a given year
 
-### retro (81)
+### retro (83)
+- [1880] A small blessing on a rainy day in a cafe
+- [1878] Vibrant selfies
 - [1862] K-Pop idol newspaper fashion concept
 - [1860] A culinary heritage display board documenting dishes
 - [1835] Watch the fireworks show from the top of the mountain
@@ -9418,7 +9514,8 @@
 - [807] Winter solstice poster
 - [785] Turn your favorite characters into collectibles
 
-### typography (111)
+### typography (112)
+- [1877] Gazing upward in minimalist space
 - [1870] a miniature world
 - [1863] An exquisite fashion photo
 - [1856] A hyper-realistic travel advertisement
@@ -9570,7 +9667,8 @@
 - [792] Woman is stepping out of her mobile phone screen
 - [791] Editorial photo for concept art magazine
 
-### vehicle (243)
+### vehicle (244)
+- [1876] intersection corner reflector
 - [1872] Color pencil illustration
 - [1868] 16 different surface materials
 - [1863] An exquisite fashion photo

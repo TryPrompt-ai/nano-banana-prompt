@@ -1,6 +1,30 @@
 # Illustration Prompts
 
-> Found 125 prompts in this category.
+> Found 126 prompts in this category.
+
+---
+
+## An extremely delicate Japanese watercolor illustration
+
+![An extremely delicate Japanese watercolor illustration](https://opennana.com/awesome-prompt-gallery/images/1053.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@servasyy_ai](https://x.com/servasyy_ai/status/2007699812490391936)
+- **Tags:** character, illustration, nature, paper-craft, photography, portrait
+
+**Prompt:**
+
+```
+Perfect composition, highest quality, 8K resolution, soft atmosphere, professional level, award-winning style, delicate artistry.
+
+Create an extremely detailed Japanese watercolor illustration depicting a Chinese idol girl with gentle, dreamy aesthetic. The artwork features: soft transparent color washes with visible water blooms, delicate color bleeding and gradients (wet-on-wet technique), pastel color palette (soft pinks, mint greens, lavender, peachy tones), light and airy feeling with plenty of white paper showing through, subtle color layering creating luminous skin tones, loose expressive brushwork in hair with flowing strands.
+
+The painting is rendered on high-quality cold-pressed watercolor paper (300gsm texture visible), with natural paper buckling, authentic watercolor medium characteristics including backruns, cauliflower effects, and granulation. Delicate floral elements scattered around (cherry blossoms, hydrangeas) painted in transparent washes.
+
+In the top right corner, the date "2026.01.04" is written in soft gray watercolor with delicate brush calligraphy. The watercolor painting is placed on a clean white surface with watercolor supplies nearby (paint palette with mixed colors, brushes, water cup). An iPhone displays the reference photograph with soft natural reflections. The facial features are perfectly identical to the photo - same gentle expression, same proportions, rendered in soft watercolor style.
+
+Soft pastel color palette: blush pink, sky blue, mint green, lavender, peach, warm beige, with lots of white paper. Romantic, gentle, fresh atmosphere with Japanese aesthetic sensibility (wabi-sabi, ma - negative space). No artist signature. 3:4 portrait orientation.
+```
 
 ---
 

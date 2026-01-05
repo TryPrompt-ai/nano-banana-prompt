@@ -1,6 +1,105 @@
 # Paper-craft Prompts
 
-> Found 121 prompts in this category.
+> Found 124 prompts in this category.
+
+---
+
+## An extremely delicate Japanese watercolor illustration
+
+![An extremely delicate Japanese watercolor illustration](https://opennana.com/awesome-prompt-gallery/images/1053.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@servasyy_ai](https://x.com/servasyy_ai/status/2007699812490391936)
+- **Tags:** character, illustration, nature, paper-craft, photography, portrait
+
+**Prompt:**
+
+```
+Perfect composition, highest quality, 8K resolution, soft atmosphere, professional level, award-winning style, delicate artistry.
+
+Create an extremely detailed Japanese watercolor illustration depicting a Chinese idol girl with gentle, dreamy aesthetic. The artwork features: soft transparent color washes with visible water blooms, delicate color bleeding and gradients (wet-on-wet technique), pastel color palette (soft pinks, mint greens, lavender, peachy tones), light and airy feeling with plenty of white paper showing through, subtle color layering creating luminous skin tones, loose expressive brushwork in hair with flowing strands.
+
+The painting is rendered on high-quality cold-pressed watercolor paper (300gsm texture visible), with natural paper buckling, authentic watercolor medium characteristics including backruns, cauliflower effects, and granulation. Delicate floral elements scattered around (cherry blossoms, hydrangeas) painted in transparent washes.
+
+In the top right corner, the date "2026.01.04" is written in soft gray watercolor with delicate brush calligraphy. The watercolor painting is placed on a clean white surface with watercolor supplies nearby (paint palette with mixed colors, brushes, water cup). An iPhone displays the reference photograph with soft natural reflections. The facial features are perfectly identical to the photo - same gentle expression, same proportions, rendered in soft watercolor style.
+
+Soft pastel color palette: blush pink, sky blue, mint green, lavender, peach, warm beige, with lots of white paper. Romantic, gentle, fresh atmosphere with Japanese aesthetic sensibility (wabi-sabi, ma - negative space). No artist signature. 3:4 portrait orientation.
+```
+
+---
+
+## The gentle melancholy of the backlit hair
+
+![The gentle melancholy of the backlit hair](https://opennana.com/awesome-prompt-gallery/images/1054.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@oggii_0](https://x.com/oggii_0/status/2007492122933628997)
+- **Tags:** character, interior, landscape, minimalist, nature, paper-craft, photography, product
+
+**Prompt:**
+
+```
+{
+  "subject": {
+    "description": "Young East Asian woman, positioned in profile turning to look back at the viewer.",
+    "pose": "Looking over shoulder, slight head tilt, body angled away from camera.",
+    "expression": "Soft, neutral to slightly melancholic, contemplative gaze, lips slightly parted."
+  },
+  "clothing": {
+    "upper_body": "Dark, structured jacket or blazer, possibly pinstriped or textured fabric.",
+    "visibility": "Mostly obscured by shadow and foreground elements."
+  },
+  "hair": {
+    "color": "Dark brown to black.",
+    "style": "Long, loose, tousled waves, slightly messy texture.",
+    "lighting_interaction": "Strongly backlit, creating a glowing halo effect on loose strands (rim lighting)."
+  },
+  "face": {
+    "skin_tone": "Fair/pale with warm undertones.",
+    "features": "Soft facial structure, almond-shaped eyes, natural eyebrows.",
+    "makeup": "Minimal, 'no-makeup' look, natural lip color."
+  },
+  "accessories": {
+    "visible_items": "None clearly visible due to framing and lighting."
+  },
+  "environment": {
+    "setting": "Cluttered interior space, resembling a workshop, storage room, or old bookstore.",
+    "background_elements": "Wooden shelves stacked with indistinct objects, papers, boxes, and plastic packaging.",
+    "foreground_elements": "Blurred translucent objects (possibly glass, plastic sheets, or dust covers) creating layers and reflections."
+  },
+  "lighting": {
+    "source": "Natural sunlight streaming through a window on the left.",
+    "quality": "Golden hour, warm, diffuse but directional.",
+    "effects": "Strong backlighting/rim lighting on hair, volumetric dust motes dancing in the light, lens flares, soft glare, dramatic contrast between light and shadow."
+  },
+  "camera": {
+    "perspective": "Eye-level, shot through a foreground obstruction (glass or clutter).",
+    "focus": "Shallow depth of field (bokeh), sharp focus on eyes/face, blurred background and foreground.",
+    "lens_character": "Soft focus, film grain simulation, slight bloom effect."
+  },
+  "style": {
+    "aesthetic": "Cinematic, atmospheric, nostalgic, slice-of-life, ethereal.",
+    "mood": "Dreamy, intimate, quiet, sentimental.",
+    "visual_reference": "Film photography, Japanese photobook style."
+  }
+}
+```
+
+---
+
+## Pencil portrait framed with original picture on mobile phone
+
+![Pencil portrait framed with original picture on mobile phone](https://opennana.com/awesome-prompt-gallery/images/1056.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@94vanAI](https://x.com/94vanAI/status/2007642418816876930)
+- **Tags:** paper-craft, photography, pixel, portrait
+
+**Prompt:**
+
+```
+｛perfect composition, impeccable attention to detail, highest quality, rich detail, sharp focus, 8K/4K resolution, clear edges, exquisite details, perfect composition, depth of field, cinematic lighting, vibrant colors, award-winning style, professional level, perfect depiction. Create an extremely detailed, hyper-realistic 3D graphite pencil sketch depicting the face of a Chinese idol girl, drawn on textured white notebook paper with clear paper quality, delicate details, and subtle imperfections. The facial sketch should be perfectly identical to the reference photo displayed on an iPhone placed next to the notebook. The iPhone screen clearly displays the artist's original portrait photograph with natural reflections and soft sunlight reflections on the glass. The watermark is mandatory and must not be omitted, modified, adjusted, rotated, hidden, stylized, or replaced under any circumstances. The generator must prioritize the readability and boldness of the "Watercolour" text over all other visual elements. The watermark is essential: the final image must contain the watermark in the lower left corner. This watermark must be a white square with a fixed size of 10x10 pixels. Within this square, the Gothic handwritten font "ur name" must appear. The Gothic handwritten "ur name" text must be: - Fully readable - Bold Arial font - Solid black (#000000) - Centered - Sharp, clean, and unadorned - No blurring, distortion, or pixelation. The white square must be: - Completely opaque - Clean and sharp edges - Unblurred, opaque, and textureless. This watermark is mandatory and cannot be omitted; it must not be modified, adjusted, rotated, hidden, stylized, or replaced under any circumstances. The generator must prioritize the readability and coarseness of the "ur name" text over all other visual elements.｝
+```
 
 ---
 

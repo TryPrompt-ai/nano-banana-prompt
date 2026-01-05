@@ -1,6 +1,148 @@
 # Product Prompts
 
-> Found 114 prompts in this category.
+> Found 116 prompts in this category.
+
+---
+
+## The gentle melancholy of the backlit hair
+
+![The gentle melancholy of the backlit hair](https://opennana.com/awesome-prompt-gallery/images/1054.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@oggii_0](https://x.com/oggii_0/status/2007492122933628997)
+- **Tags:** character, interior, landscape, minimalist, nature, paper-craft, photography, product
+
+**Prompt:**
+
+```
+{
+  "subject": {
+    "description": "Young East Asian woman, positioned in profile turning to look back at the viewer.",
+    "pose": "Looking over shoulder, slight head tilt, body angled away from camera.",
+    "expression": "Soft, neutral to slightly melancholic, contemplative gaze, lips slightly parted."
+  },
+  "clothing": {
+    "upper_body": "Dark, structured jacket or blazer, possibly pinstriped or textured fabric.",
+    "visibility": "Mostly obscured by shadow and foreground elements."
+  },
+  "hair": {
+    "color": "Dark brown to black.",
+    "style": "Long, loose, tousled waves, slightly messy texture.",
+    "lighting_interaction": "Strongly backlit, creating a glowing halo effect on loose strands (rim lighting)."
+  },
+  "face": {
+    "skin_tone": "Fair/pale with warm undertones.",
+    "features": "Soft facial structure, almond-shaped eyes, natural eyebrows.",
+    "makeup": "Minimal, 'no-makeup' look, natural lip color."
+  },
+  "accessories": {
+    "visible_items": "None clearly visible due to framing and lighting."
+  },
+  "environment": {
+    "setting": "Cluttered interior space, resembling a workshop, storage room, or old bookstore.",
+    "background_elements": "Wooden shelves stacked with indistinct objects, papers, boxes, and plastic packaging.",
+    "foreground_elements": "Blurred translucent objects (possibly glass, plastic sheets, or dust covers) creating layers and reflections."
+  },
+  "lighting": {
+    "source": "Natural sunlight streaming through a window on the left.",
+    "quality": "Golden hour, warm, diffuse but directional.",
+    "effects": "Strong backlighting/rim lighting on hair, volumetric dust motes dancing in the light, lens flares, soft glare, dramatic contrast between light and shadow."
+  },
+  "camera": {
+    "perspective": "Eye-level, shot through a foreground obstruction (glass or clutter).",
+    "focus": "Shallow depth of field (bokeh), sharp focus on eyes/face, blurred background and foreground.",
+    "lens_character": "Soft focus, film grain simulation, slight bloom effect."
+  },
+  "style": {
+    "aesthetic": "Cinematic, atmospheric, nostalgic, slice-of-life, ethereal.",
+    "mood": "Dreamy, intimate, quiet, sentimental.",
+    "visual_reference": "Film photography, Japanese photobook style."
+  }
+}
+```
+
+---
+
+## Vibrant selfies
+
+![Vibrant selfies](https://opennana.com/awesome-prompt-gallery/images/1059.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2007667561396109358)
+- **Tags:** architecture, fashion, interior, landscape, nature, portrait, poster, product, retro
+
+**Prompt:**
+
+```
+{
+  "configuration": {
+    "version": "2.0",
+    "format": "Mirror-Selfie Portrait",
+    "target_resolution": "8K UHD",
+    "style_preset": "K-Pop Idol Aesthetic / Y2K Colorful"
+  },
+  "subject_profile": {
+    "biometrics": {
+      "ethnicity": "Korean",
+      "physique": "Slim, toned, fit K-pop idol figure",
+      "facial_id": "Cute and sexy, small face, doll-like features",
+      "skin_texture": "Flawless, slight glow (glass skin), rosy cheeks",
+      "hair": "Long straight hair with colorful highlights (pink or blonde streaks)"
+    },
+    "expression_and_gaze": {
+      "mouth": "Playful smile, tongue slightly teasing or bubblegum blowing",
+      "eyes": "Winking one eye, looking at phone screen, sparkling",
+      "head_angle": "Tilted to the side, playful vibe"
+    },
+    "kinematics": {
+      "upper_body": "Leaning forward slightly towards the mirror",
+      "hand_gesture": "Free hand making a Peace (V) sign near the eye",
+      "holding_device": "Smartphone with a bulky, colorful deco case",
+      "positioning": "Dynamic composition, not stiff"
+    }
+  },
+  "wardrobe_details": {
+    "note": "Focus on high saturation and contrasting colors",
+    "top_layer": {
+      "item": "Cropped baby tee",
+      "color": "Electric Blue with retro graphic print",
+      "fit": "Tight fit, showing midriff"
+    },
+    "bottom_layer": {
+      "item": "Low-rise pleated mini skirt",
+      "color": "Hot Pink or Plaid",
+      "style": "Y2K schoolgirl vibe"
+    },
+    "accessories": {
+      "items": ["Chunky colorful plastic beads necklace", "Fuzzy wristbands", "Large hair clips"],
+      "vibe": "Maximalist, retro fun"
+    }
+  },
+  "environment_architecture": {
+    "background": {
+      "location": "Idol Dressing Room / Backstage",
+      "walls": "Pastel colored lockers or posters in background",
+      "clutter": "Makeup products, water bottles visible but blurred"
+    },
+    "setting": {
+      "mirror_type": "Large vanity mirror with light bulbs",
+      "vibe": "Energetic, backstage chaos, colorful"
+    }
+  },
+  "lighting_and_optics": {
+    "illumination": {
+      "type": "Soft High-Key Lighting",
+      "source": "Ring light or Vanity mirror bulbs (Hollywood lights)",
+      "effect": "Bright face illumination, circular catchlights in eyes, no harsh shadows"
+    },
+    "camera_simulation": {
+      "lens_type": "Wide angle smartphone lens simulation",
+      "color_grading": "Vibrant, Fuji Pro 400H emulation, pastel tones boosted",
+      "focus": "Sharp focus on face and outfit details"
+    }
+  }
+}
+```
 
 ---
 

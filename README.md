@@ -2,8 +2,8 @@
 
 > A premium, curated collection of high-quality AI prompts for image generation. Optimized for artists, designers, and prompt engineers.
 
-**Total Prompts:** 980
-**Last Updated:** 2026-01-04
+**Total Prompts:** 988
+**Last Updated:** 2026-01-05
 
 ## 🚀 Quick Navigation
 
@@ -15,7 +15,436 @@
 
 ## ✨ Latest Additions
 
-### 1. Arms draped over giant 3D Tom Cat
+### 1. A group of besties under a clear winter sky
+
+![A group of besties under a clear winter sky](https://opennana.com/awesome-prompt-gallery/images/1051.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@msjiaozhu](https://x.com/msjiaozhu/status/2007804023857201224)
+- **Tags:** [Architecture](tags/architecture.md), [Character](tags/character.md), [Photography](tags/photography.md)
+
+**Prompt:**
+
+```
+{
+  "meta": {
+    "system_instruction": "PRIORITY: Focus strict facial identity preservation on the TWO FOREGROUND CHARACTERS (Bottom Left & Bottom Right). The other characters are secondary.",
+    "aspect_ratio": "9:16",
+    "quality": "high_fidelity",
+    "resolution": "4k",
+    "style": "viral social media photography, worm's eye view, crystal clear blue sky"
+  },
+
+  "reference_usage": {
+    "instruction": "Map the uploaded face reference(s) specifically to the two girls closest to the camera (at the bottom).",
+    "logic": "Bottom Left Girl = Face Ref A. Bottom Right Girl = Face Ref B (or same ref if only one provided). Top characters = Generic compatible faces.",
+    "focus_weight": "Foreground: 100% Identity match; Background: 50% Vibe match"
+  },
+
+  "scene": {
+    "perspective": "Extreme low angle (camera on ground looking up)",
+    "background": "Pure gradient blue sky, no clouds, bright daylight",
+    "composition": "5 girls forming a circle, but the bottom two are much larger and closer to the lens"
+  },
+
+  "subject_group": {
+    "concept": "A group of friends looking down at the camera, framing the shot",
+    
+    "PRIMARY_SUBJECTS (STRICT IDENTITY LOCK)": {
+      "note": "These two must look exactly like the reference images",
+      
+      "character_bottom_left": {
+        "position": "Bottom Left (7 o'clock), closest to lens",
+        "face": "Face Reference A, distinct features, big cheerful smile showing teeth",
+        "outfit": "White fuzzy texture jacket or sweater, wearing large white plush earmuffs (cute winter vibe)",
+        "action": "Leaning in close, hair hanging down slightly"
+      },
+      
+      "character_bottom_right": {
+        "position": "Bottom Right (5 o'clock), closest to lens",
+        "face": "Face Reference B, distinct features, soft sweet smile",
+        "outfit": "Dark navy or black coat, wearing a black beret or bucket hat",
+        "action": "Looking gently at the camera"
+      }
+    },
+
+    "SECONDARY_SUBJECTS (ATMOSPHERE ONLY)": {
+      "note": "These characters provide context. Faces can be softer or less detailed.",
+      "top_group": "Three other girls completing the circle at the top (10, 12, 2 o'clock positions)",
+      "styling": "Wearing winter coats (purple/black), hand gestures waving at camera, slightly out of focus or further away compared to foreground"
+    }
+  },
+
+  "lighting": {
+    "type": "High-key natural daylight",
+    "direction": "Frontal lighting (falling from the sky onto their faces)",
+    "effect": "Bright skin tones, 'cold weather' rosy cheeks blush effect, sharp details on the earmuffs and hats"
+  },
+
+  "vibe": "Best friends forever, joyful reunion, winter sunshine, energetic, high clarity",
+  "negative_prompt": "distorted faces in foreground, ugly teeth, bad anatomy, dark shadows on faces, cloudy sky, buildings, blurry foreground, fish-eye distortion too strong"
+}
+```
+
+---
+
+### 2. An extremely delicate Japanese watercolor illustration
+
+![An extremely delicate Japanese watercolor illustration](https://opennana.com/awesome-prompt-gallery/images/1053.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@servasyy_ai](https://x.com/servasyy_ai/status/2007699812490391936)
+- **Tags:** [Character](tags/character.md), [Illustration](tags/illustration.md), [Nature](tags/nature.md), [Paper-craft](tags/paper-craft.md), [Photography](tags/photography.md), [Portrait](tags/portrait.md)
+
+**Prompt:**
+
+```
+Perfect composition, highest quality, 8K resolution, soft atmosphere, professional level, award-winning style, delicate artistry.
+
+Create an extremely detailed Japanese watercolor illustration depicting a Chinese idol girl with gentle, dreamy aesthetic. The artwork features: soft transparent color washes with visible water blooms, delicate color bleeding and gradients (wet-on-wet technique), pastel color palette (soft pinks, mint greens, lavender, peachy tones), light and airy feeling with plenty of white paper showing through, subtle color layering creating luminous skin tones, loose expressive brushwork in hair with flowing strands.
+
+The painting is rendered on high-quality cold-pressed watercolor paper (300gsm texture visible), with natural paper buckling, authentic watercolor medium characteristics including backruns, cauliflower effects, and granulation. Delicate floral elements scattered around (cherry blossoms, hydrangeas) painted in transparent washes.
+
+In the top right corner, the date "2026.01.04" is written in soft gray watercolor with delicate brush calligraphy. The watercolor painting is placed on a clean white surface with watercolor supplies nearby (paint palette with mixed colors, brushes, water cup). An iPhone displays the reference photograph with soft natural reflections. The facial features are perfectly identical to the photo - same gentle expression, same proportions, rendered in soft watercolor style.
+
+Soft pastel color palette: blush pink, sky blue, mint green, lavender, peach, warm beige, with lots of white paper. Romantic, gentle, fresh atmosphere with Japanese aesthetic sensibility (wabi-sabi, ma - negative space). No artist signature. 3:4 portrait orientation.
+```
+
+---
+
+### 3. The gentle melancholy of the backlit hair
+
+![The gentle melancholy of the backlit hair](https://opennana.com/awesome-prompt-gallery/images/1054.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@oggii_0](https://x.com/oggii_0/status/2007492122933628997)
+- **Tags:** [Character](tags/character.md), [Interior](tags/interior.md), [Landscape](tags/landscape.md), [Minimalist](tags/minimalist.md), [Nature](tags/nature.md), [Paper-craft](tags/paper-craft.md), [Photography](tags/photography.md), [Product](tags/product.md)
+
+**Prompt:**
+
+```
+{
+  "subject": {
+    "description": "Young East Asian woman, positioned in profile turning to look back at the viewer.",
+    "pose": "Looking over shoulder, slight head tilt, body angled away from camera.",
+    "expression": "Soft, neutral to slightly melancholic, contemplative gaze, lips slightly parted."
+  },
+  "clothing": {
+    "upper_body": "Dark, structured jacket or blazer, possibly pinstriped or textured fabric.",
+    "visibility": "Mostly obscured by shadow and foreground elements."
+  },
+  "hair": {
+    "color": "Dark brown to black.",
+    "style": "Long, loose, tousled waves, slightly messy texture.",
+    "lighting_interaction": "Strongly backlit, creating a glowing halo effect on loose strands (rim lighting)."
+  },
+  "face": {
+    "skin_tone": "Fair/pale with warm undertones.",
+    "features": "Soft facial structure, almond-shaped eyes, natural eyebrows.",
+    "makeup": "Minimal, 'no-makeup' look, natural lip color."
+  },
+  "accessories": {
+    "visible_items": "None clearly visible due to framing and lighting."
+  },
+  "environment": {
+    "setting": "Cluttered interior space, resembling a workshop, storage room, or old bookstore.",
+    "background_elements": "Wooden shelves stacked with indistinct objects, papers, boxes, and plastic packaging.",
+    "foreground_elements": "Blurred translucent objects (possibly glass, plastic sheets, or dust covers) creating layers and reflections."
+  },
+  "lighting": {
+    "source": "Natural sunlight streaming through a window on the left.",
+    "quality": "Golden hour, warm, diffuse but directional.",
+    "effects": "Strong backlighting/rim lighting on hair, volumetric dust motes dancing in the light, lens flares, soft glare, dramatic contrast between light and shadow."
+  },
+  "camera": {
+    "perspective": "Eye-level, shot through a foreground obstruction (glass or clutter).",
+    "focus": "Shallow depth of field (bokeh), sharp focus on eyes/face, blurred background and foreground.",
+    "lens_character": "Soft focus, film grain simulation, slight bloom effect."
+  },
+  "style": {
+    "aesthetic": "Cinematic, atmospheric, nostalgic, slice-of-life, ethereal.",
+    "mood": "Dreamy, intimate, quiet, sentimental.",
+    "visual_reference": "Film photography, Japanese photobook style."
+  }
+}
+```
+
+---
+
+### 4. Pencil portrait framed with original picture on mobile phone
+
+![Pencil portrait framed with original picture on mobile phone](https://opennana.com/awesome-prompt-gallery/images/1056.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@94vanAI](https://x.com/94vanAI/status/2007642418816876930)
+- **Tags:** [Paper-craft](tags/paper-craft.md), [Photography](tags/photography.md), [Pixel](tags/pixel.md), [Portrait](tags/portrait.md)
+
+**Prompt:**
+
+```
+｛perfect composition, impeccable attention to detail, highest quality, rich detail, sharp focus, 8K/4K resolution, clear edges, exquisite details, perfect composition, depth of field, cinematic lighting, vibrant colors, award-winning style, professional level, perfect depiction. Create an extremely detailed, hyper-realistic 3D graphite pencil sketch depicting the face of a Chinese idol girl, drawn on textured white notebook paper with clear paper quality, delicate details, and subtle imperfections. The facial sketch should be perfectly identical to the reference photo displayed on an iPhone placed next to the notebook. The iPhone screen clearly displays the artist's original portrait photograph with natural reflections and soft sunlight reflections on the glass. The watermark is mandatory and must not be omitted, modified, adjusted, rotated, hidden, stylized, or replaced under any circumstances. The generator must prioritize the readability and boldness of the "Watercolour" text over all other visual elements. The watermark is essential: the final image must contain the watermark in the lower left corner. This watermark must be a white square with a fixed size of 10x10 pixels. Within this square, the Gothic handwritten font "ur name" must appear. The Gothic handwritten "ur name" text must be: - Fully readable - Bold Arial font - Solid black (#000000) - Centered - Sharp, clean, and unadorned - No blurring, distortion, or pixelation. The white square must be: - Completely opaque - Clean and sharp edges - Unblurred, opaque, and textureless. This watermark is mandatory and cannot be omitted; it must not be modified, adjusted, rotated, hidden, stylized, or replaced under any circumstances. The generator must prioritize the readability and coarseness of the "ur name" text over all other visual elements.｝
+```
+
+---
+
+### 5. A small blessing on a rainy day in a cafe
+
+![A small blessing on a rainy day in a cafe](https://opennana.com/awesome-prompt-gallery/images/1057.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@oggii_0](https://x.com/oggii_0/status/2007778306490544234)
+- **Tags:** [Interior](tags/interior.md), [Landscape](tags/landscape.md), [Nature](tags/nature.md), [Photography](tags/photography.md), [Portrait](tags/portrait.md), [Poster](tags/poster.md), [Retro](tags/retro.md)
+
+**Prompt:**
+
+```
+{
+  "subject": {
+    "description": "Young woman,  East Asian, late teens to early 20s. Fair skin tone. She is leaning forward, resting her chin in her right palm in a relaxed, casual pose.",
+    "expression": "Soft, gentle smile with a direct, warm gaze at the viewer. The expression is contemplative and serene.",
+    "pose": "Seated, head propped on hand, other hand holding a mug handle."
+  },
+  "clothing": {
+    "top": "Oversized, chunky cable-knit sweater in a creamy white or ivory color. The fabric appears thick, soft, and textured."
+  },
+  "hair": {
+    "color": "Dark brown or black.",
+    "style": "Medium length, loose and slightly tousled waves. Wispy bangs (fringe) fall across the forehead, framing the face naturally."
+  },
+  "face": {
+    "makeup": "Natural, 'no-makeup' makeup look. Soft pink tint on lips and cheeks, subtle definition around the eyes."
+  },
+  "accessories": {
+    "items": "A simple white ceramic mug containing a hot beverage with a frothy top (latte or cappuccino)."
+  },
+  "environment": {
+    "setting": "Inside a cozy café, seated immediately next to a large glass window.",
+    "details": "Raindrops are heavily beaded on the window pane. Through the glass, a blurred urban street scene is visible (rainy gray tones). Behind the subject, the café interior features warm wood paneling and framed posters or art.",
+    "weather": "Rainy, overcast day."
+  },
+  "lighting": {
+    "source": "Natural, diffused window light coming from the left side of the frame.",
+    "quality": "Soft and flattering, creating gentle highlights on the face and hair while casting subtle shadows on the right side.",
+    "tone": "Warm and slightly nostalgic, despite the cool rainy exterior."
+  },
+  "camera": {
+    "shot_type": "Medium close-up (head and shoulders).",
+    "focus": "Sharp focus on the subject's eyes and face. Shallow depth of field (bokeh) blurs the background interior and the rainy street outside.",
+    "perspective": "Eye-level, intimate."
+  },
+  "style": {
+    "aesthetic": "Film photography look (analog style), slightly grainy texture, warm vintage color grading.",
+    "mood": "Cozy, intimate, melancholic but comforting, 'hygge', cinematic slice-of-life."
+  }
+}
+```
+
+---
+
+### 6. Vibrant selfies
+
+![Vibrant selfies](https://opennana.com/awesome-prompt-gallery/images/1059.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2007667561396109358)
+- **Tags:** [Architecture](tags/architecture.md), [Fashion](tags/fashion.md), [Interior](tags/interior.md), [Landscape](tags/landscape.md), [Nature](tags/nature.md), [Portrait](tags/portrait.md), [Poster](tags/poster.md), [Product](tags/product.md), [Retro](tags/retro.md)
+
+**Prompt:**
+
+```
+{
+  "configuration": {
+    "version": "2.0",
+    "format": "Mirror-Selfie Portrait",
+    "target_resolution": "8K UHD",
+    "style_preset": "K-Pop Idol Aesthetic / Y2K Colorful"
+  },
+  "subject_profile": {
+    "biometrics": {
+      "ethnicity": "Korean",
+      "physique": "Slim, toned, fit K-pop idol figure",
+      "facial_id": "Cute and sexy, small face, doll-like features",
+      "skin_texture": "Flawless, slight glow (glass skin), rosy cheeks",
+      "hair": "Long straight hair with colorful highlights (pink or blonde streaks)"
+    },
+    "expression_and_gaze": {
+      "mouth": "Playful smile, tongue slightly teasing or bubblegum blowing",
+      "eyes": "Winking one eye, looking at phone screen, sparkling",
+      "head_angle": "Tilted to the side, playful vibe"
+    },
+    "kinematics": {
+      "upper_body": "Leaning forward slightly towards the mirror",
+      "hand_gesture": "Free hand making a Peace (V) sign near the eye",
+      "holding_device": "Smartphone with a bulky, colorful deco case",
+      "positioning": "Dynamic composition, not stiff"
+    }
+  },
+  "wardrobe_details": {
+    "note": "Focus on high saturation and contrasting colors",
+    "top_layer": {
+      "item": "Cropped baby tee",
+      "color": "Electric Blue with retro graphic print",
+      "fit": "Tight fit, showing midriff"
+    },
+    "bottom_layer": {
+      "item": "Low-rise pleated mini skirt",
+      "color": "Hot Pink or Plaid",
+      "style": "Y2K schoolgirl vibe"
+    },
+    "accessories": {
+      "items": ["Chunky colorful plastic beads necklace", "Fuzzy wristbands", "Large hair clips"],
+      "vibe": "Maximalist, retro fun"
+    }
+  },
+  "environment_architecture": {
+    "background": {
+      "location": "Idol Dressing Room / Backstage",
+      "walls": "Pastel colored lockers or posters in background",
+      "clutter": "Makeup products, water bottles visible but blurred"
+    },
+    "setting": {
+      "mirror_type": "Large vanity mirror with light bulbs",
+      "vibe": "Energetic, backstage chaos, colorful"
+    }
+  },
+  "lighting_and_optics": {
+    "illumination": {
+      "type": "Soft High-Key Lighting",
+      "source": "Ring light or Vanity mirror bulbs (Hollywood lights)",
+      "effect": "Bright face illumination, circular catchlights in eyes, no harsh shadows"
+    },
+    "camera_simulation": {
+      "lens_type": "Wide angle smartphone lens simulation",
+      "color_grading": "Vibrant, Fuji Pro 400H emulation, pastel tones boosted",
+      "focus": "Sharp focus on face and outfit details"
+    }
+  }
+}
+```
+
+---
+
+### 7. Gazing upward in minimalist space
+
+![Gazing upward in minimalist space](https://opennana.com/awesome-prompt-gallery/images/1060.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@rovvmut_](https://x.com/rovvmut_/status/2007668589588025467)
+- **Tags:** [Landscape](tags/landscape.md), [Minimalist](tags/minimalist.md), [Photography](tags/photography.md), [Portrait](tags/portrait.md), [Typography](tags/typography.md)
+
+**Prompt:**
+
+```
+{
+"image_type": "photographic portrait",
+"style": "studio portrait, cinematic, minimalist",
+"composition": {
+"orientation": "portrait",
+"framing": "full body from extreme high angle",
+"subject_position": "centered",
+"camera_angle": "top-down (bird’s-eye / overhead)",
+"lens_distortion": "strong wide-angle perspective exaggeration",
+"negative_space": "extensive surrounding empty space",
+"perspective": "dramatic overhead with subject looking up"
+},
+"subject": {
+"count": 1,
+"description": "young person with glasses",
+"pose": "standing upright, shoulders slightly forward, arms relaxed",
+"expression": "soft, introspective, mildly curious",
+"gaze": "looking directly up at the camera",
+"accessories": [
+"round eyeglasses"
+],
+"clothing": {
+"outerwear": "dark brown jacket",
+"innerwear": "light-colored knit or textured shirt",
+"style": "casual, understated"
+}
+},
+"facial_details": {
+"features": "rounded face, soft jawline",
+"emotion": "calm, thoughtful",
+"eye_emphasis": "enhanced by glasses and upward gaze"
+},
+"lighting": {
+"type": "studio lighting",
+"setup": "top-centered soft light with gradual falloff",
+"contrast": "low to moderate",
+"shadows": "subtle shadows beneath chin and body",
+"vignette": "strong radial vignette darkening toward edges"
+},
+"color": {
+"palette": [
+"cool gray",
+"charcoal",
+"muted brown",
+"soft beige"
+],
+"temperature": "cool-neutral",
+"saturation": "low",
+"mood": "quiet, contemplative"
+},
+"background": {
+"environment": "studio",
+"surface": "smooth seamless floor",
+"gradient": "radial gradient from light center to dark edges",
+"distractions": "none"
+},
+"technical_details": {
+"camera_type": "digital",
+"lens": "ultra-wide or fisheye-style wide-angle",
+"depth_of_field": "deep (entire subject in focus)",
+"sharpness": "high center sharpness with slight edge softness",
+"noise": "minimal",
+"post_processing": [
+"contrast shaping",
+"cool color grading",
+"vignette enhancement",
+"perspective exaggeration"
+]
+},
+"artistic_elements": {
+"concept": "isolation and vulnerability through scale and perspective",
+"visual_metaphor": "small subject surrounded by vast empty space",
+"aesthetic_influences": [
+"editorial portrait photography",
+"modern studio minimalism",
+"cinematic overhead compositions"
+]
+},
+"typography": {
+"presence": false
+},
+"overall_mood": "intimate, introspective, slightly surreal",
+"intended_use": [
+"editorial portrait",
+"conceptual photography reference",
+"AI image generation style guide"
+]
+}
+```
+
+---
+
+### 8. intersection corner reflector
+
+![intersection corner reflector](https://opennana.com/awesome-prompt-gallery/images/1061.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@94vanAI](https://x.com/94vanAI/status/2007609243872932056)
+- **Tags:** [3d](tags/3d.md), [Architecture](tags/architecture.md), [Cartoon](tags/cartoon.md), [Landscape](tags/landscape.md), [Nature](tags/nature.md), [Neon](tags/neon.md), [Photography](tags/photography.md), [Vehicle](tags/vehicle.md)
+
+**Prompt:**
+
+```
+｛Masterpiece, best quality, ultra detailed 8k resolution, sharp focus, cinematic lighting, depth of field, perfect composition, award-winning professional photography style, impeccable attention to detail, exquisite textures, close-up 1:1 scale macro shot, beautiful Chinese female idol girl taking mirror selfie in large convex road safety traffic mirror at urban street intersection corner at night, her cute face with big sparkling eyes, delicate features, long silky black hair, white bunny ears headband, wearing cozy brown and white striped scarf around neck, sweet idol-like expression, reflection in the convex mirror shows wide-angle distorted panoramic view of the intersection with her full cute figure, cars, pedestrians, buildings, street lights in dramatic fisheye distortion, her slender hand with elegant Van Cleef & Arpels Alhambra bracelet (gold clover motifs) visible reaching forward holding phone for selfie, soft comfortable nighttime ambiance, warm golden glow from street lamps and neon reflections illuminating the scene and mirror surface, golden hour tones mixed with gentle night blue, high dynamic range, realistic glass convex mirror texture, strong mirror reflections, photorealistic skin jewelry metal details, vibrant yet cozy colors, no text, no watermark.ar3:4
+Negative prompt: low quality, blurry, deformed face hands, bad anatomy, extra limbs, mutated, ugly, poorly drawn, watermark, text, signature, overexposed, underexposed, cartoon, 3d render, horror, daytime bright sun.｝
+```
+
+---
+
+### 9. Arms draped over giant 3D Tom Cat
 
 ![Arms draped over giant 3D Tom Cat](https://opennana.com/awesome-prompt-gallery/images/999.jpeg)
 
@@ -48,7 +477,7 @@ sits on Tom's shoulder",
 
 ---
 
-### 2. Delicate photo of Jiugongge hippocampus
+### 10. Delicate photo of Jiugongge hippocampus
 
 ![Delicate photo of Jiugongge hippocampus](https://opennana.com/awesome-prompt-gallery/images/1029.jpeg)
 
@@ -81,7 +510,7 @@ Flawless, bright, and dynamic studio lighting, mimicking a high-budget music vid
 
 ---
 
-### 3. Color pencil illustration
+### 11. Color pencil illustration
 
 ![Color pencil illustration](https://opennana.com/awesome-prompt-gallery/images/1030.jpeg)
 
@@ -186,7 +615,7 @@ Flawless, bright, and dynamic studio lighting, mimicking a high-budget music vid
 
 ---
 
-### 4. a miniature world
+### 12. a miniature world
 
 ![a miniature world](https://opennana.com/awesome-prompt-gallery/images/1032.jpeg)
 
@@ -212,7 +641,7 @@ Composition rules:The [MEDIUM] creates a defined boundary. All details remain st
 
 ---
 
-### 5. Floral perfume (soft and romantic)
+### 13. Floral perfume (soft and romantic)
 
 ![Floral perfume (soft and romantic)](https://opennana.com/awesome-prompt-gallery/images/1033.jpeg)
 
@@ -228,7 +657,7 @@ High-end commercial shot of a minimalist glass perfume bottle filled with pale r
 
 ---
 
-### 6. 16 different surface materials
+### 14. 16 different surface materials
 
 ![16 different surface materials](https://opennana.com/awesome-prompt-gallery/images/1034.jpeg)
 
@@ -299,7 +728,7 @@ Output: 4x4 seamless grid comparing 16 material options on identical object. Pre
 
 ---
 
-### 7. Night fireworks show
+### 15. Night fireworks show
 
 ![Night fireworks show](https://opennana.com/awesome-prompt-gallery/images/1035.jpeg)
 
@@ -315,7 +744,7 @@ Ultra-realistic 4K photograph of a spectacular fireworks display over [LANDMARK]
 
 ---
 
-### 8. A grand and spectacular fireworks show
+### 16. A grand and spectacular fireworks show
 
 ![A grand and spectacular fireworks show](https://opennana.com/awesome-prompt-gallery/images/1036.jpeg)
 
@@ -345,7 +774,7 @@ The deep black night sky creates maximum contrast, realistic smoke trails drifti
 
 ---
 
-### 9. Use your mobile phone screen to put the sports world in your pocket
+### 17. Use your mobile phone screen to put the sports world in your pocket
 
 ![Use your mobile phone screen to put the sports world in your pocket](https://opennana.com/awesome-prompt-gallery/images/1037.jpeg)
 
@@ -401,7 +830,7 @@ The deep black night sky creates maximum contrast, realistic smoke trails drifti
 
 ---
 
-### 10. Modern animation concept art style
+### 18. Modern animation concept art style
 
 ![Modern animation concept art style](https://opennana.com/awesome-prompt-gallery/images/1038.jpeg)
 
@@ -422,7 +851,7 @@ Slightly exaggerated head-to-body ratio, huge and lively eyes, and simple facial
 
 ---
 
-### 11. An exquisite fashion photo
+### 19. An exquisite fashion photo
 
 ![An exquisite fashion photo](https://opennana.com/awesome-prompt-gallery/images/1039.jpeg)
 
@@ -469,7 +898,7 @@ Cluttered layout, oversized text, flashy logos, mannequins, people on left side,
 
 ---
 
-### 12. K-Pop idol newspaper fashion concept
+### 20. K-Pop idol newspaper fashion concept
 
 ![K-Pop idol newspaper fashion concept](https://opennana.com/awesome-prompt-gallery/images/1040.jpeg)
 
@@ -559,250 +988,7 @@ Cluttered layout, oversized text, flashy logos, mannequins, people on left side,
 
 ---
 
-### 13. A culinary heritage display board documenting dishes
-
-![A culinary heritage display board documenting dishes](https://opennana.com/awesome-prompt-gallery/images/1042.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@AllaAisling](https://x.com/AllaAisling/status/2007111138597535921)
-- **Tags:** [Food](tags/food.md), [Landscape](tags/landscape.md), [Photography](tags/photography.md), [Retro](tags/retro.md), [Vehicle](tags/vehicle.md)
-
-**Prompt:**
-
-```
-A culinary heritage board documenting [DISH] — [CULTURE / REGION / ERA]. The canvas is divided into generational layers: top register shows historical origins with sepia photographs of ancestors, original handwritten recipe cards with stains and annotations, and vintage kitchen context; middle register presents the complete ingredient breakdown in mise en place arrangement with source maps showing where each component originates; bottom register shows the dish being prepared by contemporary hands and the final presentation in its authentic serving context. Visual style transitions from archival sepia through ingredient-focused clinical whites to warm candlelit table photography. Hand-lettered labels throughout. Title block reading "[DISH NAME] — [FAMILY NAME] TRADITION, [ORIGIN DATE] TO PRESENT".
-```
-
----
-
-### 14. High-definition ultra-realistic macro photos
-
-![High-definition ultra-realistic macro photos](https://opennana.com/awesome-prompt-gallery/images/1043.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2007029735193448529)
-- **Tags:** [Fantasy](tags/fantasy.md), [Nature](tags/nature.md), [Photography](tags/photography.md)
-
-**Prompt:**
-
-```
-1.  high-definition, hyper-realistic macro photograph of a tiny, miniature girl with long dark hair wearing a flowing brown linen dress, sitting peacefully on the back of a large red ladybug with black spots. The ladybug is perched on a vibrant green leaf covered in glistening, translucent morning dew drops. The background is a soft, creamy bokeh of out-of-focus green foliage and golden sunlight. The lighting is warm and ethereal, capturing every detail of the dew drops and the texture of the ladybug's shell. 
-2.  A high-definition macro photograph of a tiny, detailed adventurer riding on the back of a giant iridescent green dung beetle. The beetle has a shimmering metallic shell with hints of gold and blue. The rider is wearing rugged, miniature explorer gear and is perched on the beetle's thorax. They are traveling across a mossy, decaying log on a forest floor. The background is a soft, dreamlike bokeh of a sun-drenched forest with golden light filtering through the trees. Sharp focus on the beetle's texture, cinematic lighting, 8k resolution, hyper-realistic.
-
-3.A high-definition, cinematic fantasy shot of a tiny, cheerful young girl with brown hair riding on the back of a giant, fuzzy bumblebee. She is wearing a brown leather explorer's outfit with a small satchel. They are flying through a vibrant meadow filled with oversized, glowing wildflowers in shades of orange, yellow, and purple. The scene is bathed in warm, golden sunlight with soft bokeh and magical dust particles floating in the air. Highly detailed textures on the bee's fur and the girl's clothing, 8k resolution, whimsical and adventurous atmosphere.
-
-4. A high-definition surreal fantasy photograph of a tiny, miniature woman with long flowing hair, wearing a delicate, ethereal white lace dress, standing gracefully on the back of a giant Monarch butterfly. The butterfly is in full focus, showcasing vibrant orange and black wing patterns. They are floating in a sun-drenched meadow filled with soft-focus, bokeh wildflowers in shades of red, blue, and yellow. The lighting is warm and golden (golden hour), creating a magical, dreamlike atmosphere with soft lens flares and a shallow depth of field.
-```
-
----
-
-### 15. Film Photo Storyboard
-
-![Film Photo Storyboard](https://opennana.com/awesome-prompt-gallery/images/1044.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@oggii_0](https://x.com/oggii_0/status/2006931271822590224)
-- **Tags:** [Character](tags/character.md), [Felt](tags/felt.md), [Landscape](tags/landscape.md), [Nature](tags/nature.md), [Photography](tags/photography.md), [Vehicle](tags/vehicle.md)
-
-**Prompt:**
-
-```
-A 3x3 cinematic storyboard contact sheet consisting of 9 distinct panels arranged in a grid. The sequence features a young woman with platinum blonde hair in a frozen alpine winter setting.
-
-The panels display various angles and shots:
-
-Close-ups: Focusing on her rosy cheeks, blue-grey eyes, and snowflakes on her eyelashes.
-
-Medium shots: Showing her wrapped in a black wool coat and blue knit scarf, holding a bouquet of dried white flowers.
-
-Wide shots: Capturing her standing alone on the frozen lake with towering snowy mountains in the background.
-
-The lighting is consistent moody blue-hour twilight across all frames. High-quality film photography aesthetic, photorealistic, 8k resolution, coherent character and color grading.
-```
-
----
-
-### 16. The magazine features children's drawings
-
-![The magazine features children's drawings](https://opennana.com/awesome-prompt-gallery/images/1045.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@miilesus](https://x.com/miilesus/status/2007169297655730610)
-- **Tags:** [3d](tags/3d.md), [Cartoon](tags/cartoon.md), [Illustration](tags/illustration.md), [Minimalist](tags/minimalist.md), [Nature](tags/nature.md), [Photography](tags/photography.md), [Vehicle](tags/vehicle.md)
-
-**Prompt:**
-
-```
-{
-  "design_system": {
-    "metadata": {
-      "style_name": "Cozy Storybook Illustration",
-      "target_audience": "Children / Family",
-      "reference_source": "Uploaded Image",
-      "version": "3.0"
-    },
-    "visual_parameters": {
-      "medium": {
-        "primary": "Colored Pencil",
-        "secondary": "Watercolor Wash (Variation only)",
-        "application": "Hand-drawn",
-        "texture": {
-          "type": "Visible pencil strokes",
-          "quality": "Slightly rough outlines",
-          "finish": "Non-realistic / No photo texture"
-        }
-      },
-      "line_work": {
-        "style": "Clean line art",
-        "weight": "Slightly rough/organic",
-        "clarity": "High"
-      },
-      "color_theory": {
-        "base_tone": "Warm and friendly",
-        "palette_type": "Vibrant Pastel",
-        "adjustments": {
-          "brightness": "Increased / High-key",
-          "saturation": "Enhanced but natural",
-          "contrast": "Soft"
-        }
-      },
-      "lighting_and_shading": {
-        "shadows": "Minimal",
-        "highlights": "Soft",
-        "rendering": "Flat yet detailed",
-        "gradients": "Subtle watercolor layers (Variation only)"
-      }
-    },
-    "subject_geometry": {
-      "anatomy": {
-        "proportions": "Semi-cartoon realistic",
-        "scale": "Storybook style"
-      },
-      "facial_features": {
-        "eyes": "Dot style",
-        "mouth": "Small smile",
-        "complexity": "Simple / Minimalist"
-      }
-    },
-    "atmosphere": {
-      "mood": [
-        "Cozy",
-        "Cheerful",
-        "Warm",
-        "Friendly"
-      ],
-      "genre_tags": [
-        "Children's Book",
-        "Lifestyle Sketch",
-        "Storybook Illustration"
-      ]
-    }
-  },
-  "generation_configs": {
-    "negative_prompt_tokens": [
-      "realism",
-      "photorealistic",
-      "photo texture",
-      "dark colors",
-      "complex shading",
-      "3d render"
-    ],
-    "prompt_variations": [
-      {
-        "id": "PROMPT_001",
-        "variant_name": "Textured Colored Pencil",
-        "focus": "Texture and Stroke",
-        "full_text": "Illustration style: hand-drawn colored pencil illustration, clean line art with slightly rough pencil outlines, soft pastel coloring with increased brightness, lighter and more vivid color tones, enhanced saturation while staying natural, visible pencil strokes and gentle shading texture, warm and friendly tone, semi-cartoon realistic proportions, simple facial features with dot eyes and small smiles, flat yet detailed coloring, minimal shadows, soft highlights, storybook illustration feel, cozy and cheerful atmosphere, vibrant yet soft color palette, children-book / lifestyle sketch style, high clarity, no realism, no photo texture"
-      },
-      {
-        "id": "PROMPT_002",
-        "variant_name": "Mixed Media Watercolor",
-        "focus": "Wash and Gradient",
-        "full_text": "Hand-drawn colored pencil illustration with clean line art and slightly rough pencil outlines, combined with soft watercolor wash textures. Bright pastel colors, lighter and more vivid tones with natural saturation. Visible pencil strokes layered with subtle watercolor gradients. Warm and friendly tone, semi-cartoon realistic proportions. Simple facial features with dot eyes and small smiles. Flat yet detailed coloring, minimal shadows, soft highlights. Storybook illustration feel, cozy and cheerful atmosphere, children-book style, high clarity, no realism, no photo texture."
-      }
-    ]
-  }
-}
-```
-
----
-
-### 17. A hyper-realistic travel advertisement
-
-![A hyper-realistic travel advertisement](https://opennana.com/awesome-prompt-gallery/images/1046.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@TechieBySA](https://x.com/TechieBySA/status/2007190982408974659)
-- **Tags:** [3d](tags/3d.md), [Landscape](tags/landscape.md), [Logo](tags/logo.md), [Minimalist](tags/minimalist.md), [Nature](tags/nature.md), [Portrait](tags/portrait.md), [Typography](tags/typography.md)
-
-**Prompt:**
-
-```
-A hyper-realistic travel advertisement in square format (1080x1080), featuring a hand holding a sleek, ultra-thin smartphone or tablet in portrait orientation, tilted slightly sideways to create a striking 3D portal effect. The screen displays a high-resolution image of an iconic landmark from [COUNTRY], which continues into the real background, blending seamlessly. The landmark appears to emerge from the screen. Birds fly nearby and a commercial airplane passes through a bright blue sky with soft white clouds. Bold, clean sans-serif text reading [CITY] is placed prominently above. The lighting is warm and natural, casting soft shadows across the landscape. The surroundings reflect the region’s natural environment (like meadows, coastlines, or city skylines). The device is glossy and minimal-bezel, enhancing realism and depth.
-```
-
----
-
-### 18. Image of female face applying lipstick and lipgloss effect
-
-![Image of female face applying lipstick and lipgloss effect](https://opennana.com/awesome-prompt-gallery/images/1048.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2007062194702155835)
-- **Tags:** [Fashion](tags/fashion.md), [Landscape](tags/landscape.md), [Photography](tags/photography.md), [Portrait](tags/portrait.md)
-
-**Prompt:**
-
-```
-1. Using the attached image as a motif, we generated a difference image of a woman's face with lipstick and glossy lips. The image consists of four scenes divided into a 2x2 grid. 
-
-2. A 2x2 grid cinematic photo collage. Four close-up portraits of the same beautiful Korean woman, creating an emotional narrative sequence.
-
-Top-left panel: Cold and aloof expression, staring directly at the camera, high fashion vibe.
-Top-right panel: A playful wink and a subtle smirk, looking side-glance.
-Bottom-left panel: Biting lower lip, looking shy and slightly flirtatious, soft gaze.
-Bottom-right panel: A genuine bright laugh, eyes crinkled with joy, head tilted back slightly.
-
-Style: Analog film photography, heavy film grain, soft focus, dreamlike lighting, glossy lips, dewy skin texture, emotional atmosphere.
-```
-
----
-
-### 19. Character design sketch
-
-![Character design sketch](https://opennana.com/awesome-prompt-gallery/images/1049.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@azed_ai](https://x.com/azed_ai/status/2007043727114772508)
-- **Tags:** [Character](tags/character.md), [Portrait](tags/portrait.md)
-
-**Prompt:**
-
-```
-Character sheet sketch of a [subject], featuring multiple angles and expressive facial variations, drawn in pencil and ballpoint pen on a clean white background. Soft pastel color palette, sharp linework, high contrast, hand-drawn manga style.
-```
-
----
-
-### 20. 3D style woman leaning against colorful wall
-
-![3D style woman leaning against colorful wall](https://opennana.com/awesome-prompt-gallery/images/1050.jpeg)
-
-- **Model:** Nano banana pro
-- **Source:** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2007267921425240077)
-- **Tags:** [Illustration](tags/illustration.md)
-
-**Prompt:**
-
-```
-A stylized 3D animated young woman leaning against a textured abstract wall made of layered cracked paint panels in warm gradients of yellow, coral, pink, red, and muted purple.
-She has short wavy dark hair slightly tousled, closed eyes with a soft peaceful smile, a small hoop earring, and relaxed body language with her arms folded. She is wearing a loose dusty-rose long sleeve shirt, high-waisted blue jeans rolled at the cuffs, and worn brown boots.
-Soft cinematic lighting, warm pastel color palette, shallow depth of field, painterly textures, cozy and calm mood, whimsical Pixar-style 3D illustration, ultra detailed, high resolution, soft shadows, dreamy atmosphere.
-```
-
----
-
 
 > [!TIP]
-> **[View All 980 Prompts in the Index →](INDEX.md)**
+> **[View All 988 Prompts in the Index →](INDEX.md)**
 

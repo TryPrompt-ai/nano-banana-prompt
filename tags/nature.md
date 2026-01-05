@@ -1,6 +1,243 @@
 # Nature Prompts
 
-> Found 372 prompts in this category.
+> Found 377 prompts in this category.
+
+---
+
+## An extremely delicate Japanese watercolor illustration
+
+![An extremely delicate Japanese watercolor illustration](https://opennana.com/awesome-prompt-gallery/images/1053.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@servasyy_ai](https://x.com/servasyy_ai/status/2007699812490391936)
+- **Tags:** character, illustration, nature, paper-craft, photography, portrait
+
+**Prompt:**
+
+```
+Perfect composition, highest quality, 8K resolution, soft atmosphere, professional level, award-winning style, delicate artistry.
+
+Create an extremely detailed Japanese watercolor illustration depicting a Chinese idol girl with gentle, dreamy aesthetic. The artwork features: soft transparent color washes with visible water blooms, delicate color bleeding and gradients (wet-on-wet technique), pastel color palette (soft pinks, mint greens, lavender, peachy tones), light and airy feeling with plenty of white paper showing through, subtle color layering creating luminous skin tones, loose expressive brushwork in hair with flowing strands.
+
+The painting is rendered on high-quality cold-pressed watercolor paper (300gsm texture visible), with natural paper buckling, authentic watercolor medium characteristics including backruns, cauliflower effects, and granulation. Delicate floral elements scattered around (cherry blossoms, hydrangeas) painted in transparent washes.
+
+In the top right corner, the date "2026.01.04" is written in soft gray watercolor with delicate brush calligraphy. The watercolor painting is placed on a clean white surface with watercolor supplies nearby (paint palette with mixed colors, brushes, water cup). An iPhone displays the reference photograph with soft natural reflections. The facial features are perfectly identical to the photo - same gentle expression, same proportions, rendered in soft watercolor style.
+
+Soft pastel color palette: blush pink, sky blue, mint green, lavender, peach, warm beige, with lots of white paper. Romantic, gentle, fresh atmosphere with Japanese aesthetic sensibility (wabi-sabi, ma - negative space). No artist signature. 3:4 portrait orientation.
+```
+
+---
+
+## The gentle melancholy of the backlit hair
+
+![The gentle melancholy of the backlit hair](https://opennana.com/awesome-prompt-gallery/images/1054.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@oggii_0](https://x.com/oggii_0/status/2007492122933628997)
+- **Tags:** character, interior, landscape, minimalist, nature, paper-craft, photography, product
+
+**Prompt:**
+
+```
+{
+  "subject": {
+    "description": "Young East Asian woman, positioned in profile turning to look back at the viewer.",
+    "pose": "Looking over shoulder, slight head tilt, body angled away from camera.",
+    "expression": "Soft, neutral to slightly melancholic, contemplative gaze, lips slightly parted."
+  },
+  "clothing": {
+    "upper_body": "Dark, structured jacket or blazer, possibly pinstriped or textured fabric.",
+    "visibility": "Mostly obscured by shadow and foreground elements."
+  },
+  "hair": {
+    "color": "Dark brown to black.",
+    "style": "Long, loose, tousled waves, slightly messy texture.",
+    "lighting_interaction": "Strongly backlit, creating a glowing halo effect on loose strands (rim lighting)."
+  },
+  "face": {
+    "skin_tone": "Fair/pale with warm undertones.",
+    "features": "Soft facial structure, almond-shaped eyes, natural eyebrows.",
+    "makeup": "Minimal, 'no-makeup' look, natural lip color."
+  },
+  "accessories": {
+    "visible_items": "None clearly visible due to framing and lighting."
+  },
+  "environment": {
+    "setting": "Cluttered interior space, resembling a workshop, storage room, or old bookstore.",
+    "background_elements": "Wooden shelves stacked with indistinct objects, papers, boxes, and plastic packaging.",
+    "foreground_elements": "Blurred translucent objects (possibly glass, plastic sheets, or dust covers) creating layers and reflections."
+  },
+  "lighting": {
+    "source": "Natural sunlight streaming through a window on the left.",
+    "quality": "Golden hour, warm, diffuse but directional.",
+    "effects": "Strong backlighting/rim lighting on hair, volumetric dust motes dancing in the light, lens flares, soft glare, dramatic contrast between light and shadow."
+  },
+  "camera": {
+    "perspective": "Eye-level, shot through a foreground obstruction (glass or clutter).",
+    "focus": "Shallow depth of field (bokeh), sharp focus on eyes/face, blurred background and foreground.",
+    "lens_character": "Soft focus, film grain simulation, slight bloom effect."
+  },
+  "style": {
+    "aesthetic": "Cinematic, atmospheric, nostalgic, slice-of-life, ethereal.",
+    "mood": "Dreamy, intimate, quiet, sentimental.",
+    "visual_reference": "Film photography, Japanese photobook style."
+  }
+}
+```
+
+---
+
+## A small blessing on a rainy day in a cafe
+
+![A small blessing on a rainy day in a cafe](https://opennana.com/awesome-prompt-gallery/images/1057.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@oggii_0](https://x.com/oggii_0/status/2007778306490544234)
+- **Tags:** interior, landscape, nature, photography, portrait, poster, retro
+
+**Prompt:**
+
+```
+{
+  "subject": {
+    "description": "Young woman,  East Asian, late teens to early 20s. Fair skin tone. She is leaning forward, resting her chin in her right palm in a relaxed, casual pose.",
+    "expression": "Soft, gentle smile with a direct, warm gaze at the viewer. The expression is contemplative and serene.",
+    "pose": "Seated, head propped on hand, other hand holding a mug handle."
+  },
+  "clothing": {
+    "top": "Oversized, chunky cable-knit sweater in a creamy white or ivory color. The fabric appears thick, soft, and textured."
+  },
+  "hair": {
+    "color": "Dark brown or black.",
+    "style": "Medium length, loose and slightly tousled waves. Wispy bangs (fringe) fall across the forehead, framing the face naturally."
+  },
+  "face": {
+    "makeup": "Natural, 'no-makeup' makeup look. Soft pink tint on lips and cheeks, subtle definition around the eyes."
+  },
+  "accessories": {
+    "items": "A simple white ceramic mug containing a hot beverage with a frothy top (latte or cappuccino)."
+  },
+  "environment": {
+    "setting": "Inside a cozy café, seated immediately next to a large glass window.",
+    "details": "Raindrops are heavily beaded on the window pane. Through the glass, a blurred urban street scene is visible (rainy gray tones). Behind the subject, the café interior features warm wood paneling and framed posters or art.",
+    "weather": "Rainy, overcast day."
+  },
+  "lighting": {
+    "source": "Natural, diffused window light coming from the left side of the frame.",
+    "quality": "Soft and flattering, creating gentle highlights on the face and hair while casting subtle shadows on the right side.",
+    "tone": "Warm and slightly nostalgic, despite the cool rainy exterior."
+  },
+  "camera": {
+    "shot_type": "Medium close-up (head and shoulders).",
+    "focus": "Sharp focus on the subject's eyes and face. Shallow depth of field (bokeh) blurs the background interior and the rainy street outside.",
+    "perspective": "Eye-level, intimate."
+  },
+  "style": {
+    "aesthetic": "Film photography look (analog style), slightly grainy texture, warm vintage color grading.",
+    "mood": "Cozy, intimate, melancholic but comforting, 'hygge', cinematic slice-of-life."
+  }
+}
+```
+
+---
+
+## Vibrant selfies
+
+![Vibrant selfies](https://opennana.com/awesome-prompt-gallery/images/1059.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2007667561396109358)
+- **Tags:** architecture, fashion, interior, landscape, nature, portrait, poster, product, retro
+
+**Prompt:**
+
+```
+{
+  "configuration": {
+    "version": "2.0",
+    "format": "Mirror-Selfie Portrait",
+    "target_resolution": "8K UHD",
+    "style_preset": "K-Pop Idol Aesthetic / Y2K Colorful"
+  },
+  "subject_profile": {
+    "biometrics": {
+      "ethnicity": "Korean",
+      "physique": "Slim, toned, fit K-pop idol figure",
+      "facial_id": "Cute and sexy, small face, doll-like features",
+      "skin_texture": "Flawless, slight glow (glass skin), rosy cheeks",
+      "hair": "Long straight hair with colorful highlights (pink or blonde streaks)"
+    },
+    "expression_and_gaze": {
+      "mouth": "Playful smile, tongue slightly teasing or bubblegum blowing",
+      "eyes": "Winking one eye, looking at phone screen, sparkling",
+      "head_angle": "Tilted to the side, playful vibe"
+    },
+    "kinematics": {
+      "upper_body": "Leaning forward slightly towards the mirror",
+      "hand_gesture": "Free hand making a Peace (V) sign near the eye",
+      "holding_device": "Smartphone with a bulky, colorful deco case",
+      "positioning": "Dynamic composition, not stiff"
+    }
+  },
+  "wardrobe_details": {
+    "note": "Focus on high saturation and contrasting colors",
+    "top_layer": {
+      "item": "Cropped baby tee",
+      "color": "Electric Blue with retro graphic print",
+      "fit": "Tight fit, showing midriff"
+    },
+    "bottom_layer": {
+      "item": "Low-rise pleated mini skirt",
+      "color": "Hot Pink or Plaid",
+      "style": "Y2K schoolgirl vibe"
+    },
+    "accessories": {
+      "items": ["Chunky colorful plastic beads necklace", "Fuzzy wristbands", "Large hair clips"],
+      "vibe": "Maximalist, retro fun"
+    }
+  },
+  "environment_architecture": {
+    "background": {
+      "location": "Idol Dressing Room / Backstage",
+      "walls": "Pastel colored lockers or posters in background",
+      "clutter": "Makeup products, water bottles visible but blurred"
+    },
+    "setting": {
+      "mirror_type": "Large vanity mirror with light bulbs",
+      "vibe": "Energetic, backstage chaos, colorful"
+    }
+  },
+  "lighting_and_optics": {
+    "illumination": {
+      "type": "Soft High-Key Lighting",
+      "source": "Ring light or Vanity mirror bulbs (Hollywood lights)",
+      "effect": "Bright face illumination, circular catchlights in eyes, no harsh shadows"
+    },
+    "camera_simulation": {
+      "lens_type": "Wide angle smartphone lens simulation",
+      "color_grading": "Vibrant, Fuji Pro 400H emulation, pastel tones boosted",
+      "focus": "Sharp focus on face and outfit details"
+    }
+  }
+}
+```
+
+---
+
+## intersection corner reflector
+
+![intersection corner reflector](https://opennana.com/awesome-prompt-gallery/images/1061.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@94vanAI](https://x.com/94vanAI/status/2007609243872932056)
+- **Tags:** 3d, architecture, cartoon, landscape, nature, neon, photography, vehicle
+
+**Prompt:**
+
+```
+｛Masterpiece, best quality, ultra detailed 8k resolution, sharp focus, cinematic lighting, depth of field, perfect composition, award-winning professional photography style, impeccable attention to detail, exquisite textures, close-up 1:1 scale macro shot, beautiful Chinese female idol girl taking mirror selfie in large convex road safety traffic mirror at urban street intersection corner at night, her cute face with big sparkling eyes, delicate features, long silky black hair, white bunny ears headband, wearing cozy brown and white striped scarf around neck, sweet idol-like expression, reflection in the convex mirror shows wide-angle distorted panoramic view of the intersection with her full cute figure, cars, pedestrians, buildings, street lights in dramatic fisheye distortion, her slender hand with elegant Van Cleef & Arpels Alhambra bracelet (gold clover motifs) visible reaching forward holding phone for selfie, soft comfortable nighttime ambiance, warm golden glow from street lamps and neon reflections illuminating the scene and mirror surface, golden hour tones mixed with gentle night blue, high dynamic range, realistic glass convex mirror texture, strong mirror reflections, photorealistic skin jewelry metal details, vibrant yet cozy colors, no text, no watermark.ar3:4
+Negative prompt: low quality, blurry, deformed face hands, bad anatomy, extra limbs, mutated, ugly, poorly drawn, watermark, text, signature, overexposed, underexposed, cartoon, 3d render, horror, daytime bright sun.｝
+```
 
 ---
 

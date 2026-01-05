@@ -1,6 +1,286 @@
 # Portrait Prompts
 
-> Found 327 prompts in this category.
+> Found 332 prompts in this category.
+
+---
+
+## An extremely delicate Japanese watercolor illustration
+
+![An extremely delicate Japanese watercolor illustration](https://opennana.com/awesome-prompt-gallery/images/1053.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@servasyy_ai](https://x.com/servasyy_ai/status/2007699812490391936)
+- **Tags:** character, illustration, nature, paper-craft, photography, portrait
+
+**Prompt:**
+
+```
+Perfect composition, highest quality, 8K resolution, soft atmosphere, professional level, award-winning style, delicate artistry.
+
+Create an extremely detailed Japanese watercolor illustration depicting a Chinese idol girl with gentle, dreamy aesthetic. The artwork features: soft transparent color washes with visible water blooms, delicate color bleeding and gradients (wet-on-wet technique), pastel color palette (soft pinks, mint greens, lavender, peachy tones), light and airy feeling with plenty of white paper showing through, subtle color layering creating luminous skin tones, loose expressive brushwork in hair with flowing strands.
+
+The painting is rendered on high-quality cold-pressed watercolor paper (300gsm texture visible), with natural paper buckling, authentic watercolor medium characteristics including backruns, cauliflower effects, and granulation. Delicate floral elements scattered around (cherry blossoms, hydrangeas) painted in transparent washes.
+
+In the top right corner, the date "2026.01.04" is written in soft gray watercolor with delicate brush calligraphy. The watercolor painting is placed on a clean white surface with watercolor supplies nearby (paint palette with mixed colors, brushes, water cup). An iPhone displays the reference photograph with soft natural reflections. The facial features are perfectly identical to the photo - same gentle expression, same proportions, rendered in soft watercolor style.
+
+Soft pastel color palette: blush pink, sky blue, mint green, lavender, peach, warm beige, with lots of white paper. Romantic, gentle, fresh atmosphere with Japanese aesthetic sensibility (wabi-sabi, ma - negative space). No artist signature. 3:4 portrait orientation.
+```
+
+---
+
+## Pencil portrait framed with original picture on mobile phone
+
+![Pencil portrait framed with original picture on mobile phone](https://opennana.com/awesome-prompt-gallery/images/1056.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@94vanAI](https://x.com/94vanAI/status/2007642418816876930)
+- **Tags:** paper-craft, photography, pixel, portrait
+
+**Prompt:**
+
+```
+｛perfect composition, impeccable attention to detail, highest quality, rich detail, sharp focus, 8K/4K resolution, clear edges, exquisite details, perfect composition, depth of field, cinematic lighting, vibrant colors, award-winning style, professional level, perfect depiction. Create an extremely detailed, hyper-realistic 3D graphite pencil sketch depicting the face of a Chinese idol girl, drawn on textured white notebook paper with clear paper quality, delicate details, and subtle imperfections. The facial sketch should be perfectly identical to the reference photo displayed on an iPhone placed next to the notebook. The iPhone screen clearly displays the artist's original portrait photograph with natural reflections and soft sunlight reflections on the glass. The watermark is mandatory and must not be omitted, modified, adjusted, rotated, hidden, stylized, or replaced under any circumstances. The generator must prioritize the readability and boldness of the "Watercolour" text over all other visual elements. The watermark is essential: the final image must contain the watermark in the lower left corner. This watermark must be a white square with a fixed size of 10x10 pixels. Within this square, the Gothic handwritten font "ur name" must appear. The Gothic handwritten "ur name" text must be: - Fully readable - Bold Arial font - Solid black (#000000) - Centered - Sharp, clean, and unadorned - No blurring, distortion, or pixelation. The white square must be: - Completely opaque - Clean and sharp edges - Unblurred, opaque, and textureless. This watermark is mandatory and cannot be omitted; it must not be modified, adjusted, rotated, hidden, stylized, or replaced under any circumstances. The generator must prioritize the readability and coarseness of the "ur name" text over all other visual elements.｝
+```
+
+---
+
+## A small blessing on a rainy day in a cafe
+
+![A small blessing on a rainy day in a cafe](https://opennana.com/awesome-prompt-gallery/images/1057.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@oggii_0](https://x.com/oggii_0/status/2007778306490544234)
+- **Tags:** interior, landscape, nature, photography, portrait, poster, retro
+
+**Prompt:**
+
+```
+{
+  "subject": {
+    "description": "Young woman,  East Asian, late teens to early 20s. Fair skin tone. She is leaning forward, resting her chin in her right palm in a relaxed, casual pose.",
+    "expression": "Soft, gentle smile with a direct, warm gaze at the viewer. The expression is contemplative and serene.",
+    "pose": "Seated, head propped on hand, other hand holding a mug handle."
+  },
+  "clothing": {
+    "top": "Oversized, chunky cable-knit sweater in a creamy white or ivory color. The fabric appears thick, soft, and textured."
+  },
+  "hair": {
+    "color": "Dark brown or black.",
+    "style": "Medium length, loose and slightly tousled waves. Wispy bangs (fringe) fall across the forehead, framing the face naturally."
+  },
+  "face": {
+    "makeup": "Natural, 'no-makeup' makeup look. Soft pink tint on lips and cheeks, subtle definition around the eyes."
+  },
+  "accessories": {
+    "items": "A simple white ceramic mug containing a hot beverage with a frothy top (latte or cappuccino)."
+  },
+  "environment": {
+    "setting": "Inside a cozy café, seated immediately next to a large glass window.",
+    "details": "Raindrops are heavily beaded on the window pane. Through the glass, a blurred urban street scene is visible (rainy gray tones). Behind the subject, the café interior features warm wood paneling and framed posters or art.",
+    "weather": "Rainy, overcast day."
+  },
+  "lighting": {
+    "source": "Natural, diffused window light coming from the left side of the frame.",
+    "quality": "Soft and flattering, creating gentle highlights on the face and hair while casting subtle shadows on the right side.",
+    "tone": "Warm and slightly nostalgic, despite the cool rainy exterior."
+  },
+  "camera": {
+    "shot_type": "Medium close-up (head and shoulders).",
+    "focus": "Sharp focus on the subject's eyes and face. Shallow depth of field (bokeh) blurs the background interior and the rainy street outside.",
+    "perspective": "Eye-level, intimate."
+  },
+  "style": {
+    "aesthetic": "Film photography look (analog style), slightly grainy texture, warm vintage color grading.",
+    "mood": "Cozy, intimate, melancholic but comforting, 'hygge', cinematic slice-of-life."
+  }
+}
+```
+
+---
+
+## Vibrant selfies
+
+![Vibrant selfies](https://opennana.com/awesome-prompt-gallery/images/1059.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2007667561396109358)
+- **Tags:** architecture, fashion, interior, landscape, nature, portrait, poster, product, retro
+
+**Prompt:**
+
+```
+{
+  "configuration": {
+    "version": "2.0",
+    "format": "Mirror-Selfie Portrait",
+    "target_resolution": "8K UHD",
+    "style_preset": "K-Pop Idol Aesthetic / Y2K Colorful"
+  },
+  "subject_profile": {
+    "biometrics": {
+      "ethnicity": "Korean",
+      "physique": "Slim, toned, fit K-pop idol figure",
+      "facial_id": "Cute and sexy, small face, doll-like features",
+      "skin_texture": "Flawless, slight glow (glass skin), rosy cheeks",
+      "hair": "Long straight hair with colorful highlights (pink or blonde streaks)"
+    },
+    "expression_and_gaze": {
+      "mouth": "Playful smile, tongue slightly teasing or bubblegum blowing",
+      "eyes": "Winking one eye, looking at phone screen, sparkling",
+      "head_angle": "Tilted to the side, playful vibe"
+    },
+    "kinematics": {
+      "upper_body": "Leaning forward slightly towards the mirror",
+      "hand_gesture": "Free hand making a Peace (V) sign near the eye",
+      "holding_device": "Smartphone with a bulky, colorful deco case",
+      "positioning": "Dynamic composition, not stiff"
+    }
+  },
+  "wardrobe_details": {
+    "note": "Focus on high saturation and contrasting colors",
+    "top_layer": {
+      "item": "Cropped baby tee",
+      "color": "Electric Blue with retro graphic print",
+      "fit": "Tight fit, showing midriff"
+    },
+    "bottom_layer": {
+      "item": "Low-rise pleated mini skirt",
+      "color": "Hot Pink or Plaid",
+      "style": "Y2K schoolgirl vibe"
+    },
+    "accessories": {
+      "items": ["Chunky colorful plastic beads necklace", "Fuzzy wristbands", "Large hair clips"],
+      "vibe": "Maximalist, retro fun"
+    }
+  },
+  "environment_architecture": {
+    "background": {
+      "location": "Idol Dressing Room / Backstage",
+      "walls": "Pastel colored lockers or posters in background",
+      "clutter": "Makeup products, water bottles visible but blurred"
+    },
+    "setting": {
+      "mirror_type": "Large vanity mirror with light bulbs",
+      "vibe": "Energetic, backstage chaos, colorful"
+    }
+  },
+  "lighting_and_optics": {
+    "illumination": {
+      "type": "Soft High-Key Lighting",
+      "source": "Ring light or Vanity mirror bulbs (Hollywood lights)",
+      "effect": "Bright face illumination, circular catchlights in eyes, no harsh shadows"
+    },
+    "camera_simulation": {
+      "lens_type": "Wide angle smartphone lens simulation",
+      "color_grading": "Vibrant, Fuji Pro 400H emulation, pastel tones boosted",
+      "focus": "Sharp focus on face and outfit details"
+    }
+  }
+}
+```
+
+---
+
+## Gazing upward in minimalist space
+
+![Gazing upward in minimalist space](https://opennana.com/awesome-prompt-gallery/images/1060.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@rovvmut_](https://x.com/rovvmut_/status/2007668589588025467)
+- **Tags:** landscape, minimalist, photography, portrait, typography
+
+**Prompt:**
+
+```
+{
+"image_type": "photographic portrait",
+"style": "studio portrait, cinematic, minimalist",
+"composition": {
+"orientation": "portrait",
+"framing": "full body from extreme high angle",
+"subject_position": "centered",
+"camera_angle": "top-down (bird’s-eye / overhead)",
+"lens_distortion": "strong wide-angle perspective exaggeration",
+"negative_space": "extensive surrounding empty space",
+"perspective": "dramatic overhead with subject looking up"
+},
+"subject": {
+"count": 1,
+"description": "young person with glasses",
+"pose": "standing upright, shoulders slightly forward, arms relaxed",
+"expression": "soft, introspective, mildly curious",
+"gaze": "looking directly up at the camera",
+"accessories": [
+"round eyeglasses"
+],
+"clothing": {
+"outerwear": "dark brown jacket",
+"innerwear": "light-colored knit or textured shirt",
+"style": "casual, understated"
+}
+},
+"facial_details": {
+"features": "rounded face, soft jawline",
+"emotion": "calm, thoughtful",
+"eye_emphasis": "enhanced by glasses and upward gaze"
+},
+"lighting": {
+"type": "studio lighting",
+"setup": "top-centered soft light with gradual falloff",
+"contrast": "low to moderate",
+"shadows": "subtle shadows beneath chin and body",
+"vignette": "strong radial vignette darkening toward edges"
+},
+"color": {
+"palette": [
+"cool gray",
+"charcoal",
+"muted brown",
+"soft beige"
+],
+"temperature": "cool-neutral",
+"saturation": "low",
+"mood": "quiet, contemplative"
+},
+"background": {
+"environment": "studio",
+"surface": "smooth seamless floor",
+"gradient": "radial gradient from light center to dark edges",
+"distractions": "none"
+},
+"technical_details": {
+"camera_type": "digital",
+"lens": "ultra-wide or fisheye-style wide-angle",
+"depth_of_field": "deep (entire subject in focus)",
+"sharpness": "high center sharpness with slight edge softness",
+"noise": "minimal",
+"post_processing": [
+"contrast shaping",
+"cool color grading",
+"vignette enhancement",
+"perspective exaggeration"
+]
+},
+"artistic_elements": {
+"concept": "isolation and vulnerability through scale and perspective",
+"visual_metaphor": "small subject surrounded by vast empty space",
+"aesthetic_influences": [
+"editorial portrait photography",
+"modern studio minimalism",
+"cinematic overhead compositions"
+]
+},
+"typography": {
+"presence": false
+},
+"overall_mood": "intimate, introspective, slightly surreal",
+"intended_use": [
+"editorial portrait",
+"conceptual photography reference",
+"AI image generation style guide"
+]
+}
+```
 
 ---
 

@@ -1,6 +1,162 @@
 # Character Prompts
 
-> Found 230 prompts in this category.
+> Found 233 prompts in this category.
+
+---
+
+## A group of besties under a clear winter sky
+
+![A group of besties under a clear winter sky](https://opennana.com/awesome-prompt-gallery/images/1051.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@msjiaozhu](https://x.com/msjiaozhu/status/2007804023857201224)
+- **Tags:** architecture, character, photography
+
+**Prompt:**
+
+```
+{
+  "meta": {
+    "system_instruction": "PRIORITY: Focus strict facial identity preservation on the TWO FOREGROUND CHARACTERS (Bottom Left & Bottom Right). The other characters are secondary.",
+    "aspect_ratio": "9:16",
+    "quality": "high_fidelity",
+    "resolution": "4k",
+    "style": "viral social media photography, worm's eye view, crystal clear blue sky"
+  },
+
+  "reference_usage": {
+    "instruction": "Map the uploaded face reference(s) specifically to the two girls closest to the camera (at the bottom).",
+    "logic": "Bottom Left Girl = Face Ref A. Bottom Right Girl = Face Ref B (or same ref if only one provided). Top characters = Generic compatible faces.",
+    "focus_weight": "Foreground: 100% Identity match; Background: 50% Vibe match"
+  },
+
+  "scene": {
+    "perspective": "Extreme low angle (camera on ground looking up)",
+    "background": "Pure gradient blue sky, no clouds, bright daylight",
+    "composition": "5 girls forming a circle, but the bottom two are much larger and closer to the lens"
+  },
+
+  "subject_group": {
+    "concept": "A group of friends looking down at the camera, framing the shot",
+    
+    "PRIMARY_SUBJECTS (STRICT IDENTITY LOCK)": {
+      "note": "These two must look exactly like the reference images",
+      
+      "character_bottom_left": {
+        "position": "Bottom Left (7 o'clock), closest to lens",
+        "face": "Face Reference A, distinct features, big cheerful smile showing teeth",
+        "outfit": "White fuzzy texture jacket or sweater, wearing large white plush earmuffs (cute winter vibe)",
+        "action": "Leaning in close, hair hanging down slightly"
+      },
+      
+      "character_bottom_right": {
+        "position": "Bottom Right (5 o'clock), closest to lens",
+        "face": "Face Reference B, distinct features, soft sweet smile",
+        "outfit": "Dark navy or black coat, wearing a black beret or bucket hat",
+        "action": "Looking gently at the camera"
+      }
+    },
+
+    "SECONDARY_SUBJECTS (ATMOSPHERE ONLY)": {
+      "note": "These characters provide context. Faces can be softer or less detailed.",
+      "top_group": "Three other girls completing the circle at the top (10, 12, 2 o'clock positions)",
+      "styling": "Wearing winter coats (purple/black), hand gestures waving at camera, slightly out of focus or further away compared to foreground"
+    }
+  },
+
+  "lighting": {
+    "type": "High-key natural daylight",
+    "direction": "Frontal lighting (falling from the sky onto their faces)",
+    "effect": "Bright skin tones, 'cold weather' rosy cheeks blush effect, sharp details on the earmuffs and hats"
+  },
+
+  "vibe": "Best friends forever, joyful reunion, winter sunshine, energetic, high clarity",
+  "negative_prompt": "distorted faces in foreground, ugly teeth, bad anatomy, dark shadows on faces, cloudy sky, buildings, blurry foreground, fish-eye distortion too strong"
+}
+```
+
+---
+
+## An extremely delicate Japanese watercolor illustration
+
+![An extremely delicate Japanese watercolor illustration](https://opennana.com/awesome-prompt-gallery/images/1053.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@servasyy_ai](https://x.com/servasyy_ai/status/2007699812490391936)
+- **Tags:** character, illustration, nature, paper-craft, photography, portrait
+
+**Prompt:**
+
+```
+Perfect composition, highest quality, 8K resolution, soft atmosphere, professional level, award-winning style, delicate artistry.
+
+Create an extremely detailed Japanese watercolor illustration depicting a Chinese idol girl with gentle, dreamy aesthetic. The artwork features: soft transparent color washes with visible water blooms, delicate color bleeding and gradients (wet-on-wet technique), pastel color palette (soft pinks, mint greens, lavender, peachy tones), light and airy feeling with plenty of white paper showing through, subtle color layering creating luminous skin tones, loose expressive brushwork in hair with flowing strands.
+
+The painting is rendered on high-quality cold-pressed watercolor paper (300gsm texture visible), with natural paper buckling, authentic watercolor medium characteristics including backruns, cauliflower effects, and granulation. Delicate floral elements scattered around (cherry blossoms, hydrangeas) painted in transparent washes.
+
+In the top right corner, the date "2026.01.04" is written in soft gray watercolor with delicate brush calligraphy. The watercolor painting is placed on a clean white surface with watercolor supplies nearby (paint palette with mixed colors, brushes, water cup). An iPhone displays the reference photograph with soft natural reflections. The facial features are perfectly identical to the photo - same gentle expression, same proportions, rendered in soft watercolor style.
+
+Soft pastel color palette: blush pink, sky blue, mint green, lavender, peach, warm beige, with lots of white paper. Romantic, gentle, fresh atmosphere with Japanese aesthetic sensibility (wabi-sabi, ma - negative space). No artist signature. 3:4 portrait orientation.
+```
+
+---
+
+## The gentle melancholy of the backlit hair
+
+![The gentle melancholy of the backlit hair](https://opennana.com/awesome-prompt-gallery/images/1054.jpeg)
+
+- **Model:** Nano banana pro
+- **Source:** [@oggii_0](https://x.com/oggii_0/status/2007492122933628997)
+- **Tags:** character, interior, landscape, minimalist, nature, paper-craft, photography, product
+
+**Prompt:**
+
+```
+{
+  "subject": {
+    "description": "Young East Asian woman, positioned in profile turning to look back at the viewer.",
+    "pose": "Looking over shoulder, slight head tilt, body angled away from camera.",
+    "expression": "Soft, neutral to slightly melancholic, contemplative gaze, lips slightly parted."
+  },
+  "clothing": {
+    "upper_body": "Dark, structured jacket or blazer, possibly pinstriped or textured fabric.",
+    "visibility": "Mostly obscured by shadow and foreground elements."
+  },
+  "hair": {
+    "color": "Dark brown to black.",
+    "style": "Long, loose, tousled waves, slightly messy texture.",
+    "lighting_interaction": "Strongly backlit, creating a glowing halo effect on loose strands (rim lighting)."
+  },
+  "face": {
+    "skin_tone": "Fair/pale with warm undertones.",
+    "features": "Soft facial structure, almond-shaped eyes, natural eyebrows.",
+    "makeup": "Minimal, 'no-makeup' look, natural lip color."
+  },
+  "accessories": {
+    "visible_items": "None clearly visible due to framing and lighting."
+  },
+  "environment": {
+    "setting": "Cluttered interior space, resembling a workshop, storage room, or old bookstore.",
+    "background_elements": "Wooden shelves stacked with indistinct objects, papers, boxes, and plastic packaging.",
+    "foreground_elements": "Blurred translucent objects (possibly glass, plastic sheets, or dust covers) creating layers and reflections."
+  },
+  "lighting": {
+    "source": "Natural sunlight streaming through a window on the left.",
+    "quality": "Golden hour, warm, diffuse but directional.",
+    "effects": "Strong backlighting/rim lighting on hair, volumetric dust motes dancing in the light, lens flares, soft glare, dramatic contrast between light and shadow."
+  },
+  "camera": {
+    "perspective": "Eye-level, shot through a foreground obstruction (glass or clutter).",
+    "focus": "Shallow depth of field (bokeh), sharp focus on eyes/face, blurred background and foreground.",
+    "lens_character": "Soft focus, film grain simulation, slight bloom effect."
+  },
+  "style": {
+    "aesthetic": "Cinematic, atmospheric, nostalgic, slice-of-life, ethereal.",
+    "mood": "Dreamy, intimate, quiet, sentimental.",
+    "visual_reference": "Film photography, Japanese photobook style."
+  }
+}
+```
 
 ---
 
